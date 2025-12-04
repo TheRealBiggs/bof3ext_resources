@@ -1,0 +1,53 @@
+ {{NLINE}}Gonnatraingonnatrain{{NLINE}}I'mgonnatrain!
+{{TXTBX,81}} {{NLINE}}  That night{{DURTN,48}}
+{{TXTBX,81}} {{NLINE}} The second night{{DURTN,48}}
+{{TXTBX,81}} {{NLINE}} The third night{{DURTN,48}}
+{{TXTBX,81}} {{NLINE}} The fourth night{{DURTN,48}}
+{{TXTBX,81}} {{NLINE}} The fifth night{{DURTN,48}}
+{{TXTBX,81}} {{NLINE}} The sixth night{{DURTN,48}}
+{{TXTBX,81}} {{NLINE}} The seventh night{{DURTN,48}}
+{{TXTBX,81}} {{NLINE}} The final night{{DURTN,48}}
+{{TXTBX,05}}Beyd{{NLINE}}"Thanks for waiting{{NPAGE}}No one should bother{{NLINE}}us here...
+{{TXTBX,05}}Beyd{{NLINE}}"Let's get started...{{NPAGE}}Could you please give{{NLINE}}me the equipment you{{NLINE}}have for me?
+{{TXTBX,05}}Beyd{{NLINE}}"OK, everything{{NLINE}}looks all right...{{NPAGE}}Once you're ready{{NLINE}}to begin, let{{NLINE}}me know
+"Are you ready?{{CHOIC,0,2, Not yet, How do we do this?, {{COLRS,2}}Let's go!{{COLRE}}, Change Beyd's equip, Member change, Quit training}}
+"OK, I'll wait...{{NLINE}}Whenever you're ready
+"All right, then, I'll{{NLINE}}explain how this works{{CHOIC,1,0,OK,Later}}
+"Come and get me!
+"You want to give me{{NLINE}}different equipment?
+"You want to change my{{NLINE}}training partner,{{NLINE}}right?
+"What! Quit training!?{{NPAGE}}W-w-{{PAUSE}}why!? We haven't{{NLINE}}even begun!{{NPAGE}}Are you sure you{{NLINE}}want to quit?{{CHOIC,2,0,Yes,No}}
+"Oh...{{PAUSE}}all right{{NLINE}}then...{{NPAGE}}I guess that's all{{NLINE}}for tonight, then...{{NPAGE}}I'll see you again{{NLINE}}tomorrow night
+{{TXTBX,06}}Beyd{{NLINE}}"Um...{{PAUSE}}I can't train{{NLINE}}without equipment...{{NPAGE}}I can use anything{{NLINE}}Ryu can...{{NPAGE}}Once you've got some{{NLINE}}equipment for me, let{{NLINE}}me know...
+"Can I have some{{NLINE}}equipment please?{{NPAGE}}We can change my{{NLINE}}equipment as we{{NLINE}}train, but we can't{{NPAGE}}begin unless I have{{NLINE}}a sword and armor{{CHOIC,3,1, Equip Beyd, Nothing to equip!}}
+Beyd{{NLINE}}"What...? I thought I{{NLINE}}gave you 1000 zenny?{{NPAGE}}Oh, well...{{PAUSE}}All right,{{NLINE}}here's another 1000{{NLINE}}zenny...{{NPAGE}}Please get me some{{NLINE}}equipment by tomorrow{{NLINE}}night, OK?
+You got 1000 zenny!
+Beyd{{NLINE}}"W-w-w-w-{{PAUSE}}what!{{NPAGE}}I don't have any{{NLINE}}more money!{{NPAGE}}Can't you get me{{NLINE}}anything with the{{NLINE}}2000 zenny I gave you?
+{{TXTBX,06}}Beyd{{NLINE}}"Here's how it works{{NPAGE}}First of all, to{{NLINE}}raise my {{COLRS,2}}Defense{{COLRE}}...
+{{TXTBX,06}}Beyd{{NLINE}}"Attack me when I'm{{NLINE}}defending...like this
+{{TXTBX,06}}Beyd{{NLINE}}"My Defense will go{{NLINE}}up according to the{{NPAGE}}{{COLRS,2}}number{{COLRE}} of times{{NLINE}}I'm attacked...{{NPAGE}}Since I don't have{{NLINE}}that many HP to{{NLINE}}begin with, I'll{{NPAGE}}be defending a lot,{{NLINE}}so be sure to go{{NLINE}}after me then, OK?
+{{TXTBX,06}}Beyd{{NLINE}}"If I attack and hit,{{NLINE}}my {{COLRS,2}}Power{{COLRE}} will go up{{NPAGE}}How much it goes up{{NLINE}}depends on how much{{NLINE}}{{COLRS,2}}damage{{COLRE}} I do...{{NPAGE}}I'll always go after{{NLINE}}the person with the{{NLINE}}{{COLRS,2}}lowest Defense{{COLRE}}, OK?
+{{TXTBX,06}}Beyd{{NLINE}}"Based on how much{{NLINE}}damage I take...{{NPAGE}}my {{COLRS,2}}Maximum HP{{COLRE}}{{NLINE}}will go up...
+{{TXTBX,06}}Beyd{{NLINE}}"I can heal{{NLINE}}during a fight,{{NPAGE}}so try to make{{NLINE}}the fight last as{{NLINE}}long as possible--{{NPAGE}}that's the best way{{NLINE}}to make me stronger{{NLINE}}faster
+{{TXTBX,06}}Beyd{{NLINE}}"The training session{{NLINE}}will end when{{NPAGE}}the {{COLRS,2}}remaining turns{{COLRE}}{{NLINE}}meter on the screen{{NLINE}}reaches '0', or...
+{{TXTBX,06}}Beyd{{NLINE}}"...{{PAUSE}}...{{PAUSE}}...All of you{{NLINE}}or I are knocked out
+{{TXTBX,06}}Beyd{{NLINE}}"So...Did you follow{{NLINE}}all of that?{{NPAGE}}Let me know when{{NLINE}}you're ready to{{NLINE}}start
+Beyd{{NLINE}}"That's all for{{NLINE}}tonight, then...{{NPAGE}}Tonight's results{{NLINE}}are...
+Beyd{{NLINE}}"I've got to get{{NLINE}}stronger...{{NPAGE}}So I can get to the{{NLINE}}lighthouse and repair{{NLINE}}it before Zig...{{NPAGE}}I'll see you again{{NLINE}}tomorrow night!
+{{TXTBX,05}}Iggy{{NLINE}}"We're here to decide{{NPAGE}}who goes to the{{NLINE}}lighthouse to fix it:{{NLINE}}Beyd, or the boss?
+{{TXTBX,05}}Iggy{{NLINE}}"Listen up! {{PAUSE}}This is{{NLINE}}a duel, see?{{NPAGE}}Don't you be trying{{NLINE}}nothing, OK? Just stay{{NLINE}}there and watch!
+{{COLRS,4}}Well, we can probably{{COLRE}}{{NLINE}}{{COLRS,4}}get away with helping{{COLRE}}{{NLINE}}{{COLRS,4}}Beyd {{COLRE}}{{COLRS,2}}in secret,{{COLRE}}{{COLRS,4}} right?{{COLRE}}
+{{TXTBX,05}}Iggy{{NLINE}}"Get ready...{{NLINE}}3...2...1...{{NPAGE}}Fight!
+{{TXTBX,05}}Iggy{{NLINE}}"Hey! What did I{{NLINE}}tell you!{{NPAGE}}No butting in!{{NLINE}}Now we gotta start{{NLINE}}over... sheesh!
+{{COLRS,4}}Whoops! That was a{{COLRE}}{{NLINE}}{{COLRS,4}}little too obvious...{{COLRE}}{{NPAGE}}{{COLRS,4}}We'll have to wait{{COLRE}}{{NLINE}}{{COLRS,4}}until Zig's {{COLRE}}{{COLRS,2}}looking{{COLRE}}{{NLINE}}{{COLRS,2}}the other way...{{COLRE}}
+Iggy{{NLINE}}"Stop!{{NLINE}}The winner is...Zig!{{NPAGE}}I knew you'd win,{{NLINE}}boss!
+{{COLRS,4}}Beyd lost...{{COLRE}}{{NPAGE}}{{COLRS,4}}We'll have to do{{COLRE}}{{NLINE}}{{COLRS,4}}more training and{{COLRE}}{{NLINE}}{{COLRS,4}}try again...{{COLRE}}
+{{TXTBX,06}}Beyd{{NLINE}}"I...{{PAUSE}}{{PAUSE}} I won...
+{{TXTBX,05}}Iggy{{NLINE}}"Oh no! Boss!{{NPAGE}}I don't believe it!{{NLINE}}How could big old{{NLINE}}Zig here lose to Beyd?
+{{TXTBX,06}}Shadis{{NLINE}}"Beyd...{{NPAGE}}Are you all right?{{NLINE}}Look at you...you're{{NLINE}}all beat up...
+{{TXTBX,06}}Beyd{{NLINE}}"If it hadn't been{{NLINE}}for...{{PAUSE}}all your help,{{NPAGE}}I wouldn't have been{{NLINE}}able to beat Zig
+{{TXTBX,06}}Beyd{{NLINE}}"If you hadn't{{NLINE}}convinced me to fight{{NPAGE}}Zig, {{CHRTR}}, then...
+{{TXTBX,06}}Beyd{{NLINE}}"I guess...{{NPAGE}}I would have stayed{{NLINE}}the same old Beyd...{{NLINE}}a 98-pound weakling...
+{{TXTBX,06}}Beyd{{NLINE}}"Shadis...{{NLINE}}I want to help you{{NPAGE}}Let's take care of{{NLINE}}the guild...together
+{{TXTBX,05}}Iggy{{NLINE}}"Boss! Boss!{{NPAGE}}Did you hear that!?{{NLINE}}Boss!...Boss! Wake{{NLINE}}up, Boss!
+{{TXTBX,06}}Beyd{{NLINE}}"Thank you...Thank you{{NLINE}}so very much...{{NPAGE}}I don't know what'll{{NLINE}}happen next, but...{{NPAGE}}Shadis and I will{{NLINE}}work everything out{{NLINE}}somehow...together!

@@ -1,0 +1,26 @@
+Durandal{{NLINE}}"What do you want?{{NPAGE}}Me? I don't know{{NLINE}}anything...nope, not{{NLINE}}a thing...{{NPAGE}}I'm just a little{{NLINE}}guy in a little{{NLINE}}town...{{NPAGE}}If you really want,{{NPAGE}}I suppose I can{{NLINE}}teach you some of the{{NLINE}}useless tricks I know{{NPAGE}}Do you want me to?{{CHOIC,0,0,Yes,No}}
+If you really want,{{NPAGE}}I suppose I can{{NLINE}}teach you some of the{{NLINE}}useless tricks I know{{NPAGE}}Do you want me to?{{CHOIC,0,0,Yes,No}}
+Looks like you're{{NLINE}}serious, then...{{NPAGE}}I don't have much to{{NLINE}}teach, but I'll give{{NLINE}}it my best shot
+Until we meet{{NLINE}}again...
+Until we meet{{NLINE}}again...
+Durandal{{NLINE}}"Long time no see!{{NPAGE}}I've been working too{{NLINE}}and I think I'm{{NLINE}}getting the hang of it{{NPAGE}}If I can have just a{{NLINE}}little more time...
+Is there anyone else{{NLINE}}who wants to{{NLINE}}apprentice with me?{{CHOIC,1,0,Yes,No}}
+Huh?{{NLINE}}That's everybody,{{NLINE}}isn't it?
+I know: I'm no good{{NLINE}}so you want to quit,{{NLINE}}right?{{CHOIC,2,0,Right!,No!}}
+Huh?{{NPAGE}}There's no one{{NLINE}}apprenticing with me{{NLINE}}now, is there!
+"Very well then!{{NPAGE}}From this moment, I{{NLINE}}Durandal, make you,{{NLINE}}{{PRMTR,0}}, my apprentice!
+Is there anyone else{{NLINE}}who wants to{{NLINE}}apprentice with me?{{CHOIC,3,0,Yes,No}}
+"Very well, {{PRMTR,0}},{{NLINE}}I release you from{{NLINE}}my service{{NPAGE}}I told you I was{{NLINE}}no good...
+Is there anyone else{{NLINE}}who wants to quit?{{CHOIC,4,0,Yes,No}}
+"Hmmm...I think{{NLINE}}{{PRMTR,0}} is ready for{{NLINE}}a new lesson...{{NPAGE}}Let me show you this{{NLINE}}trick...It's not much,{{NLINE}}but it's all I have...{{NPAGE}}{{PRMTR,0}} learned{{NLINE}}{{COLRS,2}}{{PRMTR,1}}{{COLRE}}!
+Who shall apprentice?
+Who want to quit?
+Is this OK?                Yes No
+Do you want to quit?       Yes No
+{{TXTBX,05}}Nina{{NLINE}}"Wh...where are we?
+{{TXTBX,05}}Nina{{NLINE}}"Wh...where are we?
+{{TXTBX,05}}Nina{{NLINE}}"Wh...where are we?
+Rei{{NLINE}}"Hey, Honey...{{NPAGE}}What the heck have{{NLINE}}you done?
+{{TXTBX,05}}Nina{{NLINE}}"Let's get out of here{{NPAGE}}and take a look{{NLINE}}around...
+Nina{{NLINE}}"We're all the way{{NLINE}}outside the castle!
+{{TXTBX,05}}Rei{{NLINE}}"No time to waste,{{NLINE}}then...{{NPAGE}}We'd better catch up{{NLINE}}with Ryu and the{{NLINE}}others!

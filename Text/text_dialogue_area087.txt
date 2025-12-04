@@ -1,0 +1,34 @@
+ Rhapala Region
+Bridge connecting to{{NLINE}}the Wyndia Region{{NPAGE}}A passport is needed{{NLINE}}to cross
+Porter's Guild town--{{NLINE}}home for ships{{NLINE}}heading east
+Headquarters of the{{NLINE}}Porter's Guild; a{{NLINE}}port is here
+Cargo ships are guided{{NLINE}}by the light from{{NLINE}}this lighthouse
+Where the faeries{{NLINE}}chased out of the{{NLINE}}forest by mine{{NPAGE}}development live
+Help the faeries{{NLINE}}build their new{{NLINE}}village!
+A road made by the{{NLINE}}Porter's Guild{{NPAGE}}Impassable due to{{NLINE}}the recent eruption
+Road made by the{{NLINE}}Porter's Guild{{NPAGE}}Mostly unused now{{NLINE}}that ships are{{NLINE}}sailing again
+Currently impassable{{NLINE}}due to the tides
+Be careful--the{{NLINE}}sea level changes{{NLINE}}randomly
+There are several{{NLINE}}small huts on top{{NLINE}}of the cliff
+There's a small hut{{NLINE}}here
+The beach
+This is the best{{NLINE}}place to get fresh{{NLINE}}river fish!{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}
+This is the best{{NLINE}}place to get fresh{{NLINE}}river fish!{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}
+This is the best{{NLINE}}place to get fresh{{NLINE}}river fish!{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}
+This is the best{{NLINE}}place to get fresh{{NLINE}}river fish!{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}
+This is the best{{NLINE}}place to get fresh{{NLINE}}river fish!{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}
+This is the best{{NLINE}}place to get fresh{{NLINE}}river fish!{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}
+This is the best{{NLINE}}place to get fresh{{NLINE}}river fish!{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}
+This is the best{{NLINE}}place to get fresh{{NLINE}}river fish!{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}
+This is the best{{NLINE}}place to get fresh{{NLINE}}river fish!{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}
+A beach famous for{{NLINE}}good fishing{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}{{NLINE}}{{PRMTR,3}}
+Famous octopus{{NLINE}}fishing bed{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}{{NLINE}}{{PRMTR,3}}
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+The field of flowers{{NLINE}}is reacting to the{{NLINE}}Faerie Tiara...{{NPAGE}}Do you want to use{{NLINE}}the {{COLRS,2}}Faerie Tiara{{COLRE}}?{{CHOIC,0,0,Yes,No}}

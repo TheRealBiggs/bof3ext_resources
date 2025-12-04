@@ -1,0 +1,82 @@
+"Dis 'ere be called{{NLINE}}Parch...Jus' a teeny{{NLINE}}lil' town...{{NPAGE}}We all's fishermen{{NLINE}}'ere, and dat's all{{NLINE}}we all's eats
+"Dis 'ere be called{{NLINE}}Parch...Jus' a teeny{{NLINE}}lil' town...{{NPAGE}}We all's fishermen{{NLINE}}'ere, and dat's all{{NLINE}}we all's eats
+"You be Porter's Guild{{NLINE}}people? You's newuns,{{NLINE}}ain'cha?
+"Da Guild people,{{NLINE}}they buy da fish{{NLINE}}'ere...{{NPAGE}}And bring us bread{{NLINE}}and other things we{{NLINE}}be needin'
+"Da ship! Da ship!
+"One day, I'm gonna{{NLINE}}go out onna Outer{{NLINE}}Sea...{{NPAGE}}Jus' like the{{NLINE}}Legendary Mariner!
+"But is there a ship{{NLINE}}that can go out to{{NLINE}}the Outer Sea?
+"What's on the other{{NLINE}}side of the Outer{{NLINE}}Sea?{{NPAGE}}Who knows? All we{{NLINE}}care about is where{{NLINE}}we can catch fish
+"zzz zzz
+"woof!
+"bark!
+"meow
+{{EFCTS}}squee squee squee{{EFCTE,02}}
+{{EFCTS}}scratch scratch{{EFCTE,02}}
+"If they'd just stay{{NLINE}}here in the Inner{{NLINE}}Sea, there'd be no{{NPAGE}}trouble...Why is that{{NLINE}}men always want to{{NPAGE}}go out to the Outer{{NLINE}}Sea?
+"Daddy went out to{{NLINE}}sea...
+"Lately, the mayor{{NLINE}}won't eat any fish{{NPAGE}}I'm worried--he keeps{{NLINE}}getting weaker and{{NLINE}}weaker...
+"Fah! Fish're cat's{{NLINE}}food, I say!{{NPAGE}}Not for people{{NLINE}}to be eating!
+"squeak squeak
+"I'm happy with the{{NLINE}}way things are, but...
+"If I had a chance{{NLINE}}I'd like to go to{{NLINE}}the big city...{{NPAGE}}and work hard, make{{NLINE}}things easier for{{NLINE}}my mum...
+"squeak!
+"Even in a place{{NLINE}}like this, we've{{NLINE}}got an inn!
+"Welcome, sir!{{NLINE}}Need fishing gear?{{NLINE}}We got it!
+"We may be by the sea,{{NLINE}}but these weapons won't{{NLINE}}rust--guaranteed!
+"The owner of this{{NLINE}}inn looks like he's{{NPAGE}}got some of our{{NLINE}}blood in 'im...{{NPAGE}}Either that or he ate{{NLINE}}too much fish and{{NLINE}}ended up like that!
+"The legendary{{NLINE}}mariner?{{NPAGE}}He's the only man to{{NLINE}}have ever explored the{{NLINE}}Outer Sea and lived to{{NPAGE}}tell the tale! Our{{NLINE}}mayor knows all the{{NLINE}}stories about him...
+"This one here heard{{NLINE}}the story of the{{NLINE}}legendary mariner...{{NPAGE}}And got it into his{{NLINE}}head to go off to{{NLINE}}the Outer Sea...{{NPAGE}}But everyone knows{{NLINE}}that an Inner Sea{{NLINE}}boat can't go out{{NPAGE}}there to the Outer{{NLINE}}Sea...
+"Hm? The legendary{{NLINE}}mariner?{{NPAGE}}There's not a sailor{{NLINE}}in the world who{{NLINE}}doesn't know the story{{NPAGE}}I remember the mayor{{NLINE}}seemed to know a{{NLINE}}lot about him...
+"You folks want to{{NLINE}}cross the Outer Sea?{{NPAGE}}Why would you want{{NLINE}}to do such a{{NLINE}}dangerous thing?
+"The mayor originally{{NLINE}}came from {{COLRS,2}}Central{{COLRE}}{{NLINE}}{{COLRS,2}}Wyndia{{COLRE}}...{{NPAGE}}Maybe he's homesick{{NLINE}}for some Wyndian{{NLINE}}cooking...?
+Mayor{{NLINE}}"Eh? {{COLRS,2}}Legendary{{COLRE}}{{NLINE}}{{COLRS,2}}Mariner{{COLRE}}?{{NPAGE}}If I tell the story{{NLINE}}again, you're just{{NLINE}}gonna give me more{{NPAGE}}of that nasty fish{{NLINE}}to eat, aren't you!?
+"I suppose it's better{{NLINE}}to want to go off to{{NPAGE}}the big city than{{NLINE}}the Outer Sea...
+"I can sympathize with{{NLINE}}the mayor--stuck in{{NPAGE}}this tiny town eating{{NLINE}}fish every day...{{NPAGE}}Me? I'm gonna go{{NLINE}}to the city and get{{NPAGE}}all the bread I can{{NLINE}}eat!
+"Our staple food's{{NLINE}}fish, you know, but{{NPAGE}}the mayor, he doesn't{{NLINE}}like fish ever since{{NLINE}}he got sick...{{NPAGE}}Now he hardly speaks{{NLINE}}to anyone
+Mayor{{NLINE}}"If all they've got{{NLINE}}for me to eat's fish,{{NPAGE}}well, I'll just sit{{NLINE}}here and starve to{{NLINE}}death, I will!{{NPAGE}}"When I'm dead, put{{NLINE}}my ashes in the{{NLINE}}{{COLRS,2}}Maekyss River{{COLRE}}!
+"When I'm dead, put{{NLINE}}my ashes in the{{NLINE}}{{COLRS,2}}Maekyss River{{COLRE}}!
+Isn't there anything{{NLINE}}that can be done{{NLINE}}to cheer him up?
+"The mayor is so{{NLINE}}stubborn!{{NPAGE}}Is there no way to{{NLINE}}get through to him...?
+"Uh-huh, uh-huh...
+"What!?{{NLINE}}Feed him fish!?{{NPAGE}}...{{PAUSE}}...{{PAUSE}}...the mayor!?
+"Shisu? Hmmm...But{{NLINE}}would it work?{{NPAGE}}We won't know unless{{NLINE}}we try, I guess...{{NLINE}}Let's try it then!
+Select ingredient
+Knead the shisu
+Stop preparing shisu
+You don't need that!
+No ingredients!
+You need the shaly seeds first!
+You need the mackerel first!
+Put the shaly & mackerel together!
+"Hmmm...{{NLINE}}Didn't go as well{{NLINE}}as we planned, eh?{{NPAGE}}Don't give up!{{NLINE}}Keep trying!
+{{TXTBX,80}}You failed!{{NPAGE}}Your attempt to get{{NLINE}}on the mayor's good{{NLINE}}side didn't work!
+"Do you want to{{NLINE}}try again?{{CHOIC,0,0,Yes,No}}
+"Good luck then!!
+"Really...?{{NPAGE}}I have a feeling{{NLINE}}that if you could{{NLINE}}just get him to{{NPAGE}}eat fish, you could{{NLINE}}get on his good{{NLINE}}side...
+{{TXTBX,06}}Mayor{{NLINE}}"...{{PAUSE}}...{{PAUSE}}...{{PAUSE}}Peh!
+The mayor doesn't{{NLINE}}seem to be{{NLINE}}impressed...{{NPAGE}}Ryu decides to{{NLINE}}try the shisu he{{NLINE}}made...
+Ugh...awful!{{NLINE}}No wonder it{{NLINE}}didn't work!
+{{TXTBX,05}}"Looks like it{{NLINE}}didn't work...{{NPAGE}}We'll just have{{NLINE}}to keep trying!
+{{TXTBX,06}}Mayor{{NLINE}}"...{{PAUSE}}What's this!?
+{{TXTBX,06}}Mayor{{NLINE}}"This...this is{{NLINE}}{{COLRS,2}}shisu{{COLRE}}!
+{{TXTBX,06}}Mayor{{NLINE}}"...{{PAUSE}}...{{PAUSE}}Whew!{{NPAGE}}...{{PAUSE}}That horseradish's{{NLINE}}got a good kick{{NLINE}}to it!
+{{TXTBX,06}}Mayor{{NLINE}}"Well...{{NPAGE}}Since you went to{{NLINE}}all the trouble to{{NLINE}}make me shisu...{{NPAGE}}I guess I'll have{{NLINE}}to return the favor,{{NLINE}}won't I? Ha ha!
+{{TXTBX,80}}Ryu's shisu plan{{NLINE}}worked! The mayor's{{NLINE}}in high spirits again!
+{{TXTBX,06}}Mayor{{NLINE}}"Hmm...The Outer{{NLINE}}Sea, eh?
+{{TXTBX,06}}Mayor{{NLINE}}"And you want me{{NLINE}}to tell you about{{NPAGE}}the "Legendary{{NLINE}}Mariner"?
+{{TXTBX,06}}Mayor{{NLINE}}"Normally...{{NPAGE}}I'd tell you to{{NLINE}}get such foolish{{NPAGE}}notions out of{{NLINE}}your head, but...
+{{TXTBX,06}}Mayor{{NLINE}}"I owe you for{{NLINE}}the shisu, don't I?
+Mayor{{NLINE}}"Here...take this...{{NPAGE}} {{NLINE}}{{INSTS}}You got the "Sea{{NLINE}}Charts"!{{INSTE}}
+{{TXTBX,06}}Mayor{{NLINE}}"That shows all the{{NLINE}}currents in the sea{{NPAGE}}around here...If you{{NLINE}}follow it, you should{{NLINE}}be able to get{{NPAGE}}through the crags{{NLINE}}to the east of here
+{{TXTBX,06}}Mayor{{NLINE}}"That's where you'll{{NLINE}}find him...{{NPAGE}}the Legendary Mariner
+{{TXTBX,06}}Mayor{{NLINE}}"East of the village{{NPAGE}}You'll have to do{{NLINE}}some searching!
+"The crags are to{{NLINE}}the east of the{{NLINE}}village...{{NPAGE}}Did you find them?{{NPAGE}}Oh, by the way...{{NLINE}}thanks for the shisu!
+"Thanks to you, the{{NLINE}}mayor has recovered{{NLINE}}his vigor...{{NPAGE}}Thank you so much...{{NPAGE}}Please accept this{{NLINE}}as a token of our{{NLINE}}gratitude...{{NPAGE}}{{INSTS}}You got{{NLINE}}{{PRMTR,0}}!{{INSTE}}
+"But is shisu{{NLINE}}really that good?{{NLINE}}Hmmm...
+"The mayor told you{{NLINE}}about the Legendary{{NLINE}}Mariner? Good, good
+"You mean the{{NLINE}}Legendary Mariner{{NLINE}}really exists!?{{NPAGE}}I wouldn't mind{{NLINE}}meeting him myself
+"I can't believe{{NLINE}}the mayor's eating{{NLINE}}fish when he said{{NPAGE}}he hated it so{{NLINE}}much...What's in that{{NLINE}}shisu anyway?
+"I'm so glad the{{NLINE}}mayor's recovered...
+Lee{{NLINE}}"You're too late!{{NLINE}}I got tired of waiting{{NPAGE}}Still, I knew you'd{{NLINE}}find me eventually...{{NPAGE}}I'll see you back in{{NLINE}}Wyndia!
+Lee{{NLINE}}"You're too late!{{NLINE}}I got tired of waiting{{NPAGE}}Still, I knew you'd{{NLINE}}find me eventually...{{NPAGE}}I'll see you back in{{NLINE}}Wyndia!
+Lee{{NLINE}}"You're too late!{{NLINE}}I got tired of waiting{{NPAGE}}Still, I knew you'd{{NLINE}}find me eventually...{{NPAGE}}I'll see you back in{{NLINE}}Wyndia!

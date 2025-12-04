@@ -1,0 +1,10 @@
+Warning: Someone's on{{NLINE}}the block!{{NPAGE}}For safety reasons, do{{NLINE}}not activate the block{{NLINE}}when someone's on it.
+Warning: Someone's on{{NLINE}}the block!{{NPAGE}}For safety reasons, do{{NLINE}}not activate the block{{NLINE}}when someone's on it.
+Workbot{{NLINE}}Remote Control Panel
+Workbot{{NLINE}}Control Panel{{CHOIC,0,1,Instructions,Activate,Quit}}
+The workbot moves by{{NLINE}}tracing the movement{{NPAGE}}of its Controller{{NLINE}}on the dais{{NPAGE}}Once the workbot is{{NLINE}}near a switch, press{{NLINE}}the {{COLRS,6}}Action{{COLRE}} button{{NPAGE}}When you want to quit,{{NLINE}}leave the dais or {{NLINE}}activate the panel
+The workbot cannot{{NLINE}}track large people's{{NLINE}}movements
+End session
+A sign above the door{{NLINE}}reads {{COLRS,2}}Emergency Exit{{COLRE}}{{NPAGE}}It has an electronic{{NLINE}}lock that can't be{{NLINE}}picked...
+{{COLRS,2}}Emergency Door Handle{{COLRE}}{{NPAGE}}In an emergency, break{{NLINE}}panel and turn handle{{NPAGE}}to open {{COLRS,2}}Emergency{{NLINE}}Door{{COLRE}}
+It's broken...{{NLINE}}The emergency door{{NLINE}}should be usable now

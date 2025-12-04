@@ -1,0 +1,34 @@
+ The Middle Sea
+Headquarters of the{{NLINE}}Porter's Guild. Has{{NLINE}}a port.
+A small village on{{NLINE}}the ocean. Can only{{NLINE}}be reached by boat.
+Wharf for ships.{{NPAGE}}The Porter's and{{NLINE}}Machine Guilds do{{NLINE}}business here.
+There's a small hut.
+{{TXTBX,01}} {{NLINE}}{{COLRS,2}}Ramming{{COLRE}} the Black Ship{{NPAGE}}Gather speed by holding{{NLINE}} the {{COLRS,2}}{{SYM80}}{{COLRE}} button and hit{{NLINE}}   it from behind.   {{NPAGE}}Be careful not to let{{NLINE}} the engine overheat!
+The sea's too rough!{{NLINE}}You'll capsize unless{{NLINE}}you head straight in!
+The sea's too rough!{{NPAGE}}You probably can't{{NLINE}}make it in this{{NLINE}}boat!
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+The field of flowers{{NLINE}}is reacting to the{{NLINE}}Faerie Tiara...{{NPAGE}}Do you want to use{{NLINE}}the {{COLRS,2}}Faerie Tiara{{COLRE}}?{{CHOIC,0,0,Yes,No}}

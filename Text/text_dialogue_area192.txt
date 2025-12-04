@@ -1,0 +1,240 @@
+"We're supposed to{{NLINE}}head north, right?{{NPAGE}}As long as we can{{NLINE}}see the stars, we{{NLINE}}should be all right...
+"We're supposed to{{NLINE}}head north, right?{{NPAGE}}As long as we can{{NLINE}}see the stars, we{{NLINE}}should be all right...
+"If we camp at{{NLINE}}night and walk during{{NLINE}}the day,{{NPAGE}}we won't be able to{{NLINE}}see the stars and{{NLINE}}we'll get lost!
+"Don't this just{{NLINE}}beat all?{{NPAGE}}Everywhere you look,{{NLINE}}sand! How're you{{NPAGE}}supposed to know{{NLINE}}which way you're{{NLINE}}going in this?
+"It's a long trip{{NLINE}}ahead...{{NPAGE}}Better conserve water{{NLINE}}as much as possible...
+"You'll just waste{{NLINE}}energy walking in{{NLINE}}the day, you know
+"Whew! It's so hot{{NLINE}}I'm panting like{{NLINE}}a dog!
+"It's a little{{NLINE}}better at night...{{NPAGE}}No way you're getting{{NLINE}}me out there in the{{NLINE}}daytime!
+"pusuuuu
+"Whew...No wonder they{{NLINE}}call it the Desert{{NLINE}}of Death!
+"I wonder what all{{NLINE}}these monsters here{{NLINE}}in the desert eat...{{NPAGE}}Probably people like{{NLINE}}us, out for a walk{{NLINE}}in the desert, eh?
+"Our water won't last{{NLINE}}if we walk during{{NLINE}}the day...
+"Don't forget to{{NLINE}}check the direction{{NPAGE}}of the stars when{{NLINE}}you break camp...
+"I wonder just how{{NLINE}}big this desert is?
+"I'm all right...{{NLINE}}I think we're going{{NLINE}}to make it, Ryu!
+"Ryu, shouldn't we{{NLINE}}wait until daylight{{NLINE}}to make camp?
+"I'm holding up{{NLINE}}OK...But I think{{NLINE}}our little engineer{{NPAGE}}might be having a{{NLINE}}rough time of it...
+"Is God testing{{NLINE}}us...?
+"We're just wasting{{NLINE}}our energy if we{{NPAGE}}walk around during{{NLINE}}the day, you know...
+"Me? I'm fine! You{{NLINE}}should be worried{{NPAGE}}about what's-his-name,{{NLINE}}the one wearing the{{NLINE}}fur coat!
+"Hey, why don't we{{NLINE}}rest during the day{{NLINE}}and walk at night?
+"pisupisu... pisu{{NPAGE}}{{COLRS,6}}He looks like he's{{NLINE}}having trouble{{NLINE}}sleeping...{{COLRE}}{{NPAGE}}{{COLRS,6}}Maybe the heat's{{NLINE}}bothering him?{{COLRE}}
+"Are you sure we're{{NLINE}}walking the right{{NLINE}}way?{{NPAGE}}...{{PAUSE}}...{{PAUSE}}...Sorry...{{NLINE}}We're OK, I'm sure{{NLINE}}we're doing OK
+"Garr and I are{{NLINE}}fine! Don't worry--{{NPAGE}}leave the fighting{{NLINE}}to us!
+"We'd better not{{NLINE}}walk during the{{NLINE}}day, Ryu...
+"Is this God's way{{NLINE}}of saying...{{NPAGE}}that we are not{{NLINE}}supposed to meet{{NLINE}}with a god?
+"Whew...let me{{NLINE}}rest for just a{{NLINE}}minute...
+"We're almost there,{{NLINE}}right? Aren't we?
+"I can't walk during{{NLINE}}the day! It's just{{NLINE}}too hot!
+"Doesn't this{{NLINE}}beat all...
+"Why would God wish{{NLINE}}to create such a{{NLINE}}place as this!?
+"Why...why do we{{NLINE}}have to go through{{NLINE}}all this?
+"upupu?
+"Can you see the{{NLINE}}oasis yet?
+"We're out of{{NLINE}}water...{{NPAGE}}We'll be in trouble{{NLINE}}if we don't get{{NLINE}}there soon...
+"How much more does{{NLINE}}God want to test{{NLINE}}us?
+"How come we're not{{NLINE}}there yet?{{NPAGE}}Shouldn't we be there{{NLINE}}by now?
+"pu...{{PAUSE}}{{EFCTS}}ki{{EFCTE,02}}...{{NPAGE}}{{COLRS,6}}Looks like he{{NLINE}}needs water too{{COLRE}}
+"Something's wrong!{{NLINE}}We're lost! We must{{NLINE}}be lost!
+"I'm getting sick{{NLINE}}of sand
+"Hmmm...
+"I've had enough{{NLINE}}of this...
+"I'm OK...Let's keep{{NLINE}}going, Ryu
+"Are you sure all{{NLINE}}this'll be worth{{NLINE}}it?
+"I wonder if we'll{{NLINE}}be able to keep{{NLINE}}this pace up...
+"This is too much...{{NLINE}}I feel like I'm{{NLINE}}dying...
+"pukuku, kuku...{{NPAGE}}{{COLRS,6}}He's sound asleep...{{NLINE}}He should be OK for{{NLINE}}a while longer...{{COLRE}}
+"I'm sorry, Ryu...{{NLINE}}I might not be able{{NLINE}}to make it...
+"What should we do,{{NLINE}}Ryu? We're not gonna{{NLINE}}make it at this rate
+"Maybe we should turn{{NLINE}}back and try again...
+"Let's go hoooome!{{PAUSE}}...{{PAUSE}}
+"pukiriri!?{{NPAGE}}{{COLRS,6}}Whatever he's saying,{{NLINE}}Ryu needs to make a{{NLINE}}decision...soon...{{COLRE}}
+"I'll be fine...{{NLINE}}It's going to work{{NLINE}}out, right, Ryu?
+"All we do is hope{{NLINE}}the desert gives out{{NLINE}}before we do...
+"I wonder if we'll{{NLINE}}be able to make{{NLINE}}it...?
+"Whew...
+"pukiriririrri!{{NPAGE}}{{COLRS,6}}Whatever he's saying,{{NLINE}}it sounds like he's{{NLINE}}encouraging Ryu...{{COLRE}}
+"I...{{PAUSE}}don't know{{NLINE}}how much longer{{NLINE}}we can go on...
+"This just beats{{NLINE}}all, doesn't it?
+"Is this...how{{NLINE}}it ends for us...?
+"...{{PAUSE}}...{{PAUSE}}...Dad dy...
+"...{{PAUSE}}...{{PAUSE}}...{{PAUSE}}...
+"First, we go north.{{NLINE}}We'll make it this{{NLINE}}time, Ryu
+"It's real easy to{{NLINE}}get lost here, so{{NLINE}}let's be careful, OK?
+"We'll be OK this{{NLINE}}time...won't we?
+"We're fine...{{NPAGE}}As long as we don't{{NLINE}}make a wrong turn, we{{NLINE}}can make it out!
+"It's just too big...{{NLINE}}So try not to get{{NLINE}}lost, OK?
+"We're doing good...{{NLINE}}We'll make it for{{NLINE}}sure this time
+"I'm fine...{{NLINE}}How's everybody else?
+"If it is your destiny{{NLINE}}to meet with God,{{NLINE}}Ryu, we will succeed
+"I've been counting...{{NPAGE}}We've got about 5-6{{NLINE}}days until we're out{{NLINE}}of the desert...
+"How're the engineer{{NLINE}}and princess holding{{NLINE}}up?{{NPAGE}}You'd better keep{{NLINE}}an eye on them...
+"The road to truth{{NLINE}}is always a long{{NLINE}}one, eh Ryu?
+"We should be able{{NLINE}}to see the oasis to{{NLINE}}the north...{{NPAGE}}If you see it anywhere{{NLINE}}else, it's just a{{NLINE}}mirage, so be careful
+"Just a little bit,{{NLINE}}more, right Ryu?
+"I'm beginning to{{NLINE}}think the whole world{{NLINE}}is made of sand!
+"Just think...if the{{NLINE}}world ends...{{NPAGE}}this is probably what{{NLINE}}it would become...
+"I've come this far!{{NLINE}}No way I'm giving{{NLINE}}up now!
+"Did you see the{{NLINE}}oasis? The real one,{{NLINE}}not a mirage?
+"I'm hungry...Think{{NLINE}}we could eat that{{NLINE}}rakda?{{NPAGE}}But then we wouldn't{{NLINE}}be able to get{{NLINE}}home, would we...?
+"God...give us{{NLINE}}strength...
+"Maybe we should{{NLINE}}give up...
+"Did you take the{{NLINE}}wrong direction again?
+"Did you take the{{NLINE}}wrong direction again?
+"I've had enough{{NLINE}}of this sand...
+"Hmmmmm
+"Something's wrong!{{NLINE}}It shouldn't be{{NLINE}}taking this long!
+"I think I'm still{{NLINE}}all right...{{NPAGE}}We'll make it this{{NLINE}}time for sure!
+"Don't tell me you{{NLINE}}want to quit and{{NLINE}}start over again!?
+"I don't think we'll{{NLINE}}be able to keep this{{NLINE}}pace up...
+"I can't make it{{NLINE}} I can't make it...
+"kupuu, kupuu
+"We're not going to{{NLINE}}make it, are we?
+"Let's use the rakda{{NLINE}}and get outta here
+"We should return{{NLINE}}before things get{{NLINE}}too out of hand
+"I'm done for...{{NLINE}}finished...
+"Maybe the desert{{NLINE}}can't be crossed at{{NLINE}}all..{{EFCTE,90}}Think we can still{{NLINE}}make it, Ryu?
+"Think we can still{{NLINE}}make it, Ryu?
+"I don't know if{{NLINE}}we can make it...
+"I can't make it{{NLINE}}I can't walk another{{NLINE}}step...
+"Leave me alone...
+"Sheesh...
+If you kill him now,{{NLINE}}you won't be able to{{NLINE}}keep going...
+You can use the rakda{{NLINE}}to return to base{{NLINE}}camp...{{CHOIC,0,0,Return,Stay}}
+Return to base camp{{CHOIC,1,0,Yes,No}}
+Having no choice,{{NLINE}}Ryu kills the{{NLINE}}rakda...{{NPAGE}} {{NLINE}}You got the rakda meat
+What do you want{{NLINE}}to do?{{CHOIC,2,1,Rest,Save,Change party members,Look at Skill Notes,Look at Master List,Nothing}}
+"It tells how to{{NLINE}}get to the oasis...{{NPAGE}}Do you want to read{{NLINE}}it?{{CHOIC,3,1,Yes,No}}
+First, follow the{{NLINE}}North Star to the{{NLINE}}{{COLRS,2}}north{{COLRE}}...{{NPAGE}}Then, when you can see{{NLINE}}the "Evening Star"{{NPAGE}}directly to the west,{{NLINE}}head {{COLRS,2}}east{{COLRE}}...{{NPAGE}}Keep going west until{{NLINE}}you can no longer see{{NLINE}}the "Evening Star"...{{NPAGE}}and then head {{COLRS,2}}north{{COLRE}}{{NLINE}}again...After walking{{NLINE}}north for three nights{{NPAGE}}or so, you should be{{NLINE}}able to see the oasis
+Do you want to{{NLINE}}break camp?{{CHOIC,4,1,Break after resting,Break camp now,Don't break camp}}
+There's a diary...{{NLINE}}But now's not a{{NLINE}}good time for that
+There's a diary...{{NLINE}}But now's not a{{NLINE}}good time for that
+Garr{{NLINE}}"The heat must have{{NPAGE}}been too much for{{NLINE}}her...
+{{TXTBX,04}}Momo{{NLINE}}"Who can blame her?{{NPAGE}}Having to fight that{{NLINE}}monster after walking{{NLINE}}for so many days...
+{{TXTBX,05}}Nina{{NLINE}}"I'm sorry, Ryu...{{NPAGE}}We're so close...
+Garr{{NLINE}}"We won't be able to{{NPAGE}}go any further with{{NLINE}}her in that condition
+Garr{{NLINE}}"What should we do,{{NLINE}}Ryu?
+"We can't move Nina{{NLINE}}while she's in such{{NLINE}}bad condition...
+"Is Nina OK?{{NPAGE}}I'm not exactly in{{NLINE}}great shape myself{{NLINE}}either, but...
+"puuuuuuuuu{{NPAGE}}{{COLRS,6}}He looks worried{{COLRE}}
+"uuuu...{{PAUSE}}mmmmm...{{NPAGE}}I'm sorry...I don't{{NLINE}}want to slow you{{NLINE}}down like this...
+"It ain't her fault...{{NLINE}}Maybe we're just not{{NLINE}}supposed to make it...
+{{TXTBX,06}}Rei{{NLINE}}"How bad is she,{{NLINE}}the princess?
+{{TXTBX,06}}Rei{{NLINE}}"Right...{{NPAGE}}And we were so{{NLINE}}close, too...!
+{{TXTBX,06}}Rei{{NLINE}}"I suppose...{{NPAGE}}we could just use the{{NLINE}}rakda and start over--{{NPAGE}}I mean, we know{{NLINE}}the way by now,{{NLINE}}right?
+You won't be able{{NLINE}}to move until you{{NLINE}}take care of Nina
+Rakdas...{{NPAGE}}Strong, sturdy, and{{NLINE}}able to live in the{{NLINE}}desert, they can take{{NPAGE}}anyone lost back to{{NLINE}}base camp...{{NPAGE}}But rakdas have{{NLINE}}another talent as{{NLINE}}well...
+The meat of a rakda{{NLINE}}has water and other{{NLINE}}nutrients that can{{NPAGE}}resuscitate a person{{NLINE}}suffering from heat{{NLINE}}stroke...
+ {{NLINE}}You got the rakda meat
+Rei{{NLINE}}"So...You killed the{{NLINE}}rakda, huh?
+Rei{{NLINE}}"We won't be able to{{NLINE}}get back now...{{NPAGE}}I'm impressed, Ryu{{NLINE}}I didn't think you{{NLINE}}had it in you...
+Rei{{NLINE}}"Well, hurry up and{{NPAGE}}get that meat to{{NLINE}}the princess
+Rei{{NLINE}}"Don't worry...We'll{{NLINE}}make it{{NPAGE}}We're not gonna die in{{NLINE}}a place like this...{{NPAGE}}not as long as you're{{NLINE}}around, at least...
+"...{{PAUSE}}...{{PAUSE}}...As I{{NLINE}}watched you kill{{NLINE}}the rakda...{{NPAGE}}For some reason, I{{NLINE}}thought of that time{{NPAGE}}we fought the Nue{{NLINE}}together...{{NPAGE}}Funny, huh?
+{{TXTBX,82}} {{NLINE}} {{NLINE}}With the sacrifice of{{NLINE}} {{NLINE}}  the rakda's life, {{NLINE}} {{NLINE}}Ryu is able to save{{NLINE}} {{NLINE}}    Nina's...   
+"We'll use up all our{{NLINE}}strength if we try to{{NLINE}}walk during the day...
+"We'll use up all our{{NLINE}}strength if we try to{{NLINE}}walk during the day...
+"We'll use up all our{{NLINE}}strength if we try to{{NLINE}}walk during the day...
+"We'll use up all our{{NLINE}}strength if we try to{{NLINE}}walk during the day...
+"We need to save as{{NLINE}}much water as we{{NLINE}}can...{{NPAGE}}No point in using it{{NLINE}}until we need it...
+"I've had enough of{{NLINE}}the desert...
+"I hate hot!
+"pishuuuuu
+"Where, exactly,{{NLINE}}are we headed?
+"How's the water{{NLINE}}holding out?
+"It's a lot bigger{{NLINE}}than I imagined...
+"Isn't there anything{{NLINE}}but sand here?
+"pupukiiii
+"Um...I don't want{{NLINE}}to say this...But{{NLINE}}are we lost?
+"......
+"There's nothing{{NLINE}}here...We should{{NLINE}}turn back...
+"I'm beat!
+"pipiusuuu
+"I think we should{{NLINE}}head back...
+"We've gone as far{{NLINE}}as we can go...
+"Let's use the rakda{{NLINE}}and get back, eh?
+"I wanna go home...
+"pupupuuuun
+"uuuhhhh...
+"We should give up{{NLINE}}and head back...
+"We're out of{{NLINE}}water, aren't we?
+"Let's go back...
+"pusun
+You can use the rakda{{NLINE}}to return to base{{NLINE}}camp...{{CHOIC,5,1,Don't return,Return to oasis,Return to factory}}
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!

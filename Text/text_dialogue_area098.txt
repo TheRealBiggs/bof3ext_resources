@@ -1,0 +1,62 @@
+You can't decipher{{NLINE}}what the characters{{NLINE}}mean...{{NPAGE}}But you have the{{NLINE}}strange feeling you've{{NPAGE}}seen them somewhere{{NLINE}}before...
+You can't decipher{{NLINE}}what the characters{{NLINE}}mean...{{NPAGE}}But you have the{{NLINE}}strange feeling you've{{NPAGE}}seen them somewhere{{NLINE}}before...
+The characters are{{NLINE}}too difficult for{{NLINE}}{{CHRTR}} to understand
+{{TXTBX,05}}Garr{{NLINE}}"I think this is the{{NLINE}}place Deis meant...
+{{TXTBX,05}}Nina{{NLINE}}"The one she told{{NLINE}}us to come to?
+{{TXTBX,05}}Rei{{NLINE}}"But there's nobody{{NLINE}}here, is there?
+{{TXTBX,05}}Momo{{NLINE}}"This is the cave{{NLINE}}in the volcano, right?
+{{TXTBX,05}}{{NLINE}}"......{{NPAGE}}Did you really think{{NLINE}} would say{{NLINE}}something?
+{{TXTBX,04}}"There you are, my{{NLINE}}little dragon...
+{{TXTBX,06}}Deis{{NLINE}}"Don't be frightened{{NPAGE}}This is what I really{{NLINE}}look like...{{NPAGE}}Were you expecting me{{NLINE}}to show up naked{{NLINE}}again?
+{{TXTBX,06}}Deis{{NLINE}}"In that form...{{NPAGE}}The one I was{{NLINE}}imprisoned in...{{NPAGE}}I'm not able to{{NLINE}}fully utilize my{{NLINE}}powers, see...{{CHOIC,0,1,That's too bad,I like you this way}}
+{{TXTBX,06}}Deis{{NLINE}}"Well, it can't be{{NLINE}}helped...{{NPAGE}}To do what needs to{{NLINE}}be done, I need my{{NLINE}}powers, right?
+{{TXTBX,06}}Deis{{NLINE}}"Well! Thanks!{{NPAGE}}You certainly know{{NLINE}}what to say to a{{NLINE}}lady, don't you!
+{{TXTBX,06}}Deis{{NLINE}}"So...now that you're{{NLINE}}all here...
+{{TXTBX,05}}Garr{{NLINE}}"Is this...where we'll{{NLINE}}meet God?
+{{TXTBX,06}}Deis{{NLINE}}"No, silly...{{NPAGE}}I'm going to tell{{NLINE}}you how to get there{{NLINE}}from here!
+{{TXTBX,06}}Deis{{NLINE}}"Before I was{{NLINE}}imprisoned...{{NPAGE}}I would have been able{{NLINE}}to take you there{{NLINE}}myself, but I don't{{NPAGE}}have enough strength{{NLINE}}left to do it now
+{{TXTBX,06}}Deis{{NLINE}}"All right, my little{{NLINE}}Ryu...{{NPAGE}}I'm going to open{{NLINE}}your "eye"{{NPAGE}}so you'll be able to{{NLINE}}see the way yourself
+{{TXTBX,06}}Deis{{NLINE}}"It might hurt a{{NLINE}}little...{{NPAGE}}But you'll just have{{NLINE}}to grin and bear it
+{{TXTBX,81}} {{NLINE}}   My... Ryu...{{DURTN,48}}
+{{TXTBX,06}}Deis{{NLINE}}"That, Ryu, is{{NLINE}}called prana{{NPAGE}}The Eye of God...{{NLINE}}If you follow that{{NLINE}}light...you'll find{{NPAGE}}the god who used the{{NLINE}}Guardians to destroy{{NLINE}}your people...
+{{TXTBX,05}}Garr{{NLINE}}"...north?
+{{TXTBX,06}}Deis{{NLINE}}"Far, far away to{{NLINE}}the north...{{NPAGE}}Across the sea...
+{{TXTBX,06}}Deis{{NLINE}}"How you get there{{NLINE}}is up to you...{{NPAGE}}I can't do it for{{NLINE}}you...This is all{{NLINE}}I can do now...
+{{TXTBX,06}}Deis{{NLINE}}"It's up to you now{{NLINE}}Ryu...{{NPAGE}}Good luck!
+{{TXTBX,06}}Deis{{NLINE}}"Garr, I want you to{{NLINE}}look out for him...{{NPAGE}}Make sure nothing{{NLINE}}happens to him,{{NLINE}}understand?
+Garr{{NLINE}}"I swear by the lives{{NLINE}}of all the Brood{{NPAGE}}I stole...He will not{{NLINE}}come to harm while I{{NLINE}}draw breath
+{{TXTBX,06}}Deis{{NLINE}}"Whew!{{NPAGE}}I must be getting old{{NLINE}}if something like this{{NPAGE}}knocks the wind outta{{NLINE}}me!
+{{TXTBX,06}}Deis{{NLINE}}"You must be feeling{{NLINE}}your age as well...{{NPAGE}}Sister...
+{{TXTBX,05}}Nina{{NLINE}}"Ryu! Garr!
+{{TXTBX,05}}Nina{{NLINE}}"First Ryu...{{NPAGE}}then you, Garr, just{{NLINE}}disappeared like that!{{NLINE}}I was so frightened!{{NPAGE}}What happened? Did{{NLINE}}you see Deis? Did you{{NLINE}}meet God?
+{{TXTBX,06}}Garr{{NLINE}}"God is...very far{{NLINE}}away...{{NPAGE}}across the sea...
+{{TXTBX,06}}Garr{{NLINE}}"Looks like we'll{{NLINE}}be needing a boat
+You can use this to{{NLINE}}travel to where Deis{{NLINE}}resides...{{NPAGE}}Do you want to see{{NLINE}}Deis?{{CHOIC,5,0,Yes,No}}
+You can use this to{{NLINE}}travel to where Deis{{NLINE}}resides...{{NPAGE}}But she must be{{NLINE}}tired now and needs{{NLINE}}rest
+"You're finally going{{NLINE}}to meet God...{{NPAGE}}You'll have to decide{{NLINE}}what to do when you{{NLINE}}meet God, Ryu...
+"You're finally going{{NLINE}}to meet God...{{NPAGE}}You'll have to decide{{NLINE}}what to do when you{{NLINE}}meet God, Ryu...
+"You're finally going{{NLINE}}to meet God...{{NPAGE}}You'll have to decide{{NLINE}}what to do when you{{NLINE}}meet God, Ryu...
+"You're finally going{{NLINE}}to meet God...{{NPAGE}}You'll have to decide{{NLINE}}what to do when you{{NLINE}}meet God, Ryu...
+"You're finally going{{NLINE}}to meet God...{{NPAGE}}You'll have to decide{{NLINE}}what to do when you{{NLINE}}meet God, Ryu...
+"You're finally going{{NLINE}}to meet God...{{NPAGE}}You'll have to decide{{NLINE}}what to do when you{{NLINE}}meet God, Ryu...
+"You're finally going{{NLINE}}to meet God...{{NPAGE}}You'll have to decide{{NLINE}}what to do when you{{NLINE}}meet God, Ryu...
+"You're finally going{{NLINE}}to meet God...{{NPAGE}}You'll have to decide{{NLINE}}what to do when you{{NLINE}}meet God, Ryu...
+"Just a little more...{{NLINE}}Don't give up now!
+"My, my, Ryu...{{NLINE}}You've become quite{{NLINE}}the man, haven't you?{{NPAGE}}You should have no{{NLINE}}problem with the{{NLINE}}desert, eh?
+"You made it across{{NLINE}}the ocean, eh?{{NPAGE}}That's the spirit!{{NLINE}}Keep it up!
+"Look at how beat{{NLINE}}I am!{{NPAGE}}Don't you be slacking{{NLINE}}off now, hear?
+Come back and see{{NLINE}}me again sometime...{{NPAGE}}Good luck!
+"Well, well...What are{{NLINE}}you doing here? Did{{NLINE}}you miss me that much?
+You mean there's some-{{NLINE}}one who wants to learn{{NLINE}}from me?{{NPAGE}}OK, but only on one{{NLINE}}condition: you have to{{NLINE}}call me Ma'am{{CHOIC,1,1,Yes, ma'am,Yes, mighty mistress!}}
+...Wait a minute!{{NLINE}}You're all already my{{NLINE}}disciples!
+Are you making a joke?{{NPAGE}}Are you saying you've{{NLINE}}nothing to learn from{{NLINE}}me?{{CHOIC,2,0,Yes,No}}
+So, where's my{{NLINE}}disciple, eh?
+"Ho ho ho ho ho!{{NPAGE}}All right then, {{PRMTR,0}},{{NLINE}}I'll let you be my{{NLINE}}disciple!{{NPAGE}}You should know,{{NLINE}}though--I'm a harsh{{NLINE}}mistress! Hohohohoho!
+"Is there anyone else{{NLINE}}who wants to be my{{NLINE}}disciple?{{CHOIC,3,0,Yes,No}}
+"Fine! Quit! You must{{NLINE}}think you're really{{NLINE}}special, huh?
+"I don't suppose{{NLINE}}there's anyone else{{NLINE}}who thinks they{{NPAGE}}want to quit, is{{NLINE}}there?{{CHOIC,4,1,Yes,No}}
+Hmmmm...{{NLINE}}You've been making{{NLINE}}progress...{{NPAGE}}I suppose I should{{NLINE}}give you some kind{{NLINE}}of reward{{NPAGE}}Very well, I give{{NLINE}}you this!{{NPAGE}}{{PRMTR,0}} learned the{{NLINE}}spell {{COLRS,2}}{{PRMTR,1}}{{COLRE}}!!
+Who shall apprentice?
+Who wants to quit?
+Is this OK?                Yes No
+Do you want to quit?       Yes No

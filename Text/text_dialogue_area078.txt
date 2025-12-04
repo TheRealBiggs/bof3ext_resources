@@ -1,0 +1,224 @@
+{{TXTBX,05}}Balio{{NLINE}}"So...kids...{{NPAGE}}I hope this has{{NLINE}}shown you how the{{NLINE}}world works
+{{TXTBX,06}}Sunder{{NLINE}}"In the end...{{NPAGE}}It's people like us{{NLINE}}who get what they{{NLINE}}want, right bro?
+{{TXTBX,05}}Balio{{NLINE}}"The strong get what{{NLINE}}they want...{{NPAGE}}And the weak can't{{NLINE}}do anything about{{NLINE}}it...{{NPAGE}}Just like in the{{NLINE}}Contest of Champions
+Nina{{NLINE}}"So...if we enter the{{NLINE}}Contest and win...{{NPAGE}}we'll be strong, too,{{NLINE}}and we can get what{{NLINE}}we want--{{NPAGE}}to be set free!
+{{TXTBX,06}}Sunder{{NLINE}}"What!? {{PAUSE}}You want{{NLINE}}to enter the Contest!?
+{{TXTBX,06}}Sunder{{NLINE}}"We've been nice to{{NLINE}}you so far 'cause{{NPAGE}}you're worth a lot{{NLINE}}o' money to us, but{{NLINE}}there's a limit to{{NPAGE}}how far we can be{{NLINE}}pushed!
+{{TXTBX,06}}Sunder{{NLINE}}"Just give up and{{NLINE}}stop struggling...{{NPAGE}}We're gonna take care{{NLINE}}of everyone else,{{NPAGE}}but don't worry,{{NLINE}}Princess--we won't{{NLINE}}touch you
+Nina{{NLINE}}"No way!{{NPAGE}}Let us all go! I{{NLINE}}won't let you hurt{{NLINE}}anyone!{{NPAGE}}Let us enter the{{NLINE}}Contest!
+{{TXTBX,06}}Sunder{{NLINE}}"Uh-oh...They're all{{NLINE}}getting uppity, bro{{NPAGE}}We should get rid{{NLINE}}of 'em now
+{{TXTBX,05}}Balio{{NLINE}}"...{{PAUSE}}...{{PAUSE}}...Wait{{NLINE}}a minute, Sunder...{{NPAGE}}It might not be a{{NLINE}}bad idea after{{NLINE}}all...
+{{TXTBX,06}}Sunder{{NLINE}}"But...if they enter,{{NLINE}}there ain't no one{{NPAGE}}who'll think they{{NLINE}}can win...{{PAUSE}}Huh?{{NLINE}}Wait a sec...
+{{TXTBX,05}}Balio{{NLINE}}"Exactly, bro...{{NPAGE}}No one will bet on{{NLINE}}them...which means{{NPAGE}}that if they do{{NLINE}}win, we'll make that{{NLINE}}much more money...
+{{TXTBX,05}}Balio{{NLINE}}"All right, Princess,{{NLINE}}we'll let you enter{{NPAGE}}I'll even let you{{NLINE}}loose until the{{NLINE}}Contest starts{{NPAGE}}You can train, or{{NLINE}}buy weapons, or{{NLINE}}whatever you want
+{{TXTBX,05}}Balio{{NLINE}}"All right, Princess,{{NLINE}}we'll let you enter{{NPAGE}}I'll even let you{{NLINE}}loose until the{{NLINE}}Contest starts{{NPAGE}}You can train, or{{NLINE}}buy weapons, or{{NLINE}}whatever you want
+{{TXTBX,05}}Balio{{NLINE}}"All right, Princess,{{NLINE}}we'll let you enter{{NPAGE}}I'll even let you{{NLINE}}loose until the{{NLINE}}Contest starts{{NPAGE}}You can train, or{{NLINE}}buy weapons, or{{NLINE}}whatever you want
+{{TXTBX,05}}Balio{{NLINE}}"All right, Princess,{{NLINE}}we'll let you enter{{NPAGE}}I'll even let you{{NLINE}}loose until the{{NLINE}}Contest starts{{NPAGE}}You can train, or{{NLINE}}buy weapons, or{{NLINE}}whatever you want
+{{TXTBX,05}}Balio{{NLINE}}"All right, Princess,{{NLINE}}we'll let you enter{{NPAGE}}I'll even let you{{NLINE}}loose until the{{NLINE}}Contest starts{{NPAGE}}You can train, or{{NLINE}}buy weapons, or{{NLINE}}whatever you want
+{{TXTBX,05}}Balio{{NLINE}}"But don't even think{{NLINE}}about running away...{{NPAGE}}We've got the road{{NLINE}}guarded tight...{{NPAGE}}And we'll keep one{{NLINE}}of you here as a{{NLINE}}hostage
+{{TXTBX,06}}Sunder{{NLINE}}"Boy, you sure are{{NLINE}}clever, bro...{{NPAGE}}I never would've{{NLINE}}thought of that...{{NPAGE}}OK, so if we have{{NLINE}}Ryu and the Princess{{NLINE}}enter the Contest,{{NPAGE}}who stays behind{{NLINE}}as a hostage?{{CHOIC,0,1,Momo,}}
+{{TXTBX,05}}Balio{{NLINE}}"All right, then,{{NLINE}}it's decided...
+{{TXTBX,05}}Balio{{NLINE}}"All right, then,{{NLINE}}it's decided...
+{{TXTBX,06}}Balio{{NLINE}}"All right, Ryu{{NPAGE}}We're counting on{{NLINE}}you to put up a{{NLINE}}good fight for us{{NPAGE}}After all, you{{NLINE}}gave us enough{{NLINE}}trouble
+{{TXTBX,06}}Balio{{NLINE}}"If you lose, it's{{NLINE}}the end for you...{{NPAGE}}And you won't get away{{NLINE}}from us again--got it?
+Sunder{{NLINE}}"You want to change{{NLINE}}hostages?
+Sunder{{NLINE}}"OK, who stays?{{CHOIC,1,1,Momo,}}
+"Are you ready?{{CHOIC,5,0,Yes,Not yet}}
+"What? You want to{{NLINE}}change hostages?{{NPAGE}}Can't you make{{NLINE}}up your mind?
+Momo{{NLINE}}"Don't worry about{{NLINE}}me...{{NPAGE}}You can go on without{{NLINE}}me...{{NPAGE}}Even though they said{{NLINE}}they'll do {{SYM81}}{{SYM81}} and{{NLINE}}then {{SYM81}}{{SYM81}} to me,{{NPAGE}}and after that they'll{{NLINE}}{{SYM81}}{{SYM81}}{{SYM81}} me...I don't{{NLINE}}think they'll kill me{{NPAGE}}But what does {{SYM81}}{{SYM81}}{{NLINE}}and {{SYM81}}{{SYM81}}{{SYM81}} mean,{{NLINE}}anyway?
+Momo{{NLINE}}"Don't worry about{{NLINE}}me...{{NPAGE}}You can go on without{{NLINE}}me...{{NPAGE}}Even though they said{{NLINE}}they'll do {{SYM81}}{{SYM81}} and{{NLINE}}then {{SYM81}}{{SYM81}} to me,{{NPAGE}}and after that they'll{{NLINE}}{{SYM81}}{{SYM81}}{{SYM81}} me...I don't{{NLINE}}think they'll kill me{{NPAGE}}But what does {{SYM81}}{{SYM81}}{{NLINE}}and {{SYM81}}{{SYM81}}{{SYM81}} mean,{{NLINE}}anyway?
+{{NLINE}}"pukyu?{{NPAGE}}{{COLRS,6}}It's kind of odd to{{COLRE}}{{NLINE}}{{COLRS,6}}think of an onion{{COLRE}}{{NLINE}}{{COLRS,6}}as a hostage...{{COLRE}}
+"Who do you want{{NLINE}}to leave as a{{NLINE}}hostage?{{CHOIC,3,1,Nina,Momo}}
+"Who do you want{{NLINE}}to leave as a{{NLINE}}hostage?{{CHOIC,3,1,Nina,Momo}}
+"Who stays as a{{NLINE}}hostage, then?{{CHOIC,4,1,Nina,}}
+Sunder{{NLINE}}"Are you happy{{NLINE}}now!?
+Balio{{NLINE}}"Hurry up...{{NPAGE}}You never know{{NLINE}}when we might{{NLINE}}change our minds
+Balio{{NLINE}}"All right, then...{{NPAGE}}Ryu, Nina, and{{NLINE}}Momo are going to{{NLINE}}fight, right?{{CHOIC,5,0,Right,Wrong}}
+Balio{{NLINE}}"All right, then...{{NPAGE}}Ryu, Nina, and{{NLINE}} are going to{{NLINE}}fight, right?{{CHOIC,6,0,Right,Wrong}}
+Balio{{NLINE}}"OK, go tell Sunder{{NLINE}}you want to change{{NPAGE}}hostages, then...{{NLINE}}Just remember that{{NPAGE}}Ryu and Nina have{{NLINE}}to enter, OK?
+Balio{{NLINE}}"No good!{{NPAGE}}The Princess has{{NLINE}}to be in the{{NLINE}}Contest!{{NPAGE}}Go tell Sunder{{NLINE}}you want to{{NLINE}}change hostages
+"Let me know when{{NLINE}}you're ready...{{NPAGE}}I'll get you into{{NLINE}}the first match{{CHOIC,7,1,Ready,Thanks}}
+"Show us what you're{{NLINE}}made of...{{PAUSE}}{{NLINE}}little dragon
+"No one else believed{{NLINE}}a bunch of kids like{{NLINE}}you'd win, so thanks{{NPAGE}}to you, I made out{{NLINE}}pretty good...{{NLINE}}hee hee hee{{NPAGE}}Keep up the good{{NLINE}}work, eh?
+{{TXTBX,05}}Balio{{NLINE}}"You're the one who{{NLINE}}said you wanted to{{NPAGE}}enter the Contest,{{NLINE}}now aren't you,{{NLINE}}Princess?{{NPAGE}}Does this mean you're{{NLINE}}ready to face the{{NLINE}}music?
+{{TXTBX,06}}Sunder{{NLINE}}"What's up, bro?
+{{TXTBX,06}}Sunder{{NLINE}}"What's up, bro?
+{{TXTBX,06}}Sunder{{NLINE}}"What's up, bro?
+{{TXTBX,06}}Sunder{{NLINE}}"What's up, bro?
+{{TXTBX,06}}Sunder{{NLINE}}"What's up, bro?
+{{TXTBX,06}}Sunder{{NLINE}}"What's up, bro?
+{{TXTBX,06}}Sunder{{NLINE}}"What's up, bro?
+{{TXTBX,06}}Sunder{{NLINE}}"What's up, bro?
+{{TXTBX,06}}Sunder{{NLINE}}"What's up, bro?
+{{TXTBX,06}}Sunder{{NLINE}}"What's up, bro?
+{{TXTBX,06}}Sunder{{NLINE}}"What's up, bro?
+{{TXTBX,05}}Balio{{NLINE}}"Maybe it was the{{NLINE}}fight with Emitai...{{NPAGE}}But they're getting{{NLINE}}really popular...
+{{TXTBX,06}}Sunder{{NLINE}}"Maybe, but when I{{NLINE}}went to check on{{NPAGE}}them...They looked{{NLINE}}kinda depressed...
+{{TXTBX,06}}Sunder{{NLINE}}"I guess they know{{NLINE}}they won't win the{{NPAGE}}next one, eh?
+{{TXTBX,05}}Balio{{NLINE}}"That's right...{{NPAGE}}How could they,{{NLINE}}knowing they have to{{NLINE}}fight Garr next?{{NPAGE}}I feel a little{{NLINE}}sorry for the people{{NLINE}}betting on them, but{{NPAGE}}we're gonna make a{{NLINE}}lot o' money on{{NLINE}}this one
+{{TXTBX,06}}Sunder{{NLINE}}"Besides, once the{{NLINE}}Contest's over...{{NPAGE}}We can do whatever{{NLINE}}we want with them,{{NLINE}}right, bro?
+"Finally over? Has{{NLINE}}everyone left then?
+"Finally over? Has{{NLINE}}everyone left then?
+"Finally over? Has{{NLINE}}everyone left then?
+"Finally over? Has{{NLINE}}everyone left then?
+"Finally over? Has{{NLINE}}everyone left then?
+"Finally over? Has{{NLINE}}everyone left then?
+"arggggggggggggg!{{NLINE}}I can't wait until{{NLINE}}next year!
+"The Contest of{{NLINE}}Champions is over!{{NLINE}}Thanks for coming!
+"Garr won! No{{NLINE}}mistake about it!{{NPAGE}}'Course I'm sure--{{NLINE}}it's over
+"This way to the{{NLINE}}exit
+"Thank you...{{NLINE}}Please come again
+"Time to get back{{NLINE}}to my real job...{{NPAGE}}Of course, we'll{{NLINE}}be cleaning up for{{NLINE}}a while though...
+"You guys were{{NLINE}}pretty good, you{{NLINE}}know!{{NPAGE}}Good luck next{{NLINE}}year!
+"You may have lost{{NLINE}}but you put up a{{NLINE}}good fight!
+"The arena's going{{NLINE}}to be shut down for{{NLINE}}a while
+"Is it true that{{NLINE}}Garr picked you{{NLINE}}as his prize?{{NPAGE}}What does he want{{NLINE}}with a bunch of{{NLINE}}kids, anyway?
+"If I won, I'd ask for{{NLINE}}a lot of money...{{NPAGE}}I mean, it's a lot{{NLINE}}harder to make money{{NLINE}}than kids, right?
+It's probably not{{NLINE}}worth it to go{{NLINE}}in there...
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+That's not the{{NLINE}}right way!
+{{TXTBX,06}}Garr{{NLINE}}"These kids are mine{{NLINE}}now, right?{{NPAGE}}I'm taking them with{{NLINE}}me
+Garr{{NLINE}}"I can do whatever{{NLINE}}I want with something{{NPAGE}}that's mine, right?{{NLINE}}All right, kids...{{NLINE}}{{PAUSE}}you can all go now
+Nina{{NLINE}}"I wanna go home...
+Nina{{NLINE}}"Really? We can{{NLINE}}leave!?
+Garr{{NLINE}}"So that's that
+{{TXTBX,06}}Sunder{{NLINE}}"Hey, bro...{{NLINE}}What's going on?
+Balio{{NLINE}}"Beats me!{{NPAGE}}I don't know what{{NLINE}}Garr is up to...
+{{TXTBX,06}}Sunder{{NLINE}}"Do you think Garr{{NLINE}}has turned on us?
+Balio{{NLINE}}"If so...Things could{{NLINE}}get a little messy
+Balio{{NLINE}}"We can't just{{NLINE}}let them go...{{NPAGE}}Not after all they{{NLINE}}put us through...
+Balio{{NLINE}}"Fah! Get out of{{NLINE}}here! Get lost!
+Sunder{{NLINE}}"Go away! Ya bother{{NLINE}}me, kid!
+{{TXTBX,05}}Nina{{NLINE}}"Why did you help{{NLINE}}us, Mr. Garr?
+{{TXTBX,06}}Garr{{NLINE}}"Humph...{{PAUSE}}Because...{{NPAGE}}there's an ancient{{NLINE}}race that possesses{{NLINE}}an indomitable power,{{NPAGE}}called the Brood...{{NLINE}}I helped you{{NLINE}}because Ryu...
+{{TXTBX,06}}Garr{{NLINE}}"Ryu...is Brood...
+{{TXTBX,05}}Garr{{NLINE}}"Ryu...{{NPAGE}}I won't ask for{{NLINE}}anything in return...{{NPAGE}}But if you want to know{{NLINE}}more about your kind,{{NLINE}}the Brood...
+{{TXTBX,05}}Garr{{NLINE}}"There's a place{{NLINE}}east of here called{{NPAGE}}Angel Tower...Go{{NLINE}}there--I'll be waiting{{NLINE}}for you
+"I, I bet on{{NLINE}}Muchi...I wonder if{{NLINE}}I'll win...?
+"I, I bet on{{NLINE}}Muchi...I wonder if{{NLINE}}I'll win...?
+"Hmmm...I bet on{{NLINE}}Emitai...{{NPAGE}}Win a few, lose a{{NLINE}}few, eh? That's{{NLINE}}gambling!
+"This is the Arena{{NLINE}}of Kings...{{NPAGE}}Where team leaders{{NLINE}}fight in a one-{{NLINE}}on-one battle--{{NPAGE}}No tricks, no help,{{NLINE}}no teammates, just{{NLINE}}man-to-man action!
+"If you win here...{{NPAGE}}You're the Ultimate{{NLINE}}Champion!
+"Have you seen the{{NLINE}}Dodai that work here?{{NPAGE}}I wouldn't be able{{NLINE}}to get in the lava{{NLINE}}like that!
+"I wonder how many{{NLINE}}people'll get burned{{NLINE}}this year...{{NPAGE}}hee hee hee hee
+"Fighters in the Hall{{NLINE}}of Fire can attack{{NPAGE}}their opponent's{{NLINE}}platform...{{NPAGE}}If a fighter loses{{NLINE}}his platform, then{{NLINE}}he loses the fight!
+"This is the Hall{{NLINE}}of Fire!{{NPAGE}}Here fighters from{{NLINE}}each team fight in{{NPAGE}}a dynamic, one-on-one{{NLINE}}single elimination{{NLINE}}battle!
+"See, in this place,{{NLINE}}you fight on these{{NLINE}}platforms held up{{NPAGE}}by people called the{{NLINE}}{{COLRS,2}}Dodai{{COLRE}}...so little{{NPAGE}}folks like you might{{NLINE}}have an advantage...
+"Garr's the top{{NLINE}}seed again this{{NLINE}}year...natch!
+"I heard this year{{NLINE}}there's some kids{{NLINE}}entering the Contest{{NPAGE}}I can't believe it!{{NLINE}}The Contest should{{NLINE}}be for men only!{{NPAGE}}Man versus man,{{NLINE}}skill versus skill,{{NLINE}}that's what it's about
+"You're going to{{NLINE}}fight here?{{NPAGE}}Then make sure you get{{NLINE}}a good Dodai
+"The Hall of Fire{{NLINE}}has the best fights{{NLINE}}and the best finishes!{{NPAGE}}I mean, if you fall,{{NLINE}}you're in the lava,{{NLINE}}right?
+"Unlike the other{{NLINE}}arenas, there are{{NLINE}}no special rules here{{NPAGE}}The team leaders go{{NLINE}}at it one-on-one--{{NLINE}}that's a real fight!
+"Competitors don't get{{NLINE}}to choose the arena{{NLINE}}they fight in...{{NPAGE}}So sometimes even{{NLINE}}magic-users have to{{NPAGE}}fight in the Null{{NLINE}}Magic Hall...
+"This is the ready{{NLINE}}room for the Null{{NLINE}}Magic Hall{{NPAGE}}'Course, they're{{NLINE}}connected in the{{NLINE}}middle
+"Maybe I'll take a{{NLINE}}chance and bet on{{NLINE}}that Ryu fellow...
+"Deathmask versus{{NLINE}}Kenichi? I don't{{NLINE}}know...{{NPAGE}}Maybe I'll bet on a{{NLINE}}different match...
+"I put all my money{{NLINE}}on Patrio's team!!{{NPAGE}}Gooooo Patrioooooo!{{NLINE}}Gooooo!!
+"There's no way a{{NLINE}}bunch of kids'll win!{{NPAGE}}I'm putting 1000{{NLINE}}zenny on Patrio!
+"They wouldn't let{{NLINE}}just any kids enter!{{NPAGE}}There's gotta be{{NLINE}}something behind{{NLINE}}it!
+"{{CHRTR}}, your first{{NLINE}}fight is in the{{NLINE}}Hall of Fire,{{NPAGE}}versus the Patrio{{NLINE}}Team--good luck!
+"I, I won!{{NLINE}}I hit the jackpot!
+"Kenichi's team{{NLINE}}looks pretty strong{{NPAGE}}But they won't be{{NLINE}}able to beat Garr
+"I lost!{{NLINE}}arggggggggggghhhhhhhh!
+"Luck! They were{{NLINE}}lucky! Won't happen{{NLINE}}again!{{NPAGE}}I'm betting on{{NLINE}}Emitai!
+"I should've bet{{NLINE}}on the kids!{{NPAGE}}But next they're{{NLINE}}up against Emitai...{{NPAGE}}Hmmm...That'll be{{NLINE}}a tough fight
+"Ah, Ryu!{{NPAGE}}Your second fight{{NLINE}}is against the{{NLINE}}Emitai Team,{{NPAGE}}in the Null{{NLINE}}Magic Hall
+"I'm betting on{{NLINE}}Ryu again!
+"Even if Emitai{{NLINE}}couldn't use his{{NLINE}}magic,{{NPAGE}}it's still amazing{{NLINE}}he was defeated!{{NPAGE}}Maybe those kids're{{NLINE}}for real...?
+"How can a kid{{NLINE}}make it to the{{NLINE}}finals!?{{NPAGE}}It's rigged I{{NLINE}}tell you! Rigged!
+"Stop yelling so{{NLINE}}much! Why don't you{{NLINE}}bet on Ryu next?
+"The Final Match{{NLINE}}will take place in{{NLINE}}the Hall of Kings!
+"Did you see the{{NLINE}}way Garr fought?{{NLINE}}It was amazing!
+"I can't believe{{NLINE}}how strong Garr is--{{NPAGE}}taking on three{{NLINE}}people like that!
+"I'm glad I bet{{NLINE}}on Garr!
+"Did you see what{{NLINE}}happened to Kenichi{{NLINE}}and his team?
+"Kenichi didn't even{{NLINE}}have time to go{{NLINE}}after Garr's platform
+"This way to the{{NLINE}}ready room for the{{NLINE}}Hall of Kings...{{NPAGE}}Contestants only,{{NLINE}}please
+"This way to the{{NLINE}}ready room for the{{NLINE}}Hall of Kings...{{NPAGE}}Contestants only,{{NLINE}}please
+"This way to the{{NLINE}}ready room for the{{NLINE}}Hall of Kings...{{NPAGE}}Contestants only,{{NLINE}}please
+"This way to the{{NLINE}}ready room for the{{NLINE}}Hall of Kings...{{NPAGE}}Contestants only,{{NLINE}}please
+"This way to the{{NLINE}}ready room for the{{NLINE}}Hall of Kings...{{NPAGE}}Contestants only,{{NLINE}}please
+"Contestants for the{{NLINE}}Hall of Fire this{{NLINE}}way please...{{NPAGE}}What, are you{{NLINE}}fighting?
+"Deathmask versus{{NLINE}}Kenichi...?{{NPAGE}}Neither of 'em{{NLINE}}will be able to{{NLINE}}beat Garr...
+"Emitai's a {{NLINE}}wizard, right?{{NPAGE}}What's he gonna do{{NLINE}}in the Null Magic{{NLINE}}Hall?
+"You guys lucked{{NLINE}}out, eh? Getting{{NLINE}}to fight a wizard{{NPAGE}}in the Null Magic{{NLINE}}Hall!
+"Garr entered all{{NLINE}}by himself, even{{NLINE}}though it's a{{NPAGE}}team-based tournament!{{NPAGE}}That's the Champ{{NLINE}}for ya!
+"Too bad...{{NPAGE}}Even all three of{{NLINE}}you together{{NLINE}}couldn't beat Garr...
+"Your next match is in{{NLINE}}the Hall of Kings{{NPAGE}}Well, you had a{{NLINE}}good run until{{NLINE}}now...
+"This is the Null{{NLINE}}Magic Hall!{{NPAGE}}Where real men fight--{{NLINE}}no magic allowed!!
+"Of course Deathmask{{NLINE}}is gonna win!{{NPAGE}}How could he lose{{NLINE}}against someone like{{NLINE}}Kenichi!?
+"Humph! Who's this{{NLINE}}Deathmask character?{{NPAGE}}Kenichi's got Chomoi{{NLINE}}and Galypaw to back{{NLINE}}him up!
+"There aren't many{{NLINE}}people here now, but{{NLINE}}once the battles{{NPAGE}}start, it'll fill{{NLINE}}up real quick!
+"Let's see...The{{NLINE}}winners of the first{{NLINE}}match will be...{{NPAGE}}Patrio's Team{{NLINE}}Emitai's Team, and{{NLINE}}Kenichi's Team!
+"Ticket holders this{{NLINE}}way please...
+"I'm sorry, but{{NLINE}}there are no tickets{{NLINE}}on sale today{{NPAGE}}Reserved seating{{NLINE}}only
+"I'm actually the{{NLINE}}manager here...{{NPAGE}}But Balio and Sunder{{NLINE}}took over, and they{{NLINE}}have me working the{{NPAGE}}ticket lines...{{NLINE}}Would you like a{{NLINE}}pamphlet?
+"Ha ha ha ha ha{{NLINE}}Emitai won...{{NPAGE}}Ha ha ha ha ha{{NLINE}}I can't stop laughing!
+"I lost...{{NLINE}}I lost all my{{NLINE}}money...
+"Kenichi not worth{{NLINE}}anything!{{NPAGE}}How's he gonna win{{NLINE}}against Garr!?
+"So much for{{NLINE}}Deathmask! Ha!
+"Let's see...{{NLINE}}The next match's{{NLINE}}winners will be...{{NPAGE}}Garr, and{{NLINE}}Emitai!{{NPAGE}}No mistake!
+"You're pretty strong,{{NLINE}}aren't you?{{NPAGE}}I didn't think{{NLINE}}you'd actually win
+"Garr's next, huh?{{NPAGE}}I bet he knocks his{{NLINE}}opponent straight{{NLINE}}into the lava!
+"I bet it was easy{{NLINE}}for the Dodai to{{NLINE}}hold kids like you up
+"I bet Garr won't{{NLINE}}have any trouble{{NLINE}}with Kenichi!
+"I feel sorry for{{NLINE}}the Dodai...{{NPAGE}}How do they hold{{NLINE}}someone as big as{{NLINE}}Garr up like that?
+"Hear you have to{{NLINE}}fight Garr in the{{NLINE}}Finals...{{NPAGE}}Well, good luck!
+"I'm betting on you{{NLINE}}for the next match!{{NPAGE}}So please win,{{NLINE}}please
+"You mean they weren't{{NLINE}}able to beat Garr{{NLINE}}even three-on-one!?{{NPAGE}}That's the Kenichi{{NLINE}}team for you!
+"Can't be helped--{{NLINE}}look who they were{{NLINE}}fighting!
+"The winner of the{{NLINE}}Final will be...Ryu!{{NPAGE}}Definitely! No doubt{{NLINE}}about it!

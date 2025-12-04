@@ -1,0 +1,2 @@
+{{TXTBX,81}} {{NLINE}}"Chrysm Beam"{{NPAGE}}When chrysm ore is{{NLINE}}subjected to high{{NLINE}}pressure, it emits{{NPAGE}}a highly charged{{NLINE}}beam of light...{{NPAGE}}This is called a{{NLINE}}'chrysm beam', and{{NPAGE}}has many useful{{NLINE}}applications
+ {{NLINE}}"Chrysm Beam"{{NPAGE}}When chrysm ore is{{NLINE}}subjected to high{{NLINE}}pressure, it emits{{NPAGE}}a highly charged{{NLINE}}beam of light...{{NPAGE}}This is called a{{NLINE}}'chrysm beam', and{{NPAGE}}has many useful{{NLINE}}applications

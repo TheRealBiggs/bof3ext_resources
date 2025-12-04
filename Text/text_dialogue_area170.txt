@@ -1,0 +1,35 @@
+It's locked...{{NLINE}}Maybe Rei would{{NLINE}}be able to pick it...
+It's the switch for{{NLINE}}the lift...{{NLINE}}Do you press it?{{CHOIC,0,0,Yes,No}}
+It's the switch for{{NLINE}}the lift...{{NLINE}}Do you press it?{{CHOIC,1,0,Yes,No}}
+It's the switch for{{NLINE}}the lift...{{NLINE}}Do you press it?{{CHOIC,2,0,Yes,No}}
+Please board the lift.
+ {{NLINE}}{{SOUND,0A}}{{COLRS,2}}Gas Experiment{{COLRE}}{{SOUND,0C}}{{NPAGE}}Experiment with sleep{{NLINE}}gas underway.{{NPAGE}}Stop gas before{{NLINE}}entering room.
+The floor is flashing{{NLINE}}with sparks and looks{{NLINE}}dangerous...{{NPAGE}}Do you go in?{{CHOIC,3,0,Yes,No}}
+The floor is flashing{{NLINE}}with sparks and looks{{NLINE}}dangerous...{{NPAGE}}Do you go in?{{CHOIC,3,0,Yes,No}}
+The floor is flashing{{NLINE}}with sparks and looks{{NLINE}}dangerous...{{NPAGE}}Do you go in?{{CHOIC,3,0,Yes,No}}
+The floor is flashing{{NLINE}}with sparks and looks{{NLINE}}dangerous...{{NPAGE}}Do you go in?{{CHOIC,3,0,Yes,No}}
+The floor is flashing{{NLINE}}with sparks and looks{{NLINE}}dangerous...{{NPAGE}}Do you go in?{{CHOIC,3,0,Yes,No}}
+Shock Panel{{NLINE}}Settings Monitor{{NPAGE}}Set which panel has{{NLINE}}a current by aligning{{NLINE}}the pluses and minuses
+Shock Panel{{NLINE}}Settings Monitor{{NPAGE}}Set which panel has{{NLINE}}a current by aligning{{NLINE}}the pluses and minuses
+Shock Panel{{NLINE}}Settings Monitor{{NPAGE}}Set which panel has{{NLINE}}a current by aligning{{NLINE}}the pluses and minuses
+ {{NLINE}}{{COLRS,2}}Shock Experiment Area{{COLRE}}{{NPAGE}}Use the 3 monitors to{{NLINE}}set which panels carry{{NLINE}}a current.{{NPAGE}}Danger: don't enter{{NLINE}}area while panels are{{NLINE}}active!
+You found{{NLINE}}{{COLRS,2}}HE Shells{{COLRE}}{{NPAGE}}Momo can use them to{{NLINE}}destroy plant life
+You found{{NLINE}}{{COLRS,2}}HE Shells{{COLRE}}{{NPAGE}}Momo can use them to{{NLINE}}destroy plant life
+You found{{NLINE}}{{COLRS,2}}HE Shells{{COLRE}}{{NPAGE}}Momo can use them to{{NLINE}}destroy plant life
+You found{{NLINE}}{{COLRS,2}}HE Shells{{COLRE}}{{NPAGE}}Momo can use them to{{NLINE}}destroy plant life
+You found{{NLINE}}{{COLRS,2}}HE Shells{{COLRE}}{{NPAGE}}Momo can use them to{{NLINE}}destroy plant life
+You found{{NLINE}}{{COLRS,2}}HE Shells{{COLRE}}{{NPAGE}}Momo can use them to{{NLINE}}destroy plant life
+You found{{NLINE}}{{COLRS,2}}HE Shells{{COLRE}}{{NPAGE}}Momo can use them to{{NLINE}}destroy plant life
+You found{{NLINE}}{{COLRS,2}}HE Shells{{COLRE}}{{NPAGE}}Momo can use them to{{NLINE}}destroy plant life
+You found{{NLINE}}{{COLRS,2}}HE Shells{{COLRE}}{{NPAGE}}Momo can use them to{{NLINE}}destroy plant life
+You found{{NLINE}}{{COLRS,2}}HE Shells{{COLRE}}{{NPAGE}}Momo can use them to{{NLINE}}destroy plant life
+You found{{NLINE}}{{COLRS,2}}HE Shells{{COLRE}}{{NPAGE}}Momo can use them to{{NLINE}}destroy plant life
+You found{{NLINE}}{{COLRS,2}}HE Shells{{COLRE}}{{NPAGE}}Momo can use them to{{NLINE}}destroy plant life
+You found{{NLINE}}{{COLRS,2}}HE Shells{{COLRE}}{{NPAGE}}Momo can use them to{{NLINE}}destroy plant life
+You found{{NLINE}}{{COLRS,2}}HE Shells{{COLRE}}{{NPAGE}}Momo can use them to{{NLINE}}destroy plant life
+You found{{NLINE}}{{COLRS,2}}HE Shells{{COLRE}}{{NPAGE}}Momo can use them to{{NLINE}}destroy plant life
+You found{{NLINE}}{{COLRS,2}}HE Shells{{COLRE}}{{NPAGE}}Momo can use them to{{NLINE}}destroy plant life
+You found{{NLINE}}{{COLRS,2}}HE Shells{{COLRE}}{{NPAGE}}Momo can use them to{{NLINE}}destroy plant life
+You found{{NLINE}}{{COLRS,2}}HE Shells{{COLRE}}{{NPAGE}}Momo can use them to{{NLINE}}destroy plant life
+You found{{NLINE}}{{COLRS,2}}HE Shells{{COLRE}}{{NPAGE}}Momo can use them to{{NLINE}}destroy plant life
+You found{{NLINE}}{{COLRS,2}}HE Shells{{COLRE}}{{NPAGE}}Momo can use them to{{NLINE}}destroy plant life

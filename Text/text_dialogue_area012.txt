@@ -1,0 +1,17 @@
+{{TXTBX,05}}Garr{{NLINE}}"You want to go alone?
+{{TXTBX,05}}Garr{{NLINE}}"You want to go alone?
+{{TXTBX,05}}Garr{{NLINE}}"Hmmm...{{NPAGE}}It's my guess{{NLINE}}you know something{{NLINE}}about that tiger...{{NPAGE}}In that case, I'll{{NLINE}}wait for you here.
+"I don't think you'll{{NLINE}}have any problem,{{NLINE}}but watch yourself
+{{TXTBX,06}}Rei{{NLINE}}"{{PAUSE}}...{{PAUSE}}...Ryu?{{NLINE}}Is that you?
+{{TXTBX,06}}Rei{{NLINE}}"Was that you...{{NLINE}}on Ogre Road?
+{{TXTBX,06}}Rei{{NLINE}}"Ha...{{PAUSE}} ha ha ha ha!{{NLINE}}So that was you!?{{NPAGE}}ha ha ha ha ha ha!
+{{TXTBX,06}}Rei{{NLINE}}"Doesn't that beat all{{NPAGE}}I never imagined I'd{{NLINE}}get beat by you,{{NLINE}}Ryu!{{NPAGE}}I wasn't holding{{NLINE}}back at all!
+{{TXTBX,06}}Rei{{NLINE}}"Still...I mean...{{NPAGE}}It's nice to know{{NLINE}}you're OK, Ryu{{NLINE}}I mean, I thought...
+{{TXTBX,06}}Rei{{NLINE}}"On the far end of{{NLINE}}Ogre Road,{{NPAGE}}there's a black market{{NPAGE}}The guys who tried to{{NLINE}}kill us--the ones{{NLINE}}working with McNeil--{{NPAGE}}came from there...
+{{TXTBX,06}}Rei{{NLINE}}"It took me a while,{{NPAGE}}but I finally tracked{{NLINE}}them down... I kept an{{NLINE}}eye on who went in and{{NPAGE}}out of the black market{{NLINE}}from the road
+{{TXTBX,06}}Rei{{NLINE}}"I kept on{{NLINE}}attacking them...{{NPAGE}}I thought I would{{NLINE}}avenge you and Teepo,{{NPAGE}}but look how I ended{{NLINE}}up...
+{{TXTBX,06}}Rei{{NLINE}}"I feel a little{{NLINE}}better now...{{NPAGE}}knowing that at{{NLINE}}least you're alive{{NLINE}}and well...
+{{TXTBX,06}}Rei{{NLINE}}"But I can't stop!{{NPAGE}}Not until I teach{{NLINE}}those guys not to{{NLINE}}mess with me...{{NPAGE}}or my family!
+Garr{{NLINE}}"What happened to the{{NLINE}}man-eating tiger?
+Garr{{NLINE}}"To the village...?
+"tweet!"

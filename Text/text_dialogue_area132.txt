@@ -1,0 +1,35 @@
+{{TXTBX,06}}Beyd{{NLINE}}"Engine steady...{{NPAGE}}Set course for{{NLINE}}Rhapala!
+{{TXTBX,06}}Beyd{{NLINE}}"Engine steady...{{NPAGE}}Set course for{{NLINE}}Rhapala!
+{{TXTBX,43}}"Aye, sir!
+{{TXTBX,06}}Beyd{{NLINE}}"Before I can give{{NLINE}}you the boat,{{NPAGE}}we need to return{{NLINE}}to Rhapala
+{{TXTBX,06}}Beyd{{NLINE}}"Until then...Well,{{NLINE}}it's a small boat,{{NPAGE}}but please make{{NLINE}}yourselves comfortable
+"We'll be able to{{NLINE}}see the Rhapala{{NLINE}}lighthouse soon...{{NPAGE}}Don't worry--we{{NLINE}}won't hit anything
+"By the way, what{{NLINE}}do you need a boat{{NLINE}}for...?{{NPAGE}}Never mind--tell me{{NLINE}}after we get to{{NLINE}}Rhapala...
+"The Guildmaster's{{NLINE}}become quite the{{NLINE}}sailor...{{NPAGE}}Master Beyd used to be{{NLINE}}a bookkeeper, so it{{NPAGE}}took him a while{{NLINE}}to get his sea legs
+"I don't know if we{{NLINE}}can make it across{{NLINE}}the sea in this boat
+"What do you think?{{NLINE}}Do I know how to make{{NLINE}}repairs or what?
+"It shakes a lot,{{NLINE}}doesn't it?
+"pukyuuusuuuuu
+"It feels good to be{{NLINE}}on the ocean, doesn't{{NLINE}}it, Ryu?
+{{TXTBX,05}}Beyd{{NLINE}}"Now that I think{{NLINE}}about it...{{NPAGE}}No one told me how{{NLINE}}the boat was damaged{{NLINE}}this time...?
+{{TXTBX,06}}Sailor{{NLINE}}"Uh, well, uh,...{{NLINE}}You see...{{NPAGE}}You know about the{{NLINE}}{{COLRS,2}}Black Ship{{COLRE}}, sir?
+Nina{{NLINE}}"Maybe if we go all{{NPAGE}}the way across the{{NLINE}}sea...{{NPAGE}}We can learn{{NLINE}}everything about the{{NLINE}}Brood...{{NPAGE}}and about you, Ryu...
+{{TXTBX,05}}Beyd{{NLINE}}"Black Ship...You mean{{NPAGE}}that large ship you{{NLINE}}can sometimes see off{{NLINE}}in the distance?
+{{TXTBX,06}}Sailor{{NLINE}}"You may not believe{{NLINE}}this, sir, but...{{NPAGE}}The Black Ship was{{NLINE}}here, in the Middle{{NLINE}}Sea, sir!
+Nina{{NLINE}}"Huh? What's that...?
+Nina{{NLINE}}"Looks like it's{{NLINE}}coming this way...{{NPAGE}}{{PAUSE}}...{{PAUSE}}...A ship?
+{{TXTBX,06}}Sailor{{NLINE}}"It came out of{{NLINE}}nowhere...{{NPAGE}}Right in front of{{NLINE}}us...We couldn't{{NLINE}}avoid it...
+{{TXTBX,05}}Beyd{{NLINE}}"Impossible...{{NPAGE}}The Black Ship has{{NLINE}}only been seen on the{{NLINE}}Outer Sea...{{NPAGE}}It can't navigate the{{NLINE}}shallow waters of the{{NLINE}}Middle Sea!
+Nina{{NLINE}}"It's gone...{{NPAGE}}I wonder what it{{NLINE}}was...?
+{{TXTBX,06}}Sailor{{NLINE}}"It's drifting, sir,{{NLINE}}she is...{{NPAGE}}Doesn't look like{{NLINE}}there's anyone on{{NLINE}}board, either...
+{{TXTBX,05}}Beyd{{NLINE}}"If that's true, we{{NLINE}}should check it out{{NPAGE}}It could be a{{NLINE}}threat to our{{NLINE}}shipping lanes...
+{{TXTBX,03}}Sailor{{NLINE}}"Sir, we're home...{{NLINE}}It's Rhapala
+Momo{{NLINE}}"...The...Black...{{NLINE}}Ship?{{DURTN,48}}
+{{TXTBX,05}}Kukuys{{NLINE}}"Yes, you know it as{{NLINE}}the Black Ship...{{DURTN,80}}
+{{TXTBX,05}}Kukuys{{NLINE}}"It's a large ocean-{{NLINE}}going transport...{{DURTN,64}}
+{{TXTBX,05}}Kukuys{{NLINE}}"If you could get{{NLINE}}aboard it somehow...{{DURTN,80}}
+Momo{{NLINE}}"I only said it MIGHT{{NLINE}}work!{{DURTN,64}}
+Momo{{NLINE}}"I doubt this will{{NLINE}}work...{{NPAGE}}But here goes...
+Momo{{NLINE}}"See!{{NPAGE}}I don't think we can{{NLINE}}stop it that way...
+{{TXTBX,05}}Garr{{NLINE}}"Hey! Something's{{NLINE}}moving!
+{{TXTBX,06}}Nina{{NLINE}}"Zig! Get us out of{{NLINE}}here! Quick!

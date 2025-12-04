@@ -1,0 +1,308 @@
+Anything here...?
+Nothing!
+You found:{{NLINE}}{{PRMTR,0}}
+You found:{{NLINE}}{{PRMTR,0}}{{NPAGE}}But you can't carry{{NLINE}}anything else!
+Smells burnt...
+You got {{PRMTR,0}} zenny!
+You see lots of books.
+Locked!
+Status
+Items
+Equip
+Ability
+Tactics
+Config
+Camp
+                                Yes   No
+Not available on this CD-ROM.
+You don't need any more rest.
+{{PRMTR,0}}'s status
+Use an item
+Organize items
+Discards an item
+View important items
+Select a window to sort
+Choose what to sort
+Use {{PRMTR,0}} on...
+Really discard {{PRMTR,0}}?
+Load
+Save
+Do you want to save?
+Remove equipment from {{PRMTR,0}}
+Change formation during combat
+Change party members
+Can't change party members here
+Equip party member
+Optimize equipment
+{{PRMTR,0}}'s equipment
+Optimize equipment for {{PRMTR,0}}
+View genes
+No. carried
+No. equipped
+Equip for speed
+Remove equipment
+Equip {{PRMTR,0}} for speed
+Use special ability
+Sort special abilities
+Return skill to Skill Notes
+Special abilities of {{PRMTR,0}}
+Cast {{PRMTR,0}} on...
+Record in Skill Notes?
+View master's profile
+Profile of {{PRMTR,0}}
+Master:{{PRMTR,0}}
+Not enough Skill Ink!
+Use Skill Ink?
+Equip {{PRMTR,0}}
+Equip {{PRMTR,0}}
+Equip {{PRMTR,0}}
+Equip {{PRMTR,0}}
+Change party formation
+Normal
+Normal
+Normal
+Attack
+Defense
+Chain
+Magic
+Refuge
+Select formation
+Buy an item
+Buy an item
+Sell an item
+Buy how many?
+Buy {{PRMTR,0}}?
+Equip {{PRMTR,0}}?
+Equip whom with {{PRMTR,0}}?
+Equip which Accessory?
+Equipped {{PRMTR,0}}
+Can't hold any more items!
+Sold {{PRMTR,0}}
+Can't sell {{PRMTR,0}}!
+Sell how many?
+Sell {{PRMTR,0}}?
+You may change party members
+You may change party members
+You may change party members
+You may change party members
+You may change party members
+You may change party members
+You may change party members
+You may change party members
+You may change party members
+You may change party members
+You may change party members
+You may change party members
+You may change party members
+You may change party members
+{{PRMTR,0}} can't be removed
+Who do you want to inoculate?
+Who do you want to inoculate?
+Any more would be dangerous.
+Raises flame attack resistance
+Raises frost attack resistance
+Raises electric attack resistance
+Raises earth attack resistance
+Raises wind attack resistance
+Raises ability-magic resistance
+Raises status change resistance
+Raises death attack resistance
+Is this what you want?
+Sorry, not enough zenny.
+Ready? Here we go!
+ouch!
+That wasn't so bad, was it?
+That's all! Take care!
+Check Skill Notes contents
+Change skill
+Skills: {{PRMTR,0}}
+No special effects.
+No special effects.
+Point member's Power is raised
+All members' Defense is raised
+All Speeds@Point member's Speed
+Rear member's Magic is raised
+HP recoved each turn
+Memory Card
+Memory Card
+Memory Card
+Memory Card
+Memory Card
+Memory Card
+Memory Card
+Memory Card
+Memory Card
+Create new file
+Cancel
+No Memory Card inserted
+Memory Card Unformatted
+No file
+Memory Card is full
+Can't create new file
+Formatting failed!
+Error; please try again
+Save complete
+Create file
+Format Memory Card?
+Continue?
+Yes
+No
+Formatting complete
+File created
+No save file found
+Save: Which Memory Card?
+Saving...
+Formatting...
+Creating file...
+Checking Memory Card...
+Save to which file?
+Checking file...
+OK to overwrite?
+Rest?
+It's {{PRMTR,0}} zenny a night to stay.
+Sorry, not enough zenny.
+Fill out ledger?
+Good night...Sleep tight!
+Please come again.
+NEW GAME
+LOAD GAME
+Checking Memory Card...
+Memory Card
+Load from which card?
+Checking file...
+Load which file?
+Loading file...
+Yes
+No
+Loading...
+Loading complete
+No Memory Card inserted
+Memory Card Unformatted
+Can't open file!
+Memory Card is full!
+Error; please try again
+No file
+File is damaged
+Load game?
+Please choose a name
+Default name: Ryu
+Close Config
+Reset to defaults
+Set message speed
+Set window color
+Set background
+Set stereo/mono output
+Set walk/run
+Set buttons
+Talk/examine
+Run when held down
+Performs action
+Opens subscreen
+Changes viewpoint
+Changes party order
+Walk when held down
+What do you want to do?
+What do you want to do?
+What do you want to do?
+What do you want to do?
+What do you want to do?
+What do you want to do?
+What do you want to do?
+Rest
+Save
+Exit
+Good morning...{{NLINE}}Save?{{CHOIC,128,0,Yes,No}}
+Memory Card is full!{{NLINE}}At least 1 open block{{NLINE}}is needed to save.
+Memory Card is full!{{NLINE}}At least 1 open block{{NLINE}}is needed to save.
+No Memory Card inserted.{{NLINE}}Capcom recommends the{{NLINE}}use of a Memory Card
+You were stung by a{{NLINE}}caterpillar!
+No items
+{{COLRS,6}}{{SYM82}}{{COLRE}}button@End
+{{COLRS,6}}{{SYM82}}{{COLRE}}button@End
+{{COLRS,6}}{{SYM82}}{{COLRE}}button@Cancel
+Flameblock
+Frostblock
+Thunderblock
+Earthblock
+Windblock
+Mindblock
+Changeblock
+Deathblock
+RESULTS
+RESULTS
+Successful blocks
+Damage received
+Damage dealt
+Defense
+MAXHP
+Power
+Power
+Point(s)
+Hit(s)
+I feel something...{{NLINE}}Something incredibly{{NLINE}}powerful...The Brood?
+I feel something...{{NLINE}}Something incredibly{{NLINE}}powerful...The Brood?
+I feel something...{{NLINE}}Something incredibly{{NLINE}}powerful...The Brood?
+I feel something...{{NLINE}}Something incredibly{{NLINE}}powerful...The Brood?
+I feel something...{{NLINE}}Something incredibly{{NLINE}}powerful...The Brood?
+I feel something...{{NLINE}}Something incredibly{{NLINE}}powerful...The Brood?
+I feel something...{{NLINE}}Something incredibly{{NLINE}}powerful...The Brood?
+I feel something...{{NLINE}}Something incredibly{{NLINE}}powerful...The Brood?
+Ryu hears the voice{{NLINE}}of The Brood sealed{{NLINE}}in the chrysm
+You found the{{NLINE}}{{PRMTR,0}} gene!
+{{COLRS,3}}HP  +2{{COLRE}}  {{COLRS,2}}AP  -2{{COLRE}}{{NLINE}}{{COLRS,3}}Pwr +2{{COLRE}}  {{COLRS,2}}Int -3{{COLRE}}{{NLINE}}{{COLRS,3}}Def +1{{COLRE}}{{NLINE}}
+{{COLRS,3}}HP  +2{{COLRE}}  {{COLRS,2}}AP  -2{{COLRE}}{{NLINE}}{{COLRS,3}}Pwr +2{{COLRE}}  {{COLRS,2}}Int -3{{COLRE}}{{NLINE}}{{COLRS,3}}Def +1{{COLRE}}{{NLINE}}
+{{COLRS,3}}HP  +2{{COLRE}}  {{COLRS,2}}AP  -2{{COLRE}}{{NLINE}}{{COLRS,3}}Pwr +2{{COLRE}}  {{COLRS,2}}Int -3{{COLRE}}{{NLINE}}{{COLRS,3}}Def +1{{COLRE}}{{NLINE}}
+{{COLRS,3}}HP  +2{{COLRE}}  {{COLRS,2}}AP  -2{{COLRE}}{{NLINE}}{{COLRS,3}}Pwr +2{{COLRE}}  {{COLRS,2}}Int -3{{COLRE}}{{NLINE}}{{COLRS,3}}Def +1{{COLRE}}{{NLINE}}
+{{COLRS,3}}HP  +2{{COLRE}}  {{COLRS,2}}AP  -2{{COLRE}}{{NLINE}}{{COLRS,3}}Pwr +2{{COLRE}}  {{COLRS,2}}Int -3{{COLRE}}{{NLINE}}{{COLRS,3}}Def +1{{COLRE}}{{NLINE}}
+{{COLRS,3}}HP  +2{{COLRE}}  {{COLRS,2}}AP  -2{{COLRE}}{{NLINE}}{{COLRS,3}}Pwr +2{{COLRE}}  {{COLRS,2}}Int -3{{COLRE}}{{NLINE}}{{COLRS,3}}Def +1{{COLRE}}{{NLINE}}
+{{COLRS,3}}AP  +1{{COLRE}}  {{COLRS,2}}Pwr -1{{COLRE}}{{NLINE}}{{COLRS,3}}Int +2{{COLRE}}  {{COLRS,2}}Def -1{{COLRE}}{{NLINE}}{{NLINE}}
+{{COLRS,3}}AP  +1{{COLRE}}  {{COLRS,2}}HP  -1{{COLRE}}{{NLINE}}{{COLRS,3}}Def +1{{COLRE}}  {{COLRS,2}}Pwr -2{{COLRE}}{{NLINE}}{{COLRS,3}}Int +2{{COLRE}}{{NLINE}}{{COLRS,2}}weak vs flame{{COLRE}}{{NLINE}}
+{{COLRS,3}}Pwr +1{{COLRE}}  {{COLRS,2}}HP  -1{{COLRE}}{{NLINE}}{{COLRS,3}}Agl +1{{COLRE}}  {{COLRS,2}}AP  -2{{COLRE}}{{NLINE}}{{COLRS,3}}Accuracy{{COLRE}}{{NLINE}}
+{{COLRS,3}}HP  +4{{COLRE}}  {{COLRS,2}}Agl -3{{COLRE}}{{NLINE}}{{COLRS,3}}Pwr +1{{COLRE}}  {{COLRS,2}}Int -3{{COLRE}}{{NLINE}}{{COLRS,3}}Def +3{{COLRE}}{{NLINE}}
+{{COLRS,3}}?????{{COLRE}}   {{COLRS,2}}?????{{COLRE}}{{NLINE}}{{NLINE}}{{NLINE}}
+{{COLRS,3}}HP  +4{{COLRE}}  {{COLRS,2}}Pwr -1{{COLRE}}{{NLINE}}{{COLRS,3}}AP  +3{{COLRE}}  {{COLRS,2}}Def -1{{COLRE}}{{NLINE}}        {{COLRS,2}}Agl -1{{COLRE}}{{NLINE}}        {{COLRS,2}}Int -1{{COLRE}}
+{{COLRS,3}}AP  +1{{COLRE}}  {{COLRS,2}}Pwr -2{{COLRE}}{{NLINE}}{{COLRS,3}}Int +1{{COLRE}}{{NLINE}}{{COLRS,3}}Holy prop UP{{COLRE}}{{NLINE}}
+{{COLRS,3}}AP  +4{{COLRE}}  {{COLRS,2}}Pwr -2{{COLRE}}{{NLINE}}{{COLRS,3}}Int +4{{COLRE}}  {{COLRS,2}}Def -2{{COLRE}}{{NLINE}}{{NLINE}}
+{{COLRS,3}}AP  +3{{COLRE}}  {{COLRS,2}}HP  -3{{COLRE}}{{NLINE}}{{COLRS,3}}Pwr +1{{COLRE}}  {{COLRS,2}}Def -3{{COLRE}}{{NLINE}}{{COLRS,3}}Agl +1{{COLRE}}{{NLINE}}{{COLRS,3}}Int +3{{COLRE}}
+{{COLRS,3}}HP  +2{{COLRE}}  {{COLRS,2}}AP  -2{{COLRE}}{{NLINE}}{{COLRS,3}}Pwr +2{{COLRE}}  {{COLRS,2}}Agl -1{{COLRE}}{{NLINE}}{{COLRS,3}}Def +1{{COLRE}}  {{COLRS,2}}Int -1{{COLRE}}{{NLINE}}
+{{COLRS,3}}Pwr +1{{COLRE}}{{NLINE}}{{NLINE}}{{NLINE}}
+{{COLRS,3}}Def +1{{COLRE}}{{NLINE}}{{NLINE}}{{NLINE}}
+{{COLRS,3}}Int +1{{COLRE}}{{NLINE}}{{NLINE}}{{NLINE}}
+{{COLRS,3}}HP  +1{{COLRE}}{{NLINE}}{{NLINE}}{{NLINE}}
+{{COLRS,3}}Pwr +2{{COLRE}}  {{COLRS,2}}HP  -6{{COLRE}}{{NLINE}}{{COLRS,3}}Def +2{{COLRE}}  {{COLRS,2}}AP  -6{{COLRE}}{{NLINE}}{{COLRS,3}}Agl +1{{COLRE}}{{NLINE}}{{COLRS,3}}Int +2{{COLRE}}
+{{COLRS,3}}Agl +2{{COLRE}}  {{COLRS,2}}HP  -1{{COLRE}}{{NLINE}}        {{COLRS,2}}Pwr -1{{COLRE}}{{NLINE}}        {{COLRS,2}}Def -1{{COLRE}}{{NLINE}}
+Bunyan
+Mygas
+Yggdrasil
+D'lonzo
+Fahl
+Durandal
+Giotto
+Hondara
+Emitai
+Deis
+Hachio
+Bais
+Lang
+Lee
+Wynn
+Ladon
+Meryleep
+Woodsman              Cedar Woods
+Journeyman wizard   Yraall Region
+Sacred tree of wisdom East Wyndia
+Female cat burglar    Coffee shop
+Bartender of Genmel        Genmel
+Wanderer       Castle Wyndia area
+Strange fishman  Rhapala seacoast
+Priest                 Urkan Tapa
+Wizard adept          Dauna Hills
+Ancient sorceress    Cave of Ages
+World's best cook   Castle Wyndia
+Oldest quadruplet brother  Wyndia
+Younger quadruplet brother Wyndia
+Oldest quadruplet sister   Wyndia
+Younger quadruplet sister  Wyndia
+Divine king of dragons   Dragnier
+Wandering faerie   Eastern Wyndia
+

@@ -1,0 +1,23 @@
+Meryleep{{NLINE}}"Boy was I scared!{{NPAGE}}I thought I was going{{NLINE}}to die!{{NPAGE}}You'll have to make{{NLINE}}amends for that!{{NPAGE}}I know...{{PAUSE}}...I want{{NLINE}}you to get back my{{NLINE}}{{COLRS,2}}Flower Jewel{{COLRE}},{{NPAGE}}which was stolen from{{NLINE}}me by a nasty crow!{{NPAGE}}If you do I'll give{{NLINE}}you a reward, OK?
+"What? You've already{{NLINE}}got the {{COLRS,2}}Flower Jewel{{COLRE}}?{{NLINE}}Then give it to me!{{CHOIC,0,0,OK,No}}
+Meryleep{{NLINE}}"I was waiting for{{NLINE}}you, Ryu{{NPAGE}}I was so bored I{{NLINE}}thought I would die!{{NPAGE}}Have you found the{{NLINE}}{{COLRS,2}}Flower Jewel{{COLRE}} yet?{{CHOIC,0,0,Yes,No}}
+Meryleep{{NLINE}}"I was waiting for{{NLINE}}you, Ryu{{NPAGE}}I was so bored I{{NLINE}}thought I would die!{{NPAGE}}Have you found the{{NLINE}}{{COLRS,2}}Flower Jewel{{COLRE}} yet?{{CHOIC,0,0,Yes,No}}
+Have you found the{{NLINE}}{{COLRS,2}}Flower Jewel{{COLRE}} yet?{{CHOIC,0,0,Yes,No}}
+Yaaaaaaay!{{NLINE}}Thank you, Ryu{{NPAGE}}I'll tell you all{{NLINE}}our secrets now...{{NLINE}}Heh heh{{NPAGE}}If you apprentice{{NLINE}}under us, your{{NLINE}}{{COLRS,3}}Agility{{COLRE}} will go up!
+Thhhpt!{{NLINE}}Don't lie...{{NLINE}}You don't have it!{{NPAGE}}Bye-bye!
+Bye-bye!
+Meryleep{{NLINE}}"We were waiting for{{NLINE}}you to come!
+There are so many{{NLINE}}things we can show{{NLINE}}you!{{CHOIC,1,0,Show us,Later}}
+Huh? It looks like{{NLINE}}you're all already{{NPAGE}}finding out our{{NLINE}}secrets...?
+Eh? You mean you're{{NLINE}}not interested in our{{NLINE}}secrets anymore?{{CHOIC,2,0,Nope,We are}}
+You mean no one's{{NLINE}}interested in our{{NLINE}}secrets!?{{NPAGE}}How rude!
+"All right, we'll show{{NLINE}}{{PRMTR,0}} our secrets
+Anyone else want to{{NLINE}}know our secrets?{{CHOIC,3,0,Yes,No}}
+"Sorry! {{PRMTR,0}} doesn't{{NLINE}}need to know our{{NLINE}}secrets! Too bad!
+Anyone else think they{{NLINE}}don't need our secrets{{NLINE}}anymore?{{CHOIC,4,0,Yes,No}}
+It looks like {{PRMTR,0}}{{NLINE}}is learning lots of{{NLINE}}our secrets...{{NPAGE}}Here's another one:{{NLINE}}{{PRMTR,0}} learned{{NLINE}}{{COLRS,2}}{{PRMTR,1}}{{COLRE}}!
+Who shall apprentice?
+Who wants to quit?
+Is this OK?                Yes No
+Do you want to quit?       Yes No
+A sparkling spring{{NLINE}}said to be the home{{NLINE}}of faeries.

@@ -1,0 +1,46 @@
+"Daddy, come quick!{{NLINE}}There's some people{{NLINE}}who need help!!{{DURTN,80}}
+"Daddy, come quick!{{NLINE}}There's some people{{NLINE}}who need help!!{{DURTN,80}}
+{{TXTBX,06}}"It is very unusual{{NLINE}}for people to be{{NLINE}}coming over the desert{{NPAGE}}Be welcome here,{{NLINE}}friends.{{NPAGE}}I am the leader of{{NLINE}}the oasis, and am{{NLINE}}being called Fa'ah
+{{TXTBX,06}}Fa'ah{{NLINE}}"Be at calm.{{NPAGE}}Your lady friend is{{NLINE}}caring for by my{{NLINE}}wife
+{{TXTBX,06}}Fa'ah{{NLINE}}"Please...{{NPAGE}}Until you are being{{NLINE}}fully rested...{{NPAGE}}We want you to stay{{NLINE}}and having our good{{NLINE}}hospitality!
+{{TXTBX,06}}Momo{{NLINE}}"Are you sure you{{NLINE}}should be up?
+{{TXTBX,05}}Nina{{NLINE}}"It's all right, I'm{{NLINE}}fine now...{{NPAGE}}I'm sorry I worried{{NLINE}}everyone so much
+{{TXTBX,06}}Nina{{NLINE}}"What is Ryu and{{NLINE}}everyone else doing?
+{{TXTBX,05}}Momo{{NLINE}}"They're over there,{{NPAGE}}talking to the chief,{{NLINE}}Fa'ah...{{NPAGE}}About where we're{{NLINE}}headed...
+{{TXTBX,06}}Fa'ah{{NLINE}}"...God?{{DURTN,64}}
+{{TXTBX,06}}Fa'ah{{NLINE}}"I am regrettable,{{NPAGE}}but I know not of{{NLINE}}this that you seek...
+{{TXTBX,05}}Garr{{NLINE}}"Honorable Fa'ah...{{NPAGE}}Do you know of any{{NLINE}}ruins or something{{NLINE}}similar nearby?
+{{TXTBX,06}}Fa'ah{{NLINE}}"Ruins it is you are{{NPAGE}}looking for? Then we{{NLINE}}are having!
+{{TXTBX,06}}Fa'ah{{NLINE}}"To the north, over{{NLINE}}the hill...{{NPAGE}}There is being a place{{NLINE}}very old that we are{{NLINE}}calling {{COLRS,2}}Caer Xhan{{COLRE}}{{NPAGE}}It is the ruins of{{NLINE}}very, very olden city
+{{TXTBX,05}}Garr{{NLINE}}"We should go{{NLINE}}check it out, hm?
+{{TXTBX,05}}Rei{{NLINE}}"You've done so much{{NLINE}}for us...{{NPAGE}}Thank you for{{NLINE}}everything...
+{{TXTBX,06}}"It's all right...{{NPAGE}}Since the desert gives{{NLINE}}us so little,{{NPAGE}}we share what we have{{NLINE}}with each other
+{{TXTBX,05}}Momo{{NLINE}}"Nina's up and awake{{NLINE}}--she says she's fine
+{{TXTBX,06}}Fa'ah{{NLINE}}"Ah! So this is{{NPAGE}}meaning you are{{NLINE}}leaving then, yes?
+Momo{{NLINE}}"Thank you so much{{NPAGE}}for all you've done{{NLINE}}for us, Fa'ah
+{{TXTBX,06}}Fa'ah{{NLINE}}"It is being no{{NLINE}}bother...{{NPAGE}}I am hoping that{{NLINE}}you find soon that{{NLINE}}what you are seeking!
+{{TXTBX,01}}Please choose 3{{NLINE}}party members
+"Do you need any{{NLINE}}water before going{{NLINE}}into the desert?{{CHOIC,0,1,Yes,No}}
+"Do you need any{{NLINE}}water before going{{NLINE}}into the desert?{{CHOIC,0,1,Yes,No}}
+"Do you need any{{NLINE}}water before going{{NLINE}}into the desert?{{CHOIC,0,1,Yes,No}}
+"Do you need any{{NLINE}}water before going{{NLINE}}into the desert?{{CHOIC,0,1,Yes,No}}
+"Do you need any{{NLINE}}water before going{{NLINE}}into the desert?{{CHOIC,0,1,Yes,No}}
+"Feel free to take one{{NLINE}}of my rakdas with you{{NLINE}}when you head out...
+"That's the desert out{{NLINE}}there...Sure you got{{NLINE}}everything you need?
+"If you climb that{{NLINE}}hill, you can see the{{NLINE}}{{COLRS,2}}Caer Xhan{{COLRE}}
+"The Ruins? There's{{NLINE}}nothing there anyway{{NPAGE}}Why don't you stay{{NLINE}}here and play with{{NLINE}}us?
+"Baaaaah!
+"Bwrack!
+"Maaaaaah!
+"If you're tired,{{NLINE}}we've got an empty{{NLINE}}room!
+"If you need anything,{{NLINE}}let me know, eh?
+"May you be finding{{NLINE}}for what you are{{NLINE}}looking
+"Who says nothing can{{NLINE}}live in the desert!{{NPAGE}}Look at us--we're{{NLINE}}alive, aren't we?
+"I don't think there's{{NLINE}}anything that could{{NLINE}}kill my wife!
+You got all the water{{NLINE}}you can carry from the{{NLINE}}water jug!
+I see...{{NPAGE}}We share everything{{NLINE}}here, so please, take{{NLINE}}whatever you need
+"Once, long ago, I{{NLINE}}went out into the{{NLINE}}desert on a trip...{{NPAGE}}Let me tell you about{{NLINE}}what happened when...{{CHOIC,1,1,I got lost,I went the wrong way,Not interested, thanks}}
+"I left the oasis{{NLINE}}headed for a place{{NLINE}}called the Factory...{{NPAGE}}I walked south for{{NLINE}}{{COLRS,2}}about a night{{COLRE}} and{{NLINE}}got lost...{{NPAGE}}I ended up heading{{NLINE}}{{COLRS,2}}west{{COLRE}}...{{NPAGE}}After about {{COLRS,2}}4 nights{{COLRE}}{{NLINE}}I realized my mistake...{{NPAGE}}Around that time I lost{{NLINE}}something {{COLRS,2}}really{{COLRE}}{{NLINE}}{{COLRS,2}}important{{COLRE}}...
+"When I was coming{{NLINE}}back here from the{{NLINE}}Factory...{{NPAGE}}I got turned around{{NLINE}}and went west when I{{NLINE}}should've gone east...{{NPAGE}}I turned back after{{NLINE}}about {{COLRS,2}}3 nights{{COLRE}}...{{NPAGE}}I bet the {{COLRS,2}}nice outfit{{COLRE}}{{NLINE}}I lost is buried under{{NLINE}}the sands by now...
+"When I was a lot{{NLINE}}younger, I remember{{NPAGE}}I wanted to see what{{NLINE}}the edge of the desert{{NLINE}}looked like...{{NPAGE}}So I headed out, to{{NLINE}}the east and to the{{NLINE}}west...{{NPAGE}}I remember there were{{NLINE}}3 stars in a row{{NLINE}}right above my head{{NPAGE}}when I realized that{{NLINE}}I would never find{{NLINE}}the end of the desert
+Do you want to wait{{NLINE}}for night before going{{NLINE}}into the desert?{{CHOIC,2,0,Yes,No}}

@@ -1,0 +1,43 @@
+North..McNeil Village{{NLINE}}East...To Wyndia{{NLINE}}West...To Dauna Mine
+"How's a simple{{NLINE}}merchant to sell his{{NPAGE}}wares when the{{NLINE}}bridge's out?
+{{TXTBX,03}}"Wait, wait, WAIT!{{DURTN,32}}
+{{TXTBX,03}}"Wait, wait, WAIT!{{DURTN,32}}
+{{TXTBX,03}}"Who gave you{{NLINE}}permission to use this{{NLINE}}road!?{{DURTN,32}}
+{{TXTBX,05}}
+{{TXTBX,05}}
+{{TXTBX,05}}
+{{TXTBX,05}}
+{{TXTBX,05}}Teepo{{NLINE}}"Hey Rei...{{NPAGE}}Maybe we should call{{NLINE}}it a day...?
+{{TXTBX,05}}Teepo{{NLINE}}"Hey Rei...{{NPAGE}}Maybe we should call{{NLINE}}it a day...?
+{{TXTBX,05}}Teepo{{NLINE}}"Hey Rei...{{NPAGE}}Maybe we should call{{NLINE}}it a day...?
+{{TXTBX,05}}Teepo{{NLINE}}"Hey Rei...{{NPAGE}}Maybe we should call{{NLINE}}it a day...?
+{{TXTBX,05}}Teepo{{NLINE}}"C'mon Ryu...{{NLINE}}Let's go home...
+{{TXTBX,05}}Teepo{{NLINE}}"C'mon Ryu...{{NLINE}}Let's go home...
+{{TXTBX,06}}Rei{{NLINE}}"Hold it! Hold it!{{NLINE}}His name's Ryu?{{NPAGE}}How did you know{{NLINE}}that, Teepo?
+{{TXTBX,05}}Teepo{{NLINE}}"I...I dunno!{{NPAGE}}I just felt like{{NLINE}}that's what his name{{NLINE}}was...
+{{TXTBX,06}}Rei{{NLINE}}"Say, is your name{{NLINE}}really Ryu?
+{{TXTBX,06}}Rei{{NLINE}}"Hmmmm...{{NPAGE}}Stranger things have{{NLINE}}happened, I guess...
+"What do you think{{NLINE}}you're doing? Robbery?{{NLINE}}Forget it! No one{{NPAGE}}with money's ever{{NLINE}}gonna come down this{{NLINE}}road!
+"What do you think{{NLINE}}you're doing? Robbery?{{NLINE}}Forget it! No one{{NPAGE}}with money's ever{{NLINE}}gonna come down this{{NLINE}}road!
+Teepo{{NLINE}}"This is the Yraall{{NLINE}}Road, where we work
+{{TXTBX,01}}Teepo{{NLINE}}"This road goes all{{NLINE}}the way to Wyndia...{{DURTN,48}}
+{{TXTBX,06}}Teepo{{NLINE}}"Someday, we're gonna{{NLINE}}blow this place and{{NPAGE}}head out to a big{{NLINE}}city like Wyndia...{{NLINE}}right, Rei?
+Rei{{NLINE}}"Well...{{PAUSE}}instead of{{NLINE}}worrying about that,{{NPAGE}}let's think about{{NLINE}}getting something to{{NLINE}}eat today, OK?
+Rei{{NLINE}}"We should go hide{{NPAGE}}and wait for someone{{NLINE}}to come by...{{NPAGE}}Behind that tree up{{NLINE}}there looks good to{{NLINE}}me...
+Rei{{NLINE}}"All right, let's wait{{NLINE}}here...
+{{TXTBX,03}}Rei{{NLINE}}"When someone comes{{NLINE}}by, we jump out...
+Teepo{{NLINE}}"Like this!
+{{TXTBX,06}}Teepo{{NLINE}}"What's up, Ryu?{{NPAGE}}Don't get all soft{{NLINE}}on us now...
+Rei{{NLINE}}"Don't worry...{{NPAGE}}We're just some poor{{NLINE}}kids trying to get{{NLINE}}some food...{{NPAGE}}Whoever it is will{{NLINE}}forgive us...right?
+{{TXTBX,06}}Teepo{{NLINE}}"Hey! Here comes{{NLINE}}somebody!
+Rei{{NLINE}}"He's alone...{{NPAGE}}OK, Ryu, show us{{NLINE}}what you're made{{NLINE}}of...Go get him!
+{{TXTBX,05}}Teepo{{NLINE}}"Just run into him,{{NLINE}}like this!
+{{TXTBX,06}}Bunyan{{NLINE}}"What are you trying{{NLINE}}to do, little one?{{NPAGE}}Mug me, hmm?
+{{TXTBX,04}}Bunyan{{NLINE}}"We've got enough{{NLINE}}trouble around here{{NPAGE}}already with those{{NLINE}}rascals Teepo and{{NLINE}}Rei...
+{{TXTBX,04}}Bunyan{{NLINE}}"Listen to me...{{NPAGE}}If you run into them{{NLINE}}tell them that if I{{NLINE}}catch them...{{PAUSE}}{{PAUSE}}{{NPAGE}}they'll be sorry!
+Rei{{NLINE}}"Whoops...{{NPAGE}}Figures it would be{{NLINE}}Bunyan...
+{{TXTBX,06}}Teepo{{NLINE}}"Who does he think he{{NLINE}}is, anyway?
+Rei{{NLINE}}"Hey...wait a minute!{{NPAGE}}If old man Bunyan's{{NLINE}}out here, that means{{NPAGE}}there's no one at{{NLINE}}his house, right?
+{{TXTBX,06}}Teepo{{NLINE}}"You're right!{{NPAGE}}Let's go and grab{{NLINE}}some of his food!{{NPAGE}}That'll show 'im!
+Teepo{{NLINE}}"Where are you going?{{NPAGE}}We can't go to Wyndia{{NLINE}}yet...Let's wait until{{NLINE}}we've really made a{{NPAGE}}name for ourselves{{NLINE}}first...OK?
+Teepo{{NLINE}}"Where are you going?{{NPAGE}}We can't go to Wyndia{{NLINE}}yet...Let's wait until{{NLINE}}we've really made a{{NPAGE}}name for ourselves{{NLINE}}first...OK?

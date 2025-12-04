@@ -1,0 +1,22 @@
+{{SOUND,0A}}Portal Drive Activated{{SOUND,0C}}{{NLINE}}{{SOUND,0B}}Current Location:{{NLINE}}{{SOUND,0B}}    Relay Point A{{SOUND,0C}}{{NPAGE}}{{SOUND,0A}}Enter destination:{{SOUND,0C}}{{CHOIC,0,1,Colony,Dragnier,Container yard,Relay Point B,Quit}}
+{{SOUND,0A}}Portal Drive Activated{{SOUND,0C}}{{NLINE}}{{SOUND,0B}}Current Location:{{NLINE}}{{SOUND,0B}}    Relay Point A{{SOUND,0C}}{{NPAGE}}{{SOUND,0A}}Enter destination:{{SOUND,0C}}{{CHOIC,0,1,Colony,Dragnier,Container yard,Relay Point B,Quit}}
+Warp target {{PAUSE}}...{{PAUSE}}...{{PAUSE}}...{{NLINE}}Unable to lock target{{NLINE}}Please check antenna
+{{SOUND,0B}}  Target: Colony{{NLINE}}{{SOUND,0A}}Destination locked{{SOUND,0C}}
+{{SOUND,0B}} Target: Dragnier{{NLINE}}{{SOUND,0A}}Destination locked{{SOUND,0C}}
+{{SOUND,0B}}Target: Container yard{{NLINE}}{{SOUND,0A}}Destination locked{{SOUND,0C}}
+{{SOUND,0B}}Target: Relay point B{{NLINE}}{{SOUND,0A}}Destination locked{{SOUND,0C}}
+It reads 'Jack{{NLINE}}Instruction Manual'{{NLINE}}Do you want to read it?{{CHOIC,1,0,Yes,No}}
+It reads 'Jack{{NLINE}}Instruction Manual'{{NLINE}}Do you want to read it?{{CHOIC,1,0,Yes,No}}
+There's a small{{NLINE}}diagram...{{NPAGE}}West switch{{NLINE}}East...DN  West...UP{{NLINE}}South..--  North..DN
+There's a small{{NLINE}}diagram...{{NPAGE}}East switch{{NLINE}}East...UP  West...DN{{NLINE}}South..--  North..DN
+There's a small{{NLINE}}diagram...{{NPAGE}}South switch{{NLINE}}East...--  West...UP{{NLINE}}South..UP  North..DN
+There's a small{{NLINE}}diagram...{{NPAGE}}North switch{{NLINE}}East...--  West...--{{NLINE}}South..--  North..UP
+{{SOUND,0A}}{{INSTS}}  Relay Point A  {{INSTE}}{{SOUND,0C}}{{NPAGE}}{{SOUND,0A}}{{INSTS}} Due to antenna error,{{NLINE}}this station is locked{{NLINE}} in auto-receive mode.{{INSTE}}{{SOUND,0C}}{{NPAGE}}{{SOUND,0A}}{{INSTS}}  Please check  {{NLINE}}  antenna before {{NLINE}}initiating transfer.{{INSTE}}{{SOUND,0C}}
+{{TXTBX,05}}Momo{{NLINE}}"Oh, Honey...{{NPAGE}}Where are you{{NLINE}}going now...!?
+{{TXTBX,05}}Nina{{NLINE}}"Hey! What's up{{NLINE}}with Honey?
+{{TXTBX,05}}Rei{{NLINE}}"Now what's going on?
+{{TXTBX,05}}Garr{{NLINE}}"Hmmm...What's the{{NLINE}}matter, I wonder...?
+It might be a good{{NLINE}}idea to go after{{NLINE}}Honey first...
+Each of the 4 switches{{NLINE}}can be pulled once.{{NPAGE}}More than one jack can{{NLINE}}be linked to a single{{NLINE}}switch.{{NPAGE}}Press this button to{{NLINE}}initialize all jack{{NLINE}}positions{{NPAGE}}Do you want to reset?{{CHOIC,2,0,Yes,No}}
+Do you want to reset?{{CHOIC,2,0,Yes,No}}
+Warning: Someone's on{{NLINE}}the catwalk!{{NPAGE}}For safety reasons, do{{NLINE}}not activate the walk{{NLINE}}when someone's on it.

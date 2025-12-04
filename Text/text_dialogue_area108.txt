@@ -1,0 +1,34 @@
+It looks like you{{NLINE}}can rest here...{{NPAGE}}Do you want to{{NLINE}}rest?{{CHOIC,1,1,Yes,No}}
+It looks like you{{NLINE}}can rest here...{{NPAGE}}Do you want to{{NLINE}}rest?{{CHOIC,1,1,Yes,No}}
+You won't be able to{{NLINE}}get through here until{{NLINE}}you take care of this
+Maybe Garr would be{{NLINE}}able to push it...{{NPAGE}}It looks like there{{NLINE}}are explosives piled{{NLINE}}on it...
+You feel strong and{{NLINE}}refreshed after{{NLINE}}resting!
+{{TXTBX,05}}Garr{{NLINE}}"We should be able{{NLINE}}to get through now...
+{{TXTBX,81}}What do you think{{NLINE}}you're doing...{{NLINE}}Guardian!
+{{TXTBX,81}}  ...{{PAUSE}}...{{PAUSE}}...Ryu...
+Garr{{NLINE}}"How do you know{{NLINE}}Ryu's name?
+{{TXTBX,83}}  ...Ryu...{{NLINE}}Why do you let him{{NLINE}}live...?{{NPAGE}}Why do you let our{{NLINE}}enemy live!?
+Garr{{NLINE}}"A dragon...?
+{{TXTBX,83}} Can you hear it,{{NLINE}}Guardian?{{NPAGE}}Can you hear our spilt{{NLINE}}blood crying out for{{NLINE}}vengeance!?
+{{TXTBX,05}}Dragon zombie{{NLINE}}"Guardian...{{NPAGE}}It's been...what?{{NLINE}}400 years?{{NPAGE}}You, who tried to{{NLINE}}exterminate us...{{NPAGE}}Where are you taking{{NLINE}}Ryu?
+Garr{{NLINE}}"I...I'm taking Ryu{{NPAGE}}to meet our God...
+{{TXTBX,05}}Dragon zombie{{NLINE}}"Why?{{NPAGE}}To make a{{NLINE}}sacrificial offering{{NLINE}}of the last dragon?
+Garr{{NLINE}}"To learn the truth...{{NPAGE}}To learn if the war{{NLINE}}we fought 400 years{{NLINE}}ago was right...
+{{TXTBX,05}}Dragon zombie{{NLINE}}"Ha! Ryu...Kill him!{{NPAGE}}Avenge our people's{{NLINE}}memories!!{{NPAGE}}They destroyed us! The{{NLINE}}Guardians killed us{{NLINE}}all!
+{{TXTBX,05}}Dragon zombie{{NLINE}}"No!? Why not!?{{NPAGE}}Don't you despise him?{{NLINE}}Don't you hate him?
+{{TXTBX,81}} {{NLINE}}  {{INSTS}}You must not hate{{INSTE}}{{DURTN,48}}
+{{TXTBX,05}}Dragon zombie{{NLINE}}"Silence!{{NPAGE}}You have no right!
+{{TXTBX,05}}Dragon zombie{{NLINE}}"Reviled one!{{NPAGE}}Why must you always{{NLINE}}interfere?
+{{TXTBX,05}}Dragon zombie{{NLINE}}"Why do you always{{NLINE}}restrain us!?
+A malefic power flows{{NLINE}}through Ryu!{{NPAGE}}...{{PAUSE}}...You discovered{{NLINE}}the power of the{{NLINE}}{{COLRS,2}}Shadow Gene{{COLRE}}!
+{{TXTBX,80}} {{NLINE}}That was not a dragon
+{{TXTBX,05}}Garr{{NLINE}}"Are you of the{{NLINE}}Brood...?
+{{TXTBX,80}} {{NLINE}}A true dragon...
+A feeling of warmth{{NLINE}}and love flows into{{NLINE}}Ryu!{{NPAGE}}...{{PAUSE}}...You discovered{{NLINE}}the power of the{{NLINE}}{{COLRS,2}}Fusion Gene{{COLRE}}!
+{{TXTBX,06}}Garr{{NLINE}}"Ryu...What was{{NLINE}}that...?
+Garr{{NLINE}}"A true dragon...{{NPAGE}}That's what it{{NLINE}}said, right? What{{NLINE}}does that mean?
+Garr{{NLINE}}"Hmmm...{{PAUSE}} You don't{{NLINE}}know either, eh?
+This is B2  {{NLINE}}Do you want to ride{{NLINE}}the lift?   {{CHOIC,0,1,Go to B1,Go to B3,Quit}}
+This is B2  {{NLINE}}Do you want to ride{{NLINE}}the lift?   {{CHOIC,0,1,Go to B1,Go to B3,Quit}}
+This is B2  {{NLINE}}Do you want to ride{{NLINE}}the lift?   {{CHOIC,0,1,Go to B1,Go to B3,Quit}}
+There's a diary...{{NLINE}}Do you want to save?{{CHOIC,2,0,Yes,No}}

@@ -1,0 +1,234 @@
+{{TXTBX,06}}Nina{{NLINE}}"I'm so glad{{NLINE}}{{PAUSE}}that we won...
+{{TXTBX,06}}Nina{{NLINE}}"I'm so glad{{NLINE}}{{PAUSE}}that we won...
+{{TXTBX,05}}Ring girl{{NLINE}}"Fer sure...{{NPAGE}}I was, like, totally{{NLINE}}surprised, y'know?{{NPAGE}}Like, who would've{{NLINE}}thought that some kids{{NPAGE}}like Ryu and Nina{{NLINE}}would win, y'know?
+{{TXTBX,05}}Ring girl{{NLINE}}"OK, your next match{{NLINE}}is, like, in the{{NPAGE}}"Null Magic Hall" see?{{NLINE}}And you'll be, like,{{NPAGE}}fighting Emitai's team{{NLINE}}y'know?{{NPAGE}}So, like, good luck,{{NLINE}}OK?
+{{TXTBX,06}}Nina{{NLINE}}"Let's do it! Then we{{NLINE}}can get out of here...
+"Garr is using{{NLINE}}this room next{{NPAGE}}You need to go to{{NLINE}}the "Null Magic Hall"
+"I dunno...I like{{NLINE}}holdin' people up in{{NLINE}}da lava like dat...{{NPAGE}}D'ya think dat's{{NLINE}}weird?
+"Am I OK in the lava{{NLINE}}like dat?{{NPAGE}}Sure, you bet...I'm{{NLINE}}used to it! No{{NLINE}}worries!
+"We's called da Dodai{{NPAGE}}It's our job to hold{{NLINE}}people up in da "Hall{{NLINE}}of Fire"{{NPAGE}}You's going in dere?{{NLINE}}Well, den, wish us{{NLINE}}both luck, yeah?
+"I only started{{NLINE}}workin' here a lil{{NLINE}}while ago, but...{{NPAGE}}If you asks me, it's{{NLINE}}a real man's job, yes{{NLINE}}sir, a real man's job!
+"Make sure you pick{{NLINE}}out a good weapon{{NLINE}}before you fight
+"Welcome! Anything{{NLINE}}I can get for you?
+"They say the best{{NLINE}}offense is a good{{NLINE}}defense, right?
+"This way to the{{NLINE}}"Hall of Fire"
+"This is the entrance{{NLINE}}to the "Hall of{{NLINE}}Kings"...{{NPAGE}}The hall to my left{{NLINE}}connects to the{{NLINE}}"Null Magic Hall"
+".........{{NPAGE}}He must be really{{NLINE}}confident...look at{{NLINE}}the way he's smiling
+"OK, Muchi, your first{{NLINE}}match is a one-on-one{{NLINE}}vs Emitai's team...{{NPAGE}}Can you hear me?
+"Fights in this hall{{NLINE}}are one-on-one only,{{NLINE}}so I'm on my own...{{NPAGE}}Wish me luck!
+"Go Emitai!
+"Fight, fight, Emitai!
+"...If Ryu and his{{NLINE}}friends win their{{NLINE}}first match...{{NPAGE}}They'll be paired up{{NLINE}}with either Emitai or{{NLINE}}Muchi...
+"mumblemuttermumble{{NLINE}}muttermumblemutter{{NLINE}}mumblemutter...
+"Hey, Kenichi!{{NLINE}}Hurry up, will ya?{{NPAGE}}It's always like{{NLINE}}this...{{NPAGE}}Always off meditatin'{{NLINE}}or something!
+"I am called Galypaw{{NPAGE}}I look forward to{{NLINE}}meeting you in the{{NLINE}}final match{{NPAGE}}Good luck!
+"I hear that Kenichi{{NLINE}}fellow's really{{NLINE}}scary!
+"We're gonna win...{{NPAGE}}Boy, those ring{{NLINE}}girls are really{{NLINE}}nice, huh?
+"Our "Mind Trap"{{NLINE}}attack is unbeatable!{{NPAGE}}Hey, those ring girls{{NLINE}}are really cute, aren't{{NLINE}}they?
+"No one stands a{{NLINE}}chance against us!{{NLINE}}We'll crush them!{{NPAGE}}Say, those ring{{NLINE}}girls are really{{NLINE}}something, eh?
+"I really don't{{NLINE}}like the way they{{NLINE}}all stare at me...
+"Don't you worry,{{NLINE}}Lyla...Daddy's gonna{{NLINE}}win for you...
+"Mommy, Daddy's gonna{{NLINE}}win, won't he?{{NLINE}}cough cough
+"You're Ryu, right?{{NPAGE}}Your second match will{{NLINE}}be with Emitai's team{{NLINE}}here...{{NPAGE}}Do you want me to{{NLINE}}explain the rules?{{CHOIC,0,0,Yes,No}}
+"Are you ready?{{CHOIC,1,0,Yes,No}}
+"All right, then, come{{NLINE}}back when you're{{NLINE}}ready, OK?
+"Here in the "Null{{NLINE}}Magic Hall", you fight{{NLINE}}in 3-on-3 teams...{{NPAGE}}When choosing who from{{NLINE}}your team will fight,{{NLINE}}you should remember{{NPAGE}}that magic can't be{{NLINE}}used at all...so be{{NLINE}}careful
+"You're Ryu's team,{{NLINE}}right?{{NPAGE}}Do you know the rules{{NLINE}}for the Hall of Fire?{{CHOIC,0,0,No,Yes}}
+"Here, single team{{NLINE}}members fight in a{{NLINE}}knockout tournament{{NPAGE}}The order you fight{{NLINE}}in is the same as{{NLINE}}your battle order{{NPAGE}}You win by either{{NLINE}}defeating all three{{NLINE}}members of the{{NPAGE}}opposite team, or by{{NLINE}}knocking down the{{NLINE}}other team's platform{{NPAGE}}The Dodai holding{{NLINE}}up the platforms have{{NLINE}}a set number of HP--{{NPAGE}}One strategy is to{{NLINE}}concentrate all your{{NLINE}}attacks on the Dodai
+"Did you win?{{NPAGE}}Who knows which way{{NLINE}}Lady Luck will smile?
+"You was small so{{NLINE}}you was easy to hold{{NLINE}}up
+"Oh, man...{{NPAGE}}I'm supposed to hold{{NLINE}}up Garr...{{NPAGE}}He be strong, but he{{NLINE}}be real heavy, too!
+"That fool Kenichi!{{NPAGE}}He never puts his{{NLINE}}money where his{{NLINE}}mouth is!{{NPAGE}}Well,{{PAUSE}} it's just a{{NLINE}}good thing Galypaw{{NLINE}}and I can fight!
+"I hear Garr fights{{NLINE}}alone!{{NPAGE}}Even entire teams{{NLINE}}can't defeat him!
+"There's something{{NLINE}}funny about that{{NLINE}}Kenichi's eyes...{{NPAGE}}If I were you,{{NLINE}}I'd watch out for{{NLINE}}him
+"This team seems{{NLINE}}pretty strong...{{NPAGE}}Maybe they'll even{{NLINE}}be able to beat{{NLINE}}Garr...
+"Muchi's team didn't{{NLINE}}say one word the{{NLINE}}whole time!{{NPAGE}}They accepted their{{NLINE}}loss very gracefully
+"Did you see Emitai's{{NLINE}}fight? It was amazing!{{NPAGE}}I mean, ZAP! One shot{{NLINE}}with this big spell,{{NLINE}}and POW!
+"Yeah, but Emitai's{{NLINE}}in for a rough time{{NLINE}}this time...{{NPAGE}}I mean, he can't use{{NLINE}}his magic in the Null{{NLINE}}Magic Hall, right?
+"You lucked out, eh?{{NPAGE}}Emitai can't use his{{NLINE}}powerful magic{{NLINE}}against you!
+"Emitai's kid is{{NLINE}}really sick...{{NPAGE}}I hear she won't{{NLINE}}live long without{{NLINE}}an operation{{NPAGE}}That's why Emitai's{{NLINE}}fighting...He must{{NLINE}}love her a lot
+Understood...{{NLINE}}All right then, I'm{{NLINE}}off!
+Understood...{{NLINE}}All right then, I'm{{NLINE}}off!
+"OK, Ryu!{{NLINE}}Go get 'em!
+"All right, Miss Nina{{NLINE}}Good luck!
+"You're next,{{NLINE}}Ms. Momo!
+"Step right up, !{{NPAGE}}Can he even understand{{NLINE}}what I'm saying?
+It's Ryu's turn...
+Nina{{NLINE}}"Here goes...{{NPAGE}}Don't worry...I've{{NLINE}}been practicing too...{{NLINE}}I'll be OK!
+Momo{{NLINE}}"...{{PAUSE}}My turn, huh!
+Momo{{NLINE}}"Well, I'm off then...{{NPAGE}}But don't get your{{NLINE}}hopes up too high
+Nina{{NLINE}}"...{{PAUSE}}...{{PAUSE}}...{{PAUSE}}...
+{{NLINE}}"{{EFCTS}}Puk{{EFCTE,08}}kyuuu!
+{{COLRS,6}}Looks like  is{{COLRE}}{{NLINE}}{{COLRS,6}}ready to fight...{{COLRE}}
+"Ladies & gentlemen!{{NPAGE}}In this round...{{NLINE}}Claw VS Ryu!
+"Ladies & gentlemen!{{NPAGE}}In this round...{{NLINE}}Claw VS Nina!
+Ladies & gentlemen!{{NPAGE}}In this round...{{NLINE}}Claw VS Momo!
+"Ladies & gentlemen!{{NPAGE}}In this round...{{NLINE}}Claw VS !
+"Take your places{{NLINE}}please!
+"Congratulations!{{NPAGE}}And the winner of{{NLINE}}the first match is...{{NLINE}}Ryu and his team!
+"Congratulations!{{NPAGE}}And the winner of{{NLINE}}the first match is...{{NLINE}}Ryu and his team!
+"Congratulations!{{NPAGE}}And the winner of{{NLINE}}the first match is...{{NLINE}}Ryu and his team!
+"Ladies & gentlemen!{{NPAGE}}In this round...{{NLINE}}Cawer VS Ryu!
+"Ladies & gentlemen!{{NPAGE}}In this round...{{NLINE}}Cawer VS Ryu!
+"Ladies & gentlemen!{{NPAGE}}In this round...{{NLINE}}Cawer VS Ryu!
+"Ladies & gentlemen!{{NPAGE}}In this round...{{NLINE}}Cawer VS Ryu!
+"Ladies & gentlemen!{{NPAGE}}In this round...{{NLINE}}Cawer VS Nina!
+"Ladies & gentlemen!{{NPAGE}}In this round...{{NLINE}}Cawer VS Momo!
+"Ladies & gentlemen!{{NPAGE}}In this round...{{NLINE}}Cawer VS !
+"Ladies & gentlemen!{{NPAGE}}In this round...{{NLINE}}Patrio VS Ryu!
+"Ladies & gentlemen!{{NPAGE}}In this round...{{NLINE}}Patrio VS Nina!
+"Ladies & gentlemen!{{NPAGE}}In this round...{{NLINE}}Patrio VS Momo!
+"Ladies & gentlemen!{{NPAGE}}In this round...{{NLINE}}Patrio VS !
+{{TXTBX,06}}Man's voice{{NLINE}}"Excuse me...{{NLINE}}May I come in?
+{{TXTBX,06}}Man's voice{{NLINE}}"Excuse me...{{NLINE}}May I come in?
+{{TXTBX,06}}Man's voice{{NLINE}}"Excuse me...{{NLINE}}May I come in?
+{{TXTBX,06}}Man's voice{{NLINE}}"Excuse me...{{NLINE}}May I come in?
+{{TXTBX,06}}Man's voice{{NLINE}}"Excuse me...{{NLINE}}May I come in?
+{{TXTBX,05}}Nina{{NLINE}}"You're...{{NLINE}}Emitai, aren't you?
+{{TXTBX,06}}Emitai{{NLINE}}"That's right{{NPAGE}}I know we don't have{{NLINE}}much time, but I have{{NLINE}}to talk to you...
+{{TXTBX,05}}Nina{{NLINE}}"They're getting ready{{NLINE}}to start, Mr. Emitai
+{{TXTBX,06}}Emitai{{NLINE}}"As you may know, my{{NLINE}}daughter's really sick{{NPAGE}}If I don't win this{{NLINE}}contest and get the{{NLINE}}prize money...{{NPAGE}}She won't be able to{{NLINE}}have the operation she{{NLINE}}needs...
+{{TXTBX,05}}Nina{{NLINE}}"...I'm sorry to hear{{NLINE}}that, Mr. Emitai...{{NPAGE}}Are you trying to ask{{NLINE}}us to lose to you on{{NLINE}}purpose, then?
+{{TXTBX,06}}Emitai{{NLINE}}"I know it's a hard{{NLINE}}thing to ask you...{{NPAGE}}But if you don't,{{NLINE}}my daughter will{{NLINE}}die!
+{{TXTBX,06}}Emitai{{NLINE}}"I know I can win{{NLINE}}the final match!{{NPAGE}}My magic hasn't been{{NLINE}}beaten yet!{{NPAGE}}But in the Null Magic{{NLINE}}Hall, I'm just like{{NLINE}}anybody else...{{NPAGE}}All I have to depend{{NLINE}}on are my two boys{{NLINE}}here...
+Golem{{NLINE}}"Give Emitai win!{{NLINE}}Please, please!
+{{TXTBX,05}}Nina{{NLINE}}"I'm sorry,{{PAUSE}} Mr. Emitai{{NPAGE}}But one of our friends{{NLINE}}is being held hostage,{{NLINE}}you see...{{NPAGE}}We have to win too
+{{TXTBX,06}}Emitai{{NLINE}}"Oh...{{PAUSE}}I didn't know{{NPAGE}}I guess that's that{{NLINE}}then...{{NPAGE}}Oh, Lyla, I'm so{{NLINE}}sorry...Please forgive{{NLINE}}your poor father...
+Nina{{NLINE}}".........
+{{TXTBX,05}}Nina{{NLINE}}"All of a sudden{{NLINE}}I don't feel so good
+{{TXTBX,06}}Sunder{{NLINE}}"Hey, brats!{{NPAGE}}Pretty impressive!{{NPAGE}}You actually made{{NLINE}}it all the way to{{NLINE}}the finals!
+{{TXTBX,05}}Nina{{NLINE}}"We don't need your{{NLINE}}compliments!{{NPAGE}}We just want you to{{NLINE}}keep your promise!
+{{TXTBX,06}}Sunder{{NLINE}}"Heh heh heh...Oh,{{NLINE}}yeah, our promise{{NPAGE}}That depends on{{NLINE}}whether or not Ryu{{NLINE}}here can beat Garr{{NPAGE}}in the finals,{{PAUSE}} see?
+{{TXTBX,06}}Sunder{{NLINE}}"Why you looking{{NLINE}}so glum?{{NPAGE}}Cheer up! Gotta{{NLINE}}please your fans,{{NLINE}}you know
+{{TXTBX,06}}Sunder{{NLINE}}"Oh,{{PAUSE}} by the way...{{NPAGE}}Emitai and his family{{NLINE}}are still in the{{NLINE}}other room...{{NPAGE}}I'd stay clear of{{NLINE}}'em if I were{{NLINE}}you...
+Guardman{{NLINE}}"Um...{{PAUSE}}it's not really{{NLINE}}my place to say, but{{NPAGE}}shouldn't you stop{{NLINE}}worrying and get ready{{NLINE}}for the next match?
+"Welcome to the{{NLINE}}finals,{{NPAGE}}a one-on-one match{{NLINE}}between team leaders!{{NPAGE}}Please wait here until{{NLINE}}your name is called
+Balio{{NLINE}}"What is it, Garr?
+{{TXTBX,05}}Garr{{NLINE}}"That kid I'm going{{NLINE}}to be fighting...{{NPAGE}}Where did he come{{NLINE}}from? How did he{{NLINE}}get so strong?
+{{TXTBX,06}}Sunder{{NLINE}}"Hey, he's nothing for{{NLINE}}you to worry about,{{NPAGE}}right? I mean...he's{{NLINE}}just a kid, yeah?
+{{TXTBX,06}}Sunder{{NLINE}}"Hey bro...{{NPAGE}}D'you think maybe{{NLINE}}Garr here's...{{NLINE}}scared?
+{{TXTBX,06}}Sunder{{NLINE}}"Whoa! H-{{PAUSE}}hold on! It{{NLINE}}was just a joke!
+{{TXTBX,06}}Sunder{{NLINE}}"What would you do if{{NPAGE}}someone caught on to{{NLINE}}us, huh?
+Balio{{NLINE}}"Well...it's like{{NLINE}}this...{{NPAGE}}He looks like any{{NLINE}}other kid...{{PAUSE}}but he's{{NLINE}}really a dragon
+Balio{{NLINE}}"Now, now, Garr
+Balio{{NLINE}}"We's just telling you{{NLINE}}to be careful,{{PAUSE}} see?
+{{TXTBX,05}}Garr{{NLINE}}"A dragon...?{{NLINE}}Are you serious?
+Balio{{NLINE}}"Yeah...{{NPAGE}}But like we said...
+Balio{{NLINE}}"Nothing for you to{{NLINE}}worry about, right?
+{{TXTBX,05}}Garr{{NLINE}}"Ryu...Let me tell{{NLINE}}you one thing...{{NPAGE}}Don't hold back{{NLINE}}If you don't fight{{NLINE}}with all you've got,{{NPAGE}}I'll kill you
+Announcer{{NLINE}}"Did you hear that,{{NLINE}}ladies & gentlemen?{{NPAGE}}The champion gives no{{NLINE}}quarter, even against{{NLINE}}a mere child!{{NPAGE}}This is going to be{{NLINE}}a show-stopper of a{{NLINE}}fight, folks!{{NPAGE}}Without further ado,{{NLINE}}allow me to present{{NLINE}}to you...{{NPAGE}}The final match of{{NLINE}}the Contest{{PAUSE}} of{{NLINE}}{{PAUSE}}Champions!{{NPAGE}}Readyyyyyy....{{NPAGE}}FIGHT!
+Announcer{{NLINE}}"And so the mighty{{NLINE}}battle waged by these{{NPAGE}}mighty warriors comes{{NLINE}}to a finish!
+Announcer{{NLINE}}"And the victor is...{{NPAGE}}our champion!{{NPAGE}}The undefeated!{{NPAGE}}The champion of{{NLINE}}champions!{{NPAGE}}Misterrrr Dynamite!{{NPAGE}}Garr!!!
+Announcer{{NLINE}}"Congratulations,{{NLINE}}champion!{{NPAGE}}And now, Mr. Garr...{{NPAGE}}We're going to ask{{NLINE}}you what you want{{NLINE}}as your {{COLRS,2}}prize{{COLRE}}!
+Announcer{{NLINE}}"And to present the{{NLINE}}prize...{{NPAGE}}Here's our MC...{{NLINE}}Misterrrr Balioooooo!
+{{TXTBX,05}}Garr{{NLINE}}"I can ask for any-{{NLINE}}thing I want, right?{{NPAGE}}Then I want Ryu and{{NLINE}}his friends...OK?
+Balio{{NLINE}}"W...{{PAUSE}}what?{{NLINE}}Are you crazy?{{NPAGE}}That's not what we{{NLINE}}agreed on!?
+{{TXTBX,05}}Garr{{NLINE}}"Was I mistaken?{{NPAGE}}I thought the winner{{NLINE}}of the Contest of{{NLINE}}Champions{{NPAGE}}was awarded {{COLRS,2}}whatever{{COLRE}}{{NLINE}}he wanted...no?{{NLINE}}If that's the case,{{NPAGE}}maybe I could take{{NLINE}}...your life, {{PAUSE}}yes?
+Announcer{{NLINE}}"To the champion{{NLINE}}Garr...{{NPAGE}}We award...Ryu{{NLINE}}and his friends!?{{NPAGE}}...I guess...
+Nina{{NLINE}}"...Ryu!{{NLINE}}You're awake!
+{{TXTBX,06}}Garr{{NLINE}}"I held back on{{NLINE}}purpose...
+{{TXTBX,06}}Garr{{NLINE}}"I'm glad he's{{NLINE}}all right...{{NPAGE}}So, now I'm going{{NLINE}}to take care of you,{{NLINE}}understand?
+{{TXTBX,06}}Garr{{NLINE}}"Hmmm...{{NPAGE}}That's right...{{NLINE}}There's one more{{NLINE}}hostage, isn't there?
+Nina{{NLINE}}"We should go too,{{NLINE}}don't you think?
+Nina{{NLINE}}"Thank goodness
+{{TXTBX,05}}Nina{{NLINE}}"Emitai...I'm{{NLINE}}sorry...
+{{TXTBX,05}}Nina{{NLINE}}"Emitai...I'm{{NLINE}}sorry...
+{{TXTBX,05}}Nina{{NLINE}}"Emitai...I'm{{NLINE}}sorry...
+"You must be tired...
+"You must be tired...
+"You must be tired...
+"You must be tired...
+"You must be tired...
+"You must be tired...
+"You must be tired...
+"You must be tired...
+"You must be tired...
+"You must be tired...
+"This isn't where{{NLINE}}you're fighting...
+"This isn't where{{NLINE}}you're fighting...
+"This isn't where{{NLINE}}you're fighting...
+"This isn't where{{NLINE}}you're fighting...
+"This isn't where{{NLINE}}you're fighting...
+"This isn't where{{NLINE}}you're fighting...
+"This isn't where{{NLINE}}you're fighting...
+"This isn't where{{NLINE}}you're fighting...
+"This isn't where{{NLINE}}you're fighting...
+"This isn't where{{NLINE}}you're fighting...
+"This isn't where{{NLINE}}you're fighting...
+"This isn't where{{NLINE}}you're fighting...
+"This isn't where{{NLINE}}you're fighting...
+"This isn't where{{NLINE}}you're fighting...
+"This isn't where{{NLINE}}you're fighting...
+"You kids are really{{NLINE}}something, fighting{{NLINE}}all those tough guys
+"Hm? You're just kids{{NLINE}}--You'd better quit{{NLINE}}while you still can...
+"Our first match's{{NLINE}}just some kids--an{{NLINE}}easy win...{{NPAGE}}We won't waste any{{NLINE}}energy before we{{NLINE}}fight Garr
+"The one to watch{{NLINE}}out for this year{{NLINE}}is Garr...
+"We Dodai are strong{{NLINE}}We don't worry about{{NLINE}}much...{{NPAGE}}But even we have to{{NLINE}}watch out for Garr
+"Boy, that Garr{{NLINE}}sure is strong!{{NPAGE}}It was over so fast{{NLINE}}I didn't even notice{{NLINE}}he was there at all!
+"He was really{{NLINE}}something, wasn't he!
+"The champ really{{NLINE}}showed his stuff{{NLINE}}this year, didn't he?
+"You shouldda seen it!{{NPAGE}}He took all 3 of{{NLINE}}them down in a{{NLINE}}second!
+"Oh well! Should've{{NLINE}}concentrated harder!{{NPAGE}}I guess there's always{{NLINE}}next year!{{NPAGE}}mumblemuttermumble{{NLINE}}mumblemuttermumble{{NLINE}}mumblemuttermumble
+"I'm impressed you{{NLINE}}didn't fall for my{{NLINE}}act...
+"You weren't{{NLINE}}convincing enough!{{NLINE}}I told you so!
+"Can I stop{{NLINE}}coughing now?
+"Emitai had me fooled!{{NPAGE}}I bet he used the{{NLINE}}same trick against{{NLINE}}Muchi's team, too!
+"Emitai's specialty{{NLINE}}isn't magic...it's{{NLINE}}conning people!
+"Good luck to ya{{NPAGE}}There's a lot of{{NLINE}}people rooting for{{NLINE}}you now!
+"Hmmm...{{NLINE}}So you made it to{{NLINE}}the finals, eh?{{NPAGE}}Pure luck could never{{NLINE}}have taken you this{{NLINE}}far...
+"You're in the{{NLINE}}finals!?{{NPAGE}}I feel sorry for{{NLINE}}you...{{NPAGE}}Why? 'Cause you've{{NLINE}}got to fight that{{NLINE}}big scary guy!
+Emitai{{NLINE}}"Life's never easy...{{NLINE}}{{PAUSE}}is it?{{NPAGE}}I didn't want to use{{NLINE}}this until the finals,{{NLINE}}but I've no choice...{{NPAGE}}OK, {{COLRS,2}}boys{{COLRE}}, let's go!
+Emitai{{NLINE}}"Life's never easy...{{NLINE}}{{PAUSE}}is it?{{NPAGE}}I didn't want to use{{NLINE}}this until the finals,{{NLINE}}but I've no choice...{{NPAGE}}OK, {{COLRS,2}}boys{{COLRE}}, let's go!
+Emitai{{NLINE}}"Life's never easy...{{NLINE}}{{PAUSE}}is it?{{NPAGE}}I didn't want to use{{NLINE}}this until the finals,{{NLINE}}but I've no choice...{{NPAGE}}OK, {{COLRS,2}}boys{{COLRE}}, let's go!
+Emitai{{NLINE}}"Life's never easy...{{NLINE}}{{PAUSE}}is it?{{NPAGE}}I didn't want to use{{NLINE}}this until the finals,{{NLINE}}but I've no choice...{{NPAGE}}OK, {{COLRS,2}}boys{{COLRE}}, let's go!
+Emitai{{NLINE}}"Life's never easy...{{NLINE}}{{PAUSE}}is it?{{NPAGE}}I didn't want to use{{NLINE}}this until the finals,{{NLINE}}but I've no choice...{{NPAGE}}OK, {{COLRS,2}}boys{{COLRE}}, let's go!
+Emitai{{NLINE}}"Life's never easy...{{NLINE}}{{PAUSE}}is it?{{NPAGE}}I didn't want to use{{NLINE}}this until the finals,{{NLINE}}but I've no choice...{{NPAGE}}OK, {{COLRS,2}}boys{{COLRE}}, let's go!
+Emitai{{NLINE}}"Life's never easy...{{NLINE}}{{PAUSE}}is it?{{NPAGE}}I didn't want to use{{NLINE}}this until the finals,{{NLINE}}but I've no choice...{{NPAGE}}OK, {{COLRS,2}}boys{{COLRE}}, let's go!
+Emitai{{NLINE}}"Life's never easy...{{NLINE}}{{PAUSE}}is it?{{NPAGE}}I didn't want to use{{NLINE}}this until the finals,{{NLINE}}but I've no choice...{{NPAGE}}OK, {{COLRS,2}}boys{{COLRE}}, let's go!
+Emitai{{NLINE}}"Life's never easy...{{NLINE}}{{PAUSE}}is it?{{NPAGE}}I didn't want to use{{NLINE}}this until the finals,{{NLINE}}but I've no choice...{{NPAGE}}OK, {{COLRS,2}}boys{{COLRE}}, let's go!
+Emitai{{NLINE}}"Life's never easy...{{NLINE}}{{PAUSE}}is it?{{NPAGE}}I didn't want to use{{NLINE}}this until the finals,{{NLINE}}but I've no choice...{{NPAGE}}OK, {{COLRS,2}}boys{{COLRE}}, let's go!
+Emitai{{NLINE}}"Life's never easy...{{NLINE}}{{PAUSE}}is it?{{NPAGE}}I didn't want to use{{NLINE}}this until the finals,{{NLINE}}but I've no choice...{{NPAGE}}OK, {{COLRS,2}}boys{{COLRE}}, let's go!
+Emitai{{NLINE}}"Life's never easy...{{NLINE}}{{PAUSE}}is it?{{NPAGE}}I didn't want to use{{NLINE}}this until the finals,{{NLINE}}but I've no choice...{{NPAGE}}OK, {{COLRS,2}}boys{{COLRE}}, let's go!
+Emitai{{NLINE}}"Life's never easy...{{NLINE}}{{PAUSE}}is it?{{NPAGE}}I didn't want to use{{NLINE}}this until the finals,{{NLINE}}but I've no choice...{{NPAGE}}OK, {{COLRS,2}}boys{{COLRE}}, let's go!
+Emitai{{NLINE}}"Life's never easy...{{NLINE}}{{PAUSE}}is it?{{NPAGE}}I didn't want to use{{NLINE}}this until the finals,{{NLINE}}but I've no choice...{{NPAGE}}OK, {{COLRS,2}}boys{{COLRE}}, let's go!
+Emitai{{NLINE}}"Life's never easy...{{NLINE}}{{PAUSE}}is it?{{NPAGE}}I didn't want to use{{NLINE}}this until the finals,{{NLINE}}but I've no choice...{{NPAGE}}OK, {{COLRS,2}}boys{{COLRE}}, let's go!
+Emitai{{NLINE}}"Life's never easy...{{NLINE}}{{PAUSE}}is it?{{NPAGE}}I didn't want to use{{NLINE}}this until the finals,{{NLINE}}but I've no choice...{{NPAGE}}OK, {{COLRS,2}}boys{{COLRE}}, let's go!
+Emitai{{NLINE}}"Life's never easy...{{NLINE}}{{PAUSE}}is it?{{NPAGE}}I didn't want to use{{NLINE}}this until the finals,{{NLINE}}but I've no choice...{{NPAGE}}OK, {{COLRS,2}}boys{{COLRE}}, let's go!
+Emitai{{NLINE}}"Life's never easy...{{NLINE}}{{PAUSE}}is it?{{NPAGE}}I didn't want to use{{NLINE}}this until the finals,{{NLINE}}but I've no choice...{{NPAGE}}OK, {{COLRS,2}}boys{{COLRE}}, let's go!
+Emitai{{NLINE}}"Life's never easy...{{NLINE}}{{PAUSE}}is it?{{NPAGE}}I didn't want to use{{NLINE}}this until the finals,{{NLINE}}but I've no choice...{{NPAGE}}OK, {{COLRS,2}}boys{{COLRE}}, let's go!
+Emitai{{NLINE}}"Life's never easy...{{NLINE}}{{PAUSE}}is it?{{NPAGE}}I didn't want to use{{NLINE}}this until the finals,{{NLINE}}but I've no choice...{{NPAGE}}OK, {{COLRS,2}}boys{{COLRE}}, let's go!
+Emitai{{NLINE}}"Life's never easy...{{NLINE}}{{PAUSE}}is it?{{NPAGE}}I didn't want to use{{NLINE}}this until the finals,{{NLINE}}but I've no choice...{{NPAGE}}OK, {{COLRS,2}}boys{{COLRE}}, let's go!
+Emitai{{NLINE}}"Life's never easy...{{NLINE}}{{PAUSE}}is it?{{NPAGE}}I didn't want to use{{NLINE}}this until the finals,{{NLINE}}but I've no choice...{{NPAGE}}OK, {{COLRS,2}}boys{{COLRE}}, let's go!
+Emitai{{NLINE}}"Life's never easy...{{NLINE}}{{PAUSE}}is it?{{NPAGE}}I didn't want to use{{NLINE}}this until the finals,{{NLINE}}but I've no choice...{{NPAGE}}OK, {{COLRS,2}}boys{{COLRE}}, let's go!
+Emitai{{NLINE}}"Life's never easy...{{NLINE}}{{PAUSE}}is it?{{NPAGE}}I didn't want to use{{NLINE}}this until the finals,{{NLINE}}but I've no choice...{{NPAGE}}OK, {{COLRS,2}}boys{{COLRE}}, let's go!
+Emitai{{NLINE}}"Life's never easy...{{NLINE}}{{PAUSE}}is it?{{NPAGE}}I didn't want to use{{NLINE}}this until the finals,{{NLINE}}but I've no choice...{{NPAGE}}OK, {{COLRS,2}}boys{{COLRE}}, let's go!
+Emitai{{NLINE}}"Life's never easy...{{NLINE}}{{PAUSE}}is it?{{NPAGE}}I didn't want to use{{NLINE}}this until the finals,{{NLINE}}but I've no choice...{{NPAGE}}OK, {{COLRS,2}}boys{{COLRE}}, let's go!
+Emitai{{NLINE}}"Life's never easy...{{NLINE}}{{PAUSE}}is it?{{NPAGE}}I didn't want to use{{NLINE}}this until the finals,{{NLINE}}but I've no choice...{{NPAGE}}OK, {{COLRS,2}}boys{{COLRE}}, let's go!
+Emitai{{NLINE}}"Life's never easy...{{NLINE}}{{PAUSE}}is it?{{NPAGE}}I didn't want to use{{NLINE}}this until the finals,{{NLINE}}but I've no choice...{{NPAGE}}OK, {{COLRS,2}}boys{{COLRE}}, let's go!
+Emitai{{NLINE}}"Life's never easy...{{NLINE}}{{PAUSE}}is it?{{NPAGE}}I didn't want to use{{NLINE}}this until the finals,{{NLINE}}but I've no choice...{{NPAGE}}OK, {{COLRS,2}}boys{{COLRE}}, let's go!
+Emitai{{NLINE}}"Life's never easy...{{NLINE}}{{PAUSE}}is it?{{NPAGE}}I didn't want to use{{NLINE}}this until the finals,{{NLINE}}but I've no choice...{{NPAGE}}OK, {{COLRS,2}}boys{{COLRE}}, let's go!
+Announcer{{NLINE}}"I wonder what's{{NLINE}}happened to Emitai?{{NPAGE}}Mr. Emitai!{{NLINE}}Please come to the{{NLINE}}ring!
+{{TXTBX,05}}Emitai{{NLINE}}"Just like I said,{{NLINE}}I can't do anything{{NPAGE}}I'll just have to{{NLINE}}let my {{COLRS,2}}boys{{COLRE}} do{{NLINE}}my fighting for me
+Announcer{{NLINE}}"B...{{PAUSE}}boys!?{{NPAGE}}Well...{{PAUSE}}we're out of{{NLINE}}time, so...{{NPAGE}}Ladies and gentlemen{{NPAGE}}In this match...{{NLINE}}Team Emitai VS{{NLINE}}Team Ryu! Fight!
+{{TXTBX,05}}Emitai{{NLINE}}"Uhhhhh...{{PAUSE}}...{{PAUSE}}...
+{{TXTBX,05}}Emitai{{NLINE}}"Ohhh...{{PAUSE}}{{PAUSE}}Lyla...
+{{TXTBX,05}}Emitai{{NLINE}}"Life's...uh...{{PAUSE}}never{{NLINE}}easy...{{PAUSE}}mmmmm...
+"Con...{{PAUSE}}{{NLINE}}congratulations!{{NPAGE}}The winner of the{{NLINE}}second match is...{{NLINE}}Team Ryu!
+"The only thing I'm{{NLINE}}good at is magic...{{NPAGE}}In the Null Magic Hall{{NLINE}}I'll have to let these{{NLINE}}two fight for me...
+"The only thing I'm{{NLINE}}good at is magic...{{NPAGE}}In the Null Magic Hall{{NLINE}}I'll have to let these{{NLINE}}two fight for me...
+"Me Pantson!
+"Me Fire!
+"Daddy...Are you OK?{{NLINE}}You gonna win wifout{{NLINE}}your magic?{{NPAGE}}{{EFCTS}}cough cough{{EFCTE,19}}
+"Don't worry, honey{{NLINE}}Your daddy's the best{{NLINE}}magician in the world{{NPAGE}}He won't lose...
+{{TXTBX,03}}Emitai{{NLINE}}"Here I am!
+Announcer{{NLINE}}"Ladies & gentlemen!{{NPAGE}}The moment you've all{{NLINE}}been waiting for...{{NPAGE}}Today's {{EFCTS}}BIG{{EFCTE,03}} event!{{NLINE}}The world-famous Contest{{NLINE}}of Champions...{{NPAGE}}Final Match!
+Announcer{{NLINE}}"First, here's{{NLINE}}our challenger!{{NPAGE}}Believe it or not,{{NLINE}}our challenger today{{NLINE}}is a child!{{NPAGE}}Ladies & gentlemen,{{NLINE}}please welcome our{{NLINE}}"superboy"...{{NPAGE}}Ryu!!!
+Announcer{{NLINE}}"...{{PAUSE}}...{{PAUSE}}...{{PAUSE}}...And{{NLINE}}in this corner...!{{NPAGE}}The one and only...
+Announcer{{NLINE}}"The Wings of Death!{{NPAGE}}The master of the{{NLINE}}blade!{{NPAGE}}The champion of{{NLINE}}champions!{{NPAGE}}Mister Dynamite--{{NLINE}}Garr!!
+"This hall is closed
+"Well, that's it{{NLINE}}for this year!
+"That's it for{{NLINE}}another year...
+"The final match was{{NLINE}}really something!{{NLINE}}I'll never forget it!
+"I think it was brave{{NLINE}}of you to fight Garr{{NLINE}}at all!
+"Boy, that Kenichi{{NLINE}}was pretty creepy,{{NLINE}}huh?
+"I thought the Mac{{NLINE}}brothers were pretty{{NLINE}}weird...

@@ -1,0 +1,156 @@
+Rei{{NLINE}}"It's a chicken{{NLINE}}coop...{{NPAGE}}We won't be able{{NLINE}}to get in from{{NLINE}}here, either...
+{{TXTBX,05}}Teepo{{NLINE}}"Are you OK, Rei?
+Rei{{NLINE}}"Let the chicken...{{PAUSE}}{{NLINE}}...{{PAUSE}}go free?
+{{TXTBX,05}}Teepo{{NLINE}}"Hey, good idea,{{NLINE}}Ryu!{{NPAGE}}If the boss's chickens{{NLINE}}get loose in the{{NLINE}}night...
+Rei{{NLINE}}"...then all the{{NLINE}}guards will be busy{{NPAGE}}running around trying{{NLINE}}to catch them!{{NPAGE}}...{{PAUSE}}...{{PAUSE}}Let's try it!
+{{TXTBX,06}}Rei{{NLINE}}"OK, Ryu!{{NPAGE}}You scare the{{NLINE}}chickens!
+{{TXTBX,06}}Rei{{NLINE}}"That was cute...{{NPAGE}}But would you scare{{NLINE}}the chickens...{{PAUSE}}...{{PAUSE}}{{NLINE}}...{{PAUSE}}...please?
+{{TXTBX,05}}Teepo{{NLINE}}"Jab 'em with your{{NLINE}}sword!
+{{TXTBX,05}}Teepo{{NLINE}}"Say... these guys{{NLINE}}look pretty tasty...
+{{TXTBX,06}}Rei{{NLINE}}"Be careful...{{NPAGE}}If you're too close,{{NLINE}}your sword'll get{{NLINE}}stuck
+{{TXTBX,03}}Rei{{NLINE}}"Enough already!{{NPAGE}}Get over here--{{NLINE}}hurry up!
+{{TXTBX,03}}Guard's voice{{NLINE}}"Whoa!{{NLINE}}{{EFCTS}}What's {{PAUSE}}happening!?{{EFCTE,02}}
+{{TXTBX,05}}Mina's voice{{NLINE}}"{{EFCTS}}eeeeeeeeeeek!{{EFCTE,17}}
+{{TXTBX,06}}Guard's voice{{NLINE}}"The chickens!{{NLINE}}They're escaping!
+{{TXTBX,03}}Guard's voice{{NLINE}}"Close the gates!{{NPAGE}}Everyone after the{{NLINE}}chickens!
+{{TXTBX,05}}Guard's voice{{NLINE}}"Rocky's been acting{{NLINE}}up again...
+{{TXTBX,00}}Teepo{{NLINE}}"Boy, that worked{{NLINE}}better than we could{{NPAGE}}have hoped for...We{{NLINE}}should be able to{{NPAGE}}sneak into the house{{NLINE}}real easy now!
+{{TXTBX,05}}Guard{{NLINE}}"{{EFCTS}}Hey you!!{{EFCTE,02}}{{NLINE}}What're you doing!?
+{{TXTBX,04}}Guard{{NLINE}}"Whoops! Ha ha...{{NPAGE}}I guess you saw me,{{NLINE}}didn't you...?{{NPAGE}}Say, who are you?{{NPAGE}}Oh, you're rob...{{PAUSE}}{{NLINE}}robbers!?
+{{TXTBX,05}}"cluck cluck
+{{TXTBX,05}}"......{{NLINE}}(it looks petrified{{NLINE}}with fright...)
+{{TXTBX,05}}"cluck...{{NLINE}}(she looks sleepy)
+{{TXTBX,81}} {{NLINE}}You were kicked out...{{DURTN,48}}
+"What's a wallet doing{{NLINE}}here...?{{NPAGE}}You found the {{COLRS,2}}wallet{{COLRE}}!
+{{TXTBX,03}}{{EFCTS}}!!!{{EFCTE,04}}
+{{TXTBX,03}}{{EFCTS}}!!!{{EFCTE,04}}
+{{TXTBX,03}}{{EFCTS}}!!!{{EFCTE,04}}
+{{TXTBX,03}}{{EFCTS}}!!!{{EFCTE,04}}
+{{TXTBX,03}}{{EFCTS}}!!!{{EFCTE,04}}
+{{TXTBX,03}}{{EFCTS}}!!!{{EFCTE,04}}
+{{TXTBX,03}}{{EFCTS}}!!!{{EFCTE,04}}
+{{TXTBX,03}}{{EFCTS}}!!!{{EFCTE,04}}
+{{TXTBX,03}}{{EFCTS}}!!!{{EFCTE,04}}
+{{TXTBX,05}}Teepo{{NLINE}}"What should we do,{{NLINE}}Rei?
+{{TXTBX,06}}Rei{{NLINE}}"I'll go check it{{NLINE}}out...
+Rei{{NLINE}}"They're all guarding{{NLINE}}the door...
+{{TXTBX,05}}Teepo{{NLINE}}"Should we give up?
+Rei{{NLINE}}"...No...{{NPAGE}}Let's force our{{NLINE}}way in...
+{{TXTBX,05}}Teepo{{NLINE}}"{{COLRS,2}}Force{{COLRE}}...{{NLINE}}You mean...{{NPAGE}}fight the guards?
+Rei{{NLINE}}"No...{{PAUSE}}I'll act as{{NLINE}}a decoy...{{NPAGE}}And while they're{{NLINE}}after me, you two{{NLINE}}sneak in...{{NPAGE}}I'll climb up to{{NLINE}}the roof and meet{{NLINE}}you there, OK?
+Teepo{{NLINE}}"Don't worry...{{NLINE}}It'll be OK...{{NPAGE}}Rei's really good{{NLINE}}at running...
+Teepo{{NLINE}}"Let's go, Ryu!
+{{TXTBX,06}}Rei{{NLINE}}"...Here goes{{NLINE}}nothing...
+Do you want to go{{NLINE}}outside?{{CHOIC,0,0,Yes,No}}
+Do you want to go{{NLINE}}outside?{{CHOIC,0,0,Yes,No}}
+Do you want to go{{NLINE}}outside?{{CHOIC,0,0,Yes,No}}
+Do you want to go{{NLINE}}outside?{{CHOIC,0,0,Yes,No}}
+Do you want to go{{NLINE}}outside?{{CHOIC,0,0,Yes,No}}
+Do you want to go{{NLINE}}outside?{{CHOIC,0,0,Yes,No}}
+After fixing the wall,{{NLINE}}Ryu and his friends{{NLINE}}left the manor...
+{{TXTBX,03}}Guard{{NLINE}}"I'm in charge of{{NLINE}}guarding the outside{{NPAGE}}of the mansion...So{{NLINE}}I don't really care{{NLINE}}about what happens{{NPAGE}}inside, you know?{{NLINE}}I don't get paid{{NLINE}}enough to worry, eh?
+{{TXTBX,03}}Guard{{NLINE}}"I'm in charge of{{NLINE}}guarding the outside{{NPAGE}}of the mansion...So{{NLINE}}I don't really care{{NLINE}}about what happens{{NPAGE}}inside, you know?{{NLINE}}I don't get paid{{NLINE}}enough to worry, eh?
+{{TXTBX,03}}Guard{{NLINE}}"I'm in charge of{{NLINE}}guarding the outside{{NPAGE}}of the mansion...So{{NLINE}}I don't really care{{NLINE}}about what happens{{NPAGE}}inside, you know?{{NLINE}}I don't get paid{{NLINE}}enough to worry, eh?
+{{TXTBX,03}}Guard{{NLINE}}"I'm in charge of{{NLINE}}guarding the outside{{NPAGE}}of the mansion...So{{NLINE}}I don't really care{{NLINE}}about what happens{{NPAGE}}inside, you know?{{NLINE}}I don't get paid{{NLINE}}enough to worry, eh?
+{{TXTBX,03}}Guard{{NLINE}}"I'm in charge of{{NLINE}}guarding the outside{{NPAGE}}of the mansion...So{{NLINE}}I don't really care{{NLINE}}about what happens{{NPAGE}}inside, you know?{{NLINE}}I don't get paid{{NLINE}}enough to worry, eh?
+{{TXTBX,03}}Guard{{NLINE}}"I'm in charge of{{NLINE}}guarding the outside{{NPAGE}}of the mansion...So{{NLINE}}I don't really care{{NLINE}}about what happens{{NPAGE}}inside, you know?{{NLINE}}I don't get paid{{NLINE}}enough to worry, eh?
+{{TXTBX,03}}Guard{{NLINE}}"I'm in charge of{{NLINE}}guarding the outside{{NPAGE}}of the mansion...So{{NLINE}}I don't really care{{NLINE}}about what happens{{NPAGE}}inside, you know?{{NLINE}}I don't get paid{{NLINE}}enough to worry, eh?
+{{TXTBX,03}}Guard{{NLINE}}"I'm in charge of{{NLINE}}guarding the outside{{NPAGE}}of the mansion...So{{NLINE}}I don't really care{{NLINE}}about what happens{{NPAGE}}inside, you know?{{NLINE}}I don't get paid{{NLINE}}enough to worry, eh?
+{{TXTBX,03}}Guard{{NLINE}}"I'm in charge of{{NLINE}}guarding the outside{{NPAGE}}of the mansion...So{{NLINE}}I don't really care{{NLINE}}about what happens{{NPAGE}}inside, you know?{{NLINE}}I don't get paid{{NLINE}}enough to worry, eh?
+{{TXTBX,03}}Guard{{NLINE}}"I'm in charge of{{NLINE}}guarding the outside{{NPAGE}}of the mansion...So{{NLINE}}I don't really care{{NLINE}}about what happens{{NPAGE}}inside, you know?{{NLINE}}I don't get paid{{NLINE}}enough to worry, eh?
+{{TXTBX,03}}Guard{{NLINE}}"I'm in charge of{{NLINE}}guarding the outside{{NPAGE}}of the mansion...So{{NLINE}}I don't really care{{NLINE}}about what happens{{NPAGE}}inside, you know?{{NLINE}}I don't get paid{{NLINE}}enough to worry, eh?
+{{TXTBX,03}}Guard{{NLINE}}"I'm in charge of{{NLINE}}guarding the outside{{NPAGE}}of the mansion...So{{NLINE}}I don't really care{{NLINE}}about what happens{{NPAGE}}inside, you know?{{NLINE}}I don't get paid{{NLINE}}enough to worry, eh?
+{{TXTBX,03}}Guard{{NLINE}}"I'm in charge of{{NLINE}}guarding the outside{{NPAGE}}of the mansion...So{{NLINE}}I don't really care{{NLINE}}about what happens{{NPAGE}}inside, you know?{{NLINE}}I don't get paid{{NLINE}}enough to worry, eh?
+{{TXTBX,03}}Guard{{NLINE}}"I'm in charge of{{NLINE}}guarding the outside{{NPAGE}}of the mansion...So{{NLINE}}I don't really care{{NLINE}}about what happens{{NPAGE}}inside, you know?{{NLINE}}I don't get paid{{NLINE}}enough to worry, eh?
+{{TXTBX,03}}Guard{{NLINE}}"I'm in charge of{{NLINE}}guarding the outside{{NPAGE}}of the mansion...So{{NLINE}}I don't really care{{NLINE}}about what happens{{NPAGE}}inside, you know?{{NLINE}}I don't get paid{{NLINE}}enough to worry, eh?
+{{TXTBX,03}}Guard{{NLINE}}"I'm in charge of{{NLINE}}guarding the outside{{NPAGE}}of the mansion...So{{NLINE}}I don't really care{{NLINE}}about what happens{{NPAGE}}inside, you know?{{NLINE}}I don't get paid{{NLINE}}enough to worry, eh?
+{{TXTBX,03}}Guard{{NLINE}}"I'm in charge of{{NLINE}}guarding the outside{{NPAGE}}of the mansion...So{{NLINE}}I don't really care{{NLINE}}about what happens{{NPAGE}}inside, you know?{{NLINE}}I don't get paid{{NLINE}}enough to worry, eh?
+{{TXTBX,05}}Maid{{NLINE}}"Wait...No...{{NLINE}}{{PAUSE}}Not...{{PAUSE}}here...
+{{TXTBX,03}}Servant{{NLINE}}"Dang it!{{NPAGE}}Curse that McNeil!{{NLINE}}Do this! Do that!
+{{TXTBX,05}}Servant{{NLINE}}"Oh no!{{NLINE}}Mina's in trouble!{{NPAGE}}{{PAUSE}}{{PAUSE}}{{PAUSE}}I'd better go{{NLINE}}see what's happening
+Servant{{NLINE}}"I'm on my break{{NLINE}}right now...{{NPAGE}}So feel free to do{{NLINE}}whatever you want...{{NPAGE}}(sigh){{NLINE}}I wish I could quit{{NLINE}}this job...
+Servant{{NLINE}}"Mr. McNeil's favorite{{NLINE}}food is eggs...{{NPAGE}}That's why he has a{{NLINE}}that chicken coop,{{NLINE}}see?
+Mysterious man{{NLINE}}"Darn it...There's too{{NLINE}}many guards...{{NPAGE}}I can't get in!
+Servant{{NLINE}}"One of my friends{{NLINE}}just got fired...{{NPAGE}}He accidentally let{{NLINE}}one of the chickens{{NLINE}}get away...{{NPAGE}}I'd better be{{NLINE}}careful...
+Mysterious man{{NLINE}}"What's going on?{{NLINE}}Where'd they go?
+Maid{{NLINE}}"What's that noise? It{{NLINE}}sounds like an animal
+Guard{{NLINE}}"I wonder if I can't{{NLINE}}find a better job...
+Servant{{NLINE}}"I-it wasn't me...
+Servant{{NLINE}}"Oh! Mina and the{{NLINE}}chicken...!{{NPAGE}}I'd better go make{{NLINE}}sure nothing's wrong
+{{TXTBX,05}}Servant{{NLINE}}"Oh! I can't watch{{NLINE}}any more of this!{{NPAGE}}But I can't stop{{NLINE}}watching!
+Servant{{NLINE}}"A lot of people'll{{NLINE}}get fired for this!
+Maid{{NLINE}}"Stop it! Don't{{PAUSE}} peck{{NLINE}}at me like {{PAUSE}}that!
+Mysterious man{{NLINE}}"What was that voice{{NLINE}}a few minutes ago?{{NPAGE}}If this place is{{NLINE}}haunted, I'm outta{{NLINE}}here!
+Servant{{NLINE}}"cluck-cluck-cluck{{NLINE}}Here chicken...
+Guard{{NLINE}}"A giant monster{{NLINE}}chicken appeared!{{NPAGE}}Why do these things{{NLINE}}have to happen on{{NLINE}}my shift?
+Guard{{NLINE}}"Whoa!{{NPAGE}}...oh, it's just a{{NLINE}}kid!...I thought you{{NLINE}}were that tiger!
+Guard{{NLINE}}"Isn't there an old{{NLINE}}superstition that says{{NPAGE}}It's bad luck to{{NLINE}}see a tiger at{{NLINE}}night?
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+Looks like bird food
+Water for the birds?
+Guard{{NLINE}}"Who goes there!?
+Guard{{NLINE}}"Who goes there!?
+Guard{{NLINE}}"Who goes there!?
+Guard{{NLINE}}"Oh, it's just{{NLINE}}Rei...
+Guard{{NLINE}}"Hey, if you beat that{{NLINE}}Nue...{{NPAGE}}then I don't stand{{NLINE}}a chance against you,{{NLINE}}right?
+Rei{{NLINE}}"You're a pretty{{NLINE}}smart fellow...{{NPAGE}}We're going in, OK?
+Guard{{NLINE}}"...{{PAUSE}}...{{PAUSE}}...50 zenny{{CHOIC,1,0,OK,No way}}
+Guard{{NLINE}}"Heh heh...thanks{{NPAGE}}Our salary's not that{{NLINE}}great, you know?
+Guard{{NLINE}}"Go right ahead...{{NLINE}}I didn't see anything
+Guard{{NLINE}}"OK, then...I'll{{NLINE}}sound the alarm!
+Guard{{NLINE}}"You mean you don't{{NLINE}}have any money?{{NPAGE}}OK, if you bring me{{NLINE}}some, I'll let you{{NLINE}}through...
+Guard{{NLINE}}"So...do you want to{{NLINE}}give me the 50 zenny?{{CHOIC,1,0,OK, OK,No!}}
+"See, McNeil's really{{NLINE}}cheap...and if you{{NLINE}}don't get paid much,{{NPAGE}}you don't feel like{{NLINE}}working hard, y'know?{{NPAGE}}But there are some{{NLINE}}guards who take their{{NLINE}}job seriously,{{NPAGE}}so be careful!
+Guard{{NLINE}}"I'm sorry, but I'll{{NLINE}}need another 50 zenny{{NPAGE}}If I get caught, I'm{{NLINE}}in big trouble, you{{NLINE}}know...{{CHOIC,1,0,OK,No}}
+"I'm trying to break{{NLINE}}in here...{{NPAGE}}So don't tell the{{NLINE}}guards you saw me, OK?{{NPAGE}}{{COLRS,2}}The man gives you{{COLRE}}{{NLINE}}{{COLRS,4}}50 zenny!!{{COLRE}}
+"I won't give you{{NLINE}}any more
+Guard{{NLINE}}"{{EFCTS}}HALT!{{EFCTE,09}}
+Guard{{NLINE}}"...is what I'm{{NLINE}}supposed to say, but{{NPAGE}}if you sneak around{{NLINE}}someplace I can't see,{{NLINE}}I won't mind
+"Just between you{{NLINE}}and me...{{NPAGE}}The other guards who{{NLINE}}are wearing the same{{NLINE}}color uniform as me...{{NPAGE}}Well, they're just as{{NLINE}}lazy as I am
+"I lost my wallet{{NLINE}}while on patrol...{{NPAGE}}I don't want to{{NLINE}}do anything until{{NLINE}}I find it...{{NPAGE}}You know what I{{NLINE}}mean?
+"Hey! That's my{{NLINE}}wallet!{{NPAGE}}I've been looking for{{NLINE}}it everywhere!
+"I really shouldn't do{{NLINE}}this, but seeing as{{NLINE}}you found my wallet...{{NPAGE}}I'll let you through,{{NLINE}}OK?
+If you hit it with{{NLINE}}something you should{{NLINE}}be able to ring it
+{{TXTBX,03}}Guard{{NLINE}}"Hey! Quitting time...
+{{TXTBX,06}}Guard{{NLINE}}"I don't know...{{NPAGE}}I mean, if I let{{NLINE}}you through here...{{NPAGE}}it'll look like I{{NLINE}}wasn't doing my job,{{NLINE}}right?
+{{TXTBX,06}}Guard{{NLINE}}"I hate to ask{{NLINE}}you this, but...{{NPAGE}}Do you think you{{NLINE}}could go over to{{NLINE}}the gate and get{{NPAGE}}rid of the dog{{NLINE}}that's there?
+{{TXTBX,05}}Guard{{NLINE}}"See, that way...{{NPAGE}}It'll look like the{{NLINE}}dog's fault, not mine,{{NLINE}}right? Please?
+Rei{{NLINE}}"Don't that just{{NLINE}}beat all?{{NPAGE}}They're all a{{NLINE}}bunch of goof-offs!
+Guard{{NLINE}}"Take care of{{NLINE}}the dog...OK?
+"See, this way, the{{NLINE}}dog'll get all the{{NLINE}}blame, not me...{{NPAGE}}I'm off the hook,{{NLINE}}yeah?
+{{TXTBX,05}}Teepo{{NLINE}}"Ha ha ha{{NPAGE}}It doesn't seem right,{{NLINE}}picking on a little{{NLINE}}dog like this, Rei
+Rei{{NLINE}}"Would you say the{{NLINE}}same thing{{NPAGE}}if he'd bitten your{{NLINE}}butt while you were{{NPAGE}}climbing over the{{NLINE}}wall, {{PAUSE}}Teepo?
+{{TXTBX,05}}Rei{{NLINE}}"Rather this than{{NLINE}}another Nue...{{NPAGE}}Let's do it!
+"Don't even think about{{NLINE}}trying to get in{{NLINE}}through the front...{{NPAGE}}Unlike me, all the{{NLINE}}guards there take{{NLINE}}their jobs seriously
+"I wish I could be{{NLINE}}with Mina...{{NPAGE}}Instead of being{{NLINE}}stuck in this corner!
+"Wait! What's Mina{{NLINE}}doing over there!?{{NPAGE}}I'd better go make{{NLINE}}sure she's all right!
+"I don't know...
+"M-M{{PAUSE}}-Mina...{{NPAGE}}W-w-would you like to{{NLINE}}s-s{{PAUSE}}-spend some time{{NLINE}}with me?
+"I wonder what Mina's{{NLINE}}doing now...{{PAUSE}}what?
+"You say Mina's here!{{NLINE}}With another man!?{{NPAGE}}That's terrible!{{NLINE}}I can't believe it!
+"Mina! Will you go{{NLINE}}out on a date with{{NLINE}}me next?
+Rei{{NLINE}}"A chicken coop...
+{{TXTBX,06}}Teepo{{NLINE}}"Since we can't get{{NLINE}}in the house 'cause{{NPAGE}}of all the guards, why{{NLINE}}don't we just steal{{NLINE}}some eggs and go home!
+Rei{{NLINE}}"Um...I don't think{{NLINE}}so...{{NPAGE}}Aren't you setting{{NLINE}}your sights a little{{NLINE}}low there, Teepo?
+Teepo{{NLINE}}"Whoa!{{PAUSE}} Rei!
+{{TXTBX,06}}Teepo{{NLINE}}"M{{PAUSE}}-maybe I should put{{NLINE}}them back, huh, Rei?
+{{TXTBX,06}}Rei{{NLINE}}"I don't think that'll{{NLINE}}make him happy...
+"{{EFCTS}}cluk-cluck-cluk-cluck{{EFCTE,17}}
+"First the dog gets{{NLINE}}killed, now the{{NLINE}}chickens are loose...{{NPAGE}}What a night!
+"Boy, those guys are{{NLINE}}pretty serious...{{NPAGE}}They blocked up the{{NLINE}}door pretty quick
+"Mina! Why don't you{{NLINE}}be with me instead of{{NPAGE}}wasting time on the{{NLINE}}chickens?
+"Oh, Mina...You're so{{NLINE}}beautiful when you{{NLINE}}play with the chickens
+"I'll go crazy if you{{NLINE}}don't stop pecking me{{NLINE}}like {{PAUSE}}that!
+"sigh...{{NPAGE}}She's so beautiful...
+Teepo{{NLINE}}"Let's use the{{NLINE}}chickens again...{{NPAGE}}Ryu, poke 'em with{{NLINE}}your sword!
+Rei{{NLINE}}"Hey! We're not{{NLINE}}finished here yet!
+Rei{{NLINE}}"Shh! I think{{NLINE}}someone's there...?

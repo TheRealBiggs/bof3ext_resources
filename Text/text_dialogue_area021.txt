@@ -1,0 +1,97 @@
+"This place's called{{NLINE}}Syn City...{{NPAGE}}You can find whatever{{NLINE}}you're looking for{{NLINE}}here... for a price
+"This place's called{{NLINE}}Syn City...{{NPAGE}}You can find whatever{{NLINE}}you're looking for{{NLINE}}here... for a price
+"Most people 'round{{NLINE}}here can't advertise{{NLINE}}what they do...{{NPAGE}}if you know what I{{NLINE}}mean...{{NPAGE}}So make sure you{{NLINE}}keep quiet too, eh?
+"Since we're dealing{{NLINE}}with illegal stuff{{NLINE}}here, we've always{{NPAGE}}got to be on the{{NLINE}}watch out for the{{NLINE}}king's guards...{{NPAGE}}Hey, you're not one{{NLINE}}of them are you?
+"I'm watching...{{NPAGE}}What am I watching?{{NLINE}}Oh, this and that...
+"Everyone here's got{{NLINE}}something to sell...{{NPAGE}}Me? I sell what's{{NLINE}}not on the menu...{{NPAGE}}if you catch my{{NLINE}}meaning, handsome
+"The ah...organization{{NLINE}}that runs this place{{NLINE}}is pretty huge...{{NPAGE}}I hear they're even{{NLINE}}involved in that big{{NLINE}}contest that they{{NPAGE}}have over in Genmel
+"I ain't got nothing{{NPAGE}}But if you could{{NLINE}}spare me some coins,{{NPAGE}}I can tell you a{{NLINE}}thing or two...{{NPAGE}}What do you say,{{NLINE}}only 20 zenny?{{CHOIC,1,0,OK,No}}
+"There goes Kenichi,{{NLINE}}arguing with a{{NLINE}}customer again...{{NPAGE}}One of these days,{{NLINE}}his dad's gonna have{{NLINE}}to teach him a lesson
+"woof woof
+"I'll teach you not{{NLINE}}to sell me junk{{NLINE}}like this!{{NPAGE}}I'm gonna tell{{NLINE}}your boss about{{NLINE}}this!!
+"mumblemumblemumble...
+"Don't tell anyone{{NLINE}}this, but...{{NPAGE}}I've got some chrysm{{NLINE}}for sale...I gotta{{NLINE}}watch out, though--{{NPAGE}}chrysm smuggling's a{{NLINE}}pretty serious crime{{NLINE}}an' if I get caught...
+"Huh! You say you'll{{NLINE}}give me 1000 zenny if{{NLINE}}I let you through!?{{NPAGE}}Hmmm...I don't know...{{NPAGE}}What? You didn't say{{NLINE}}that...!?{{NLINE}}Oh, well...
+"Only the boss and{{NLINE}}his men are allowed{{NLINE}}through here!
+"Hey, I got everything{{NLINE}}from diapers to{{NLINE}}tombstones!{{NPAGE}}What do you need?
+"Weapons, armor...you{{NLINE}}name it, I got it!
+"Heh heh, thank you{{NLINE}}kindly, sirrah...{{NPAGE}}What do you wants{{NLINE}}to know about?{{CHOIC,2,2,Syn City,The organization,The Ogre Road monster,What that woman sells,Nothing}}
+"Well, as you can{{NLINE}}probably guess by the{{NLINE}}name, in Syn City,{{NPAGE}}anything goes...it's{{NLINE}}most famous for the{{NLINE}}black market here...{{NPAGE}}For example, in years{{NLINE}}with a poor harvest,{{NLINE}}if you come here, you{{NPAGE}}can get food...for a{{NLINE}}price, naturally...{{NLINE}}'Cause someone{{NPAGE}}smuggles it here...{{NLINE}}Like that time a few{{NLINE}}years ago, when we{{NPAGE}}had that bad harvest,{{NLINE}}we had food smuggled{{NLINE}}in from McNeil village
+"I don't know{{NLINE}}anything 'bout that{{NPAGE}}Hold on, don't get{{NLINE}}upset like that...{{NPAGE}}I weren't be asking{{NLINE}}about that too much{{NLINE}}if I was you...{{NPAGE}}Not good for ya{{NLINE}}health, know what{{NLINE}}I mean?{{NPAGE}}Les' just say they{{NLINE}}gots thieves, and{{NLINE}}murderers...{{NPAGE}}and that's jus'{{NLINE}}the beginning!
+"So ye've heard about{{NLINE}}that, eh?{{NPAGE}}I don't knows much,{{NLINE}}but I heard that{{NLINE}}people on Ogre Road{{NPAGE}}down south o' here{{NLINE}}is gettin' attacked{{NLINE}}by some kinda monster{{NPAGE}}Say it's some kinda{{NLINE}}tiger or something...
+"Hee hee hee hee{{NPAGE}}Can't ye tell by{{NLINE}}looking? She's in{{NLINE}}the oldest business{{NPAGE}}there is, if ya{{NLINE}}knows what I mean
+"Heh heh, I ain't{{NLINE}}givin' it back!
+"Wha's that? Ya don't{{NLINE}}even have 20 zenny to{{NLINE}}give an old man?
+"Ye'll be sorry if{{NLINE}}ya doesn't listen
+"Sorry, but there are{{NLINE}}no more stores this{{NLINE}}way...
+Garr{{NLINE}}"What is it...?
+Merchant{{NLINE}}"Excuse me, sirs!
+Merchant{{NLINE}}"This is your first{{NLINE}}time here, isn't it?{{NPAGE}}You're not yet members{{NLINE}}of the Circle, are{{NLINE}}you?
+Merchant{{NLINE}}"See, we'd get in a{{NLINE}}lot of trouble if{{NPAGE}}some official found{{NLINE}}out about us, so we{{NLINE}}only sell Circle{{NPAGE}}members the good{{NLINE}}stuff...You don't need{{NLINE}}to pay anything to{{NPAGE}}join, so here, take{{NLINE}}this!{{NPAGE}}You got a "Member's{{NLINE}}Card"!
+Merchant{{NLINE}}"So...{{PAUSE}}if you want{{NLINE}}some...merchandise...{{NPAGE}}Come see me and{{NLINE}}I can get you{{NLINE}}whatever you need...
+{{TXTBX,06}}Garr{{NLINE}}"Forget about it{{NPAGE}}These people are the{{NLINE}}same as Balio and{{NLINE}}Sunder...{{NPAGE}}I'd steer clear of{{NLINE}}them if I were{{NLINE}}you...
+Merchant{{NLINE}}"Oh... well...{{NPAGE}}If that's the case...{{NLINE}}See you around
+"These weapons, sirs,{{NLINE}}contain the power of{{NLINE}}the mighty Ashura,{{NPAGE}}warrior god, and are{{NLINE}}hand-made by yours{{NLINE}}truly, the magnificent{{NPAGE}}Sekine! Now they can{{NLINE}}be yours--for a{{NLINE}}limited time only!
+Nina{{NLINE}}"Something's not...{{NLINE}}right
+{{TXTBX,05}}Garr{{NLINE}}"That smell...{{NLINE}}it's blood
+"uuhhh...{{PAUSE}}t...tiger...
+"It hurts it hurts!
+"{{EFCTS}}A man-eating tiger!{{EFCTE,02}}{{NPAGE}}That wasn't supposed{{NLINE}}to be on the menu!
+"A tiger came in...{{NLINE}}and surprised us...{{NLINE}}owwww...
+"mumble...mumble...
+"No! I'll stop!{{NLINE}}I'll stop smuggling{{NLINE}}chrysm! I promise!{{NPAGE}}Just don't hurt me!
+"bark! bark!
+"This tiger came in{{NLINE}}and attacked us...{{NPAGE}}Kept growling and{{NLINE}}asking us where the{{NLINE}}boss is..{{EFCTE,90}}uhhhh...mmmm....
+"uhhhh...mmmm....
+No answer...{{NLINE}}He's dead...
+"I told them they'd{{NLINE}}get in trouble if they{{NLINE}}didn't stop...
+"Ohhhh I'm hurt bad...{{NPAGE}}I'll give you all my{{NLINE}}money...{{NPAGE}}if you'll give me some{{NLINE}}healing herbs...{{CHOIC,3,0,Sure,No}}
+"Thank you!{{NPAGE}}{{CHRTR}} sold a healing{{NLINE}}herb for {{PRMTR,1}} zenny!
+"Please...I'm begging{{NLINE}}you...I need help...{{CHOIC,4,0,OK,No!}}
+"What? You don't even{{NLINE}}have any healing{{NLINE}}herbs?
+"Thank you...
+"Fine, I see{{NPAGE}}You don't care about{{NLINE}}what happens to any-{{NLINE}}body else!
+"Uh...a tiger came and{{NLINE}}attacked us...{{NPAGE}}Said he wanted the{{NLINE}}boss...
+"The boss took off{{NLINE}}a long time ago...{{NPAGE}}He probably ran off{{NLINE}}to the checkpoint up{{NLINE}}north...
+"It...it was horrible!{{NLINE}}A monster!
+Nina{{NLINE}}"A tiger...it has{{NLINE}}to be Rei!{{NPAGE}}He must have given{{NLINE}}up on McNeil and come{{NLINE}}here...
+{{TXTBX,05}}Garr{{NLINE}}"He's still trying to{{NLINE}}make it up to himself{{NPAGE}}For that time long{{NLINE}}ago when he couldn't{{NLINE}}protect Ryu
+Nina{{NLINE}}"But...{{NPAGE}}What's the point in{{NLINE}}doing that now?{{NPAGE}}Besides, if he kills{{NLINE}}the boss, how will{{NPAGE}}we be able to{{NLINE}}interrogate him?
+"This kind of work's{{NLINE}}a lot safer than going{{NPAGE}}after some weretiger{{NLINE}}any day...
+"Have you ever heard{{NLINE}}about Coupons?{{NPAGE}}It's an item that will{{NLINE}}let you buy anything{{NLINE}}in the world cheaper
+"Me? I'm still selling{{NLINE}}whatever you want me{{NLINE}}to, big boy
+"The gang that was{{NLINE}}running this place...{{NPAGE}}They got beat up by{{NLINE}}that weretiger pretty{{NLINE}}badly...{{NPAGE}}Looks like they'll{{NLINE}}be behaving themselves{{NLINE}}for a while
+"Well, I guess with{{NLINE}}all the bad stuff{{NLINE}}we were up to...{{NPAGE}}We'd make an enemy{{NLINE}}or two along the{{NLINE}}way...
+"What do you think{{NLINE}}you're doing, selling{{NLINE}}me junk like this!!{{NPAGE}}Am I going to have{{NLINE}}to make this{{NLINE}}personal!?
+"Someone caught me{{NLINE}}selling chrysm...{{NPAGE}}Oh, boy, I'm in{{NLINE}}deep water now...
+There's a lot of{{NLINE}}complicated-looking{{NLINE}}controls!
+There's a lot of{{NLINE}}complicated-looking{{NLINE}}controls!
+There's a lot of{{NLINE}}complicated-looking{{NLINE}}controls!
+There's a lot of{{NLINE}}complicated-looking{{NLINE}}controls!
+There's a lot of{{NLINE}}complicated-looking{{NLINE}}controls!
+There's a lot of{{NLINE}}complicated-looking{{NLINE}}controls!
+There's a lot of{{NLINE}}complicated-looking{{NLINE}}controls!
+There's a lot of{{NLINE}}complicated-looking{{NLINE}}controls!
+There's a lot of{{NLINE}}complicated-looking{{NLINE}}controls!
+There's a lot of{{NLINE}}complicated-looking{{NLINE}}controls!
+There's a lot of{{NLINE}}complicated-looking{{NLINE}}controls!
+There's a lot of{{NLINE}}complicated-looking{{NLINE}}controls!
+There's a lot of{{NLINE}}complicated-looking{{NLINE}}controls!
+There's a lot of{{NLINE}}complicated-looking{{NLINE}}controls!
+There's a lot of{{NLINE}}complicated-looking{{NLINE}}controls!
+There's a lot of{{NLINE}}complicated-looking{{NLINE}}controls!
+There's a lot of{{NLINE}}complicated-looking{{NLINE}}controls!
+There's a lot of{{NLINE}}complicated-looking{{NLINE}}controls!
+There's a lot of{{NLINE}}complicated-looking{{NLINE}}controls!
+There's a lot of{{NLINE}}complicated-looking{{NLINE}}controls!
+There's a lot of{{NLINE}}complicated-looking{{NLINE}}controls!
+There's a lot of{{NLINE}}complicated-looking{{NLINE}}controls!
+There's a lot of{{NLINE}}complicated-looking{{NLINE}}controls!
+There's a lot of{{NLINE}}complicated-looking{{NLINE}}controls!
+There's a lot of{{NLINE}}complicated-looking{{NLINE}}controls!
+There's a lot of{{NLINE}}complicated-looking{{NLINE}}controls!
+There's a lot of{{NLINE}}complicated-looking{{NLINE}}controls!
+There's a lot of{{NLINE}}complicated-looking{{NLINE}}controls!
+There's a lot of{{NLINE}}complicated-looking{{NLINE}}controls!
+There's a lot of{{NLINE}}complicated-looking{{NLINE}}controls!
+There's a lot of{{NLINE}}complicated-looking{{NLINE}}controls!

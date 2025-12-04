@@ -1,0 +1,21 @@
+It's locked with an{{NLINE}}electronic lock!{{NPAGE}}Even Rei wouldn't{{NLINE}}be able to pick it
+It's locked with an{{NLINE}}electronic lock!{{NPAGE}}Even Rei wouldn't{{NLINE}}be able to pick it
+{{SOUND,09}}    {{COLRS,4}}Platform 1{{COLRE}}  {{SOUND,07}}{{NLINE}}{{SOUND,09}} Currently running in{{SOUND,07}}{{NLINE}}{{SOUND,09}}emergency lockout mode{{SOUND,07}}{{NPAGE}}{{SOUND,09}}  Please contact the{{SOUND,07}}{{NLINE}}{{SOUND,0A}}station control room.{{SOUND,07}}
+{{SOUND,09}}Station Ground Control{{SOUND,07}}{{NLINE}}{{SOUND,0A}} Currently running in{{SOUND,07}}{{NLINE}}{{SOUND,09}}emergency lockout mode{{SOUND,07}}{{NPAGE}}{{SOUND,09}} Deactivate emergency{{SOUND,07}}{{NLINE}}{{SOUND,09}}       mode?    {{SOUND,07}}{{CHOIC,0,0,Yes,No}}
+{{SOUND,09}} For Orbital Station{{SOUND,07}}{{NLINE}}{{SOUND,09}}       {{COLRS,2}}Myria{{COLRE}}  {{SOUND,07}}{{NPAGE}}{{SOUND,09}}Please use Platform 1{{SOUND,07}}{{CHOIC,1,0,OK,Wait}}
+{{SOUND,09}} Normal mode engaged{{SOUND,07}}{{NLINE}}{{SOUND,09}}  Unlocking ground  {{SOUND,07}}{{NLINE}}{{SOUND,0A}} control station...{{SOUND,07}}
+{{SOUND,0A}} Emergeny mode active{{SOUND,07}}
+{{SOUND,0A}} Passengers bound for{{SOUND,07}}{{NLINE}}{{SOUND,09}}Orbital station {{COLRS,2}}Myria{{COLRE}}{{NPAGE}}{{SOUND,09}}    Please use the  {{SOUND,07}}{{NLINE}}{{SOUND,0A}}    automated lift.  {{SOUND,07}}
+{{SOUND,09}} Platform 1 {{SOUND,07}}{{NLINE}}{{SOUND,0A}}Gates opening...{{SOUND,07}}
+{{SOUND,09}}Security active{{SOUND,07}}{{NLINE}}{{SOUND,09}}Please use the switch{{SOUND,07}}{{NLINE}}{{SOUND,0A}}to select a mode:{{SOUND,07}}{{NPAGE}}{{SOUND,09}}ON Normal mode{{SOUND,07}}{{NLINE}}{{SOUND,0A}}OFF Test mode{{SOUND,07}}
+{{TXTBX,03}}"Attention...{{NLINE}}Lift for {{COLRS,2}}Myria{{COLRE}} station{{NLINE}}now at Platform 1...{{DURTN,80}}
+Momo{{NLINE}}"Myria, Myria...{{NPAGE}}I keep hearing that{{NLINE}}name...{{NPAGE}}Is that supposed to{{NLINE}}be God?
+Garr{{NLINE}}"I keep hearing our{{NLINE}}God's name...{{NPAGE}}But what does{{NLINE}}'station' mean?
+Nina{{NLINE}}"That name we keep{{NLINE}}hearing...Myria...{{NPAGE}}That's God's name...{{NLINE}}right?
+Rei{{NLINE}}"Myria, Myria, Myria...{{NPAGE}}Is that supposed to{{NLINE}}be God or something?
+Rei{{NLINE}}"I guess we'll find{{NLINE}}out soon enough, eh?
+Nina{{NLINE}}"I suppose this means{{NLINE}}we're getting close,{{NLINE}}to God, I mean...
+Garr{{NLINE}}"Hmmm...{{NPAGE}}It looks like we're{{NLINE}}getting closer,{{NLINE}}that's for sure
+Momo{{NLINE}}"All right, then,{{NLINE}}let's go!
+{{TXTBX,84}}"Attention...{{NLINE}}Lift for Myria now{{NLINE}}leaving Platform 1...
+{{TXTBX,82}} {{NLINE}} {{NLINE}} {{NLINE}} At ancient Caer Xhan,{{NLINE}} {{NLINE}}  the long-abandoned {{NLINE}} {{NLINE}}  home of the gods...{{DURTN,64}}

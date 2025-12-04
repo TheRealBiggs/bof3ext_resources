@@ -1,0 +1,177 @@
+"Welcome to Rhapala!{{NPAGE}}Home of the Porter's{{NLINE}}Guild!
+"Welcome to Rhapala!{{NPAGE}}Home of the Porter's{{NLINE}}Guild!
+"meow!
+"I want to go{{NLINE}}east, right?{{NPAGE}}So I thought I{{NLINE}}could hitch a ride{{NLINE}}on a boat here...{{NPAGE}}But they told me{{NLINE}}I'd have to go{{NLINE}}around the volcano!
+"What's this place?
+"This is the town{{NLINE}}square...I think{{NPAGE}}Either that or a{{NLINE}}fountain without{{NLINE}}any water...
+"I hear there's{{NLINE}}been no boat here{{NLINE}}for a while...{{NPAGE}}That's OK--I can{{NLINE}}wait
+"If you've business{{NLINE}}with the Guild,{{NLINE}}they're over there
+"zzz...
+"I've seen you{{NLINE}}somewhere before...{{NPAGE}}I know! Didn't I{{NLINE}}meet you at the{{NLINE}}Contest of Champions?
+"I ain't got{{NLINE}}nothin' to do...{{NPAGE}}Maybe I'll try{{NLINE}}fishing too...
+"I get sardines{{NLINE}}and give 'em to{{NLINE}}my cat...{{NPAGE}}I may not look it,{{NLINE}}but I love cats!
+"prrrrrrrrr
+"Ever catch a puffer?{{NPAGE}}Pretty weird name for{{NLINE}}a fish, ain't it?{{NPAGE}}Wonder who made it{{NLINE}}up...
+"We cross the sea{{NLINE}}here and go to{{NLINE}}Junk Town...{{NPAGE}}and bring back the{{NLINE}}machines they got{{NLINE}}there{{NPAGE}}'Cept lately the{{NLINE}}boat hasn't come{{NLINE}}back...
+"I can hear the{{NLINE}}sea calling me
+{{EFCTS}}scuttle scuttle{{EFCTE,02}}
+"The boat hasn't{{NLINE}}come back...{{NPAGE}}Heard it's 'cause{{NLINE}}the lighthouse don't{{NLINE}}work...
+"The shipyard's up{{NLINE}}this way...{{NPAGE}}No ship there now,{{NLINE}}though...
+"What?{{NPAGE}}I don't care what you{{NLINE}}say, I won't do it
+"Usually I can get{{NLINE}}a ride east on the{{NLINE}}ship, but...
+"Maybe I should try{{NLINE}}going 'round the{{NLINE}}volcano down south...
+"I thought I'd be{{NLINE}}able to get some{{NLINE}}work when the ship{{NPAGE}}came back, so I{{NLINE}}came to meet the{{NLINE}}Guildmaster, Sinkar
+"All these bums come{{NLINE}}looking for work and{{NLINE}}just stay here...{{NPAGE}}Haven't they got{{NLINE}}anything better to do?
+"Looking for the{{NLINE}}Guildmaster?{{NPAGE}}Sinkar's here having{{NLINE}}lunch
+"Rum's the only{{NLINE}}drink that's fit{{NLINE}}for a sailor...{{NPAGE}}Man, I love this{{NLINE}}smell!
+"That fellow there...{{NPAGE}}He doesn't have any{{NLINE}}money so he keeps{{NLINE}}ordering water
+"A rundown pub in{{NLINE}}a port town...{{NPAGE}}A man sitting alone{{NLINE}}in the corner nursing{{NLINE}}his drink...{{NPAGE}}Am I hip, or what?
+"I came all this way{{NLINE}}thinking I could buy{{NLINE}}some machines...{{NPAGE}}It's just my luck{{NLINE}}the boat's not coming{{NLINE}}back!
+"Sinkar's the{{NLINE}}Guildmaster, see?{{NPAGE}}But lately he's been{{NLINE}}letting his daughter{{NLINE}}do most of the work
+"Huh?{{NLINE}}You want to use the{{NLINE}}ship?{{NPAGE}}Hmmm...My daughter's{{NLINE}}in charge of that--{{NPAGE}}you'll have to talk{{NLINE}}to her about it
+"The Guildmaster{{NLINE}}Sinkar's in charge{{NLINE}}of all the traffic{{NPAGE}}coming and going{{NLINE}}around this area
+"squeak?
+"Oh well...{{NPAGE}}Guess I'm stuck{{NLINE}}here until the{{NLINE}}ship comes back...
+"Welcome to{{NLINE}}Hotel Sinkar!
+"{{EFCTS}}purrrrrrrrr{{EFCTE,16}}
+"Care for a shot{{NLINE}}before you get on{{NLINE}}the boat?
+"We take transport{{NLINE}}orders here...{{NPAGE}}If you're looking{{NLINE}}for passage on the{{NLINE}}ship, you'll have to{{NPAGE}}talk to Guildmaster{{NLINE}}Sinkar first
+"They say the reason{{NLINE}}there's a lot of{{NLINE}}cats here is because{{NPAGE}}the Guild symbol is{{NLINE}}a cat, see?
+"meow?
+"My daughter Shadis{{NLINE}}should be out at{{NLINE}}the shipyard...{{NPAGE}}If you want to know{{NLINE}}about the ship, she's{{NLINE}}the one to talk to
+"What? You want to{{NLINE}}use the road instead{{NLINE}}of the ship?{{NPAGE}}Hmmm....there's a{{NLINE}}problem with that,{{NLINE}}too...
+Sinkar{{NLINE}}"You know that volcano{{NLINE}}Mt. Zublo?{{NPAGE}}It erupted a little{{NLINE}}while ago, and the{{NPAGE}}lava's blocked off{{NLINE}}the road
+Sinkar{{NLINE}}"So, if you want to go{{NLINE}}east, there's no choice{{NPAGE}}You'll have to wait{{NLINE}}until the ship comes{{NLINE}}back{{NPAGE}}I won't stop you if{{NLINE}}you want to go see{{NLINE}}the volcano, but you{{NPAGE}}won't be able to{{NLINE}}get past it
+"Huh?{{NLINE}}Is there something{{NLINE}}else you need?{{NPAGE}}Tell us:{{CHOIC,0,2,Nothing,About Shadis,About Beyd,Who's Zig?,About the road,About Mt. Zublo}}
+"I see...{{NLINE}}I guess we'll just{{NPAGE}}have to wait to{{NLINE}}go east, then...
+"She's my daughter{{NLINE}}and I love her, but...{{NPAGE}}Guild work's rough,{{NLINE}}yeah? I wish I could{{NLINE}}just fix her up with{{NPAGE}}a decent man who{{NLINE}}could follow in my{{NLINE}}footsteps...{{NPAGE}}Anything else you{{NLINE}}want to know?{{NPAGE}}Tell us:{{CHOIC,0,2,Nothing,About Shadis,About Beyd,Who's Zig?,About the road,About Mt. Zublo}}
+"Beyd? The bookkeeper?{{NLINE}}He's a hard worker...{{NPAGE}}If he were only a{{NLINE}}little brawnier...{{NPAGE}}Anything else you{{NLINE}}want to know?{{NPAGE}}Tell us:{{CHOIC,0,2,Nothing,About Shadis,About Beyd,Who's Zig?,About the road,About Mt. Zublo}}
+"Zig's one of the{{NLINE}}best sailors I've{{NLINE}}ever seen{{NPAGE}}He's strong, and{{NLINE}}you can trust him{{NLINE}}in a pinch{{NPAGE}}I bet the Guildmen{{NLINE}}would follow him,{{NLINE}}you bet{{NPAGE}}Anything else you{{NLINE}}want to know?{{NPAGE}}Tell us:{{CHOIC,0,2,Nothing,About Shadis,About Beyd,Who's Zig?,About the road,About Mt. Zublo}}
+"If you want to go{{NLINE}}east from here, you{{NLINE}}either have to take{{NPAGE}}a boat, or use the{{NLINE}}road our Guild built{{NPAGE}}Unfortunately, neither{{NLINE}}of 'em is usable{{NLINE}}right now...sorry{{NPAGE}}We're in as much of{{NLINE}}a bind as you are...{{NPAGE}}Anything else you{{NLINE}}want to know?{{NPAGE}}Tell us:{{CHOIC,0,2,Nothing,About Shadis,About Beyd,Who's Zig?,About the road,About Mt. Zublo}}
+"Zublo's the volcano{{NLINE}}to the southeast of{{NLINE}}here...{{NPAGE}}We spent years making{{NLINE}}a road around it, but{{NPAGE}}the volcano went and{{NLINE}}erupted and wrecked it{{NPAGE}}Anything else you{{NLINE}}want to know?{{NPAGE}}Tell us:{{CHOIC,0,2,Nothing,About Shadis,About Beyd,Who's Zig?,About the road,About Mt. Zublo}}
+"I heard Zig say he's{{NLINE}}gonna go to the{{NLINE}}lighthouse...{{NPAGE}}There's supposed to{{NLINE}}be lots of monsters{{NLINE}}there, but I bet{{NPAGE}}Zig'll be able to{{NLINE}}handle 'em!
+"Zig's gonna repair{{NLINE}}the lighthouse?{{NPAGE}}If he can do that,{{NLINE}}then he'll end up{{NPAGE}}taking over for the{{NLINE}}Guildmaster for sure!
+"Once the lighthouse's{{NLINE}}fixed and the ship{{NLINE}}comes back...{{NPAGE}}I wonder if Sinkar'll{{NLINE}}marry off his daughter{{NLINE}}to Zig?
+"Zig's offered to go{{NLINE}}fix the lighthouse...{{NPAGE}}If he can pull that{{NLINE}}off, I suppose it{{NLINE}}wouldn't be a bad{{NPAGE}}idea to let him{{NLINE}}marry Shadis, either
+"Repairing a light-{{NLINE}}house taken over by{{NLINE}}monsters...{{NPAGE}}That Zig sure is{{NLINE}}brave, isn't he?{{NPAGE}}I wonder if a guy{{NLINE}}like me can get a{{NLINE}}job...
+"It's been pretty{{NLINE}}noisy at night around{{NLINE}}here lately...
+"It's probably just{{NLINE}}a cat or dog making{{NLINE}}a ruckus
+"Is it true the boat{{NLINE}}will come back once{{NLINE}}the lighthouse's fixed?
+"Hey, you...{{NPAGE}}Are you the ones{{NLINE}}who've been making all{{NLINE}}that noise at night?
+"I haven't been able{{NLINE}}to catch a thing...{{NLINE}}Cat must be hungry...
+"zzzzzz
+"Blowfish is a{{NLINE}}pretty weird name{{NLINE}}for a fish too
+"Ports are for{{NLINE}}women, and ships{{NLINE}}are for men
+"I heard that Beyd{{NLINE}}fellow beat Zig...{{NPAGE}}Can't judge a book{{NLINE}}by it's cover, eh?
+"I bet his beating Zig{{NLINE}}will make the guildsmen{{NLINE}}look up to Beyd now{{NPAGE}}He didn't get much{{NLINE}}respect before, you{{NLINE}}know...
+"I heard that Beyd the{{NLINE}}bookkeeper beat Zig and{{NLINE}}is going to go repair{{NPAGE}}the lighthouse! I guess{{NLINE}}I won't get any work{{NPAGE}}unless I'm strong like{{NLINE}}that...
+"If that ship doesn't{{NLINE}}come back soon...{{NPAGE}}We're gonna run out{{NLINE}}of food!
+"They say the Guild-{{NLINE}}master's having Beyd{{NLINE}}fix the lighthouse
+"How come they can{{NLINE}}fix everything but{{NLINE}}the ship?
+"Since he's been put{{NLINE}}in charge of repairing{{NLINE}}the lighthouse...{{NPAGE}}I guess Beyd's gonna{{NLINE}}become the next{{NLINE}}Guildmaster...
+"You need more than{{NLINE}}just a good head to{{NLINE}}run the Guild...{{NPAGE}}But Beyd's proven{{NLINE}}what he's made of by{{NLINE}}beating Zig
+"We've got only{{NLINE}}the best weapons
+"Need any items?
+"The lighthouse's{{NLINE}}been repaired?{{NPAGE}}Then I guess the{{NLINE}}ship'll be along{{NLINE}}in no time, right?
+"Huh? You fixed{{NLINE}}the lighthouse?{{NPAGE}}Boy, you guys've{{NLINE}}been real busy,{{NLINE}}eh?
+"It's all over...{{NLINE}}My cat doesn't love{{NLINE}}me anymore!
+"yawn!
+"Ylikov?{{NPAGE}}No, I don't know{{NLINE}}of a fish by{{NLINE}}that name...
+"Well, there's a road{{NLINE}}that goes around the{{NLINE}}volcano...{{NPAGE}}But to carry the{{NLINE}}machines, we need{{NLINE}}the ship...
+"Please accept the{{NLINE}}thanks of this old{{NLINE}}traveler
+"You say you went{{NLINE}}and fixed the{{NLINE}}lighthouse?{{NPAGE}}Wow...{{NPAGE}}Don't think I'll{{NLINE}}give you any of{{NLINE}}my meat, though!
+"Well, if the{{NLINE}}lighthouse's been{{NLINE}}repaired...{{NPAGE}}We might as well{{NLINE}}wait for the ship!
+"I guess you're{{NLINE}}right...{{NPAGE}}Going round the{{NLINE}}volcano's risky...
+"You went out to{{NLINE}}the lighthouse?{{NPAGE}}If you're that strong,{{NLINE}}you'll be able to get{{NLINE}}work anywhere
+"I bet the Guildmaster{{NLINE}}will be glad to see{{NLINE}}the ship come back
+"I've had enough{{NLINE}}water...{{NPAGE}}I'll have to go get a{{NLINE}}job and get some money{{NLINE}}for the real thing
+"I wish everyone{{NLINE}}would get back to{{NLINE}}work...{{NPAGE}}I don't want to{{NLINE}}stay like this{{NLINE}}forever...
+"Thanks much!{{NLINE}}Now that the light-{{NLINE}}house's been fixed,{{NPAGE}}I'm back in business{{NLINE}}You should ask the{{NPAGE}}Guildmaster for a{{NLINE}}reward...
+Sinkar{{NLINE}}"You fixed the{{NLINE}}lighthouse?
+Sinkar{{NLINE}}"Thank you very{{NLINE}}much...{{NPAGE}}Of course, we'll{{NLINE}}compensate you for{{NLINE}}your trouble...{{NPAGE}}"Once the ship comes{{NLINE}}back, we'll take you{{NPAGE}}wherever it is you're{{NLINE}}going right away...{{NPAGE}}And if there's any-{{NLINE}}thing else the Guild{{NLINE}}can do for you, just{{NPAGE}}let us know, OK?
+"Once the ship comes{{NLINE}}back, we'll take you{{NPAGE}}wherever it is you're{{NLINE}}going right away...{{NPAGE}}And if there's any-{{NLINE}}thing else the Guild{{NLINE}}can do for you, just{{NPAGE}}let us know, OK?
+"If you've got the{{NLINE}}Guild helping you,{{NPAGE}}it'll be a big help{{NLINE}}when you travel
+"Now the ship might{{NLINE}}finally come back...{{NPAGE}}Thanks
+"It's a little{{NLINE}}embarrassing to have{{NLINE}}someone from outside{{NPAGE}}help the Guild like{{NLINE}}this, but if Beyd{{NLINE}}said it was OK,{{NPAGE}}then it must be{{NLINE}}all right
+"I hope the ship{{NLINE}}comes back soon...{{NPAGE}}I'll get out of{{NLINE}}shape if I'm not{{NLINE}}working
+"The ship's still not{{NLINE}}back, even though the{{NLINE}}lighthouse's fixed...
+"Oh brother...{{NLINE}}Maybe it sank...
+"I guess we're stuck{{NLINE}}here for a while{{NLINE}}longer...
+"The Guild must be{{NLINE}}having a rough time{{NLINE}}too...{{NPAGE}}I mean, if they lost{{NLINE}}their boat, they'll{{NLINE}}need a new one, right?
+"Figures--we go to{{NLINE}}all the trouble to{{NLINE}}fix the lighthouse,{{NPAGE}}and the boat still{{NLINE}}doesn't come back!
+"When they don't bite,{{NLINE}}sometimes I feel like{{NLINE}}hitting them on the{{NPAGE}}head with the lure{{NLINE}}and catching them{{NLINE}}that way, you know?
+"It'd be easy for you{{NLINE}}to make it east if the{{NLINE}}boat would return!
+"It won't be easy{{NLINE}}to get around the{{NLINE}}volcano...{{NPAGE}}I mean, it's never{{NLINE}}easy, right? But now{{NLINE}}with the road out...
+"What? You're headed{{NLINE}}east?{{NPAGE}}I thought you were{{NLINE}}going to join the{{NLINE}}Guild!
+"I thought I could get{{NLINE}}some time off when the{{NLINE}}ship returned...
+"I wonder if the{{NLINE}}ship sank...{{NLINE}}It could happen...
+"Boat's not coming{{NLINE}}back, eh?{{NPAGE}}Maybe I should just{{NLINE}}leave...
+"Monsters in the{{NLINE}}lighthouse...{{NPAGE}}Missing ships...{{NPAGE}}The Guildmaster's{{NLINE}}got it pretty{{NLINE}}rough...
+"Maybe I should{{NLINE}}just walk there{{NLINE}}myself...
+Sinkar{{NLINE}}"Hmmm... It looks like{{NLINE}}the ship may have run{{NPAGE}}into trouble somewhere{{NLINE}}and can't make it{{NLINE}}back...
+Sinkar{{NLINE}}"In a situation like{{NLINE}}this, the only way{{NPAGE}}east is to go around{{NLINE}}Mt. Zublo, but...{{NPAGE}}as you know, the road{{NLINE}}there is out
+Sinkar{{NLINE}}"But we owe you for{{NLINE}}your help with the{{NPAGE}}lighthouse...So I will{{NLINE}}allow you to use our{{NLINE}}secret shortcut!{{NPAGE}}Yes, we have a secret{{NLINE}}shortcut! It goes{{NLINE}}through the volcano!{{NPAGE}}We are the Porter's{{NLINE}}Guild, after all!
+Sinkar{{NLINE}}"Here, take this{{NLINE}}letter...{{NPAGE}}It'll let you use{{NLINE}}the Guild shortcut{{NLINE}}through the volcano
+You got the{{NLINE}}Guildmaster's Letter!
+Sinkar{{NLINE}}"A long time ago...{{NPAGE}}Before there was a{{NLINE}}road, we used a{{NPAGE}}road that cuts{{NLINE}}through the mountain{{NPAGE}}It may not be an{{NLINE}}easy trip, but it'll{{NLINE}}get you to the east
+Sinkar{{NLINE}}"Thank you again{{NLINE}}and godspeed!{{NPAGE}}"You can find the{{NLINE}}mountain to the{{NLINE}}east of town...{{NPAGE}}Come back and see{{NLINE}}us sometime!
+"You can find the{{NLINE}}mountain to the{{NLINE}}east of town...{{NPAGE}}Come back and see{{NLINE}}us sometime!
+"Welcome to Rhapala!{{NPAGE}}Home of the Porter's{{NLINE}}Guild!
+"Just because we're{{NLINE}}the Porter's Guild{{NLINE}}doesn't mean the only{{NPAGE}}thing we do is move{{NLINE}}goods around...{{NPAGE}}We make a lot of{{NLINE}}money laying roads{{NPAGE}}and selling passage{{NLINE}}on our ship
+"That's the Guild{{NLINE}}office there--they've{{NLINE}}got information on{{NPAGE}}shipping schedules and{{NLINE}}other stuff
+"rawr?
+"They say the current{{NLINE}}Guildmaster used to{{NLINE}}train here, and after{{NPAGE}}he got strong enough{{NLINE}}proposed to his wife
+"Do you want to{{NLINE}}train too?
+"I wonder if it's{{NLINE}}safe to get on that{{NLINE}}boat...{{NPAGE}}I mean, it's always{{NLINE}}breaking down, right?
+{{EFCTS}}scuttle scuttle{{EFCTE,02}}
+"Fishing?
+"meow?
+"I've been wondering{{NLINE}}for a long time...{{NPAGE}}What exactly is{{NLINE}}this?
+"Just between you{{NLINE}}and me...{{NPAGE}}I hear the Guild{{NLINE}}ship is missing{{NLINE}}again...
+"We travel all{{NLINE}}around the world
+"'Course, even though{{NLINE}}we say the world,{{NPAGE}}our ship just goes{{NLINE}}around the Middle{{NLINE}}Sea...
+"I don't want to go{{NLINE}}around the mountains,{{NPAGE}}so I'm taking the{{NLINE}}ship!
+"Now the crane's{{NLINE}}broken!{{NPAGE}}Why do machines always{{NLINE}}break down like this!?
+"Me? The Traveling{{NLINE}}Gourmet?{{NPAGE}}You've got the{{NLINE}}wrong person
+"Ah...This is good{{NLINE}}tea
+"You know, I never{{NLINE}}thought about it{{NLINE}}till I started{{NPAGE}}travelling, but the{{NLINE}}world's a lot smaller{{NLINE}}than we think
+"I always wanted to{{NLINE}}be a sailor...Maybe{{NLINE}}I'll join the Guild
+"I came over from{{NLINE}}Junk Town in the{{NLINE}}east on the ship...{{NPAGE}}Boats are interesting,{{NLINE}}aren't they?
+"Welcome! Care to try{{NLINE}}our Seafood Omelette?
+"The Guild business{{NLINE}}has been pretty{{NLINE}}good lately...{{NPAGE}}So we haven't been{{NLINE}}getting as many{{NLINE}}customers
+"You can get to the{{NLINE}}east by going around{{NLINE}}Mt. Zublo now, but{{NPAGE}}everyone still wants{{NLINE}}to ride the ship--{{NLINE}}guess it's more fun
+"We've been making a{{NLINE}}lot of money ever{{NLINE}}since Beyd became{{NPAGE}}Guildmaster...pretty{{NLINE}}soon we'll be getting{{NLINE}}more ships and{{NPAGE}}expanding our{{NLINE}}operation...
+"Hi there! If you're{{NLINE}}looking for Beyd, he's{{NLINE}}at the shipyard...
+"I used to be out{{NLINE}}there doing business{{NLINE}}too...
+"Cleaning lady!?{{NPAGE}}I am a ROOM KEEPER!
+"I'm gonna work when{{NLINE}}the next ship comes{{NLINE}}in--honest!
+"rawr?
+"If you're looking{{NLINE}}for a seat on the{{NLINE}}ship...{{NPAGE}}You'll have to{{NLINE}}wait for a{{NLINE}}cancellation
+"squeak
+"woof! woof!
+"They say the ship's{{NLINE}}broken down{{NPAGE}}and it's stuck in{{NLINE}}Junk Town again...
+"Is the ship back?{{NLINE}}You fixed it?{{NPAGE}}Wow...
+"I heard that Beyd{{NLINE}}went over to Junk{{NLINE}}Town to get the ship
+"I heard you fixed{{NLINE}}the ship for us...{{NPAGE}}Beyd's sure lucky{{NLINE}}to have friends{{NLINE}}like you!
+"What!? Ship broke{{NLINE}}down again? Are you{{NLINE}}serious!?
+"The ship's back!?{{NLINE}}Good...now we can get{{NLINE}}back to work...{{NPAGE}}What? You're going{{NLINE}}to take it? You're{{NLINE}}kidding!?
+"As you may have{{NLINE}}already heard...{{NPAGE}}The ship's engine{{NLINE}}broke down so we're{{NLINE}}closed
+"There's no urgent{{NLINE}}business until the{{NLINE}}new ship's ready,{{NPAGE}}so the Guild's on{{NLINE}}holiday
+"They lent out the{{NLINE}}ship...?{{NPAGE}}I guess it's all right{{NLINE}}seeing how the Guild's{{NLINE}}making a new one...
+"I wonder if I{{NLINE}}would be important too{{NLINE}}if I fixed something
+"If...you mean{{NLINE}}you're not going{{NLINE}}to try?
+"You're taking the{{NLINE}}ship!?{{NPAGE}}I see...You're working{{NLINE}}hard too, ain'tcha?
+"I hear there's a{{NLINE}}village up north{{NLINE}}you can only get{{NPAGE}}to by boat called{{NLINE}}Parch...{{NPAGE}}I wonder what kind{{NLINE}}of fish you can{{NLINE}}catch there...?
+"Something about{{NLINE}}this bothers me...{{NPAGE}}Probably means{{NLINE}}nothing to you
+"I'd like to ride{{NLINE}}on a boat again{{NLINE}}someday...
+"I don't care, I'm{{NLINE}}riding on that new{{NLINE}}boat when it's ready!
+"Be careful--don't{{NLINE}}wreck the ship
+"Maybe I'll try{{NLINE}}the Seafood Pasta{{NLINE}}next...
+"Mmmm mmmm good!
+"Bet the world looks{{NLINE}}a lot bigger out on{{NLINE}}the Outer Sea...
+"I wonder where I'd{{NLINE}}go if I had a boat...{{NPAGE}}I hear the Outer{{NLINE}}Sea's pretty scary...{{NPAGE}}Maybe I'd just hang{{NLINE}}around the Middle{{NLINE}}Sea
+"Looks like the{{NLINE}}Porter's Guild is{{NLINE}}going to have a{{NPAGE}}new ship made...{{NLINE}}The Machine Guild's{{NLINE}}gonna be busy too!
+"Want a Seafood{{NLINE}}Omelette? It's a{{NLINE}}Rhapala specialty!
+"If you're going to{{NLINE}}use the ship...that{{NLINE}}means the sailors{{NPAGE}}won't be busy...{{NLINE}}Which means we will{{NLINE}}be!
+"So you're going to{{NLINE}}use our ship...{{NPAGE}}You're having Zig{{NLINE}}pilot it? Then you're{{NLINE}}in good hands
+"So, we're finally{{NLINE}}getting more ships!{{NPAGE}}That means we'll be{{NLINE}}able to get more{{NLINE}}work!

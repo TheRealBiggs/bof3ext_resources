@@ -1,0 +1,70 @@
+"This is "Angel{{NLINE}}Tower"...{{NPAGE}}The holiest of holy{{NLINE}}sites of the Urkan{{NLINE}}people...
+"This is "Angel{{NLINE}}Tower"...{{NPAGE}}The holiest of holy{{NLINE}}sites of the Urkan{{NLINE}}people...
+"Only those who are{{NLINE}}inhabitants of {{COLRS,2}}Tapa{{COLRE}}{{NLINE}}may enter...{{NPAGE}}Or those who have been{{NLINE}}granted permission by{{NLINE}}the Patriarch
+"Forgive me...but you{{NLINE}}cannot enter without{{NLINE}}permission from the{{NPAGE}}Patriarch of Tapa{{NLINE}}Village
+"Welcome home, great{{NLINE}}Guardian...{{NPAGE}}Have you met with{{NLINE}}the Patriarch yet?
+"We welcome your{{NLINE}}return, Guardian{{NLINE}}Garr...{{NPAGE}}Have you visited{{NLINE}}Tapa Village yet?
+"The Patriarch has{{NLINE}}spoken...you may{{NLINE}}enter
+"Only Urkans are{{NLINE}}permitted to enter{{NLINE}}this holy ground...{{NPAGE}}But as you are friends{{NLINE}}of Garr, we can give{{NLINE}}you a discompensation
+"Forgive me, but this{{NLINE}}is Urkan holy ground{{NPAGE}}We cannot allow you{{NLINE}}to enter without{{NLINE}}special permission
+Garr{{NLINE}}"...{{PAUSE}}...{{PAUSE}}...Deis
+{{TXTBX,06}}Deis{{NLINE}}"Guardian...{{PAUSE}}...{{NLINE}}{{PAUSE}}come closer...
+{{TXTBX,06}}Deis{{NLINE}}"You big oaf! You{{NLINE}}bone-headed Guardian!{{NPAGE}}What did you think{{NLINE}}you were doing,{{NPAGE}}entombing me in this{{NLINE}}temple for 500 years!{{NPAGE}}I've half a mind to{{NLINE}}blast you into{{NLINE}}orbit!
+{{TXTBX,06}}Deis{{NLINE}}"So...{{PAUSE}}I guess the fact{{NLINE}}that you've released me{{NPAGE}}shows that you're{{NLINE}}finally willing to{{NPAGE}}listen to what I have{{NLINE}}to say?
+{{TXTBX,06}}Deis{{NLINE}}"It's too late,{{NLINE}}idiot!
+{{TXTBX,06}}Deis{{NLINE}}"Well, maybe not{{NLINE}}completely hopeless...
+Deis{{NLINE}}"If each and every{{NLINE}}last member of the{{NPAGE}}Brood had indeed{{NLINE}}been killed,{{NPAGE}}all would have{{NLINE}}been lost...
+Deis{{NLINE}}"But there's still one{{NLINE}}of the Brood left!
+{{TXTBX,06}}Garr{{NLINE}}"And what of...God?
+Deis{{NLINE}}"First things first,{{NLINE}}Guardian!{{NPAGE}}The spirits of the{{NLINE}}dead dragons are too{{NLINE}}strong here...{{NPAGE}}We need to go{{NLINE}}someplace else
+Deis{{NLINE}}"There should be a{{NLINE}}cave at the base of{{NPAGE}}the volcano to the{{NLINE}}west of here...I'll{{NLINE}}meet you there
+Deis{{NLINE}}"The volcano to the{{NLINE}}west...{{NPAGE}}Got it, my little{{NLINE}}dragon?
+{{TXTBX,06}}Garr{{NLINE}}"The volcano to the{{NLINE}}west...{{NPAGE}}She must mean{{NLINE}}{{COLRS,2}}Mt. Zublo{{COLRE}}...
+{{TXTBX,05}}Nina{{NLINE}}"Wait just a minute!{{NPAGE}}Why do you have such{{NLINE}}a goofy look on your{{NLINE}}face, Ryu!?
+{{TXTBX,05}}Rei{{NLINE}}"Don't this just{{NLINE}}beat all...
+"This is Angel Tower{{NLINE}}The holy site of the{{NLINE}}Urkan people...
+"What? Graves of the{{NLINE}}dragons?{{NPAGE}}I don't know what{{NLINE}}you're talking about
+Watchman{{NLINE}}"I'm sorry, but we{{NLINE}}cannot allow outsiders{{NPAGE}}into our holy site...{{NLINE}}Please understand...
+"Oh! Mighty Guardian!{{NLINE}}I thought you had{{NLINE}}decided to retire?
+"Greetings, Guardian{{NLINE}}Welcome back
+{{TXTBX,06}}Watchman{{NLINE}}"Are you going to the{{NLINE}}Tower, Guardian Garr?
+Garr{{NLINE}}"Yes...{{PAUSE}}{{NPAGE}}The time has come to{{NLINE}}return to God what God{{NLINE}}has given me...
+{{TXTBX,05}}Watchman{{NLINE}}"Dust to dust...{{NPAGE}}Guardian! Do you{{NLINE}}mean...?
+Watchman{{NLINE}}"We thank you...{{NPAGE}}Thank you for your{{NLINE}}protection all these{{NLINE}}many years...{{NPAGE}}Rest well, Guardian{{NLINE}}Garr...Go with God!
+Garr{{NLINE}}"After the war...{{NPAGE}}After defeating the{{NLINE}}Brood, their mission{{NPAGE}}complete, the{{NLINE}}Guardians
+Garr{{NLINE}}"Offered up to God{{NLINE}}their victory here{{DURTN,64}}
+{{TXTBX,82}} {{NLINE}} {{NLINE}} {{NLINE}}   And God appeared {{NLINE}} {{NLINE}}      before the  {{NLINE}} {{NLINE}}  prostrate Guardians{{DURTN,80}}
+{{TXTBX,82}} {{NLINE}}  To reward each and {{NLINE}} {{NLINE}}  every one of them {{NLINE}} {{NLINE}} for their sacrifices{{NLINE}} {{NLINE}}   and victory over {{NLINE}} {{NLINE}}        evil... {{DURTN,80}}
+{{TXTBX,05}}Garr{{NLINE}}"When our mission has{{NLINE}}been completed...{{DURTN,64}}
+Garr{{NLINE}}"We are allowed to{{NLINE}}meet our God...{{DURTN,64}}
+Garr{{NLINE}}"After meeting with{{NLINE}}God, most Guardians{{NPAGE}}return their power to{{NLINE}}God and fall into{{NLINE}}a deep sleep...
+Garr{{NLINE}}"The Sleep of Stone{{NPAGE}}Deprived of the power{{NLINE}}granted to him by{{NPAGE}}God, a Guardian's{{NLINE}}body turns to{{NLINE}}stone...
+Garr{{NLINE}}"Before I enter{{NLINE}}the Sleep of Stone{{NPAGE}}I swear, Ryu, that{{NLINE}}I will take you{{NLINE}}to meet God...
+Garr{{NLINE}}"And together...{{NPAGE}}We will learn{{NLINE}}the truth about{{NLINE}}God's intentions!
+{{TXTBX,84}} {{NLINE}}Guardian...{{NLINE}}God... will not{{NLINE}}come... here...
+{{TXTBX,84}} {{NLINE}} God will...{{NLINE}}not come...
+{{TXTBX,03}}Garr{{NLINE}}"Who are you?
+{{TXTBX,06}}"If you want to{{NLINE}}meet God...You must{{NLINE}}release me...
+{{TXTBX,03}}Garr{{NLINE}}"...{{PAUSE}}Deis?
+{{TXTBX,06}}"The key...{{NLINE}}You must seek...{{NLINE}}Guardian Gaist...
+{{TXTBX,06}}Garr{{NLINE}}"Deis, wait!{{NLINE}}Gaist is...!!
+{{TXTBX,05}}Nina{{NLINE}}"Did you meet{{NLINE}}God, Garr?
+{{TXTBX,05}}Momo{{NLINE}}"Well, what happened?{{NLINE}}Did you see God?
+{{TXTBX,05}}Rei{{NLINE}}"Are you OK? What{{NLINE}}happened with God?
+{{TXTBX,05}}{{NLINE}}"pukakyuru?
+{{TXTBX,06}}Garr{{NLINE}}"...{{PAUSE}}...{{PAUSE}}...God is...{{NPAGE}}No, before that...
+{{TXTBX,06}}Garr{{NLINE}}"Before we meet with{{NLINE}}God,{{NPAGE}}we have to find{{NLINE}}someone...His name{{NLINE}}is {{COLRS,2}}Gaist{{COLRE}}...{{NPAGE}}Like me, he is{{NLINE}}a...{{PAUSE}}Guardian
+{{TXTBX,05}}Nina{{NLINE}}"A Guardian?{{NPAGE}}You mean just like{{NLINE}}you, Garr?
+{{TXTBX,05}}Momo{{NLINE}}"You mean there are{{NLINE}}other Guardians?
+{{TXTBX,05}}Rei{{NLINE}}"Another Guardian?{{NLINE}}What for?
+{{TXTBX,05}}{{NLINE}}"puroppuu?
+{{TXTBX,06}}Garr{{NLINE}}"I don't know exactly{{NLINE}}what we should do, but{{NPAGE}}we should be able to{{NLINE}}find out something{{NPAGE}}about {{COLRS,2}}Gaist{{COLRE}} if we{{NLINE}}ask at Urkan Tapa...
+There's a woman{{NLINE}}lying beyond the{{NLINE}}veil of light...
+Watchman{{NLINE}}"What happened?{{NPAGE}}Guardian, I thought{{NLINE}}you were going to{{NLINE}}enter the Stone Sleep?
+Watchman{{NLINE}}"I see...{{NPAGE}}Well, come back{{NLINE}}whenever you're{{NLINE}}ready, then...
+"What?{{NLINE}}Guardian Gaist?{{NPAGE}}I've heard stories...{{NLINE}}He was a mighty{{NLINE}}Guardian...{{NPAGE}}I believe he{{NLINE}}disappeared without{{NLINE}}a trace...!
+"The woman sealed in{{NLINE}}the crypt to the south{{NLINE}}of the tower is Deis{{NPAGE}}A witch who allied{{NLINE}}herself with evil{{NLINE}}during the Great War
+Watchman{{NLINE}}"Guardian Garr{{NPAGE}}Are you ready to{{NLINE}}enter your sleep{{NLINE}}now?
+"It's really not{{NLINE}}allowed, but you've{{NLINE}}been here so many{{NPAGE}}times already...{{NLINE}}Please, go inside
+"You're friends of{{NLINE}}Garr, yes?
+"I'm supposed to be{{NLINE}}patrolling, but...{{NPAGE}}What if I hurt{{NLINE}}myself when I{{NLINE}}jump?

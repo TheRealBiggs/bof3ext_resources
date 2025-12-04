@@ -1,0 +1,2 @@
+{{TXTBX,01}}Thank you for playing{{NLINE}}"Breath of Fire 3".{{NPAGE}}You can save your{{NLINE}}game here, and{{NPAGE}}try to fight the{{NLINE}}goddess again.{{NLINE}}Do you want to save?{{CHOIC,0,0,Yes,No}}
+{{TXTBX,01}}Thank you for playing{{NLINE}}"Breath of Fire 3".{{NPAGE}}You can save your{{NLINE}}game here, and{{NPAGE}}try to fight the{{NLINE}}goddess again.{{NLINE}}Do you want to save?{{CHOIC,0,0,Yes,No}}

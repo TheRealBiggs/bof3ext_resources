@@ -1,0 +1,147 @@
+"This well is full{{NLINE}}of vinegar!{{NPAGE}}It's just right as a{{NLINE}}flavoring for curry!
+"This well is full{{NLINE}}of vinegar!{{NPAGE}}It's just right as a{{NLINE}}flavoring for curry!
+"I'm the wellkeeper{{NLINE}}here...{{NPAGE}}But the pulley's broke{{NLINE}}--I can't get any{{NLINE}}water out of the well
+"Do you know anyone{{NLINE}}big and strong who{{NLINE}}can pull the rope?{{NPAGE}}I need someone to{{NLINE}}help get water out{{NLINE}}of the well...
+"Cafe d'Ton"
+Nina{{NLINE}}"Look...there's a{{NLINE}}coffee shop...{{NPAGE}}Why don't we{{NLINE}}stop for a drink?
+Waitress{{NLINE}}"Hello!{{NPAGE}}Are you stuck in{{NLINE}}town too?
+Waitress{{NLINE}}"No?{{NPAGE}}I asked because{{NLINE}}there's some strange{{NLINE}}fellows checking{{NPAGE}}everyone on the Road{{NLINE}}and no one can get{{NLINE}}through to Wyndia
+Waitress{{NLINE}}"No?{{NPAGE}}I asked because{{NLINE}}there's some strange{{NLINE}}fellows checking{{NPAGE}}everyone on the Road{{NLINE}}and no one can get{{NLINE}}through to Wyndia
+Waitress{{NLINE}}"'Course, that means{{NLINE}}we get more customers
+Momo{{NLINE}}"It must be the men{{NLINE}}who are after you...
+Momo{{NLINE}}"It must be the men{{NLINE}}who are after you...
+Momo{{NLINE}}"It must be the men{{NLINE}}who are after you...
+{{TXTBX,06}}Man{{NLINE}}"Excuse me, but...{{NLINE}}are you Momo?{{NPAGE}}Long time no see!{{NLINE}}It's me...Palet!
+Momo{{NLINE}}"Yes, I'm Momo...{{NPAGE}}But I don't know{{NLINE}}who you are!
+{{TXTBX,06}}Palet{{NLINE}}"It...{{PAUSE}}it's me...{{NPAGE}}I'm the director of{{NLINE}}the plant your father{{NLINE}}built...
+Momo{{NLINE}}"It may have been my{{NLINE}}father who came up{{NPAGE}}with the idea of using{{NLINE}}chrysm ore to breed{{NLINE}}stronger crops...{{NPAGE}}But he died before{{NLINE}}the plant was finished{{NLINE}}being built...
+Momo{{NLINE}}"It may have been my{{NLINE}}father who came up{{NPAGE}}with the idea of using{{NLINE}}chrysm ore to breed{{NLINE}}stronger crops...{{NPAGE}}But he died before{{NLINE}}the plant was finished{{NLINE}}being built...
+{{TXTBX,06}}Palet{{NLINE}}"Yes, exactly!{{NPAGE}}Ever since your father{{NLINE}}Repsol passed away,{{NPAGE}}we've been having{{NLINE}}nothing but trouble{{NPAGE}}with the machines{{NLINE}}at the plant...
+Momo{{NLINE}}"I'll bet!{{NPAGE}}Only my father would{{NLINE}}be able to make and{{NLINE}}use a machine like{{NPAGE}}that, one that uses{{NLINE}}chrysm to make crops{{NLINE}}grow faster!
+{{TXTBX,06}}Palet{{NLINE}}"I won't...{{PAUSE}}I can't{{NLINE}}deny that...{{NPAGE}}That's why I wonder{{NLINE}}if you, Momo, could{{NLINE}}help us?{{NPAGE}}You're familiar with{{NLINE}}all your father's{{NLINE}}work, aren't you?
+Momo{{NLINE}}"I'd be glad to{{NLINE}}help...{{NPAGE}}So...I can have access{{NLINE}}to the machines then?
+Momo{{NLINE}}"I'd be glad to{{NLINE}}help...{{NPAGE}}So...I can have access{{NLINE}}to the machines then?
+Momo{{NLINE}}"I'd be glad to{{NLINE}}help...{{NPAGE}}So...I can have access{{NLINE}}to the machines then?
+{{TXTBX,06}}Palet{{NLINE}}"Yes, of course!{{NPAGE}}Oh, thank you so{{NLINE}}much, Momo!{{NPAGE}}I'll see you at{{NLINE}}the plant, then
+{{TXTBX,06}}Palet{{NLINE}}"Yes, of course!{{NPAGE}}Oh, thank you so{{NLINE}}much, Momo!{{NPAGE}}I'll see you at{{NLINE}}the plant, then
+Nina{{NLINE}}"Excuse me, Momo?{{NPAGE}}I'm not sure if I{{NLINE}}understood all of{{NLINE}}that...
+Nina{{NLINE}}"Excuse me, Momo?{{NPAGE}}I'm not sure if I{{NLINE}}understood all of{{NLINE}}that...
+Nina{{NLINE}}"Excuse me, Momo?{{NPAGE}}I'm not sure if I{{NLINE}}understood all of{{NLINE}}that...
+Momo{{NLINE}}"Well, you see...{{NPAGE}}There's this plant{{NLINE}}where they use chrysm{{NLINE}}to grow plants, see...{{NPAGE}}And my father helped{{NLINE}}build it...
+Momo{{NLINE}}"And since they're my{{NLINE}}father's machines,{{NPAGE}}well, I thought maybe{{NLINE}}I'd help them out a{{NLINE}}little bit...{{NPAGE}}I mean, it's not like{{NLINE}}we'll be getting{{NPAGE}}anywhere on the road{{NLINE}}for a while, right?
+Wellkeeper{{NLINE}}"Say, fella! You look{{NLINE}}pretty strong there!
+Wellkeeper{{NLINE}}"Think you could help{{NLINE}}me for a minute?{{NPAGE}}I need to get some{{NLINE}}water out of the{{NLINE}}well here
+Wellkeeper{{NLINE}}"OK, I'll tell you{{NLINE}}how it works...{{NPAGE}}So listen carefully,{{NLINE}}OK?
+Wellkeeper{{NLINE}}"First, you lower{{NLINE}}the rope by hitting{{NPAGE}}the {{COLRS,6}}{{SYM82}}{{COLRE}} button...
+Wellkeeper{{NLINE}}"When the bucket at{{NLINE}}the end of the rope{{NPAGE}}hits water, you'll{{NLINE}}hear a {{COLRS,2}}splash{{COLRE}}{{NLINE}}sound{{NPAGE}}When you do, stop{{NLINE}}lowering the rope!{{NLINE}}Also, make sure you{{NPAGE}}{{COLRS,2}}remember{{COLRE}} how many{{NLINE}}times you pushed the{{NLINE}}button, OK?
+Wellkeeper{{NLINE}}"Then, use the{{NLINE}}Directional button{{NPAGE}}to move the bucket{{NLINE}}{{EFCTS}}back and forth{{EFCTE,02}}{{NPAGE}}to get it into{{NLINE}}the water...{{NPAGE}}Keep moving it{{NLINE}}until you hear the{{NLINE}}bucket {{COLRS,2}}filling up{{COLRE}}
+Wellkeeper{{NLINE}}"When you're done{{NLINE}}filling the bucket,{{NPAGE}}pull the bucket up{{NLINE}}by pressing the {{COLRS,1}}{{SYM81}}{{COLRE}}{{NLINE}}button!{{NPAGE}}You have to press{{NLINE}}the {{COLRS,1}}{{SYM81}}{{COLRE}} button the{{NPAGE}}{{COLRS,2}}same number of times{{COLRE}}{{NLINE}}as you pressed the{{NLINE}}{{COLRS,6}}{{SYM82}}{{COLRE}} button, OK?
+Wellkeeper{{NLINE}}"And that's how we{{NLINE}}draw water, see?{{NPAGE}}If you press the{{NLINE}}button too slowly,{{NPAGE}}or you don't listen{{NLINE}}carefully to the{{NLINE}}sounds...{{NPAGE}}you'll mess up, so{{NLINE}}be careful...{{NPAGE}}Got it? Want me to{{NLINE}}explain it one more{{NLINE}}time?{{CHOIC,0,0,No,Yes}}
+Wellkeeper{{NLINE}}"OK, here we go...{{NLINE}}Ready, set, {{PAUSE}}Go!
+{{TXTBX,01}} {{NLINE}} You failed...
+Wellkeeper{{NLINE}}"Didn't quite get{{NLINE}}it, eh?{{NPAGE}}Well, let me know{{NLINE}}if you want to{{NLINE}}try again
+"Think that big strong{{NLINE}}fellow'd want to try?
+"You're going to help{{NLINE}}me!? Thanks!?
+Wellkeeper{{NLINE}}"Good luck!{{NPAGE}}You don't need me to{{NLINE}}explain how it works,{{NLINE}}do you?{{CHOIC,0,0,No,Yes}}
+Wellkeeper{{NLINE}}"You did it!
+Wellkeeper{{NLINE}}"Thanks so much!{{NPAGE}}Thanks to you, I was{{NLINE}}finally able to get{{NLINE}}the water out!{{NPAGE}}I know it's not much,{{NLINE}}but here...have some{{NLINE}}{{COLRS,2}}vinegar{{COLRE}}
+Wellkeeper{{NLINE}}"Come back if you ever{{NLINE}}need more water!
+"Hm? Want to try{{NLINE}}drawing water again?{{CHOIC,1,0,Yes,No}}
+"Anytime you need some{{NLINE}}more vinegar, come{{NLINE}}on by!
+You got {{COLRS,2}}vinegar{{COLRE}}!
+...You're already{{NLINE}}carrying too much!
+"Why don't you buy an{{NLINE}}item for a souvenir?
+"Why don't you buy an{{NLINE}}item for a souvenir?
+"Why don't you buy an{{NLINE}}item for a souvenir?
+"Why don't you buy an{{NLINE}}item for a souvenir?
+"Why don't you buy an{{NLINE}}item for a souvenir?
+"Why don't you buy an{{NLINE}}item for a souvenir?
+"Why don't you buy an{{NLINE}}item for a souvenir?
+"Why don't you buy an{{NLINE}}item for a souvenir?
+"Why don't you buy an{{NLINE}}item for a souvenir?
+"Why don't you buy an{{NLINE}}item for a souvenir?
+"Why don't you buy an{{NLINE}}item for a souvenir?
+"Why don't you buy an{{NLINE}}item for a souvenir?
+"Why don't you buy an{{NLINE}}item for a souvenir?
+"Why don't you buy an{{NLINE}}item for a souvenir?
+"Why don't you buy an{{NLINE}}item for a souvenir?
+"Why don't you buy an{{NLINE}}item for a souvenir?
+"Why don't you buy an{{NLINE}}item for a souvenir?
+"Why don't you buy an{{NLINE}}item for a souvenir?
+"Why don't you buy an{{NLINE}}item for a souvenir?
+"Why don't you buy an{{NLINE}}item for a souvenir?
+"Why don't you buy an{{NLINE}}item for a souvenir?
+"Why don't you buy an{{NLINE}}item for a souvenir?
+"Why don't you buy an{{NLINE}}item for a souvenir?
+"Why don't you buy an{{NLINE}}item for a souvenir?
+"Why don't you buy an{{NLINE}}item for a souvenir?
+"Why don't you buy an{{NLINE}}item for a souvenir?
+"Why don't you buy an{{NLINE}}item for a souvenir?
+"Nobody can leave{{NLINE}}'cause the road's{{NLINE}}blocked off...{{NPAGE}}But we've still got{{NLINE}}a few beds open
+"We'll match our{{NLINE}}cooking against{{NLINE}}anyone else's!
+"One mild vegetable{{NLINE}}croquette curry,{{NLINE}}coming up!
+"I love {{COLRS,4}}curry{{COLRE}}--{{NLINE}}can't get enough{{NLINE}}of it!
+"Plant?{{NLINE}}Oh, you mean that{{NLINE}}building to the west?{{NPAGE}}Isn't that the place{{NLINE}}where they grow the{{NPAGE}}weird plants with that{{NLINE}}chrysm stuff?
+"I'm trying to get{{NLINE}}to Wyndia, but the{{NLINE}}road's blocked...{{NPAGE}}What do they think{{NLINE}}they're doing,{{NPAGE}}stopping up the{{NLINE}}road like that?
+"I wonder if they{{NLINE}}grew these potatoes{{NLINE}}at the plant?
+"The plant...that{{NLINE}}place west of the{{NLINE}}mountains...{{NPAGE}}where they do those{{NLINE}}weird experiments?
+"I came this far{{NLINE}}thinking I'd get{{NLINE}}across the bridge...{{NPAGE}}But those punks{{NLINE}}won't let me{{NLINE}}through...{{NPAGE}}After I went to{{NLINE}}all that trouble{{NLINE}}to get a passport...
+"Many customers enjoy{{NLINE}}afternoon tea as well{{NPAGE}}as the great view{{NLINE}}we have from here...{{NPAGE}}But don't forget{{NLINE}}our specialty is{{NLINE}}{{COLRS,4}}curry{{COLRE}}!
+"People are staying{{NLINE}}even after those{{NLINE}}punks left...{{NPAGE}}Does this mean...?
+"People are staying{{NLINE}}even after those{{NLINE}}punks left...{{NPAGE}}Does this mean...?
+"People are staying{{NLINE}}even after those{{NLINE}}punks left...{{NPAGE}}Does this mean...?
+"People are staying{{NLINE}}even after those{{NLINE}}punks left...{{NPAGE}}Does this mean...?
+"People are staying{{NLINE}}even after those{{NLINE}}punks left...{{NPAGE}}Does this mean...?
+"People are staying{{NLINE}}even after those{{NLINE}}punks left...{{NPAGE}}Does this mean...?
+"People are staying{{NLINE}}even after those{{NLINE}}punks left...{{NPAGE}}Does this mean...?
+"People are staying{{NLINE}}even after those{{NLINE}}punks left...{{NPAGE}}Does this mean...?
+"I heard stories that{{NLINE}}a dragon was fighting{{NLINE}}at the arena!{{NPAGE}}I didn't know they{{NLINE}}really existed!
+"Now I'm not saying{{NLINE}}it's any business o'{{NLINE}}mine or nuthin'...{{NPAGE}}But I hear round{{NLINE}}these parts there's{{NLINE}}some fella who can{{NPAGE}}teach someone how{{NLINE}}to move faster than{{NLINE}}the wind...{{NPAGE}}Not only that, but{{NLINE}}they say he's the{{NPAGE}}best pickpocket in{{NLINE}}the world! Can even{{NLINE}}steal from monsters!
+"Hmmm...It looks useful{{NLINE}}but also a little{{NLINE}}creepy...
+"They say there's lots{{NLINE}}of machines that wash{{NLINE}}up from the sea!
+"I wonder if they're{{NLINE}}using those enhanced{{NLINE}}crops in the food here
+"Everyone's coming{{NLINE}}here for the{{NLINE}}curry...{{NPAGE}}But we've still{{NLINE}}got open beds
+"Hello!{{NPAGE}}I always wanted to{{NLINE}}work as a waitress--{{NPAGE}}I think the outfits{{NLINE}}are just so cute!
+"This vinegar's a{{NLINE}}little too sour, don't{{NLINE}}you think?
+"Everyone always{{NLINE}}knows when you've{{NPAGE}}eaten curry--{{NLINE}}they can smell it!
+"I never thought about{{NLINE}}it, but vinegar goes{{NLINE}}good with curry
+"We've been using{{NLINE}}those enhanced crops{{NLINE}}for a while...{{NPAGE}}But lately, they've{{NLINE}}had a real strange{{NLINE}}taste to them
+"gulp gulp{{NPAGE}}glug...{{NPAGE}} {{NPAGE}} {{NPAGE}} {{NPAGE}}gulp.....!
+"Must be important{{NLINE}}since you're bothering{{NLINE}}me when I'm eating...
+"The only good thing{{NLINE}}about those enhanced{{NLINE}}crops is they're cheap
+"ahhh....{{NLINE}}Me? I'm on my{{NLINE}}break
+"Hello--what're you{{NLINE}}looking for?
+"Care to rest{{NLINE}}before going on?
+"Whew! That was spicy!{{NPAGE}}I should've ordered{{NLINE}}it mild!
+D'lonzo{{NLINE}}"You look like you've{{NLINE}}got some potential...{{NPAGE}}What do you say? Want{{NLINE}}to become my{{NLINE}}apprentice?{{CHOIC,2,0,Yes,No}}
+D'lonzo{{NLINE}}"You look like you've{{NLINE}}got some potential...{{NPAGE}}What do you say? Want{{NLINE}}to become my{{NLINE}}apprentice?{{CHOIC,2,0,Yes,No}}
+D'lonzo{{NLINE}}"You look like you've{{NLINE}}got some potential...{{NPAGE}}What do you say? Want{{NLINE}}to become my{{NLINE}}apprentice?{{CHOIC,2,0,Yes,No}}
+D'lonzo{{NLINE}}"You look like you've{{NLINE}}got some potential...{{NPAGE}}What do you say? Want{{NLINE}}to become my{{NLINE}}apprentice?{{CHOIC,2,0,Yes,No}}
+D'lonzo{{NLINE}}"You look like you've{{NLINE}}got some potential...{{NPAGE}}What do you say? Want{{NLINE}}to become my{{NLINE}}apprentice?{{CHOIC,2,0,Yes,No}}
+D'lonzo{{NLINE}}"You look like you've{{NLINE}}got some potential...{{NPAGE}}What do you say? Want{{NLINE}}to become my{{NLINE}}apprentice?{{CHOIC,2,0,Yes,No}}
+D'lonzo{{NLINE}}"You look like you've{{NLINE}}got some potential...{{NPAGE}}What do you say? Want{{NLINE}}to become my{{NLINE}}apprentice?{{CHOIC,2,0,Yes,No}}
+D'lonzo{{NLINE}}"You look like you've{{NLINE}}got some potential...{{NPAGE}}What do you say? Want{{NLINE}}to become my{{NLINE}}apprentice?{{CHOIC,2,0,Yes,No}}
+D'lonzo{{NLINE}}"You look like you've{{NLINE}}got some potential...{{NPAGE}}What do you say? Want{{NLINE}}to become my{{NLINE}}apprentice?{{CHOIC,2,0,Yes,No}}
+D'lonzo{{NLINE}}"You look like you've{{NLINE}}got some potential...{{NPAGE}}What do you say? Want{{NLINE}}to become my{{NLINE}}apprentice?{{CHOIC,2,0,Yes,No}}
+D'lonzo{{NLINE}}"You look like you've{{NLINE}}got some potential...{{NPAGE}}What do you say? Want{{NLINE}}to become my{{NLINE}}apprentice?{{CHOIC,2,0,Yes,No}}
+D'lonzo{{NLINE}}"You look like you've{{NLINE}}got some potential...{{NPAGE}}What do you say? Want{{NLINE}}to become my{{NLINE}}apprentice?{{CHOIC,2,0,Yes,No}}
+D'lonzo{{NLINE}}"You look like you've{{NLINE}}got some potential...{{NPAGE}}What do you say? Want{{NLINE}}to become my{{NLINE}}apprentice?{{CHOIC,2,0,Yes,No}}
+D'lonzo{{NLINE}}"You look like you've{{NLINE}}got some potential...{{NPAGE}}What do you say? Want{{NLINE}}to become my{{NLINE}}apprentice?{{CHOIC,2,0,Yes,No}}
+What do you say? Want{{NLINE}}to become my{{NLINE}}apprentice?{{CHOIC,2,0,Yes,No}}
+Today, my days as a{{NLINE}}lone wolf are over...{{NPAGE}}If you listen to{{NLINE}}what I say, we'll{{NPAGE}}hone your body like{{NLINE}}a knife...
+Sorry--if you want to{{NLINE}}be my apprentice,{{NPAGE}}you have to always{{NLINE}}be carrying at least{{NLINE}}15 kinds of weapons{{NPAGE}}I don't need any{{NLINE}}wimps getting in my{{NLINE}}way...{{NPAGE}}See you later
+See you later
+D'lonzo{{NLINE}}"You're back again!
+Anyone who wants to{{NLINE}}become my apprentice?{{CHOIC,3,0,Yes,No}}
+Hey, you're all{{NLINE}}already my{{NLINE}}apprentices!
+Don't tell me you{{NLINE}}want to quit being{{NLINE}}my apprentice?{{CHOIC,4,0,Yes,No}}
+Huh! Not one of{{NLINE}}you's my apprentice!
+"All right, then,{{NLINE}}{{PRMTR,0}}, from today{{NPAGE}}you're my{{NLINE}}apprentice!
+Anyone else want to{{NLINE}}become my apprentice?{{CHOIC,5,0,Yes,No}}
+"All right, then,{{NLINE}}{{PRMTR,0}}, I don't know{{NLINE}}you anymore
+Is there anyone else{{NLINE}}who wants to quit?{{CHOIC,6,0,Yes,No}}
+I see you've been{{NLINE}}practicing what I{{NLINE}}showed you{{NPAGE}}OK, here's a new{{NLINE}}move for you!{{NPAGE}}You learned{{NLINE}}{{COLRS,2}}{{PRMTR,1}}{{COLRE}}!
+Who shall apprentice?
+Who wants to quit?
+Is this OK?                Yes No
+Do you want to quit?       Yes No

@@ -1,0 +1,174 @@
+"Did you hear a sheep?
+"Did you hear a sheep?
+{{TXTBX,04}}Sunder{{NLINE}}"Shut up! Stop yer{{NLINE}}crying, you brat!
+{{TXTBX,06}}Sunder{{NLINE}}"It's all your fault!{{NPAGE}}If only you'd turned{{NLINE}}into a dragon, we{{NLINE}}wouldn't be down here!
+{{TXTBX,06}}Sunder{{NLINE}}"We're gonna miss the{{NLINE}}Contest, man...{{DURTN,32}}
+Nina{{NLINE}}"Hello there,{{NLINE}}I'm Nina
+Nina{{NLINE}}"I felt sorry for you{{NPAGE}}being treated like{{NLINE}}that...{{NPAGE}}so I thought I'd let{{NLINE}}you go...
+{{TXTBX,04}}Sunder{{NLINE}}"T...{{EFCTS}}Thank you!?{{UNK0F}}GarrHear that, bro? She{{NLINE}}says she'll let us{{NLINE}}go!
+Nina{{NLINE}}"Not you...{{NPAGE}}If I let you go,{{NLINE}}you'll just pick on{{NLINE}}him again, won't you?
+{{TXTBX,06}}Balio{{NLINE}}"We wouldn't do that,{{NLINE}}Princess Nina...
+{{TXTBX,06}}Balio{{NLINE}}"I swear, we won't{{NLINE}}pick on him again{{NPAGE}}So...{{PAUSE}}...{{PAUSE}}...if you{{NLINE}}could please open{{NLINE}}the door...
+Nina{{NLINE}}"...{{PAUSE}}...{{PAUSE}}...Really?
+Nina{{NLINE}}"All right then...
+{{TXTBX,05}}Balio{{NLINE}}"Thank you,{{NLINE}}Princess
+{{TXTBX,06}}Nina{{NLINE}}"And you won't pick{{NLINE}}on him again, right?
+{{TXTBX,05}}Balio{{NLINE}}"Oh, no...{{NPAGE}}We won't do anything{{NLINE}}to {{COLRS,2}}that kid{{COLRE}} again...
+{{TXTBX,06}}Sunder{{NLINE}}"Way to go, bro!
+{{TXTBX,06}}Balio{{NLINE}}"Besides...{{PAUSE}}who needs{{NLINE}}that freak...{{NPAGE}}when we have a{{NLINE}}princess? She's worth{{NLINE}}more money anyway!
+{{TXTBX,04}}Sunder{{NLINE}}"Time to hit the{{NLINE}}road, eh?
+{{TXTBX,06}}Balio{{NLINE}}"Yep...{{NLINE}}You carry her...{{NPAGE}}Imagine the fat ransom{{NLINE}}she'll fetch!
+...They're gone
+The door's locked{{NLINE}}What do you do?{{CHOIC,0,1,Yell for the guard,Try to break the door}}
+Guard{{NLINE}}"Huh? What?{{NPAGE}}...{{PAUSE}}...{{PAUSE}}...Having{{NLINE}}a nightmare, eh?{{NLINE}}Go back to sleep...{{NPAGE}}{{EFCTS}}yawn....{{EFCTE,15}}
+...No luck
+...Ouch
+The door doesn't{{NLINE}}even budge. If you{{NLINE}}don't do something,{{NPAGE}}they'll get away{{NLINE}}with the princess...{{NPAGE}}What do you do?{{CHOIC,1,1,Scream "Help!",Hit the door again}}
+Guard{{NLINE}}"Hmmm...{{PAUSE}}...{{PAUSE}}...?{{NPAGE}}'Help...', {{PAUSE}}huh?{{NLINE}}Yeah, whatever...
+No good...{{NLINE}}he won't help!
+...It opened!
+Nina{{NLINE}}"Let me go!{{NLINE}}Let me go, I said!
+{{TXTBX,06}}Sunder{{NLINE}}"Sorry, princess...{{NLINE}}No can do!{{NPAGE}}We've got to get{{NLINE}}our ransom money{{NLINE}}first!
+{{TXTBX,05}}Balio{{NLINE}}"You again!
+{{TXTBX,06}}Sunder{{NLINE}}"Oh no, not{{NLINE}}him again!
+Balio{{NLINE}}"I've had it about{{NLINE}}up to here with him!
+Balio{{NLINE}}"Me too! Enough is{{NLINE}}enough!{{NPAGE}}This time we kill{{NLINE}}him for sure!
+{{TXTBX,06}}Sunder{{NLINE}}"But...Bro...{{NPAGE}}What if he turns into{{NLINE}}a dragon again...?
+{{TXTBX,05}}Balio{{NLINE}}"We've got the{{NLINE}}Princess!{{NPAGE}}He won't try anything{{NLINE}}stupid while she's{{NLINE}}with us!
+{{TXTBX,06}}Sunder{{NLINE}}"Bro! The{{NLINE}}Princess...!!
+{{TXTBX,05}}Balio{{NLINE}}"Leave her! First we{{NLINE}}get rid of him!
+You can't do that{{NLINE}}now! The Princess{{NLINE}}might get hurt!
+{{TXTBX,06}}Sunder{{NLINE}}"Uh, Bro...{{NPAGE}}I don't think this{{NLINE}}is how it was{{NLINE}}supposed to work...
+{{TXTBX,05}}Balio{{NLINE}}"We don't have the{{NLINE}}time for this now!{{NPAGE}}We've got more{{NLINE}}important things to{{NLINE}}worry about!{{NPAGE}}C'mon we're getting{{NLINE}}out of here!
+{{TXTBX,06}}Sunder{{NLINE}}"Wait for me, bro!
+{{TXTBX,06}}Nina{{NLINE}}"Did you beat them?
+{{TXTBX,06}}Nina{{NLINE}}"Really! Wow!
+{{TXTBX,06}}Nina{{NLINE}}"That's good...{{NPAGE}}I thought they were{{NLINE}}going to kidnap me...
+{{TXTBX,06}}Nina{{NLINE}}"Thank you so much{{NLINE}}for helping me...{{NPAGE}}Um, what's your name?
+{{TXTBX,06}}Nina{{NLINE}}"...Ryu?{{NLINE}}Thank you, Ryu
+{{TXTBX,06}}Nina{{NLINE}}"Come on, let's get{{NLINE}}out of here{{NPAGE}}We should be able{{NLINE}}to get to the city{{NLINE}}this way
+Nina joined the party
+Nina{{NLINE}}"Are you all right?
+{{TXTBX,06}}Nina{{NLINE}}"That's good...{{NLINE}}The medicine worked
+{{TXTBX,06}}Nina{{NLINE}}"While you were{{NLINE}}fighting with them...{{NPAGE}}I was able to find{{NLINE}}a place to hide
+{{TXTBX,06}}Nina{{NLINE}}"Because of your{{NLINE}}bravery...{{NPAGE}}Because you fought{{NLINE}}them, I was able{{NLINE}}to get away...{{NPAGE}}Thank you, um,{{NLINE}}{{PAUSE}}what's your name?
+You could rest here,{{NLINE}}but now's not the{{NLINE}}time for that!
+You could rest here,{{NLINE}}but now's not the{{NLINE}}time for that!
+You could rest here,{{NLINE}}but now's not the{{NLINE}}time for that!
+You could rest here,{{NLINE}}but now's not the{{NLINE}}time for that!
+You could rest here,{{NLINE}}but now's not the{{NLINE}}time for that!
+The bed is hard,{{NLINE}}but you should be{{NLINE}}able to rest here{{NPAGE}}Do you want to{{NLINE}}rest?{{CHOIC,2,0,Yes,No}}
+"It's hard work,{{NLINE}}keeping the castle{{NLINE}}up, you know
+"It's hard work,{{NLINE}}keeping the castle{{NLINE}}up, you know
+"It's hard work,{{NLINE}}keeping the castle{{NLINE}}up, you know
+"It's hard work,{{NLINE}}keeping the castle{{NLINE}}up, you know
+"It's hard work,{{NLINE}}keeping the castle{{NLINE}}up, you know
+"C'mon, I'll even give{{NLINE}}a discount!
+"Those enhanced crops{{NLINE}}are cheap, I'll give{{NLINE}}them that...
+"Princess Nina...{{NPAGE}}Is it true that you{{NLINE}}defeated those bandits{{NLINE}}and escaped?{{NPAGE}}That's incredible...
+"What are you doing{{NLINE}}here, Princess Nina?
+"If only I'd been{{NLINE}}more attentive{{NLINE}}then...{{NPAGE}}Please forgive me,{{NLINE}}Princess Nina!
+"Princess Nina...{{NPAGE}}Did they feed you{{NLINE}}while you were{{NLINE}}prisoner?{{NPAGE}}I was worried that{{NLINE}}they might not
+"That Hachio there{{NLINE}}is the best cook in{{NLINE}}these parts...{{NPAGE}}They say there's{{NLINE}}nothing he can't{{NLINE}}make
+"Your friends{{NLINE}}certainly ate a lot,{{NLINE}}Princess Nina...
+"It's hard work{{NLINE}}getting all the food{{NLINE}}ready for a castle...{{NPAGE}}Those soldiers eat so{{NLINE}}much!
+"This is pretty good!
+"I love chickens--{{NLINE}}they're so cute!{{NPAGE}}But someday, they're{{NLINE}}all going to be{{NLINE}}fried chicken
+"cluck
+"cluck cluck
+"cluck?
+"cluck cluck cluck
+"squeak
+"hic{{NLINE}}I've died and{{NLINE}}gone to Heaven!
+"Now how did he{{NLINE}}get in here?
+"squeak?{{CHOIC,3,0,Yes,No}}
+"squeak!{{NPAGE}}The mouse gave you{{NLINE}}{{COLRS,4}}cheese{{COLRE}}!
+"Huh? No, nothing{{NLINE}}came this way...
+"What? A little{{NLINE}}fellow?{{NPAGE}}You mean a rat?{{NLINE}}Can't let any of{{NLINE}}them in the kitchen!{{NPAGE}}If I see them,{{NLINE}}I kill them!
+"Are you looking for{{NLINE}}something?{{NLINE}}What? Honey!?{{NPAGE}}What's that?
+Nina{{NLINE}}"Honey...{{NLINE}}I knew it was you!
+Nina{{NLINE}}"Wait!{{DURTN,32}}
+Nina{{NLINE}}"Oh no...{{NPAGE}}If the cooks see{{NLINE}}her, they'll think{{NLINE}}she's a rat{{NPAGE}}and try to kill{{NLINE}}her!
+"That thing that just{{NLINE}}went running by...{{NPAGE}}That wasn't a rat,{{NLINE}}was it?{{NPAGE}}It wasn't a chicken{{NLINE}}either...
+There's a diary...{{NLINE}}Do you want to save?{{CHOIC,9,0,Yes,No}}
+Hachio{{NLINE}}"Oh! Let me guess...{{NPAGE}}You've heard about{{NLINE}}me and have come{{NLINE}}to study, to be{{NPAGE}}cooks, yes?{{CHOIC,4,0,Yes,No}}
+Hachio{{NLINE}}"Oh! Let me guess...{{NPAGE}}You've heard about{{NLINE}}me and have come{{NLINE}}to study, to be{{NPAGE}}cooks, yes?{{CHOIC,4,0,Yes,No}}
+Hachio{{NLINE}}"Oh! Let me guess...{{NPAGE}}You've heard about{{NLINE}}me and have come{{NLINE}}to study, to be{{NPAGE}}cooks, yes?{{CHOIC,4,0,Yes,No}}
+Hachio{{NLINE}}"Oh! Let me guess...{{NPAGE}}You've heard about{{NLINE}}me and have come{{NLINE}}to study, to be{{NPAGE}}cooks, yes?{{CHOIC,4,0,Yes,No}}
+You've heard about{{NLINE}}me and have come{{NLINE}}to study, to be{{NPAGE}}cooks, yes?{{CHOIC,4,0,Yes,No}}
+Oh! How wonderful!{{NPAGE}}You have all the{{NLINE}}ingredients I asked{{NLINE}}for!!{{NPAGE}}All right, then, I{{NLINE}}make you my{{NLINE}}apprentice!{{NPAGE}}I'll make you into a{{NLINE}}first-rate cook in no{{NLINE}}time!
+Hmmmm...{{NLINE}}But I won't do it{{NLINE}}for free...{{NPAGE}}I'll think about it{{NLINE}}if you bring me all{{NPAGE}}the ingredients I ask{{NLINE}}for...OK?{{NPAGE}}I want {{COLRS,2}}Beef Jerky{{COLRE}},{{NLINE}}and {{COLRS,2}}Swallow Eye{{COLRE}}{{NPAGE}}And also{{NLINE}}an {{COLRS,2}}Angler{{COLRE}}, and a{{NLINE}}{{COLRS,2}}Martian Squid{{COLRE}}{{NPAGE}}Bring me these four{{NLINE}}ingredients, yes?{{NPAGE}}Come again
+Come again
+Hachio{{NLINE}}"Hello again!{{NLINE}}How are you doing?
+Does anyone want to{{NLINE}}become my apprentice,{{NLINE}}yes?{{CHOIC,5,0,Yes,No}}
+What? You are all{{NLINE}}already my apprentice
+Do any of my{{NLINE}}apprentices wish to{{NLINE}}leave my tutelage?{{CHOIC,6,0,Yes,No}}
+Hm? There is not one{{NLINE}}one of you who is{{NLINE}}my apprentice
+"So then I make{{NLINE}}{{PRMTR,0}} my apprentice
+Is there anyone else?{{CHOIC,7,0,Yes,No}}
+"Very well, {{PRMTR,0}}{{NLINE}}has failed{{NPAGE}}Young people these{{NLINE}}days, no conviction{{NPAGE}}No good, I say
+Does anyone else want{{NLINE}}to quit?{{CHOIC,8,0,Yes,No}}
+{{PRMTR,0}}, I see{{NLINE}}you are trying{{NLINE}}very hard{{NPAGE}}I'm very happy, so{{NLINE}}I will teach you{{NLINE}}my special technique!{{NPAGE}}{{PRMTR,0}} learned{{NLINE}}{{COLRS,2}}{{PRMTR,1}}{{COLRE}}!!
+Who shall apprentice?
+Who wants to quit?
+Is this OK?                Yes No
+Do you want to quit?       Yes No
+It's locked...
+It's locked...
+{{TXTBX,05}}Nina{{NLINE}}"This is the basement{{NLINE}}of the castle...{{NPAGE}}The kitchen is that{{NLINE}}way...
+{{TXTBX,06}}Nina{{NLINE}}"And the dungeon's{{NLINE}}that way...
+{{TXTBX,06}}Nina{{NLINE}}"Speaking of the{{NLINE}}dungeon...{{NPAGE}}Ryu was put in{{NLINE}}there once, when he{{NLINE}}was little
+Rei{{NLINE}}"Hey...what's this?{{NLINE}}Someone's followed us
+{{TXTBX,06}}Nina{{NLINE}}"Honey!?{{NPAGE}}Did you follow us{{NLINE}}again?
+{{TXTBX,06}}Nina{{NLINE}}"Honey followed me{{NLINE}}here once before...
+{{TXTBX,06}}Nina{{NLINE}}"She tried running{{NLINE}}away from me...{{NPAGE}}And we ended up{{NLINE}}falling off a{{NLINE}}balcony!
+Rei{{NLINE}}"Well, I guess even{{NLINE}}she's got things she's{{NPAGE}}afraid of, right? Like{{NLINE}}balconies, maybe?
+{{TXTBX,06}}Nina{{NLINE}}"Maybe...{{NPAGE}}I'll grab her this{{NLINE}}time to make sure she{{NPAGE}}doesn't go off{{NLINE}}somewhere again
+"They were just using{{NLINE}}me!{{NPAGE}}Balio...Sunder...{{NLINE}}Mikba--they were in{{NLINE}}charge!
+"According to our{{NLINE}}investigation, they're{{NLINE}}all dead...{{NPAGE}}You should be happy{{NLINE}}we arrested you, Mr.{{NLINE}}McNeil
+"Seeing the mayor all{{NLINE}}tied up like that{{NPAGE}}kind of makes me feel{{NLINE}}sorry for him...
+"We're currently{{NLINE}}questioning Mr.{{NLINE}}McNeil
+"I'm not really a{{NLINE}}bad guy! Honest!{{NPAGE}}I was tricked!{{NLINE}}Duped! Suckered!
+"I make my living{{NLINE}}conning people and{{NLINE}}taking their money!
+"This food stinks!{{NPAGE}}But it's OK...{{NLINE}}I'll eat it anyway{{NLINE}}I'll eat anything
+"Let's see...{{NPAGE}}We have a mayor who{{NLINE}}was smuggling...{{NPAGE}}A small-time con man,{{NLINE}}and the Mac brothers{{NPAGE}}Nobody special
+"Have you come to{{NLINE}}see the mayor you{{NLINE}}arrested, Princess?
+"I thought I saw{{NLINE}}you with a small{{NLINE}}machine-like thing...?
+"cluck cluck
+"I've been stuck{{NLINE}}here on guard duty{{NLINE}}ever since that day{{NPAGE}}all those years ago{{NLINE}}that Princess Nina{{NLINE}}ran away...
+"Are you eating right?{{NLINE}}You'll have no energy{{NLINE}}unless you eat right!
+"No one knows how{{NLINE}}to carve like the{{NLINE}}boss Hachio...{{NPAGE}}If you have the{{NLINE}}time, you should get{{NLINE}}him to teach you...
+"crunch crunch
+"If you don't eat{{NLINE}}up and work hard...{{NPAGE}}Princess Nina's gonna{{NLINE}}take all your work,{{NLINE}}soldier!
+"Where did all the{{NLINE}}birds go?{{NPAGE}}I wonder if someone's{{NLINE}}not eating them?
+"cluck cluck
+"cock-a-doodle-doo!
+Rei{{NLINE}}"What's she gonna do?{{NPAGE}}Jump off the balcony{{NLINE}}again!?
+"It was OK then, and{{NLINE}}we're underground now{{DURTN,48}}
+Nina{{NLINE}}"Come on, let's go{{NLINE}}after her!
+Nina{{NLINE}}"What are you doing?{{NLINE}}Hurry up!{{NPAGE}}There she goes--that{{NLINE}}way!
+"Did you see that{{NLINE}}little machine soldier{{NLINE}}run by?{{NPAGE}}It was pretty{{NLINE}}amazing!
+Now's not the time{{NLINE}}to be playing with{{NLINE}}the chickens!
+"What, Princess Nina?{{NLINE}}Running away from{{NLINE}}home again?{{NPAGE}}Be careful, and make{{NLINE}}sure you eat right
+"If you want to learn{{NLINE}}how to cook from{{NLINE}}Hachio,{{NPAGE}}come back anytime,{{NLINE}}OK?
+"crunch...Huh?
+"Oh, Princess Nina{{NLINE}}Leaving home again?{{NPAGE}}Don't worry, Princess{{NLINE}}We're on your side
+"I saw something small{{NLINE}}go running down that{{NLINE}}way...
+Rei{{NLINE}}"It's a dead-end,{{NLINE}}isn't it?
+Nina{{NLINE}}"It looks that way,{{NLINE}}but...{{DURTN,32}}
+{{TXTBX,05}}Nina{{NLINE}}"Something tells me{{NLINE}}we'll find a way out
+"What's happened to{{NLINE}}my village...to my{{NLINE}}money...?
+"What's happened to{{NLINE}}my village...to my{{NLINE}}money...?
+"It's not your village{{NLINE}}anymore, Mr. McNeil...
+"This is what you get{{NLINE}}for making deals with{{NLINE}}people like that
+"That's the mayor who{{NLINE}}was arrested for{{NLINE}}smuggling...
+"This is the way{{NLINE}}to the dungeon
+"I had no idea there{{NLINE}}was a machine like{{NLINE}}that below the castle{{NPAGE}}They're just a big{{NLINE}}mystery, aren't they--{{NLINE}}machines...
+"cluck
+"One day...I'll be{{NLINE}}a great cook, just{{NLINE}}like Hachio!{{NPAGE}}That's why I've got{{NLINE}}to practice, practice,{{NLINE}}practice!
+"We all know that{{NLINE}}Princess Nina left{{NLINE}}home...{{NPAGE}}And we all understand{{NLINE}}why she wants to go{{NLINE}}outside...{{NPAGE}}That's why we all{{NLINE}}look the other way...
+"I hope the Princess{{NLINE}}eats right when she's{{NLINE}}gone...
+"Everyone in the{{NLINE}}castle is on Princess{{NLINE}}Nina's side...{{NPAGE}}Except the Queen...
+"cluck cluck
+"cluck
+It might cause a{{NLINE}}big ruckus if you{{NLINE}}go up there...

@@ -1,0 +1,34 @@
+  Urkan Region
+Road made by the{{NLINE}}Porter's Guild{{NPAGE}}Impassable due to{{NLINE}}the recent eruption
+Road made by the{{NLINE}}Porter's Guild{{NPAGE}}Mostly unused now{{NLINE}}that ships are{{NLINE}}sailing again
+Home of the{{NLINE}}culturally unique{{NLINE}}Urkan people
+Area regarded as{{NLINE}}holy by the Urkan
+Graveyard of the Brood{{NLINE}}killed by the Urkan{{NLINE}}during the Great War{{NPAGE}}Even after death, it{{NLINE}}guards their power
+Machine Guild village{{NLINE}}Surrounded by tall{{NLINE}}piles of scrap
+Wharf for ships{{NPAGE}}The Porter's and{{NLINE}}Machine Guilds do{{NLINE}}business here
+Beach where machine{{NLINE}}parts wash up; supply{{NLINE}}area for Machine Guild
+There's a small hut{{NLINE}}here
+Nina{{NLINE}}"This is {{COLRS,2}}Steel Beach{{COLRE}}!{{NLINE}}You know, in Urkan...!?
+The world you came{{NLINE}}from...overflowing{{NLINE}}with life...{{DURTN,48}}
+"The two worlds are{{NLINE}}separated by the{{NLINE}}vast and violent{{NPAGE}}ocean you call{{NLINE}}the Outer Sea...
+Area famous for the{{NLINE}}'big ones'!{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}{{NLINE}}{{PRMTR,3}}
+Area famous for the{{NLINE}}'big ones'!{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}{{NLINE}}{{PRMTR,3}}
+Area famous for the{{NLINE}}'big ones'!{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}{{NLINE}}{{PRMTR,3}}
+Area famous for the{{NLINE}}'big ones'!{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}{{NLINE}}{{PRMTR,3}}
+Area famous for the{{NLINE}}'big ones'!{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}{{NLINE}}{{PRMTR,3}}
+Area famous for the{{NLINE}}'big ones'!{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}{{NLINE}}{{PRMTR,3}}
+Area famous for the{{NLINE}}'big ones'!{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}{{NLINE}}{{PRMTR,3}}
+Area famous for the{{NLINE}}'big ones'!{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}{{NLINE}}{{PRMTR,3}}
+Area famous for the{{NLINE}}'big ones'!{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}{{NLINE}}{{PRMTR,3}}
+Area famous for the{{NLINE}}'big ones'!{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}{{NLINE}}{{PRMTR,3}}
+The best fish in the{{NLINE}}world are said to be{{NLINE}}here in this bed...{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}
+Tide pool formed by{{NLINE}}the Outer Sea and the{{NLINE}}Middle Sea{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}{{NLINE}}{{PRMTR,3}}{{NLINE}}{{PRMTR,4}}{{NPAGE}}{{PRMTR,5}}{{NLINE}}{{PRMTR,6}}{{NLINE}}{{PRMTR,7}}{{NPAGE}}{{PRMTR,8}}{{NLINE}}{{PRMTR,9}}{{NLINE}}{{PRMTR,10}}
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+The field of flowers{{NLINE}}is reacting to the{{NLINE}}Faerie Tiara...{{NPAGE}}Do you want to use{{NLINE}}the {{COLRS,2}}Faerie Tiara{{COLRE}}?{{CHOIC,0,0,Yes,No}}

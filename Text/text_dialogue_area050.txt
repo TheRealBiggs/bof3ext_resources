@@ -1,0 +1,161 @@
+{{TXTBX,05}}Sunder{{NLINE}}"We knew you'd{{NLINE}}be coming down{{NLINE}}that road!{{NPAGE}}We're one step{{NLINE}}ahead of you!
+{{TXTBX,05}}Sunder{{NLINE}}"You're in for it now,{{NLINE}}you little squirt!
+{{TXTBX,05}}Sunder{{NLINE}}"You won't be getting{{NLINE}}away this time!
+{{TXTBX,05}}Sunder{{NLINE}}"Stupid kids!{{NPAGE}}I've had it up to{{NLINE}}here with them!
+{{TXTBX,81}}   The Contest of{{NLINE}}     Champions  {{DURTN,32}}
+{{TXTBX,81}} {{NLINE}}       Genmel{{DURTN,48}}
+{{TXTBX,81}} {{NLINE}}       Genmel{{DURTN,48}}
+{{TXTBX,81}} {{NLINE}}       Genmel{{DURTN,48}}
+{{TXTBX,81}} {{NLINE}}       Genmel{{DURTN,48}}
+{{TXTBX,81}} {{NLINE}}       Genmel{{DURTN,48}}
+{{TXTBX,81}} {{NLINE}}       Genmel{{DURTN,48}}
+{{TXTBX,81}} {{NLINE}}  The pub "Fahl's"{{DURTN,48}}
+Balio{{NLINE}}"OK, Fahl, they're{{NLINE}}all yours...
+{{TXTBX,05}}Fahl{{NLINE}}"I just gotta keep{{NLINE}}an eye on 'em, right?
+Balio{{NLINE}}"Yeah, just keep your{{NLINE}}eyes on them...{{NPAGE}}and your hands{{NLINE}}off the bottle, OK?{{NPAGE}}We've got better{{NLINE}}things to do than{{NLINE}}worry about a{{NPAGE}}couple of kids...
+Balio{{NLINE}}"Thanks a lot,{{NLINE}}Fahl{{NPAGE}}OK, brats...{{NPAGE}}You'll get yours{{NLINE}}once the Contest{{NLINE}}is over...{{NPAGE}}For now just stay{{NLINE}}here and behave{{NLINE}}yourselves, OK?
+{{TXTBX,06}}Sunder{{NLINE}}"You'd better take it{{NLINE}}easy too, Garr...{{NPAGE}}The Contest's coming{{NLINE}}up, you know
+{{TXTBX,03}}Nina{{NLINE}}"Ryu...{{PAUSE}}Are you{{NLINE}}all right?
+{{TXTBX,03}}Nina{{NLINE}}"...{{PAUSE}}...{{PAUSE}}...If only{{NLINE}}we could get out of{{NPAGE}}these ropes...
+{{TXTBX,03}}Nina{{NLINE}}"Chew through them?{{NLINE}}I don't think so...{{NPAGE}}They're too thick
+{{TXTBX,03}}Nina{{NLINE}}"Wow! How did you{{NLINE}}do that!!
+{{TXTBX,03}}Nina{{NLINE}}"You bit all the{{NLINE}}way through them!{{NPAGE}}That's amazing, Ryu!{{NLINE}}Now maybe we can{{NLINE}}get out of here!
+{{TXTBX,03}}Nina{{NLINE}}"Looks like they're{{NLINE}}gone...{{NPAGE}}That guy named Fahl's{{NLINE}}here, but it looks{{NLINE}}like he's had too{{NPAGE}}much to drink...If{{NLINE}}we're quiet, he{{NLINE}}might not notice us
+{{TXTBX,03}}Nina{{NLINE}}"We'll be OK as long{{NLINE}}as we're careful...{{NPAGE}}Let's go!
+{{TXTBX,05}}Fahl{{NLINE}}"Hey! Where d'you{{NLINE}}think you're going?
+Nina{{NLINE}}"Uhhh....{{NPAGE}}Nowhere! We're not{{NLINE}}going anywhere!
+{{TXTBX,05}}Fahl{{NLINE}}"Nowhere... {{PAUSE}}{{PAUSE}}{{EFCTS}}hic!{{EFCTE,17}}
+Nina{{NLINE}}"That's right...{{PAUSE}}...{{PAUSE}}{{NLINE}}We'll be seeing you
+{{TXTBX,06}}Nina{{NLINE}}"...{{PAUSE}}...{{PAUSE}}...We{{NLINE}}made it, Ryu!
+{{TXTBX,06}}Nina{{NLINE}}"I knew we could{{NLINE}}do it!
+Nina{{NLINE}}"OK...{{PAUSE}}Let's get out{{NLINE}}of here before he{{NPAGE}}wakes up!
+Nina{{NLINE}}"We'd better not go{{NLINE}}in here...
+"I can't believe{{NLINE}}I lost! What am I{{NLINE}}going to do now?
+"I guess I'm on a{{NLINE}}losing streak...{{NPAGE}}That's how I ended{{NLINE}}up like this...
+"This place'll be{{NLINE}}hopping soon with the{{NLINE}}Contest coming up
+"I saved up working{{NLINE}}in the mines to come{{NLINE}}here...{{NPAGE}}Just to see the{{NLINE}}Contest of Champions!{{NPAGE}}Wonder what kinda{{NLINE}}fights they'll have{{NLINE}}this year...
+"Genmel's famous for{{NLINE}}the Contest...{{NPAGE}}We get people from all{{NLINE}}over who come here to{{NLINE}}fight!
+"I came here hoping{{NLINE}}to have a go with{{NLINE}}Fahl...{{NPAGE}}But he's drunk as{{NLINE}}usual!
+"There are people{{NLINE}}who come here hoping{{NLINE}}to have Fahl show{{NPAGE}}'em how to fight...{{NLINE}}If I was them, though,{{NPAGE}}I'd study under a{{NLINE}}thief... Why?{{NPAGE}}'Cause you learn how{{NLINE}}to move real quick{{NPAGE}}and how to steal{{NLINE}}stuff, right?
+"The Arena's{{NLINE}}closed right now{{NPAGE}}The Contest will be{{NLINE}}starting soon!
+"They always hold{{NLINE}}the Contest here...{{NPAGE}}Once every year,{{NLINE}}the biggest Contest{{NLINE}}in the world!
+"I'm the manager of{{NLINE}}the Arena here...{{NPAGE}}But the Contest is{{NLINE}}run by some other{{NLINE}}folks, see{{NPAGE}}So that's why I'm{{NLINE}}here selling tickets
+"It's the thrill of{{NLINE}}the fight, see?{{NPAGE}}That's why I'm{{NLINE}}excited!
+"Yeah, right...{{NPAGE}}Doesn't matter what{{NLINE}}it is--as long as{{NPAGE}}it involves gambling,{{NLINE}}you're excited!
+"Show tent, huh?{{NPAGE}}Wonder if they got{{NLINE}}big women in there,{{NLINE}}know what I mean?
+"The Contest is run{{NLINE}}by these two guys{{NLINE}}named Balio and Sunder{{NPAGE}}--OK, so they're a{{NLINE}}couple of gangsters,{{NPAGE}}but as long as it{{NLINE}}makes money and people{{NLINE}}are happy, who cares?
+"I'm not goofing{{NLINE}}off--I'm handing out{{NLINE}}fliers...here
+You got a Flier!
+"Show that flier at{{NLINE}}the shop and they'll{{NLINE}}give you a discount!
+"Balio and Sunder?{{NPAGE}}They won't be here{{NLINE}}for a while--they're{{NLINE}}busy getting ready for{{NPAGE}}the Contest... Why?{{NLINE}}You need to see them{{NLINE}}about something?
+"It's really hard{{NLINE}}to predict the odds{{NLINE}}for the Contest...{{NPAGE}}Everyone in it's{{NLINE}}such a good fighter,{{NLINE}}you know
+"Whatever...It's not{{NLINE}}like any of your{{NLINE}}predictions're right!
+"You kids here for{{NLINE}}the Contest?{{NPAGE}}Didn't know kids{{NLINE}}liked this kind{{NLINE}}of thing
+"There's a lot of{{NLINE}}unmentionable types{{NLINE}}around here...{{NPAGE}}But I guess they're{{NLINE}}all here for the{{NLINE}}Contest
+"They say you get{{NLINE}}whatever you want{{NLINE}}if you win...{{NPAGE}}I'd go for it, but{{NLINE}}I wouldn't stand{{NLINE}}a chance...
+"I'm not strong enough{{NLINE}}to enter the Contest,{{NPAGE}}so I get my action{{NLINE}}by betting on it!
+"Weapons?
+"Hey! You've got{{NLINE}}a flier! You get{{NLINE}}a discount for that!
+"If you're looking{{NLINE}}for an item, we{{NLINE}}got it
+"You've got a flier?{{NLINE}}Then you get a{{NLINE}}discount!
+"Charging extra for{{NLINE}}the Contest?{{NPAGE}}What makes you think{{NLINE}}I would do something{{NLINE}}like that?{{NPAGE}}Who do you think I{{NLINE}}am? Balio?
+"Can't say much for{{NLINE}}the clientele, but{{NPAGE}}these shops have{{NLINE}}got everything
+"I bet you're trying{{NLINE}}to charge extra 'cause{{NLINE}}of all the people!
+"Humph! I've been{{NLINE}}cheated!{{NPAGE}}I thought there was{{NLINE}}gonna be big girls,{{NLINE}}but all there was{{NPAGE}}was little girls!
+"It looks like he{{NLINE}}didn't appreciate our{{NLINE}}star attraction...{{NPAGE}}She's usually one of{{NLINE}}everyone's favorites...
+"They told me I{{NLINE}}would be a star...{{NPAGE}}But I don't sing or{{NLINE}}dance...I just stand{{NLINE}}here all day...{{NPAGE}}Is this what being{{NLINE}}a star is like?
+"Whew! Contest?{{NLINE}}I don't care about{{NLINE}}that--get me water!
+"The Contest has{{NLINE}}started...But it{{NLINE}}doesn't matter to me--{{NPAGE}}I'm broke!
+"I knew it! I should{{NLINE}}have gotten a reserved{{NLINE}}ticket!{{NPAGE}}Now I'll never be{{NLINE}}able to get in!
+"I bet last year's{{NLINE}}Champion, Garr, will{{NLINE}}do well this year too!
+"The winner gets any-{{NLINE}}thing they want, huh?{{NPAGE}}Maybe I should give{{NLINE}}it a try, too...
+"The owner of the pub,{{NLINE}}Fahl, is quite a{{NLINE}}strong fighter...{{NPAGE}}But he's got a few{{NLINE}}problems, if you{{NLINE}}know what I mean
+"Garr's gonna win{{NLINE}}this year again{{NLINE}}for sure!
+"You've got no{{NLINE}}imagination! That's{{NLINE}}your problem{{NPAGE}}It's more exciting to{{NLINE}}pull for an underdog!
+"The show tent or{{NLINE}}the Contest...Which{{NLINE}}to see?
+"I bet Balio's gonna{{NLINE}}make a lot of money{{NLINE}}off of this!
+"What? You're gonna{{NLINE}}be in the Contest!?{{NPAGE}}What is Balio{{NLINE}}thinking!?
+"You're going to be{{NLINE}}in the Contest?{{NPAGE}}You're kidding, right?
+"That last-minute{{NLINE}}entry was you{{NLINE}}fellows!?{{NPAGE}}Well I'll be...
+"You're entering the{{NLINE}}Contest? Wow...{{NPAGE}}What're you gonna ask{{NLINE}}for if you win?
+"You've got to be{{NLINE}}the youngest entrants{{NLINE}}ever
+"Special sale for the{{NLINE}}Contest!{{NPAGE}}Cheap at twice the{{NLINE}}price!
+"I heard there are{{NLINE}}some stores under{{NLINE}}the Arena as well
+"You call that{{NLINE}}service!?
+"Guess I have to{{NLINE}}go look for another{{NLINE}}star...
+"The Contest's over--{{NLINE}}but nothing's changed{{NLINE}}for me...
+"So much for the{{NLINE}}Contest 'til next{{NLINE}}year...
+"Hm? Wyndia?{{NPAGE}}You should head west{{NLINE}}until you cross the{{NLINE}}Maekyss
+"I wonder what Garr{{NLINE}}got this year?
+"See? I told you!{{NLINE}}I told you Garr{{NLINE}}would win!
+"Shaddap!{{NPAGE}}Your blathering kept{{NLINE}}me from seeing the{{NLINE}}Contest!
+"The show tent and{{NLINE}}the Contest have both{{NLINE}}shut down...
+"You were trying to{{NLINE}}get away from Balio{{NLINE}}so you entered the{{NPAGE}}Contest? Pretty{{NLINE}}impressive for a{{NLINE}}bunch of kids...
+"Only really strong{{NLINE}}people enter the{{NLINE}}Contest...{{NPAGE}}People like Garr
+"I still don't{{NLINE}}believe you actually{{NLINE}}entered the Contest
+"The Contest may{{NLINE}}be over...{{NPAGE}}but the Arena still{{NLINE}}has to be cleaned{{NLINE}}up!
+"I'll be back{{NLINE}}next year
+"Maybe now things{{NLINE}}will finally quiet{{NLINE}}down...
+"Now that I think{{NLINE}}about it, aren't{{NLINE}}you supposed to{{NPAGE}}get a discount{{NLINE}}here if you show{{NLINE}}them a flier?
+"OK, so I let{{NLINE}}a couple of kids{{NLINE}}run away...{{NPAGE}}So what? Huh?{{NLINE}}{{EFCTS}}hic!{{EFCTE,17}}
+"I hear the Champ,{{NLINE}}Garr, comes here{{NLINE}}a lot...
+"We're closed...{{NLINE}}See you next year!
+"It's always a{{NLINE}}chore cleaning up{{NLINE}}after the Contest
+"The Arena{{NLINE}}is closed now
+"Now that the Contest{{NLINE}}is gone...And the gang{{NLINE}}that used to run the{{NPAGE}}Arena has been broken{{NLINE}}up, we won't be{{NLINE}}gettin' much business{{NPAGE}}'round here...Time to{{NLINE}}close up shop
+"I miss the good old{{NLINE}}days when we had the{{NLINE}}Contest...
+"I thought today I{{NLINE}}would finally have{{NLINE}}a bout with Fahl...{{NPAGE}}But I can't help{{NLINE}}ordering a drink when{{NLINE}}I go in!
+"Have you ever heard{{NLINE}}of the {{COLRS,2}}Ivory Dice{{COLRE}}?{{NPAGE}}Oh, you have?...{{NLINE}}Really?{{NPAGE}}Well then, have you{{NLINE}}ever heard of Mayumi{{NLINE}}Nakamura?{{NPAGE}}Oh, you haven't?...{{PAUSE}}{{NLINE}}Really?
+"This town used to{{NLINE}}be full of people...{{NPAGE}}But everybody stopped{{NLINE}}coming once the{{NLINE}}Arena closed...
+"I remember the{{NLINE}}last Contest all{{NLINE}}those years ago...{{NPAGE}}Let's see...Garr{{NLINE}}won, and he asked{{NPAGE}}for some kids as{{NLINE}}his prize
+"I wonder what became{{NLINE}}of all those girls who{{NLINE}}worked here?
+"No matter what{{NLINE}}happens to places{{NLINE}}like this...{{NPAGE}}There's always some-{{NLINE}}one else who'll take{{NLINE}}over eventually
+"Don't get as many{{NLINE}}customers as we{{NLINE}}used to...
+"Please don't touch{{NLINE}}the merchand...I mean,{{NLINE}}the dancers
+"With a little luck,{{NLINE}}I'll be a professional{{NLINE}}ring girl someday!
+"I got fired from the{{NLINE}}Arena, so I had to get{{NLINE}}a job here...{{NPAGE}}They told me with my{{NLINE}}looks, I could be a{{NLINE}}star!
+"Hmmmmmmmm!
+"Bunnies!
+"I can't stare at{{NLINE}}girls like that...{{NPAGE}}It's too embarrassing!
+"We're having a{{NLINE}}closeout sale!{{NPAGE}}Prices're still{{NLINE}}the same, though
+"Maybe it's time{{NLINE}}to close up shop{{NLINE}}and move on...
+"I remember the{{NLINE}}Contest of Champions{{NPAGE}}I was a ring girl{{NLINE}}back in those days
+"{{EFCTS}}hic!!{{EFCTE,17}}{{NPAGE}}What?{{NPAGE}}I feel like I've{{NLINE}}seen you somewhere{{NLINE}}before...{{PAUSE}}...{{NPAGE}}Anyway, what do{{NLINE}}you want?{{NPAGE}}You want me to{{NLINE}}teach you how to{{NLINE}}fight too?{{CHOIC,0,0,Yes,No}}
+"{{EFCTS}}hic!!{{EFCTE,17}}{{NPAGE}}What?{{NPAGE}}I feel like I've{{NLINE}}seen you somewhere{{NLINE}}before...{{PAUSE}}...{{NPAGE}}Anyway, what do{{NLINE}}you want?{{NPAGE}}You want me to{{NLINE}}teach you how to{{NLINE}}fight too?{{CHOIC,0,0,Yes,No}}
+"{{EFCTS}}hic!!{{EFCTE,17}}{{NPAGE}}What?{{NPAGE}}I feel like I've{{NLINE}}seen you somewhere{{NLINE}}before...{{PAUSE}}...{{NPAGE}}Anyway, what do{{NLINE}}you want?{{NPAGE}}You want me to{{NLINE}}teach you how to{{NLINE}}fight too?{{CHOIC,0,0,Yes,No}}
+"{{EFCTS}}hic!!{{EFCTE,17}}{{NPAGE}}What?{{NPAGE}}I feel like I've{{NLINE}}seen you somewhere{{NLINE}}before...{{PAUSE}}...{{NPAGE}}Anyway, what do{{NLINE}}you want?{{NPAGE}}You want me to{{NLINE}}teach you how to{{NLINE}}fight too?{{CHOIC,0,0,Yes,No}}
+"{{EFCTS}}hic!!{{EFCTE,17}}{{NPAGE}}What?{{NPAGE}}I feel like I've{{NLINE}}seen you somewhere{{NLINE}}before...{{PAUSE}}...{{NPAGE}}Anyway, what do{{NLINE}}you want?{{NPAGE}}You want me to{{NLINE}}teach you how to{{NLINE}}fight too?{{CHOIC,0,0,Yes,No}}
+"{{EFCTS}}hic!!{{EFCTE,17}}{{NPAGE}}What?{{NPAGE}}I feel like I've{{NLINE}}seen you somewhere{{NLINE}}before...{{PAUSE}}...{{NPAGE}}Anyway, what do{{NLINE}}you want?{{NPAGE}}You want me to{{NLINE}}teach you how to{{NLINE}}fight too?{{CHOIC,0,0,Yes,No}}
+"{{EFCTS}}hic!!{{EFCTE,17}}{{NPAGE}}What?{{NPAGE}}I feel like I've{{NLINE}}seen you somewhere{{NLINE}}before...{{PAUSE}}...{{NPAGE}}Anyway, what do{{NLINE}}you want?{{NPAGE}}You want me to{{NLINE}}teach you how to{{NLINE}}fight too?{{CHOIC,0,0,Yes,No}}
+What?{{NPAGE}}I feel like I've{{NLINE}}seen you somewhere{{NLINE}}before...{{PAUSE}}...{{NPAGE}}Anyway, what do{{NLINE}}you want?{{NPAGE}}You want me to{{NLINE}}teach you how to{{NLINE}}fight too?{{CHOIC,0,0,Yes,No}}
+...{{PAUSE}}...{{PAUSE}}...{{PAUSE}}You{{NLINE}}look like you've been{{NLINE}}working out, yeah?{{NPAGE}}I like the looks{{NLINE}}of you! Whaddya say--{{NPAGE}}I'll make you my{{NLINE}}apprentice!{{NPAGE}}We'll get you toned{{NLINE}}up in no time!
+...{{PAUSE}}...{{PAUSE}}...Huh?{{NPAGE}}Hmmmm...If you want{{NLINE}}to be my apprentice,{{NLINE}}you'll have to win{{NPAGE}}about 30 or so{{NLINE}}fights without taking{{NLINE}}a rest--understand?{{NPAGE}}Only tough guys need{{NLINE}}apply, see?{{NPAGE}}Come back anytime--{{NLINE}}I'll be here
+Come back anytime--{{NLINE}}I'll be here
+"ahhhh {{EFCTS}}hic!{{EFCTE,17}}!{{NPAGE}}Huh? You again!?{{NLINE}}Whaddya want?
+Is there someone{{NLINE}}who wants to be{{NLINE}}my apprentice?{{CHOIC,1,0,Yes,No}}
+Huh? You're all{{NLINE}}already my apprentices{{NLINE}}aren't you?
+So what you're{{NLINE}}saying is you{{NLINE}}want to quit?{{CHOIC,2,0,Yes,No}}
+Huh? Not one of{{NLINE}}you's my apprentice!
+"OK, {{PRMTR,0}}, you're{{NLINE}}my apprentice now!
+Anyone else want to{{NLINE}}be my apprentice?{{CHOIC,3,0,Yes,No}}
+"All right then!{{NPAGE}}{{PRMTR,0}}, you're not my{{NLINE}}apprentice any more!{{NPAGE}}You're not anything{{NLINE}}so git outta here!
+Anyone else wanna{{NLINE}}quit?{{CHOIC,4,0,Yes,No}}
+"Oh! Don't see you{{NLINE}}for a while and you{{NLINE}}go out and get all{{NPAGE}}buff on me! All right{{NLINE}}then--you should be{{NLINE}}able to handle this!{{NPAGE}}{{PRMTR,0}} learned{{NLINE}}{{COLRS,2}}{{PRMTR,1}}{{COLRE}}!
+Who shall apprentice
+Who wants to quit?
+Is this OK?                Yes No
+Do you want to quit?       Yes No
+"I wonder where those{{NLINE}}giant fruits and{{NLINE}}vegetables come from?
+"I wonder where those{{NLINE}}giant fruits and{{NLINE}}vegetables come from?
+"I wonder where those{{NLINE}}giant fruits and{{NLINE}}vegetables come from?
+"I wonder where those{{NLINE}}giant fruits and{{NLINE}}vegetables come from?
+"I wonder where those{{NLINE}}giant fruits and{{NLINE}}vegetables come from?
+"I wonder where those{{NLINE}}giant fruits and{{NLINE}}vegetables come from?
+"I wonder where those{{NLINE}}giant fruits and{{NLINE}}vegetables come from?
+"I wonder where those{{NLINE}}giant fruits and{{NLINE}}vegetables come from?
+"I wonder where those{{NLINE}}giant fruits and{{NLINE}}vegetables come from?
+"I wonder where those{{NLINE}}giant fruits and{{NLINE}}vegetables come from?
+"I wonder where those{{NLINE}}giant fruits and{{NLINE}}vegetables come from?
+"I wonder where those{{NLINE}}giant fruits and{{NLINE}}vegetables come from?
+"I wonder where those{{NLINE}}giant fruits and{{NLINE}}vegetables come from?
+"I wonder where those{{NLINE}}giant fruits and{{NLINE}}vegetables come from?

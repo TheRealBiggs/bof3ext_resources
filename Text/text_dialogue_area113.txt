@@ -1,0 +1,19 @@
+"The seas art a{{NLINE}}distant echo of my{{NLINE}}pale existence...{{NPAGE}}Mine ancestors, they{{NLINE}}that birthed me, be{{NLINE}}the fish therein{{NPAGE}}I wouldst enquire of{{NLINE}}thee: dost thou hold{{NLINE}}in esteem the life{{NPAGE}}thou holdest in hand,{{NLINE}}feeling it snared on{{NLINE}}thy wicked barb?{{NPAGE}}Dost thou believe{{NLINE}}sport with fish to be{{NLINE}}the ultimate game?{{CHOIC,0,1,...Yes,Come again?}}
+I wouldst enquire of{{NLINE}}thee: dost thou hold{{NLINE}}in esteem the life{{NPAGE}}thou holdest in hand,{{NLINE}}feeling it snared on{{NLINE}}thy wicked barb?{{NPAGE}}Dost thou believe{{NLINE}}sport with fish to be{{NLINE}}the ultimate game?{{CHOIC,0,1,...Yes,Come again?}}
+Thou wouldst be well{{NLINE}}given to calleth me{{NLINE}}rever'd and take{{NPAGE}}after my ways...{{NLINE}}Thy journey will be{{NLINE}}made all the better{{NPAGE}}if thou but doth{{NLINE}}remember to hold{{NLINE}}true to the sport!
+Heed thee well my{{NLINE}}utterances and those{{NLINE}}of mine ancestors{{NPAGE}}Thou must give{{NLINE}}flight to the{{NLINE}}wicked barb...{{NPAGE}}Thou must {{COLRS,2}}fish{{COLRE}}{{NPAGE}}Fare thee well...{{NPAGE}}Remember thee to{{NLINE}}forget not my{{NLINE}}ancestors
+Fare thee well...{{NPAGE}}Remember thee to{{NLINE}}forget not my{{NLINE}}ancestors
+"Mine eyes would{{NLINE}}mistake thee! Thou{{NLINE}}hast changed greatly{{NPAGE}}since last our{{NLINE}}paths did cross...{{NPAGE}}How dost the waters{{NLINE}}find thee today?
+"Be among thee those{{NLINE}}that wouldst call me{{NLINE}}master?{{CHOIC,1,0,Yea,Nay}}
+Rejoice and be{{NLINE}}merry!{{NPAGE}}For are not all{{NLINE}}of thee already{{NLINE}}my devotees?
+I put to thee again:{{NLINE}}dost thou desire to{{NLINE}}leave my service?{{CHOIC,2,0,Yea,Nay}}
+Unless mine eyes{{NLINE}}be befogged...{{NPAGE}}There be not one of{{NLINE}}you that calleth me{{NLINE}}master!
+"So be it! Thou art{{NLINE}}truly well met as{{NLINE}}my apprentice!
+Be there any other{{NLINE}}who wouldst call me{{NLINE}}master?{{CHOIC,3,0,Yea,Nay}}
+"Thou wishest to{{NLINE}}leave my service?{{NPAGE}}Oh, thy words doth{{NLINE}}strike sharp as{{NLINE}}daggers!
+Be there others{{NLINE}}that wouldst leave{{NLINE}}my service?{{CHOIC,4,0,Yea,Nay}}
+{{PRMTR,0}}, I wouldst{{NLINE}}bequeath upon thee{{NLINE}}this!{{NPAGE}}{{PRMTR,0}} learned{{NLINE}}{{COLRS,2}}{{PRMTR,1}}{{COLRE}}!
+Who shall apprentice?
+Who wants to quit?
+Is this OK?                Yes No
+Do you want to quit?       Yes No

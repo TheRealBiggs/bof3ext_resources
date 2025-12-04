@@ -1,0 +1,11 @@
+Insufficient power{{NLINE}}Please perform a{{NLINE}}breaker check
+Insufficient power{{NLINE}}Please perform a{{NLINE}}breaker check
+Please enter your{{NLINE}}destination{{CHOIC,0,1,Worker's Area,Maintenance Deck,Quit}}
+Please enter your{{NLINE}}destination{{CHOIC,1,1,Arrival Platform,Maintenance Deck,Quit}}
+Please enter your{{NLINE}}destination{{CHOIC,2,1,Arrival Platform,Worker's Area,Quit}}
+Please enter your{{NLINE}}destination{{CHOIC,3,1,Maintenance Deck,Quit}}
+Please enter your{{NLINE}}destination{{CHOIC,4,1,Worker's Area,Quit}}
+Main entrance is{{NLINE}}currently locked.{{NPAGE}}Please use the{{NLINE}}worker's area{{NLINE}}entrance.
+{{TXTBX,02}}"Last stop: Orbital{{NLINE}}Station {{COLRS,2}}Myria{{COLRE}}{{NLINE}}arrivals platform.
+{{TXTBX,02}}"Last stop: Orbital{{NLINE}}Station {{COLRS,2}}Myria{{COLRE}}{{NLINE}}arrivals platform.
+{{TXTBX,02}}"Last stop: Orbital{{NLINE}}Station {{COLRS,2}}Myria{{COLRE}}{{NLINE}}arrivals platform.

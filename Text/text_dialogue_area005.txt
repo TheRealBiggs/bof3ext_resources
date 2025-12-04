@@ -1,0 +1,81 @@
+{{TXTBX,81}}       Spring!!{{DURTN,32}}
+{{TXTBX,82}} {{NLINE}} {{NLINE}} {{NLINE}} {{NLINE}} And so, {{PAUSE}}{{PAUSE}}spring came{{NLINE}}      at last    {{DURTN,64}}
+{{TXTBX,82}} {{NLINE}} {{NLINE}} {{NLINE}}   Spring came to the {{NLINE}} {{NLINE}}mountain, and to woods,{{NLINE}} {{NLINE}}and to their inhabitants{{DURTN,64}}
+{{TXTBX,82}} {{NLINE}} {{NLINE}} {{NLINE}}And the virtue of the{{NLINE}} {{NLINE}}young boys who saved{{NLINE}} {{NLINE}}the village from the{{NLINE}} {{NLINE}}ferocious Nue Chimera{{DURTN,64}}
+{{TXTBX,82}} {{NLINE}} {{NLINE}} {{NLINE}}     Earned them    {{NLINE}} {{NLINE}}   a place in the   {{NLINE}} {{NLINE}} villagers' hearts...{{DURTN,64}}
+Teepo{{NLINE}}"I'm home!
+{{TXTBX,06}}Teepo{{NLINE}}"I went to the west{{NLINE}}woods, looking{{NPAGE}}for animals and{{NLINE}}berries...{{PAUSE}}{{PAUSE}}{{NPAGE}}and look what I{{NLINE}}found!
+{{TXTBX,06}}Teepo{{NLINE}}"Now we won't have to{{NLINE}}worry about food{{NPAGE}}anymore, right Rei?{{NLINE}}It's a good thing we{{NPAGE}}got rid of that{{NLINE}}monster, huh?
+{{TXTBX,05}}Rei{{NLINE}}"...I suppose so
+{{TXTBX,05}}Teepo{{NLINE}}"Hey!{{NPAGE}}Why don't we go down{{NLINE}}to the village and{{NLINE}}show 'em who did it?{{NPAGE}}Tell 'em who got{{NLINE}}rid of the monster!
+{{TXTBX,05}}Rei{{NLINE}}"Hmmm...{{PAUSE}}...{{PAUSE}}...{{NPAGE}}I don't know...{{NLINE}}Isn't it better if we{{NLINE}}don't brag about it?
+{{TXTBX,05}}Teepo{{NLINE}}"W..{{PAUSE}}{{PAUSE}} Why's that?
+{{TXTBX,05}}Rei{{NLINE}}"But...{{PAUSE}}...{{PAUSE}}...{{NPAGE}}I suppose it wouldn't{{NLINE}}hurt to go see what{{NPAGE}}they're saying about{{NLINE}}us, would it?
+{{TXTBX,05}}Teepo{{NLINE}}"Then we can go!?
+{{TXTBX,05}}Teepo{{NLINE}}"Come on, come on!
+{{TXTBX,01}} {{NLINE}}This is a demo of{{NLINE}}{{INSTS}}Breath of Fire III{{INSTE}}.{{NPAGE}}Contact your nearest{{NLINE}}store for information{{NPAGE}}about the full{{NLINE}}version.{{NPAGE}}Thanks for playing!{{NLINE}} {{NLINE}}    BoFIII Staff
+"I was wondering what{{NLINE}}would happen there for{{NLINE}}a while...{{NPAGE}}But now there's lots{{NLINE}}of game...things are{{NLINE}}looking good
+Do you want to rest?{{CHOIC,0,0,Yes,No}}
+{{TXTBX,05}}Teepo{{NLINE}}"...Ryu!
+{{TXTBX,05}}Teepo{{NLINE}}"...Ryu!
+{{TXTBX,05}}Teepo{{NLINE}}"...Ryu!
+{{TXTBX,05}}Teepo{{NLINE}}"...Ryu!
+{{TXTBX,05}}Teepo{{NLINE}}"...Ryu!
+{{TXTBX,05}}Teepo{{NLINE}}"...Ryu!
+{{TXTBX,05}}Teepo{{NLINE}}"...Ryu!
+{{TXTBX,05}}Teepo{{NLINE}}"...Ryu!
+{{TXTBX,05}}Teepo{{NLINE}}"...Ryu!
+{{TXTBX,05}}Teepo{{NLINE}}"...Ryu!
+{{TXTBX,05}}Teepo{{NLINE}}"...Ryu!
+{{TXTBX,05}}Teepo{{NLINE}}"...Ryu!
+{{TXTBX,05}}Teepo{{NLINE}}"...Ryu!
+{{TXTBX,05}}Teepo{{NLINE}}"...Ryu!
+{{TXTBX,05}}Teepo{{NLINE}}"...Ryu!
+{{TXTBX,05}}Teepo{{NLINE}}"It's night! Time to{{NLINE}}go to work!
+{{TXTBX,05}}Rei{{NLINE}}"It looks like nobody{{NLINE}}noticed that we broke{{NPAGE}}in last night...
+{{TXTBX,06}}Teepo{{NLINE}}"That was a lot of{{NLINE}}fun, wasn't it, Rei?{{NPAGE}}That McNeil looked{{NLINE}}so silly!{{NPAGE}}There's no one who{{NLINE}}can beat us! We're{{NLINE}}the best!!
+{{TXTBX,06}}Teepo{{NLINE}}"That was a lot of{{NLINE}}fun, wasn't it, Rei?{{NPAGE}}That McNeil looked{{NLINE}}so silly!{{NPAGE}}There's no one who{{NLINE}}can beat us! We're{{NLINE}}the best!!
+{{TXTBX,06}}Teepo{{NLINE}}"That was a lot of{{NLINE}}fun, wasn't it, Rei?{{NPAGE}}That McNeil looked{{NLINE}}so silly!{{NPAGE}}There's no one who{{NLINE}}can beat us! We're{{NLINE}}the best!!
+{{TXTBX,06}}Teepo{{NLINE}}"That was a lot of{{NLINE}}fun, wasn't it, Rei?{{NPAGE}}That McNeil looked{{NLINE}}so silly!{{NPAGE}}There's no one who{{NLINE}}can beat us! We're{{NLINE}}the best!!
+{{TXTBX,06}}Teepo{{NLINE}}"That was a lot of{{NLINE}}fun, wasn't it, Rei?{{NPAGE}}That McNeil looked{{NLINE}}so silly!{{NPAGE}}There's no one who{{NLINE}}can beat us! We're{{NLINE}}the best!!
+{{TXTBX,06}}Teepo{{NLINE}}"That was a lot of{{NLINE}}fun, wasn't it, Rei?{{NPAGE}}That McNeil looked{{NLINE}}so silly!{{NPAGE}}There's no one who{{NLINE}}can beat us! We're{{NLINE}}the best!!
+{{TXTBX,06}}Teepo{{NLINE}}"That was a lot of{{NLINE}}fun, wasn't it, Rei?{{NPAGE}}That McNeil looked{{NLINE}}so silly!{{NPAGE}}There's no one who{{NLINE}}can beat us! We're{{NLINE}}the best!!
+{{TXTBX,06}}Teepo{{NLINE}}"That was a lot of{{NLINE}}fun, wasn't it, Rei?{{NPAGE}}That McNeil looked{{NLINE}}so silly!{{NPAGE}}There's no one who{{NLINE}}can beat us! We're{{NLINE}}the best!!
+{{TXTBX,06}}Teepo{{NLINE}}"That was a lot of{{NLINE}}fun, wasn't it, Rei?{{NPAGE}}That McNeil looked{{NLINE}}so silly!{{NPAGE}}There's no one who{{NLINE}}can beat us! We're{{NLINE}}the best!!
+{{TXTBX,06}}Teepo{{NLINE}}"That was a lot of{{NLINE}}fun, wasn't it, Rei?{{NPAGE}}That McNeil looked{{NLINE}}so silly!{{NPAGE}}There's no one who{{NLINE}}can beat us! We're{{NLINE}}the best!!
+{{TXTBX,06}}Teepo{{NLINE}}"That was a lot of{{NLINE}}fun, wasn't it, Rei?{{NPAGE}}That McNeil looked{{NLINE}}so silly!{{NPAGE}}There's no one who{{NLINE}}can beat us! We're{{NLINE}}the best!!
+{{TXTBX,06}}Teepo{{NLINE}}"That was a lot of{{NLINE}}fun, wasn't it, Rei?{{NPAGE}}That McNeil looked{{NLINE}}so silly!{{NPAGE}}There's no one who{{NLINE}}can beat us! We're{{NLINE}}the best!!
+{{TXTBX,06}}Teepo{{NLINE}}"That was a lot of{{NLINE}}fun, wasn't it, Rei?{{NPAGE}}That McNeil looked{{NLINE}}so silly!{{NPAGE}}There's no one who{{NLINE}}can beat us! We're{{NLINE}}the best!!
+{{TXTBX,06}}Teepo{{NLINE}}"That was a lot of{{NLINE}}fun, wasn't it, Rei?{{NPAGE}}That McNeil looked{{NLINE}}so silly!{{NPAGE}}There's no one who{{NLINE}}can beat us! We're{{NLINE}}the best!!
+{{TXTBX,05}}Rei{{NLINE}}"I don't know if I{{NLINE}}would go that far...{{NPAGE}}But I'd say things{{NLINE}}went pretty well{{NLINE}}last night, eh?
+{{TXTBX,06}}Teepo{{NLINE}}"I can't wait to see{{NLINE}}the looks on their{{NPAGE}}faces when they see{{NLINE}}what we've done!
+{{TXTBX,05}}Rei{{NLINE}}"Yep...Even the people{{NLINE}}in the village'll{{NPAGE}}start treating us with{{NLINE}}respect now...
+{{TXTBX,06}}Teepo{{NLINE}}"You bet they will!{{NPAGE}}We haven't stolen{{NLINE}}anything lately...{{NPAGE}}We got rid of that{{NLINE}}Nue...C'mon! Let's go{{NLINE}}down to the village!{{NPAGE}}I want to hear{{NLINE}}everyone tell us how{{NLINE}}grateful they are!
+"Oh!{{PAUSE}} Don't be afraid!{{NLINE}}I won't hurt you!{{NPAGE}}I'm an 'Eye Goo'{{NLINE}}I'll tell you all{{NLINE}}about how to fight...{{NPAGE}}Come back when you've{{NLINE}}got some equipment...
+"Oh!{{PAUSE}} Don't be afraid!{{NLINE}}I won't hurt you!{{NPAGE}}I'm an 'Eye Goo'{{NLINE}}I'll tell you all{{NLINE}}about how to fight...{{NPAGE}}Come back when you've{{NLINE}}got some equipment...
+"Oh!{{PAUSE}} Don't be afraid!{{NLINE}}I won't hurt you!{{NPAGE}}I'm an 'Eye Goo'{{NLINE}}I'll tell you all{{NLINE}}about how to fight...{{NPAGE}}Come back when you've{{NLINE}}got some equipment...
+"Oh!{{PAUSE}} Don't be afraid!{{NLINE}}I won't hurt you!{{NPAGE}}I'm an 'Eye Goo'{{NLINE}}I'll tell you all{{NLINE}}about how to fight...{{NPAGE}}Come back when you've{{NLINE}}got some equipment...
+"Oh!{{PAUSE}} Don't be afraid!{{NLINE}}I won't hurt you!{{NPAGE}}I'm an 'Eye Goo'{{NLINE}}I'll tell you all{{NLINE}}about how to fight...{{NPAGE}}Come back when you've{{NLINE}}got some equipment...
+"Oh! {{PAUSE}}Don't be afraid!{{NLINE}}I won't hurt you!{{NLINE}}I'm an 'Eye Goo'{{NPAGE}}I know this is out of{{NLINE}}the blue, but let me{{NLINE}}show you something...{{NPAGE}}Tell me about:{{CHOIC,2,1,'Examine','Skills','EX Turn',Thanks for now}}
+When you fight monsters,{{NLINE}}they use all kinds of{{NLINE}}abilities against you.{{NPAGE}}You can learn those{{NLINE}}abilities yourself with{{NLINE}}the 'Examine' command.{{NPAGE}}If you don't get it{{NLINE}}the first time, keep{{NLINE}}trying.{{NPAGE}}Tell me about:{{CHOIC,2,1,'Examine','Skills','EX Turn',Thanks for now}}
+"One thing to remember:{{NLINE}}many monsters have an{{NLINE}}ability they won't use{{NPAGE}}except in certain{{NLINE}}situations...Like when{{NLINE}}they're wounded...{{NPAGE}}Tell me about:{{CHOIC,2,1,'Examine','Skills','EX Turn',Thanks for now}}
+"Sometimes when {{NLINE}}fighting a monster, if{{NLINE}}you're a lot faster{{NPAGE}}than they are, you can{{NLINE}}get an extra attack in{{NPAGE}}Keeping your equipment{{NPAGE}}light so your Agility{{NLINE}}stays high is one{{NLINE}}strategy you can try{{NPAGE}}Tell me about:{{CHOIC,2,1,'Examine','Skill','EX Turn',Thanks for now}}
+"All right then...{{NLINE}}Be careful!
+{{TXTBX,05}}Teepo{{NLINE}}"OK, let's go
+{{TXTBX,05}}Teepo{{NLINE}}"OK, let's go
+You see a diary...{{NPAGE}}Do you want to make{{NLINE}}a record of your{{NLINE}}journey so far?{{CHOIC,1,0,Yes,No}}
+"Even though I look{{NLINE}}like this, I know{{NPAGE}}a thing or two about{{NLINE}}camps...{{NPAGE}}Come back later with{{NLINE}}your friends and I'll{{NPAGE}}tell you everything{{NLINE}}I know, OK?
+"Don't be afraid! I{{NLINE}}just want to tell you{{NLINE}}about camps...{{NPAGE}}Tell me about:{{CHOIC,3,1,Healing,Skill Notes,The Master List,No thanks}}
+You know that when you{{NLINE}}become unconscious and{{NLINE}}leave a battle,{{NPAGE}}your {{COLRS,2}}Maximum HP{{NLINE}}drops{{COLRE}}, right? Well,{{NPAGE}}maybe you didn't know{{NLINE}}that you can't heal{{NLINE}}those HP back in camp.{{NPAGE}}So, when you want to{{NLINE}}heal, the best thing{{NLINE}}to do is use an inn.{{NPAGE}}Anything else?{{NPAGE}}Tell me about:{{CHOIC,3,1,Healing,Skill Notes,The Master List,No thanks}}
+This is your record{{NLINE}}of abilities learned{{NLINE}}using 'Examine'...{{NPAGE}}You can use it to{{NLINE}}teach someone else{{NLINE}}the ability.{{NPAGE}}But to do so, you{{NLINE}}need 'Skill Ink'.{{NPAGE}}Tell me about:{{CHOIC,3,1,Healing,Skill Notes,The Master List,No thanks}}
+Here and there around{{NLINE}}the world are people{{NLINE}}called {{COLRS,2}}Masters{{COLRE}}...{{NPAGE}}You can look up info{{NLINE}}on masters you've met{{NLINE}}in camp...{{NPAGE}}If you apprentice{{NLINE}}yourself to a master,{{NLINE}}your abilities and{{NPAGE}}statistics will change{{NLINE}}according to who your{{NLINE}}master is when you{{NPAGE}}gain a level...So be{{NLINE}}sure you check before{{NLINE}}going up a level!{{NPAGE}}Anything else?{{NPAGE}}Tell me about:{{CHOIC,3,1,Healing,Skill Notes,The Master List,No thanks}}
+"All right then...{{NLINE}}be careful out there!
+"Did you hear about{{NLINE}}how last night someone{{NPAGE}}came and left money{{NLINE}}all over the village?{{NPAGE}}Now who would do a{{NLINE}}crazy thing like that?
+"Did you hear about{{NLINE}}how last night someone{{NPAGE}}came and left money{{NLINE}}all over the village?{{NPAGE}}Now who would do a{{NLINE}}crazy thing like that?
+"Did you hear about{{NLINE}}how last night someone{{NPAGE}}came and left money{{NLINE}}all over the village?{{NPAGE}}Now who would do a{{NLINE}}crazy thing like that?
+"Did you hear about{{NLINE}}how last night someone{{NPAGE}}came and left money{{NLINE}}all over the village?{{NPAGE}}Now who would do a{{NLINE}}crazy thing like that?
+"Did you hear about{{NLINE}}how last night someone{{NPAGE}}came and left money{{NLINE}}all over the village?{{NPAGE}}Now who would do a{{NLINE}}crazy thing like that?
+"Did you hear about{{NLINE}}how last night someone{{NPAGE}}came and left money{{NLINE}}all over the village?{{NPAGE}}Now who would do a{{NLINE}}crazy thing like that?
+"Did you hear about{{NLINE}}how last night someone{{NPAGE}}came and left money{{NLINE}}all over the village?{{NPAGE}}Now who would do a{{NLINE}}crazy thing like that?
+"Did you hear about{{NLINE}}how last night someone{{NPAGE}}came and left money{{NLINE}}all over the village?{{NPAGE}}Now who would do a{{NLINE}}crazy thing like that?
+"Did you hear about{{NLINE}}how last night someone{{NPAGE}}came and left money{{NLINE}}all over the village?{{NPAGE}}Now who would do a{{NLINE}}crazy thing like that?

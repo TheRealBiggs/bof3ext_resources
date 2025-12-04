@@ -1,0 +1,454 @@
+ 
+Restores 20HP
+Restores 40HP
+Restores 100HP
+Restores all HP
+Restores 100HP to party members
+Restores 20AP
+Restores 100AP
+Chance of restoring status
+Cures poison
+Cures blindness
+Cures petrification
+Cures all status changes
+Revives party member
+Restores party's HP & status
+Used in combat
+Raises user's MAX HP
+Raises user's MAX AP
+Raises user's Power
+Raises user's Defense
+Raises user's Agility
+Raises user's Intelligence
+Raises user's Willpower
+Stops all but user for 3 turns
+Mystery effect if used on enemies
+Raises Power
+Raises Defense
+Raises Agility
+Raises Intelligence
+Raises Willpower
+Protection vs sleep
+Protection vs confusion
+Protection vs blindness
+Protection vs frost attacks
+Protection vs flame attacks
+Protection vs electric attacks
+Protection vs death attacks
+Raises Defense vs status changes
+Raises Defense vs psionic attacks
+Raises chance of surprise attack
+Raises to-hit chance
+Raises chance of meeting enemies
+Lowers chance of meeting enemies
+Restores HP while walking
+Raises Defense vs all attacks
+Saves wearer from death once
+Lowers AP usage by 25%
+Lowers AP usage by 50%
+Handy when shopping
+Appears valuable
+Used when fishing
+Pwr4  Wgt1
+Pwr6  Wgt1
+Pwr8  Wgt2
+Pwr15 Wgt3
+Pwr12 Wgt1 Property: Holy
+Pwr23 Wgt2
+Pwr32 Wgt4
+Pwr43 Wgt8
+Pwr38 Wgt4 Property: Flame
+Pwr48 Wgt1 Property: Wind
+Pwr54 Wgt2
+Pwr59 Wgt3
+Pwr55 Wgt4 critical blow % up
+Pwr67 Wgt2 Property: Frost
+Pwr70 Wgt4 Property: Holy
+Pwr76 Wgt3 Property: Flame
+Pwr82 Wgt10 Property: Electric
+Pwr91 Wgt4
+Pwr99 Wgt7 Devil-slayer
+Pwr105 Wgt4
+Pwr110 Wgt2 Heroic strength
+Pwr130 Wgt4 Property: Flame
+Pwr125 Wgt4 Divine strength
+Pwr158 Wgt8 Property: Electric
+Pwr180 Wgt4
+Embodies power of Ashura
+Pwr51 Wgt1 Chance of instant kill
+Pwr2  Wgt5
+Pwr1  Wgt1
+Pwr6  Wgt1
+Pwr12 Wgt3
+Pwr20 Wgt2 Raises Int
+Pwr28 Wgt4
+Pwr34 Wgt3 Property: Wind
+Pwr43 Wgt3 Property: Flame
+Pwr50 Wgt3
+Pwr61 Wgt4 Raises Int
+Pwr69 Wgt10 Property: Electric
+Pwr73 Wgt3 Resists death attacks
+Pwr80 Wgt5 Raises Int
+Pwr16 Wgt2
+Pwr24 Wgt3
+Pwr33 Wgt4
+Pwr41 Wgt4
+Pwr42 Wgt4 Property: Flame
+Pwr50 Wgt2
+Pwr62 Wgt4
+Pwr78 Wgt12
+Pwr68 Wgt4 Property: Wind
+Pwr80 Wgt6 Property: Frost
+Pwr88 Wgt4 Devil-slayer
+Pwr99 Wgt10 To-hit % up
+Pwr110 Wgt6 Dragon-slayer
+Pwr108 Wgt2 Property: Holy
+Pwr6  Wgt1
+Pwr10 Wgt1
+Pwr18 Wgt1
+Pwr25 Wgt1 Property: Flame
+Pwr34 Wgt1
+Pwr46 Wgt1
+Pwr55 Wgt1 Property: Earth
+Pwr64 Wgt1
+Pwr73 Wgt1 Chance of instant kill
+Pwr85 Wgt1 Dragon-slayer
+Pwr36 Wgt1 Enhances psionics
+Pwr61 Wgt1
+Pwr85 Wgt1 Critical blow % up
+Pwr108 Wgt1 Chance of instant kill
+Def2 Wgt3
+Def4 Wgt4
+Def5 Wgt3
+Def7 Wgt4
+Def6 Wgt4
+Def9 Wgt3
+Def12 Wgt6
+Def16 Wgt4
+Def19 Wgt5
+Def21 Wgt6
+Def19 Wgt2
+Def18 Wgt6 Resists flame
+Def26 Wgt6
+Def16 Wgt1
+Def38 Wgt8 Protects vs flame
+Def32 Wgt6
+Def41 Wgt0 Vs electric,wind,earth
+Def45 Wgt4
+Def45 Wgt3 wearer to undead
+Def51 Wgt8 Resists frost
+Def57 Wgt8
+Def53 Wgt3 Raises Int
+Def58 Wgt6
+Def62 Wgt3 Blessed armor
+Def64 Wgt0 Raises Agil
+Def72 Wgt8
+Def65 Wgt6 Defup vs psionics
+Def82 Wgt12 Raises Pwr
+Def72 Wgt4  Blessed Armor
+Def73 Wgt6 Protect vs flame
+Def80 Wgt8 Regenerates HP
+Def75 Wgt4 Sacred Armor
+Def1 Wgt0
+Def2 Wgt0
+Def3 Wgt1
+Def6 Wgt2
+Def8 Wgt2
+Def6 Wgt1
+Def12 Wgt1
+Def15 Wgt0
+Def14 Wgt0
+Def18 Wgt1
+Def18 Wgt1 Protect vs blindness
+Def17 Wgt1 Raises Pwr
+Def22 Wgt1 Resists flame
+Def21 Wgt2
+Def23 Wgt1 Blessed Armor
+Def26 Wgt2 Protect vs death
+Def30 Wgt2 Protect vs flame
+Def1 Wgt0
+Def3 Wgt1
+Def5 Wgt1
+Def8 Wgt2
+Def12 Wgt2
+Def17 Wgt3
+Def21 Wgt1
+Def25 Wgt3 Resists flame
+Def28 Wgt3
+Def28 Wgt3 Resists frost
+Def28 Wgt1 Raises Pwr
+Def33 Wgt3
+Def16 Wgt1 Resist status change
+Def45 Wgt5
+Def34 Wgt3 Raises Int
+Def42 Wgt3 Protect vs flame
+Def44 Wgt2 Raises Power
+Pwr58 Wgt1
+Pwr50 Wgt1 Property: Flame
+Pwr50 Wgt1 Property: Frost
+Pwr78 Wgt1
+Pwr80 Wgt1 Induces sleep
+Pwr166 Wgt1
+Pwr96 Wgt1 Induces blindness
+Pwr78 Wgt1 To-hit % up
+Pwr158 Wgt1
+Pwr118 Wgt1 Induces confusion
+Pwr198 Wgt1
+Pwr155 Wgt1 Property: Holy
+Pwr150 Wgt15 Drain life
+Smells burnt
+Heals all HP, and...
+Fish
+Engine parts
+Important item! Don't lose it!
+Used for writing Skill Notes
+Needed to enter Faerie Village
+Water--needed for desert travel
+Heal light wounds on one target
+Heal light wounds on one target
+Heal light wounds on one target
+Heal medium wounds on one target
+Heal heavy wounds on one target
+Heal medium wounds on all targets
+Heal heavy wounds on all targets
+Cures poison
+Cures all status changes
+Chance of restoring dead member
+Restore dead member
+Steal one target's AP
+Steal one target's HP
+Lower chance of meeting enemies
+Escape from a dungeon
+Raise one target's Def
+Raise all targets' Def
+Raise one target's Agil
+Raise one target's Pwr
+Raise one target's Magic Def
+Stop magic use by all targets
+Lower one target's Agil
+Lower one target's Pwr
+Lower one target's Def
+Flame attack vs one target
+Flame attack vs all targets
+Flame attack vs all targets
+Frost attack vs one target
+Frost attack vs one target
+Frost attack vs all targets
+Electric attack vs all targets
+Electric attack vs all targets
+Electric attack vs one target
+Wind attack vs one target
+Wind attack vs all targets
+Earthquake(attack vs all targets)
+Flame&wind attack vs one target
+Flame&wind attack vs all targets
+Destroy undead
+Destroy one target
+Induce sleep in all targets
+Induce confusion in one target
+Lower all targets' AP
+Comet (attack vs all targets)
+Use Hourglass to stop time
+Jump attack (random damage)
+Jump attack (random damage)
+Critical damage if enemy is hit
+Attack (one target); press button
+Electric attack; paralyzes
+Flame attack vs one target
+Attack target with magic sword
+Attack; lowers Intelligence
+Attack; induces blindness
+Attack; poisons target
+Target loses will to fight
+1-3 attacks; half damage
+Attack vs all; user's HP halved
+Attack vs one target; lowers Def
+Damage altered based on Agil
+Damage altered based on Def
+Attack; cancels next move
+Warp attack; critical blow
+Attack vs multiple targets
+Holy attack vs one target; Pwr{{SYM81}}2
+Fatal blow; MAX HP down
+Attack; usable at fixed intervals
+Attack vs one target; ignores Def
+Your enemy threw its back out...
+Your enemy is watching you...
+Grants immunity to normal attacks
+Auto counter-attack when in use
+Induce confusion in one target
+Steal HP from one target
+Wind attack vs one target
+Lower one target's Agil
+Lower one target's Pwr
+Heal light wounds on one target
+Heal light wounds on one target
+Raise one target's Pwr
+Raise one target's Pwr
+Cast random magic spell
+Cast random magic spell
+Raise all targets' Pwr
+Raise Pwr when used; max. {{SYM81}}2
+Raises user's Intelligence
+Raises Pwr for 3 turns;then death
+Raises to-hit % temporarily
+Raises Def & counterattack %
+Paralyze single target
+Bone attack;causes confusion
+Flame;damage altered by HP
+Frost;damage altered by HP
+Induce sleep in all targets
+Frost attack; induces sleep
+Induce blindness in all targets
+Poison all targets
+Turn one target into egg
+Flame attack vs all targets
+Attack; induces confusion
+Attack; non-elemental
+Target@fatal wound;user@death
+Dispels all support magic
+Fatally wounds random targets
+Displays enemies' Data
+Raises to-hit %; damage halved
+Abilities up;usable at fixed time
+Casts Death on random target
+Raises Pwr; slowly become berserk
+Steals item from enemy
+Reduces all targets' HP by half
+Frost attack; lowers Agil
+Divine the outcome of combat
+Bait enemy
+Holy fire attack;null magic field
+Rends all targets with fire
+Attack vs all targets;multi-prop
+Restores a few HP and AP
+Flame attack vs one target
+Double attack vs one target
+Breath;damage altered by HP
+Breath;damage altered by HP
+Flame;damage altered by HP
+Frost;damage altered by HP
+Electric;damage altered by HP
+Holy;damage altered by HP
+Death vs all targets
+Flame;damage altered by HP
+Frost;damage altered by HP
+Electric;damage altered by HP
+Holy;damage altered by HP
+Neutral;damage altered by HP
+Neutral;damage altered by HP
+Flame attack vs one target
+Frost attack vs one target
+Electric attack vs one target
+Holy attack vs one target
+Usable at 0AP;casts random spell
+Triple attack vs one target
+Steal HP from one target
+Electric attack vs one target
+Flame attack vs one target
+The answer becomes the damage
+The answer becomes the damage
+Weaken one target vs flame attacks
+Weaken one target vs flame attacks
+Weaken one target vs flame attacks
+Change into dragon form
+Attack; extra damage to devils
+Increases chance of finding item
+Turns single target into undead
+Damage@HP;user fatally wounded
+Raises Int when used; max. {{SYM81}}2
+Take a practice swing
+Attack vs one target; non-lethal
+Steals all EXP
+Raises Pwr by lowering Def to 0
+Restores HP and status
+Restores all dead members...?
+Attack using solid ball of magic
+Cancels one target's movement
+Invulnerability for 1 turn
+Share AP with one target
+Restores 5HP
+Flame
+Frost
+Thunder
+Shadow
+Radiance
+Force
+Defender
+Eldritch
+Miracle
+Gross
+Thorn
+Reverse
+Mutant
+???
+Trance
+Failure
+Fusion
+Infinity
+Grants Flame property
+Grants Frost property
+Grants Electric property
+Grants Shadow property
+Grants Radiant property
+Grants a form emphasizing Power
+Grants a form emphasizing Defense
+Grants a form emphasizing Int
+Grants a form emphasizing size
+Enhances abilities
+Enhances special characteristics
+Reverses abilities & properties
+Randomizes abilities & properties
+When spliced...?
+When spliced...?
+Unknown
+Combines power with allies'
+Unleashes full power of the Brood
+Holy;damage altered by HP
+Flame;damage altered by HP
+Earth;damage altered by HP
+Earth;damage altered by HP
+Flame&wind attack vs all targets
+Wind;damage altered by HP
+Wind;damage altered by HP
+Causes confusion;abilities down
+Comet;damage altered by HP
+Restores 1HP
+Restores 1HP
+Restores 20HP
+Cures poison
+Restores 40HP
+Restores 5AP
+Earthquake(attack vs all targets)
+Restores 80HP
+Induces blindness in one target
+Restores 80HP to party members
+Restores 240HP to party members
+Restores 1HP
+Restores 20HP
+Cures poison in party members
+Restores 5AP
+Restores 80HP
+Restores 20AP
+Induces blindness in all targets
+Earthquake(attack vs all targets)
+Electric attack vs one target
+Restores 240HP to party members
+Restores all members' HP&status
+All items 20-30% off!!
+A very old, very used wallet
+Some things you can't get rid of
+Passport (needed for checkpoints)
+Allows passage through Mt. Zublo
+Needed for Black Ship's bridge
+A cat--the Porter's Guild symbol
+Disk used for starting the portal
+List of repair items needed
+Sailing manual
+Key needed to start the portal
+Allows entry into Secret Level A
+Allows entry into Secret Level B
+Unusable
+Increases profits  Wgt 10
+Unlimited use of Skill Notes
+Unlimited use of Skill Notes

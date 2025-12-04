@@ -1,0 +1,25 @@
+{{TXTBX,81}} {{NLINE}}    Mt. Glaus...{{DURTN,64}}
+A trail of blood...{{NLINE}}It must be the{{NLINE}}monster's blood...
+...The blood trail{{NLINE}}stops here...
+Teepo{{NLINE}}"Hey!{{NPAGE}}I think I{{NLINE}}figured it out!
+Teepo{{NLINE}}"He must have jumped{{NLINE}}into the water to{{NPAGE}}get away...{{NLINE}}Yeah...{{PAUSE}} That's it
+Rei{{NLINE}}"...You're probably{{NLINE}}right...{{NPAGE}}So,{{PAUSE}} how do we go{{NLINE}}after him?
+Teepo{{NLINE}}"...{{PAUSE}}...{{PAUSE}}...I dunno
+Teepo{{NLINE}}"OK, OK, this time{{NLINE}}I really got it!
+Teepo{{NLINE}}"We dive in from here!{{NPAGE}}And then we float down{{NLINE}}to that spot we saw{{NLINE}}before...{{NPAGE}}Yeah...{{PAUSE}}That's it
+Rei{{NLINE}}"Hmmmm. What do you{{NLINE}}think, Ryu?{{NPAGE}}Is Teepo right?{{CHOIC,0,1,Yes,No}}
+Rei{{NLINE}}"OK, Ryu{{NLINE}}You go first
+Teepo{{NLINE}}"Geronimo!!
+The current is running{{NLINE}}strong...{{NPAGE}}Do you want to dive{{NLINE}}in?{{CHOIC,1,0,Yes,No}}
+{{TXTBX,04}}Teepo{{NLINE}}"Heh heh...{{PAUSE}}See,{{NLINE}}I told you so!
+{{TXTBX,05}}Rei{{NLINE}}"Uh-huh...{{PAUSE}}{{NPAGE}}But what would we{{NLINE}}have done if we kept{{NLINE}}on going?
+{{TXTBX,05}}Rei{{NLINE}}"I guess it worked out{{NLINE}}OK, so let's go!
+Rei{{NLINE}}"It's the monster!!
+{{TXTBX,03}}Teepo{{NLINE}}"He looks pretty worn{{NLINE}}out...{{NPAGE}}This should be{{NLINE}}easy, right, Rei?
+{{TXTBX,03}}Rei{{NLINE}}"I hope so...
+{{TXTBX,03}}Rei{{NLINE}}"...{{PAUSE}}...{{PAUSE}}...It's dead
+It died on its feet...{{NLINE}}like it was trying to{{NPAGE}}protect the cave{{NLINE}}behind it...
+They're...they're cubs{{NPAGE}}But it looks like{{NLINE}}they've been dead for{{NLINE}}a long time...{{NPAGE}}That Nue must not have{{NLINE}}realized they were{{NLINE}}dead and kept on{{NPAGE}}bringing food back for{{NLINE}}them...
+Teepo{{NLINE}}"Boy,{{PAUSE}} it wasn't too{{NLINE}}bright, was it?{{NPAGE}}I mean,{{PAUSE}}{{PAUSE}} its cubs were{{NLINE}}already dead...
+Rei{{NLINE}}"Boy, if this doesn't{{NLINE}}beat all...{{PAUSE}}{{PAUSE}}Sheesh...
+It looks like if you{{NLINE}}jump in, the current{{NLINE}}will carry you out...{{NPAGE}}Do you want to jump?{{CHOIC,2,0,Yes,No}}

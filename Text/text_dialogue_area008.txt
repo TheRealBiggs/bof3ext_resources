@@ -1,0 +1,256 @@
+"Hey, kid!{{NPAGE}}Wander around like{{NLINE}}that, you're liable{{NLINE}}to get eaten up{{NPAGE}}by dogs or somethin'
+"Hey, kid!{{NPAGE}}Wander around like{{NLINE}}that, you're liable{{NLINE}}to get eaten up{{NPAGE}}by dogs or somethin'
+"There's an old man{{NLINE}}named Bunyan who lives{{NLINE}}here in the woods...{{NPAGE}}He's kind of strange--{{NPAGE}}why else would he want{{NLINE}}to live by himself in{{NLINE}}the woods like that?
+"We haven't been able{{NLINE}}to find much to eat{{NLINE}}in the forest either{{NPAGE}}What are we going to{{NLINE}}do?
+"Bunyan's a really good{{NLINE}}hunter, but I wonder{{NLINE}}if even he can find{{NPAGE}}anything to eat at a{{NLINE}}time like this?
+"That monster from Mt.{{NLINE}}Glaus came down to the{{NLINE}}forest and ate all{{NPAGE}}the animals! What are{{NLINE}}we going to do?
+"People will look the{{NLINE}}other way for a thief{{NLINE}}only when they've got{{NPAGE}}enough for themselves.{{NLINE}}In a lean year like{{NLINE}}this, there's no one{{NPAGE}}who'll be your friend
+...locked!{{NLINE}}Rei might be able{{NLINE}}to pick the lock...
+Rei picked the lock!
+Rei{{NLINE}}"Just as I thought--{{NLINE}}Nobody's home...
+Rei{{NLINE}}"Just as I thought--{{NLINE}}Nobody's home...
+Rei{{NLINE}}"Just as I thought--{{NLINE}}Nobody's home...
+Rei{{NLINE}}"Just as I thought--{{NLINE}}Nobody's home...
+Rei{{NLINE}}"Just as I thought--{{NLINE}}Nobody's home...
+Rei{{NLINE}}"Just as I thought--{{NLINE}}Nobody's home...
+Rei{{NLINE}}"Just as I thought--{{NLINE}}Nobody's home...
+Rei{{NLINE}}"Just as I thought--{{NLINE}}Nobody's home...
+Rei{{NLINE}}"Just as I thought--{{NLINE}}Nobody's home...
+Rei{{NLINE}}"Just as I thought--{{NLINE}}Nobody's home...
+Rei{{NLINE}}"Just as I thought--{{NLINE}}Nobody's home...
+Rei{{NLINE}}"Just as I thought--{{NLINE}}Nobody's home...
+Rei{{NLINE}}"Just as I thought--{{NLINE}}Nobody's home...
+Rei{{NLINE}}"Just as I thought--{{NLINE}}Nobody's home...
+Rei{{NLINE}}"Just as I thought--{{NLINE}}Nobody's home...
+Rei{{NLINE}}"Just as I thought--{{NLINE}}Nobody's home...
+Rei{{NLINE}}"Just as I thought--{{NLINE}}Nobody's home...
+Rei{{NLINE}}"Just as I thought--{{NLINE}}Nobody's home...
+Rei{{NLINE}}"Just as I thought--{{NLINE}}Nobody's home...
+Rei{{NLINE}}"Just as I thought--{{NLINE}}Nobody's home...
+Rei{{NLINE}}"Just as I thought--{{NLINE}}Nobody's home...
+Rei{{NLINE}}"Just as I thought--{{NLINE}}Nobody's home...
+Rei{{NLINE}}"Just as I thought--{{NLINE}}Nobody's home...
+Rei{{NLINE}}"Just as I thought--{{NLINE}}Nobody's home...
+Rei{{NLINE}}"Just as I thought--{{NLINE}}Nobody's home...
+Rei{{NLINE}}"Just as I thought--{{NLINE}}Nobody's home...
+Rei{{NLINE}}"Just as I thought--{{NLINE}}Nobody's home...
+Rei{{NLINE}}"Just as I thought--{{NLINE}}Nobody's home...
+Rei{{NLINE}}"Just as I thought--{{NLINE}}Nobody's home...
+Rei{{NLINE}}"Just as I thought--{{NLINE}}Nobody's home...
+Rei{{NLINE}}"Just as I thought--{{NLINE}}Nobody's home...
+Rei{{NLINE}}"Just as I thought--{{NLINE}}Nobody's home...
+Rei{{NLINE}}"Just as I thought--{{NLINE}}Nobody's home...
+Rei{{NLINE}}"Just as I thought--{{NLINE}}Nobody's home...
+Rei{{NLINE}}"Just as I thought--{{NLINE}}Nobody's home...
+Rei{{NLINE}}"Just as I thought--{{NLINE}}Nobody's home...
+Teepo{{NLINE}}"Keep your eyes open,{{NLINE}}Ryu...{{NPAGE}}Someone might hear us{{NLINE}}if we make too much{{NLINE}}noise...
+Rei{{NLINE}}"OK, let's split up{{NPAGE}}and check the place{{NLINE}}out...quietly!
+{{TXTBX,05}}Rei{{NLINE}}"There's gotta be some{{NLINE}}food around here...
+Rei{{NLINE}}"Ryu! Shhhhhhhhh!!
+{{TXTBX,06}}Teepo{{NLINE}}"Just relax! Calm down,{{NLINE}}Ryu!
+"Food, food...{{NLINE}}Where's the food?
+"Watch your step,{{NLINE}}Ryu...
+{{TXTBX,03}}Teepo{{NLINE}}"Hey! We can't take{{NLINE}}off yet, Ryu!
+{{TXTBX,05}}Rei{{NLINE}}"Find something?
+{{TXTBX,05}}Teepo{{NLINE}}"Hey! There's food{{NLINE}}here!
+{{TXTBX,05}}Teepo{{NLINE}}"All right!! C'mon!{{NLINE}}Let's get outta here!
+Rei{{NLINE}}"Uh-oh...{{NPAGE}}Old man Bunyan's come{{NLINE}}home...{{NLINE}}gulp!
+Rei{{NLINE}}"{{PAUSE}}...{{PAUSE}}...We might be in{{NLINE}}trouble...{{NPAGE}}I'll go check it out
+{{TXTBX,04}}Rei{{NLINE}}"If something happens,{{NLINE}}I'll distract him,{{NPAGE}}and you guys get{{NLINE}}away...OK?
+Teepo{{NLINE}}"...Hey, everything's{{NLINE}}OK...{{NPAGE}}There's no way Rei{{NLINE}}would get...
+Teepo{{NLINE}}"{{PAUSE}}...{{PAUSE}}...Um, I guess{{NLINE}}I'd better go{{NPAGE}}and see what's{{NLINE}}happening
+{{TXTBX,04}}Teepo{{NLINE}}"Don't worry...{{NPAGE}}We can get out of{{NLINE}}here, {{EFCTS}}right?{{EFCTE,00}}
+Bunyan{{NLINE}}"I knew you were{{NLINE}}up to no good...{{NPAGE}}But I didn't think{{NLINE}}you had sunk this{{NLINE}}low!
+Bunyan{{NLINE}}"At a time like this,{{NPAGE}}when everyone's{{NLINE}}suffering...{{NPAGE}}Don't you know that if{{NLINE}}you don't work, you{{NLINE}}can't eat?
+{{TXTBX,06}}Teepo{{NLINE}}"Shut up!{{NLINE}}We were working!
+Bunyan{{NLINE}}"You just don't get{{NLINE}}it, do you?{{NPAGE}}Robbing people isn't{{NLINE}}honest work!{{NPAGE}}I've half the mind{{NLINE}}to run you out of{{NLINE}}the woods...but...
+Bunyan{{NLINE}}"You just don't get{{NLINE}}it, do you?{{NPAGE}}Robbing people isn't{{NLINE}}honest work!{{NPAGE}}I've half the mind{{NLINE}}to run you out of{{NLINE}}the woods...but...
+Bunyan{{NLINE}}"If you say you'll{{NLINE}}mend your ways...{{NPAGE}}I could forgive and{{NLINE}}forget...
+{{TXTBX,05}}Rei{{NLINE}}"What do you want us{{NLINE}}to do?
+Bunyan{{NLINE}}"Rei, you're a{{NLINE}}strong lad,{{NPAGE}}aren't you? I've got{{NLINE}}a job for you...
+Bunyan{{NLINE}}"You've heard of Mt.{{NLINE}}Glaus, haven't you?{{NPAGE}}The big mountain north{{NLINE}}of the forest...?
+Bunyan{{NLINE}}"You'll know it when{{NLINE}}you see it.{{NPAGE}}I want you to go{{NLINE}}there...{{NLINE}}Understand?
+{{TXTBX,06}}Rei{{NLINE}}"Just me...?{{NLINE}}What about them?
+Bunyan{{NLINE}}"Don't worry...{{NPAGE}}I've got something{{NLINE}}else in mind for{{NLINE}}them...
+{{TXTBX,06}}Rei{{NLINE}}"You're keeping them{{NLINE}}as hostages{{NPAGE}}so I'll do what you{{NLINE}}want, right?
+{{TXTBX,06}}Rei{{NLINE}}"All right...I'll{{NLINE}}do it{{NPAGE}}I don't know what{{NLINE}}you're up to, but I'll{{NLINE}}go to Mt. Glaus...{{NPAGE}}Teepo, you keep an eye{{NLINE}}on Ryu...
+{{TXTBX,05}}Teepo{{NLINE}}"Hey! Old man!{{NPAGE}}What're we supposed{{NLINE}}to do!?
+Bunyan{{NLINE}}"Work, Teepo{{NPAGE}}If you want to eat,{{NLINE}}you have to work...{{NLINE}}Understand?
+Bunyan{{NLINE}}"What I want you to{{NLINE}}do is chop firewood...{{NPAGE}}"It's really simple...{{NLINE}}Teepo sets the log and{{NLINE}}Ryu cuts it...{{NPAGE}}You know how to use{{NLINE}}your sword, don't you?{{NLINE}}It's the {{COLRS,6}}{{SYM82}}{{COLRE}} button{{NPAGE}}If you cut too fast,{{NLINE}}you'll hit Teepo...{{NPAGE}}If you cut too slow,{{NLINE}}you'll miss the log...{{NPAGE}}Cut as many logs as{{NLINE}}you can until I tell{{NLINE}}you to stop...{{NPAGE}}Understand?{{CHOIC,0,0,Yep,Nope}}
+"It's really simple...{{NLINE}}Teepo sets the log and{{NLINE}}Ryu cuts it...{{NPAGE}}You know how to use{{NLINE}}your sword, don't you?{{NLINE}}It's the {{COLRS,6}}{{SYM82}}{{COLRE}} button{{NPAGE}}If you cut too fast,{{NLINE}}you'll hit Teepo...{{NPAGE}}If you cut too slow,{{NLINE}}you'll miss the log...{{NPAGE}}Cut as many logs as{{NLINE}}you can until I tell{{NLINE}}you to stop...{{NPAGE}}Understand?{{CHOIC,0,0,Yep,Nope}}
+{{TXTBX,05}}Teepo{{NLINE}}"Hey, no problem!{{NPAGE}}We can do it in{{NLINE}}our sleep!
+{{TXTBX,05}}Teepo{{NLINE}}"C'mon, Ryu! Let's{{NLINE}}get this over with!
+Bunyan{{NLINE}}"All right, then...{{NLINE}}{{PAUSE}}...{{PAUSE}}...Begin!
+Bunyan{{NLINE}}"Stop!
+Bunyan{{NLINE}}"Humph! Only {{PRMTR,0}}...?{{NPAGE}}I'm afraid you haven't{{NLINE}}learned your lesson{{NLINE}}yet...
+Bunyan{{NLINE}}"Try again!{{NPAGE}}Ready...{{PAUSE}}...{{PAUSE}}...Go!
+Bunyan{{NLINE}}"Hmmm... {{PRMTR,0}} logs...{{NPAGE}}Not bad...
+{{TXTBX,05}}Teepo{{NLINE}}"There! We worked,{{NLINE}}didn't we?{{NPAGE}}Now you won't complain{{NLINE}}if we steal, right?
+Bunyan{{NLINE}}"If you keep that up,{{NPAGE}}one of these days{{NLINE}}you'll be sorry...{{NLINE}}Don't you see that?
+{{TXTBX,05}}Teepo{{NLINE}}"Ha! Who cares?{{NPAGE}}One day, real soon,{{NLINE}}we're gettin' out of{{NLINE}}here...{{NPAGE}}I ain't afraid of{{NLINE}}nothing!
+{{TXTBX,05}}Teepo{{NLINE}}"C'mon, Ryu...{{NLINE}}Let's go after Rei!
+"What's the old{{NLINE}}saying...?{{NPAGE}}'Cat doesn't know the{{NLINE}}stove's hot 'till it{{NLINE}}gets burnt...'
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+To Mt. Glaus{{NPAGE}}Double-check your{{NLINE}}equipment before{{NLINE}}entering!
+Don't litter!
+Protect our forests!{{NPAGE}}Don't kick, punch, {{NLINE}}bite or hurt the {{NLINE}}trees!   

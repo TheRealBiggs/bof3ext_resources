@@ -1,0 +1,65 @@
+{{TXTBX,05}}Rei{{NLINE}}"What's going on?{{NLINE}}What's happened!?
+{{TXTBX,06}}Teepo{{NLINE}}"Rei!!
+{{TXTBX,04}}Rei{{NLINE}}"Blast...
+{{TXTBX,05}}Teepo{{NLINE}}"It's McNeil!{{NLINE}}I know it is!{{NPAGE}}He did this to get{{NLINE}}back at us!
+{{TXTBX,04}}Rei{{NLINE}}"...{{PAUSE}}...{{PAUSE}}...
+{{TXTBX,05}}Teepo{{NLINE}}"{{EFCTS}}I'll kill him!{{EFCTE,03}}{{NPAGE}}Just you see...{{PAUSE}}I'll{{NLINE}}get him...{{PAUSE}}{{PAUSE}}I swear{{NLINE}}I'll get him
+{{TXTBX,04}}Rei{{NLINE}}"Teepo!
+{{TXTBX,04}}Rei{{NLINE}}"...{{PAUSE}}...{{PAUSE}}...Ryu{{NPAGE}}I'm sorry...{{PAUSE}}I...{{NLINE}}I never thought...{{NLINE}}{{PAUSE}}{{PAUSE}}I never knew...
+{{TXTBX,06}}Teepo{{NLINE}}"Rei!{{NPAGE}}There's a bunch of{{NLINE}}people blocking the{{NLINE}}road!
+{{TXTBX,06}}Teepo{{NLINE}}"We're trapped...{{PAUSE}}Rei{{NPAGE}}I'm... {{PAUSE}}scared...{{NLINE}}What should we do...
+{{TXTBX,04}}Rei{{NLINE}}"Ha ha...{{PAUSE}}...{{PAUSE}}...{{NLINE}}That's it...
+{{TXTBX,06}}Teepo{{NLINE}}"What's gonna happen{{NLINE}}to us?
+{{TXTBX,04}}Rei{{NLINE}}"...Don't worry{{NPAGE}}Whatever happens, I'll{{NLINE}}make sure you're{{NLINE}}all right...{{NPAGE}}I promise!
+Balio{{NLINE}}"Here they come...{{DURTN,32}}
+Sunder{{NLINE}}"W, wait up, bro!{{DURTN,32}}
+Rei{{NLINE}}"Wha...{{PAUSE}}what the...!?{{DURTN,48}}
+{{TXTBX,06}}"Hmmm...I was wondering{{NLINE}}what our thieves might{{NLINE}}look like...{{NPAGE}}They's just a bunch o'{{NLINE}}kids, ain't they, bro?
+Balio{{NLINE}}"No worries, eh{{NLINE}}Sunder?{{NPAGE}}Time for school...{{NLINE}}A lesson in the{{NLINE}}school of life, eh?
+{{TXTBX,04}}Teepo{{NLINE}}"You mean...{{EFCTS}}you...{{EFCTE,00}}
+Balio{{NLINE}}"That's right...{{NPAGE}}You're a little too{{NLINE}}big for your{{NLINE}}britches, my boy...{{NPAGE}}Now it's time for{{NLINE}}your spanking, so{{NLINE}}get on over here!
+{{TXTBX,06}}Sunder{{NLINE}}"Hey, check it out,{{NLINE}}bro...{{PAUSE}}{{NPAGE}}They're gonna try and{{NLINE}}fight!
+{{TXTBX,05}}Balio{{NLINE}}"Kids...{{NPAGE}}They just don't wanna{{NLINE}}do what they're told,{{NLINE}}do they...?
+{{TXTBX,06}}
+{{TXTBX,06}}Sunder{{NLINE}}"That McNeil's really{{NLINE}}a wimp, though{{NPAGE}}Needing us to take{{NLINE}}care of sum'thing like{{NLINE}}this for him...eh?
+{{TXTBX,06}}Sunder{{NLINE}}"That McNeil's really{{NLINE}}a wimp, though{{NPAGE}}Needing us to take{{NLINE}}care of sum'thing like{{NLINE}}this for him...eh?
+{{TXTBX,06}}Sunder{{NLINE}}"That McNeil's really{{NLINE}}a wimp, though{{NPAGE}}Needing us to take{{NLINE}}care of sum'thing like{{NLINE}}this for him...eh?
+{{TXTBX,06}}Sunder{{NLINE}}"That McNeil's really{{NLINE}}a wimp, though{{NPAGE}}Needing us to take{{NLINE}}care of sum'thing like{{NLINE}}this for him...eh?
+{{TXTBX,06}}Sunder{{NLINE}}"That McNeil's really{{NLINE}}a wimp, though{{NPAGE}}Needing us to take{{NLINE}}care of sum'thing like{{NLINE}}this for him...eh?
+{{TXTBX,06}}Sunder{{NLINE}}"That McNeil's really{{NLINE}}a wimp, though{{NPAGE}}Needing us to take{{NLINE}}care of sum'thing like{{NLINE}}this for him...eh?
+{{TXTBX,06}}Sunder{{NLINE}}"That McNeil's really{{NLINE}}a wimp, though{{NPAGE}}Needing us to take{{NLINE}}care of sum'thing like{{NLINE}}this for him...eh?
+{{TXTBX,06}}Sunder{{NLINE}}"That McNeil's really{{NLINE}}a wimp, though{{NPAGE}}Needing us to take{{NLINE}}care of sum'thing like{{NLINE}}this for him...eh?
+{{TXTBX,06}}Sunder{{NLINE}}"That McNeil's really{{NLINE}}a wimp, though{{NPAGE}}Needing us to take{{NLINE}}care of sum'thing like{{NLINE}}this for him...eh?
+{{TXTBX,06}}Sunder{{NLINE}}"That McNeil's really{{NLINE}}a wimp, though{{NPAGE}}Needing us to take{{NLINE}}care of sum'thing like{{NLINE}}this for him...eh?
+{{TXTBX,06}}Sunder{{NLINE}}"That McNeil's really{{NLINE}}a wimp, though{{NPAGE}}Needing us to take{{NLINE}}care of sum'thing like{{NLINE}}this for him...eh?
+{{TXTBX,05}}Balio{{NLINE}}"Hmph!...{{PAUSE}}...Still...{{NPAGE}}We could've used a{{NLINE}}couple of kids like{{NLINE}}this...no?
+{{TXTBX,06}}Sunder{{NLINE}}"Yeah, you're right!{{NPAGE}}I guess it's kind of{{NLINE}}a waste, huh?
+{{TXTBX,05}}Balio{{NLINE}}"We didn't have a{{NLINE}}choice...{{NPAGE}}Even though they{{NLINE}}didn't know better,{{NPAGE}}they still tried to{{NLINE}}steal our money...
+{{TXTBX,06}}Sunder{{NLINE}}"...{{PAUSE}}...{{PAUSE}}...Yeah,{{NLINE}}you're right...{{NPAGE}}So what should we{{NLINE}}do with this?
+{{TXTBX,05}}Balio{{NLINE}}"...Just ditch it
+{{TXTBX,81}} {{NLINE}}  Teepo...{{PAUSE}}{{PAUSE}} Ryu...?{{DURTN,48}}
+{{TXTBX,81}} {{NLINE}}  mmmmm...{{PAUSE}}...uuuuu...{{DURTN,32}}
+{{TXTBX,81}} {{NLINE}}  Noooooooooooo!....{{DURTN,32}}
+{{TXTBX,82}} {{NLINE}} {{NLINE}} Soon after we were{{NLINE}} separated, so many{{NLINE}}     years ago,{{NLINE}}I learned that I too{{NLINE}} was of the Brood...
+Teepo{{NLINE}}"...{{PAUSE}}...{{PAUSE}}...m{{PAUSE}}mmm{{NPAGE}}Rei...?{{NLINE}}Ryu...?
+Teepo{{NLINE}}"Why...{{NPAGE}}why did they do{{NLINE}}this to us?
+Teepo{{NLINE}}"Rei... Ryu...
+Teepo{{NLINE}}"Huh? What's happened{{NLINE}}to me...!?
+Teepo{{NLINE}}"My body...it's...!
+{{TXTBX,81}}I'm no different from{{NLINE}}   you, Ryu...{{NLINE}}  Not since then...  
+"What do you think{{NLINE}}you're doing!?{{NPAGE}}Look at my house!{{NLINE}}It's burned down!!
+"What do you think{{NLINE}}you're doing!?{{NPAGE}}Look at my house!{{NLINE}}It's burned down!!
+"What do you think{{NLINE}}you're doing!?{{NPAGE}}Look at my house!{{NLINE}}It's burned down!!
+"What do you think{{NLINE}}you're doing!?{{NPAGE}}Look at my house!{{NLINE}}It's burned down!!
+"What do you think{{NLINE}}you're doing!?{{NPAGE}}Look at my house!{{NLINE}}It's burned down!!
+"What do you think{{NLINE}}you're doing!?{{NPAGE}}Look at my house!{{NLINE}}It's burned down!!
+"What do you think{{NLINE}}you're doing!?{{NPAGE}}Look at my house!{{NLINE}}It's burned down!!
+"What do you think{{NLINE}}you're doing!?{{NPAGE}}Look at my house!{{NLINE}}It's burned down!!
+"What do you think{{NLINE}}you're doing!?{{NPAGE}}Look at my house!{{NLINE}}It's burned down!!
+"What do you think{{NLINE}}you're doing!?{{NPAGE}}Look at my house!{{NLINE}}It's burned down!!
+"What do you think{{NLINE}}you're doing!?{{NPAGE}}Look at my house!{{NLINE}}It's burned down!!
+"What do you think{{NLINE}}you're doing!?{{NPAGE}}Look at my house!{{NLINE}}It's burned down!!
+"What do you think{{NLINE}}you're doing!?{{NPAGE}}Look at my house!{{NLINE}}It's burned down!!
+"What do you think{{NLINE}}you're doing!?{{NPAGE}}Look at my house!{{NLINE}}It's burned down!!
+"What do you think{{NLINE}}you're doing!?{{NPAGE}}Look at my house!{{NLINE}}It's burned down!!
+"What do you think{{NLINE}}you're doing!?{{NPAGE}}Look at my house!{{NLINE}}It's burned down!!

@@ -1,0 +1,8 @@
+Bomber
+RankWeed
+Eye Bulb
+Mutant
+PainWeed
+Slug
+FireSlug
+

@@ -1,0 +1,252 @@
+What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Look at Skill Notes,Look at Master List,Nothing}}
+What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Look at Skill Notes,Look at Master List,Nothing}}
+"Ready to go?{{CHOIC,1,0,Yes,No}}
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ramming the ship...{{NLINE}}It sounds scary, but{{NLINE}}we'll be OK, right?
+"Ram it...?{{NPAGE}}Sounds like something{{NLINE}}a certain engineer{{NLINE}}would think of...{{NPAGE}}Heh...don't this just{{NLINE}}beat all...
+"The will to keep{{NLINE}}going...No matter{{NLINE}}what the cost...{{NPAGE}}That is our greatest{{NLINE}}strength...
+"puwheee...{{NPAGE}}{{COLRS,6}}He won't fall and{{NLINE}}roll around and get{{NLINE}}hurt when we ram{{COLRE}}{{NPAGE}}{{COLRS,6}}the other ship...{{NLINE}}will he?{{COLRE}}
+"You're going to{{NLINE}}ram it, right?{{NPAGE}}Then you'll want{{NLINE}}to go from behind,{{NLINE}}as fast as you can!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"I don't know how{{NLINE}}far we can get using{{NLINE}}this boat, but...{{NPAGE}}let's go for it!{{NLINE}}To the Outer Sea!
+"If I'd stayed in the{{NLINE}}castle, I never would{{NLINE}}have dreamed that one{{NPAGE}}day, I'd be going{{NLINE}}across the sea, where{{NLINE}}no one's ever been...
+"I bet it'll rock{{NLINE}}even worse when we{{NLINE}}hit the Outer Sea...{{NPAGE}}There goes my stomach{{NLINE}}again...urp!
+"It's really relaxing,{{NLINE}}listening to the{{NLINE}}engine like this...
+"pukkiikikikii{{NPAGE}}{{COLRS,6}}Asleep with a big{{NLINE}}smile on his face...{{COLRE}}{{NPAGE}}{{COLRS,6}}Is he happy to be{{NLINE}}going across the{{NLINE}}ocean, maybe?{{COLRE}}
+"It's almost as if{{NLINE}}there were something{{NLINE}}turning us back
+"That village,{{NLINE}}Parch...{{NPAGE}}You can only get{{NLINE}}there by boat, right?
+"Uhhhhhh...{{PAUSE}}...{{PAUSE}}{{NPAGE}}If the whole trip's{{NLINE}}gonna be like that,{{NLINE}}count me out!
+"Looks like we'll{{NLINE}}need a boat with{{NLINE}}more power to go{{NPAGE}}out to the Outer{{NLINE}}Sea...
+He looks relaxed now
+"Hmmm...{{NPAGE}}I guess things don't{{NLINE}}always go as planned,{{NLINE}}eh?
+"I bet the mayor{{NLINE}}wants to eat something{{NLINE}}from his hometown...{{NPAGE}}I'll bet if we got{{NLINE}}something from{{NLINE}}Maekyss...
+"Doesn't this just{{NLINE}}beat all?{{NPAGE}}You mean we gotta{{NLINE}}get this old fart to{{NLINE}}eat fish again?
+"How can anyone{{NLINE}}not like fish!?{{NPAGE}}It's good for you!{{NPAGE}}Everyone knows eating{{NLINE}}fish'll make you{{NLINE}}smart!
+"pisupuu{{NPAGE}}{{COLRS,6}} would probably{{NLINE}}eat anything...{{COLRE}}
+"The Legendary Mariner{{NLINE}}who came from across{{NLINE}}the sea...{{NPAGE}}Maybe he can tell{{NLINE}}us something about{{NLINE}}God?
+"I wonder what kind{{NLINE}}of ship the Legendary{{NPAGE}}Mariner used to cross{{NLINE}}the sea?
+"Am I the only one{{NLINE}}who is afraid to be{{NLINE}}in this boat?
+"The engine's working{{NLINE}}fine right now...{{NPAGE}}but if it overheats,{{NLINE}}we'll be stuck until{{NLINE}}it cools down,{{NPAGE}}so be careful!
+"pusuuuuu
+"The will to proceed{{NLINE}}whatever the cost...{{NPAGE}}Don't forget that{{NLINE}}resolve in the long{{NLINE}}hard days that are{{NLINE}}waiting ahead of us...
+"Ram the other ship...{{NPAGE}}I'm a little scared,{{NLINE}}but it'll be OK,{{NLINE}}right?
+"Ram it...?{{NPAGE}}Sounds just like{{NLINE}}him--look before you{{NLINE}}leap...{{NPAGE}}Great...this just{{NLINE}}beats all!
+"You're going to{{NLINE}}ram it, right?{{NPAGE}}If I were you, I'd{{NLINE}}charge right up{{NLINE}}from behind it!
+"pusuu......
+The snoring must be{{NLINE}}too loud...
+It's too pretty...?
+Looks like she's{{NLINE}}in pain...
+"What's going on?{{NPAGE}}After we went to all{{NLINE}}that trouble to get{{NLINE}}that money back,{{NPAGE}}why's everyone giving{{NLINE}}it back to McNeil?
+"I don't know...{{NLINE}}I do know that we'd{{NLINE}}better find Loki!
+"Did you hear what{{NLINE}}he said?
+"We should probably{{NLINE}}go back home...{{NPAGE}}And lie low until{{NLINE}}all this blows{{NLINE}}over...
+"Did you see the way{{NLINE}}they talked about us?{{NLINE}}heh heh heh...
+"I suppose a little{{NLINE}}fame never hurt{{NLINE}}anyone...
+"Did you see how{{NLINE}}happy Shadis looked?{{NPAGE}}Aren't you glad we{{NLINE}}helped now?
+"Now, if the ship'll{{NLINE}}just come back...
+"Hmm...All's well that{{NLINE}}ends well, as they{{NLINE}}say...{{NPAGE}}It'll be easier to{{NLINE}}get the Guild's help{{NLINE}}now, too...
+"pukisurururu{{NPAGE}}{{COLRS,6}}I wonder if he would{{NLINE}}end up like an onion{{NLINE}}ring if he got burnt?{{COLRE}}
+"A boat...{{NLINE}}We should be able to{{NLINE}}get one in Rhapala
+"I've never heard of{{NLINE}}anyone making it over{{NLINE}}the ocean...{{NPAGE}}I wonder if it's{{NLINE}}even possible?
+"Cross the ocean!?{{NPAGE}}I don't know about{{NLINE}}God or naked girls...{{NPAGE}}But I do know that{{NLINE}}getting over the ocean{{NLINE}}ain't gonna be easy...
+"All the machines come{{NLINE}}drifting down from the{{NLINE}}northern sea...{{NPAGE}}Maybe they have{{NLINE}}something to do with{{NLINE}}God?
+He looks fast asleep...
+"All we can do now{{NLINE}}is hope that God{{NLINE}}is indeed here...
+"I just know we're{{NLINE}}getting closer, Ryu
+"I don't know about{{NLINE}}you, but God must have{{NLINE}}some interesting tastes{{NPAGE}}to want to live in a{{NLINE}}place like that!
+"So they put the{{NLINE}}machines on the Black{{NLINE}}Ship, and send them{{NPAGE}}over the sea? So who{{NLINE}}makes the machines in{{NLINE}}the first place?
+"pukisuuu
+"Doesn't look like{{NLINE}}there's many people{{NLINE}}around here...
+"There's nothing but{{NLINE}}ruins there, is there?
+"It looks like it{{NLINE}}maybe once was a{{NLINE}}town of some kind...{{NPAGE}}But it looks like{{NLINE}}nobody's lived here{{NLINE}}for a long time
+"Our little boat's{{NLINE}}like a toy compared{{NLINE}}to the machines there
+"puuuuuu
+"Instantaneous{{NLINE}}movement between two{{NLINE}}points, no matter{{NPAGE}}how far apart they{{NLINE}}are...Certainly sounds{{NLINE}}like something a{{NPAGE}}god would be capable{{NLINE}}of, doesn't it?
+"We worked so hard{{NLINE}}to get there, and{{NLINE}}then we're back in{{NPAGE}}a flash...It's{{NLINE}}amazing, but it also{{NPAGE}}makes me feel pretty{{NLINE}}silly...
+"All this stuff just{{NLINE}}lying around...and we{{NLINE}}know nothing about it!{{NPAGE}}That don't make me{{NLINE}}feel good...
+"I guess we're only{{NLINE}}using a tiny part{{NPAGE}}of all these machines'{{NLINE}}capabilities, then...
+"pukibon
+"Instantaneous{{NLINE}}movement between two{{NLINE}}points, no matter{{NPAGE}}how far apart they{{NLINE}}are...Certainly sounds{{NLINE}}like something a{{NPAGE}}god would be capable{{NLINE}}of, doesn't it?
+"We worked so hard{{NLINE}}to get there, and{{NLINE}}then we're back in{{NPAGE}}a flash...It's{{NLINE}}amazing, but it also{{NPAGE}}makes me feel pretty{{NLINE}}silly...
+"All this stuff just{{NLINE}}lying around...and we{{NLINE}}know nothing about it!{{NPAGE}}That don't make me{{NLINE}}feel good...
+"Somehow I get the{{NLINE}}feeling no matter{{NLINE}}how hard I study,{{NPAGE}}I'd never be able{{NLINE}}to figure out how{{NLINE}}these portals work...
+"pukibon
+"When I think about{{NLINE}}how many generations{{NLINE}}of the Brood have{{NPAGE}}lived and died in{{NLINE}}this barren, desolate{{NLINE}}land, I... I...
+"The Brood...{{NPAGE}}They don't seem like{{NLINE}}an evil race that must{{NLINE}}be destroyed...
+"So you managed to{{NLINE}}survive only by giving{{NLINE}}up your power...{{NPAGE}}and fleeing here from{{NLINE}}your enemies...{{NPAGE}}So maybe the power of{{NLINE}}the Brood is for{{NPAGE}}killing and{{NLINE}}destruction after all?
+"The fact that there's{{NLINE}}a portal here means{{NPAGE}}that this village has{{NLINE}}been here since the{{NLINE}}Techno Age...{{NPAGE}}So the Brood must have{{NLINE}}come here around the{{NLINE}}time of the Wars...
+"pushu{{NPAGE}}{{COLRS,6}}No matter what the{{NLINE}}elder thinks...{{COLRE}}{{NPAGE}}{{COLRS,6}}Ryu has to meet him{{NLINE}}and learn the history{{NLINE}}of the Brood...{{COLRE}}
+"So the Brood and God{{NLINE}}have always been{{NLINE}}fighting...{{NPAGE}}Is it destiny...?
+"I don't know who's{{NLINE}}right, or what evil{{NLINE}}is...All I know is{{NPAGE}}I believe in you,{{NLINE}}Ryu
+"There may have been{{NLINE}}some Brood who hated{{NLINE}}the Urkans...{{NPAGE}}And came seeking{{NLINE}}revenge...
+"The fact that there's{{NLINE}}a portal here means{{NPAGE}}that this village has{{NLINE}}been here since the{{NLINE}}Techno Age...{{NPAGE}}So the Brood must have{{NLINE}}come here around the{{NLINE}}time of the Wars...
+"pusususuuuu
+"An impassable ocean{{NLINE}}A death-filled desert{{NPAGE}}What manner of world{{NLINE}}do we live on?
+"If you get thirsty,{{NLINE}}use your water jug...{{NPAGE}}Remember to walk at{{NLINE}}night
+"Now we have to cross{{NLINE}}the desert?{{NPAGE}}Why do I get the{{NLINE}}feeling this God{{NPAGE}}doesn't want to{{NLINE}}meet us?
+"I wonder if that's{{NLINE}}what happened to the{{NPAGE}}advanced Techno Age{{NLINE}}civilization...If they{{NPAGE}}were swallowed up by{{NLINE}}the desert...and{{NLINE}}disappeared...
+"pukyun
+"Caer Xhan...{{NPAGE}}Could it be where God{{NLINE}}once dwelt?
+"Everyone said it{{NLINE}}couldn't be done, but{{NLINE}}we did it! We crossed{{NPAGE}}the ocean, and we{{NLINE}}crossed the desert!{{NPAGE}}I knew we'd make it!
+"I always thought that{{NLINE}}nothing could survive{{NLINE}}in a desert...{{NPAGE}}But those people at{{NLINE}}the oasis seem to be{{NLINE}}able to live OK...
+"I guess with a little{{NLINE}}luck, you might even{{NLINE}}be able to live{{NPAGE}}out here in the{{NLINE}}desert...
+"pussuu pussuu
+"So this is the{{NLINE}}home of the gods...
+"It's totally{{NLINE}}different from every{{NLINE}}other town I've ever{{NPAGE}}seen...Look at all{{NLINE}}the machines lying{{NLINE}}around...
+"Deserts, machines...{{NPAGE}}It's like we haven't{{NLINE}}seen anything alive{{NLINE}}since we got here!
+"Look at all these{{NLINE}}machines!{{NPAGE}}It's obvious now that{{NLINE}}this is where all the{{NPAGE}}machines we use come{{NLINE}}from!
+"pikuu pukyy
+"A place with God's{{NLINE}}name...And what is a{{NLINE}}station?{{NPAGE}}Is it like a{{NLINE}}temple?
+"It looks so cold{{NLINE}}and bleak inside{{NLINE}}there...{{NPAGE}}Like after the end{{NLINE}}of the world...
+"I've got a bad{{NLINE}}feeling about this...{{NPAGE}}Can't quite put my{{NLINE}}finger on it, though
+"I don't know what to{{NLINE}}say! Look at all these{{NLINE}}machines!{{NPAGE}}I could be here 100{{NLINE}}years and still not{{NLINE}}figure them all out!
+"pukiii
+"I'm sorry...That's{{NLINE}}all I can say{{NLINE}}now...
+"Ryu...
+"...{{PAUSE}}...{{PAUSE}}...{{PAUSE}}...I...{{NPAGE}}would have been happy{{NLINE}}just being...a thief{{NPAGE}}but I guess...{{NLINE}}...darn...{{PAUSE}}Teepo...
+"I'll stay with you{{NLINE}}to the end...{{NPAGE}}After all, I came{{NLINE}}this far, right?
+"boge! boge!{{NPAGE}}{{COLRS,6}}I know what Ryu{{NLINE}}wants to do!{{COLRE}}{{NPAGE}}{{COLRS,6}}At least, that's what{{NLINE}}he seems to be saying{{COLRE}}
+"Quite an impressive{{NLINE}}machine...
+"It's just like the{{NLINE}}one that was under{{NLINE}}Castle Wyndia...{{NPAGE}}Hey...maybe they're{{NLINE}}connected somehow?
+"When we were in{{NLINE}}Wyndia, Honey started{{NLINE}}it up for us...{{NPAGE}}I guess we'll have{{NLINE}}to do it ourselves{{NLINE}}this time...
+"I guess it's what{{NLINE}}people in the Techno{{NLINE}}Age used to move{{NPAGE}}around...All I know{{NLINE}}is it's a machine{{NPAGE}}more complicated than{{NLINE}}any I've ever seen
+"puusuu
+"Will such a small{{NLINE}}and fragile boat even{{NPAGE}}hold up on the{{NLINE}}Outer Sea...?
+"Looks like you've{{NLINE}}settled into the{{NLINE}}job all right...
+"You're not trying to{{NLINE}}crash the boat on{{NLINE}}purpose, are you!?
+"I want to do repairs!{{NLINE}} I want to do repairs!
+"puuun{{NPAGE}}{{COLRS,6}}Lately, I can't{{NLINE}}relax unless I see{{NLINE}} sleeping...{{COLRE}}
+"We'll need Nina's{{NLINE}}help if we want to{{NLINE}}get a passport...
+"heh heh heh...I{{NLINE}}don't mean to twist{{NLINE}}your arm like that,{{NPAGE}}but if you help me{{NLINE}}with the plant, I'll{{NLINE}}talk to my father{{NPAGE}}about the passport,{{NLINE}}OK?
+"You certainly have{{NLINE}}a way with people,{{NLINE}}princess...
+"We'll need Nina's{{NLINE}}help if we want to{{NLINE}}get a passport...
+"Momo hasn't changed,{{NLINE}}has she? I wonder{{NLINE}}about ?{{NPAGE}}Did I mention he's in{{NLINE}}the forest to the east{{NLINE}}of the plant?
+"Momo... and ?{{NPAGE}}Let you out of my{{NLINE}}sight for a while,{{NLINE}}and you make all{{NPAGE}}sorts of friends,{{NLINE}}don't you, Ryu?
+"Since Director Palet{{NLINE}}isn't around, I've{{NLINE}}been taking care of{{NPAGE}}the machines...I like{{NLINE}}making repairs and{{NLINE}}all, but when they{{NPAGE}}get that bad, it's{{NLINE}}a real chore!
+"It's funny, isn't{{NLINE}}it...{{NPAGE}}How we all ended up{{NLINE}}together again...
+"With everyone helping{{NLINE}}me like this...{{NPAGE}}I'll be finished{{NLINE}}in no time!
+"What's an onion{{NLINE}}doing walking around{{NLINE}}like that!?{{NPAGE}}M...{{PAUSE}}mutant!?{{NLINE}}What's that?
+"I wonder where{{NLINE}}Director Palet went,{{NLINE}}though...{{NPAGE}}Leaving the plant{{NLINE}}like this...
+"pui pui?{{NPAGE}}{{COLRS,6}}It looked like he{{NLINE}}was talking...Must have{{NLINE}}been my imagination...{{COLRE}}
+"The desert continues{{NLINE}}endlessly to the{{NLINE}}north...{{NPAGE}}No matter how far you{{NLINE}}go, you won't see any{{NLINE}}signs of life...{{NPAGE}}The Brood say that the{{NLINE}}goddess Myria lives{{NLINE}}beyond the desert...
+"mooof!
+"It's said that the{{NLINE}}machines have come{{NLINE}}down to us from an{{NPAGE}}older time...I don't{{NLINE}}really know for sure,{{NLINE}}but I guess it was{{NPAGE}}a mistake to use{{NLINE}}them on the crops{{NLINE}}like this...
+"We've got more to{{NLINE}}worry about than just{{NLINE}}the crops!{{NPAGE}}We've got to do some-{{NLINE}}thing before there's a{{NLINE}}chrysm reaction!
+"I don't know much,{{NLINE}}but...{{NPAGE}}What's wrong with{{NLINE}}plain old food?
+"What can they be{{NLINE}}doing that they need{{NLINE}}so much gas...?
+"pukya?{{NPAGE}}{{COLRS,6}}Maybe it has something{{NLINE}}to do with how {{NLINE}}was created{{COLRE}}
+"Now we can finally{{NLINE}}get a passport...
+"In the end, we had{{NLINE}}nothing but trouble{{NLINE}}with the radiated{{NPAGE}}crops...I wonder if{{NLINE}}there are some things{{NPAGE}}we're not meant to{{NLINE}}tamper with?
+"Wyndia...{{NPAGE}}It was Teepo's dream{{NLINE}}to go there some{{NLINE}}day...
+"I wonder if {{NLINE}}and the other mutant{{NLINE}}weren't failures,{{NPAGE}}made when the director{{NLINE}}was performing his{{NLINE}}experiments to see{{NPAGE}}if he could bring{{NLINE}}his dead mother back{{NLINE}}to life...
+"pufuuu{{NPAGE}}{{COLRS,6}}Whether he's a{{NLINE}}failure or not, {{NLINE}}is alive...{{COLRE}}
+We don't need to{{NLINE}}rest now...Let's go
+We don't need to{{NLINE}}rest now...Let's go
+We don't need to{{NLINE}}rest now...Let's go
+We don't need to{{NLINE}}rest now...Let's go
+What do you want{{NLINE}}to do?{{CHOIC,0,2,Rest,Save,Change party members,Look at Skill Notes,Look at Master List,Nothing}}
+Let's get some sleep
+"At any rate, we{{NLINE}}should go to Angel{{NLINE}}Tower...{{NPAGE}}Do you remember it?{{NLINE}}The place I tried{{NLINE}}to kill you...?
+"I may have upset{{NLINE}}my mother...But now{{NLINE}}I realize...{{NPAGE}}this is what I wanted{{NLINE}}to do--to travel{{NLINE}}again with my friends!
+"So what if you{{NLINE}}run away from home?{{NPAGE}}Just 'cause you're the{{NLINE}}princess doesn't mean{{NLINE}}you have to stay{{NPAGE}}cooped up in the{{NLINE}}castle all day every{{NLINE}}day, right?
+"I wonder how that{{NLINE}}machine underneath{{NLINE}}the castle works?{{NPAGE}}I'd love to get{{NLINE}}to play with it!
+"kyurururururu
+"I thought that if we{{NLINE}}needed a ship, we{{NLINE}}should go to Rhapala
+"But Beyd is in{{NLINE}}Junk Town...?
+"Sounds like the{{NLINE}}ship breaks down{{NLINE}}a lot...
+"Junk Town...{{NLINE}}I can hardly wait!{{NPAGE}}That's where almost{{NLINE}}all the machines in{{NLINE}}the world come from!
+"puuuun{{NPAGE}}{{COLRS,6}}Lately, I can't{{NLINE}}relax unless I see{{NLINE}} sleeping...{{COLRE}}

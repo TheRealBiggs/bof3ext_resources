@@ -1,0 +1,8 @@
+"Sorry, you can't use{{NLINE}}this road...{{NPAGE}}The lava from the{{NLINE}}recent eruption's{{NLINE}}gone 'n blocked it
+"Sorry, you can't use{{NLINE}}this road...{{NPAGE}}The lava from the{{NLINE}}recent eruption's{{NLINE}}gone 'n blocked it
+"If you want to get{{NLINE}}east, you should get{{NLINE}}passage on a freighter{{NPAGE}}from the harbor...The{{NLINE}}volcano just erupted,{{NLINE}}and the lava's still{{NPAGE}}blocking the road, you{{NLINE}}see
+"We're members of the{{NLINE}}Porter's Guild of{{NLINE}}Rhapala{{NPAGE}}The guild controls all{{NLINE}}the roads and trade{{NLINE}}routes 'round here
+"This here cave's a{{NLINE}}shrine for some kind{{NLINE}}of god or somethin'{{NPAGE}}All I know is we{{NLINE}}found it here when we{{NLINE}}was makin' the road
+"Eh? Letter from the{{NLINE}}Guildmaster?{{NPAGE}}You mean you want to{{NLINE}}use the secret guild{{NLINE}}route?{{NPAGE}}Fine by me, but just{{NLINE}}watch out for the{{NLINE}}lava, eh?
+"If you're going to{{NLINE}}use the passage, be{{NLINE}}careful of the lava
+"There's supposed to{{NLINE}}be some kind of{{NLINE}}monster in the passage{{NPAGE}}that feeds off fire,{{NLINE}}and legend says that{{NLINE}}whoever defeats it{{NPAGE}}will gain great power

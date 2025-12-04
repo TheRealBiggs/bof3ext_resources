@@ -1,0 +1,5 @@
+It's locked with an{{NLINE}}electronic lock!{{NPAGE}}Even Rei wouldn't{{NLINE}}be able to pick it
+It's locked with an{{NLINE}}electronic lock!{{NPAGE}}Even Rei wouldn't{{NLINE}}be able to pick it
+There's a bed!{{NLINE}}You should be able{{NLINE}}to rest here{{NPAGE}}Do you want to rest?{{CHOIC,0,0,Yes,No}}
+ {{NLINE}}What do you want{{NLINE}}to do?{{CHOIC,1,2,Change party members,Look at Skill Notes,Look at Master List,Save,Nothing}}
+ {{NLINE}}What do you want{{NLINE}}to do?{{CHOIC,1,2,Change party members,Look at Skill Notes,Look at Master List,Save,Nothing}}

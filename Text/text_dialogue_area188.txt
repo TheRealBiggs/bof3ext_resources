@@ -1,0 +1,132 @@
+{{TXTBX,05}}Nina{{NLINE}}"What was that!?
+{{TXTBX,05}}Nina{{NLINE}}"What was that!?
+Garr{{NLINE}}"The road to God...{{NPAGE}}To the God that I...{{NLINE}}that Ryu must meet
+Garr{{NLINE}}"It looks like this{{NPAGE}}ship intends to take{{NLINE}}us there...
+{{TXTBX,06}}Momo{{NLINE}}"Well...{{NPAGE}}I don't know about{{NLINE}}any 'road to God',{{NLINE}}but...{{NPAGE}}This ship's underway,{{NLINE}}and we can't stop her{{NLINE}}now...
+{{TXTBX,06}}Momo{{NLINE}}"Since we don't know{{NPAGE}}how long it's going{{NLINE}}to take...{{NPAGE}}We might as well{{NLINE}}sit back and relax...
+Rei{{NLINE}}"{{PAUSE}}...{{PAUSE}}...You ask{{NLINE}}why I came along!?{{NPAGE}}This is a fine time{{NLINE}}to ask, now that we{{NLINE}}can't go back!
+Rei{{NLINE}}"It's like Mikba{{NLINE}}said...{{NPAGE}}Even if my power and{{NLINE}}the Brood's aren't{{NLINE}}quite the same level,{{NPAGE}}they're like one and{{NLINE}}the same, yeah?
+Rei{{NLINE}}"So, if we go meet{{NLINE}}God or whoever...{{NPAGE}}I can find out why{{NLINE}}such power exists!
+{{TXTBX,06}}Garr{{NLINE}}"Sounds like something{{NLINE}}happened...{{NPAGE}}Let's go check it{{NLINE}}out...
+{{TXTBX,05}}Nina{{NLINE}}"...Ryu!{{NLINE}}Something's happened!{{NPAGE}}We'd better get to{{NLINE}}the bridge and talk{{NLINE}}to Momo!
+You should probably{{NLINE}}go to the bridge{{NLINE}}first...
+"pukipukkipukikiii!
+Nina{{NLINE}}"Momo, what{{NLINE}}happened?
+{{TXTBX,05}}Momo{{NLINE}}"It looks like there's{{NPAGE}}something wrong with{{NLINE}}the ship
+{{TXTBX,06}}Rei{{NLINE}}"Yeah, and it's{{NPAGE}}probably 'cause of{{NLINE}}something you did...
+{{TXTBX,05}}Momo{{NLINE}}"Nooo!{{NLINE}}Look at this...
+{{TXTBX,05}}Momo{{NLINE}}"There's a problem{{NLINE}}on the upper deck...{{NPAGE}}Near the front of the{{NLINE}}ship...Maybe we hit{{NLINE}}something?
+{{TXTBX,05}}Nina{{NLINE}}"We should probably{{NLINE}}check it out...{{NPAGE}}How can we get{{NLINE}}there, Momo?
+Momo{{NLINE}}"Let's see...
+Momo{{NLINE}}"On the other side{{NLINE}}of our rooms...{{NPAGE}}it looks like there's{{NLINE}}a hall that runs to{{NLINE}}the prow of the ship
+{{TXTBX,05}}Momo{{NLINE}}"I opened the door{{NPAGE}}in the hall for{{NLINE}}you...
+{{TXTBX,06}}Rei{{NLINE}}"So...Who's going to{{NLINE}}go?
+{{TXTBX,01}}Choose who to{{NLINE}}investigate the{{NLINE}}problem with...
+These beds are for{{NLINE}}the {{COLRS,2}}women{{COLRE}}
+You can use the{{NLINE}}bed to rest{{NLINE}}Do you want to rest?{{CHOIC,2,0,Yes,No}}
+These beds are for{{NLINE}}the {{COLRS,2}}men{{COLRE}}
+You could use these{{NLINE}}beds to rest, but it's{{NLINE}}not the time for that!
+"It looks like we're{{NLINE}}not sinking or{{NLINE}}anything like that...{{NPAGE}}But, if we did hit{{NLINE}}something, we'd better{{NLINE}}be careful...{{NPAGE}}Too many collisions{{NLINE}}and we could be in{{NLINE}}real trouble...
+"Doesn't it just beat{{NLINE}}all...{{NPAGE}}Who knows what's out{{NLINE}}here in the Sea?
+"We can't see anything{{NLINE}}from here...{{NPAGE}}We'll have to get{{NLINE}}closer...
+"Pukirapuuuuu?
+"The prow's up that{{NLINE}}way, isn't it?{{NPAGE}}Hopefully there's{{NLINE}}nothing there, but...
+There's a diary{{NLINE}}What do you want{{NLINE}}to do?{{CHOIC,3,2,Save,Change party members,View Skill Notes,View Master List,Nothing}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NPAGE}}Perform ID check?{{CHOIC,0,0,Yes,No}}
+ID check required to{{NLINE}}use elevator{{NLINE}}Perform ID check?{{CHOIC,1,0,Yes,No}}
+"ID..{{PAUSE}}..{{PAUSE}}..{{PAUSE}}..{{PAUSE}}{{PAUSE}}OK!
+"ID check{{PAUSE}}..{{PAUSE}}..{{PAUSE}}..ERROR!

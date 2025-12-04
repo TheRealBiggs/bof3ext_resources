@@ -1,0 +1,94 @@
+{{TXTBX,81}}McNeil Manor, spring{{DURTN,32}}
+"That repairman...{{NLINE}}He says he can work{{NLINE}}cheap...{{NPAGE}}But the mayor's pretty{{NLINE}}tightfisted, so I{{NLINE}}don't think he'll{{NPAGE}}be able to keep it{{NLINE}}cheap enough...
+"You're the ones who{{NLINE}}slew the monster, eh?{{NPAGE}}If you're that strong,{{NLINE}}what're you doing{{NLINE}}going around robbing{{NPAGE}}people like that, eh?
+"The mayor's saying{{NLINE}}he'll only pay if he{{NLINE}}can be sure no{{NPAGE}}thieves can come in{{NLINE}}through the fixed{{NLINE}}wall
+"Wait...does that mean{{NLINE}}we won't get paid{{NPAGE}}until someone does{{NLINE}}break in, then?{{NPAGE}}Huh?{{NPAGE}}I meant, if someone{{NLINE}}breaks in we don't{{NLINE}}get paid?{{NPAGE}}This means we'll{{NLINE}}never get paid at all{{NLINE}}then, doesn't it?
+"Thanks for getting{{NLINE}}rid of that monster{{NLINE}}for us...{{NPAGE}}I thought you were{{NLINE}}just a bunch of{{NLINE}}troublemakers, but{{NPAGE}}you guys are really{{NLINE}}something, y'know?
+"What are you doing{{NLINE}}here, hmmm?{{NPAGE}}You didn't come here{{NLINE}}thinking to steal from{{NLINE}}Mayor McNeil, did you?
+"McNeil's not paying{{NLINE}}us what we're worth...{{NPAGE}}Even after we've done{{NLINE}}such a good job of{{NLINE}}fixing his wall...
+"Huh? The fixed wall?{{NPAGE}}I think it's to the{{NLINE}}north...But you won't{{NLINE}}be able to get in{{NPAGE}}that way...the repair-{{NLINE}}men did a perfect{{NLINE}}job, see?
+"Heh heh...Good luck{{NPAGE}}If you're tired, you{{NLINE}}can always come rest{{NLINE}}here...{{CHOIC,0,1,Rest,Continue}}
+Loki{{NLINE}}"Once you're rested,{{NLINE}}you can try again...{{NPAGE}}I'm looking forward{{NLINE}}to the day when I{{NLINE}}can just enjoy life{{NPAGE}}and not have to{{NLINE}}worry about working
+"There's a rumor going{{NLINE}}around that one of{{NLINE}}us let those thieves{{NPAGE}}inside...Wonder if{{NLINE}}it's true?
+"There's a rumor going{{NLINE}}around that one of{{NLINE}}us let those thieves{{NPAGE}}inside...Wonder if{{NLINE}}it's true?
+"There's a rumor going{{NLINE}}around that one of{{NLINE}}us let those thieves{{NPAGE}}inside...Wonder if{{NLINE}}it's true?
+"There's a rumor going{{NLINE}}around that one of{{NLINE}}us let those thieves{{NPAGE}}inside...Wonder if{{NLINE}}it's true?
+"There's a rumor going{{NLINE}}around that one of{{NLINE}}us let those thieves{{NPAGE}}inside...Wonder if{{NLINE}}it's true?
+"There's a rumor going{{NLINE}}around that one of{{NLINE}}us let those thieves{{NPAGE}}inside...Wonder if{{NLINE}}it's true?
+"The mayor's really{{NLINE}}angry about being{{NPAGE}}made a fool of{{NLINE}}by those robbers...
+"The villagers were{{NLINE}}all conscientious{{NLINE}}enough to return what{{NPAGE}}was stolen, but it'll{{NLINE}}take a lot more than{{NLINE}}that to heal the{{NPAGE}}mayor's pride...
+"Someone broke into{{NLINE}}the manor!{{NPAGE}}This means I won't{{NLINE}}get my money!{{NPAGE}}I'm ruined!
+"It's true that taxes{{NLINE}}are high...{{NPAGE}}But it's better than{{NLINE}}getting McNeil angry{{NLINE}}and not being able{{NPAGE}}to work at all...
+"Just between you and{{NLINE}}me...{{NPAGE}}I've heard rumors that{{NLINE}}McNeil is connected to{{NLINE}}some pretty shady{{NPAGE}}characters, if you{{NLINE}}know what I mean...
+"I can't believe that{{NLINE}}anyone could break{{NPAGE}}through this {{COLRS,2}}perfect{{COLRE}}{{NLINE}}wall!
+ Don't steal the cows!
+"I'd better do a{{NLINE}}good job from now{{NLINE}}on...{{NPAGE}}If I screw up, who{{NLINE}}knows what the boss'll{{NLINE}}do to me?
+"I'd better do a{{NLINE}}good job from now{{NLINE}}on...{{NPAGE}}If I screw up, who{{NLINE}}knows what the boss'll{{NLINE}}do to me?
+"I'd better do a{{NLINE}}good job from now{{NLINE}}on...{{NPAGE}}If I screw up, who{{NLINE}}knows what the boss'll{{NLINE}}do to me?
+"I wonder who the{{NLINE}}mayor hired to take{{NLINE}}care of Rei and{{NPAGE}}the others, anyway?
+"Just between you and{{NLINE}}me...{{NPAGE}}It looks like those{{NLINE}}rumors about the{{NLINE}}mayor's connections{{NPAGE}}were true...
+"We're investigating{{NLINE}}the house ahead on{{NPAGE}}suspicion of illegal{{NLINE}}agricultural sales...
+"And what did these{{NLINE}}suspicious-looking men{{NLINE}}look like?
+"Well, you see...{{NLINE}}It's like this...
+"Those Wyndian guards{{NLINE}}are really neat,{{NLINE}}aren't they?{{NPAGE}}Maybe I'll quit{{NLINE}}working here...{{NPAGE}}and go to Wyndia and{{NLINE}}join the guard...
+"I wish I could be{{NLINE}}a guard for the{{NLINE}}mayor...{{NPAGE}}That'd be the life...{{NLINE}}The castle's too small{{NLINE}}and dull
+"Really!? Your{{NLINE}}stipend is that low?{{NPAGE}}Even the castle's{{NLINE}}better than that...
+"The mayor's a real{{NLINE}}tightwad with money...{{NPAGE}}I've been working here{{NLINE}}4 years without even{{NLINE}}one raise!
+"You know all those{{NLINE}}people come from{{NLINE}}Wyndia?{{NPAGE}}Their leader's one{{NLINE}}really cute guy!{{NPAGE}}I wish I could{{NLINE}}go to Wyndia...{{NPAGE}}All those cute{{NLINE}}guys...
+"Just between you{{NLINE}}and me...{{NPAGE}}I always knew{{NLINE}}something like this{{NLINE}}would happen, yup
+{{TXTBX,06}}Rei{{NLINE}}"OK, there's the{{NLINE}}manor up ahead...{{NPAGE}}Let's split up and{{NLINE}}look for a way in
+{{TXTBX,06}}Rei{{NLINE}}"OK, there's the{{NLINE}}manor up ahead...{{NPAGE}}Let's split up and{{NLINE}}look for a way in
+{{TXTBX,06}}Rei{{NLINE}}"OK, there's the{{NLINE}}manor up ahead...{{NPAGE}}Let's split up and{{NLINE}}look for a way in
+{{TXTBX,06}}Rei{{NLINE}}"OK, there's the{{NLINE}}manor up ahead...{{NPAGE}}Let's split up and{{NLINE}}look for a way in
+{{TXTBX,06}}Rei{{NLINE}}"OK, there's the{{NLINE}}manor up ahead...{{NPAGE}}Let's split up and{{NLINE}}look for a way in
+{{TXTBX,06}}Rei{{NLINE}}"OK, there's the{{NLINE}}manor up ahead...{{NPAGE}}Let's split up and{{NLINE}}look for a way in
+{{TXTBX,06}}Rei{{NLINE}}"OK, there's the{{NLINE}}manor up ahead...{{NPAGE}}Let's split up and{{NLINE}}look for a way in
+{{TXTBX,06}}Rei{{NLINE}}"OK, there's the{{NLINE}}manor up ahead...{{NPAGE}}Let's split up and{{NLINE}}look for a way in
+{{TXTBX,06}}Rei{{NLINE}}"OK, there's the{{NLINE}}manor up ahead...{{NPAGE}}Let's split up and{{NLINE}}look for a way in
+{{TXTBX,06}}Rei{{NLINE}}"OK, there's the{{NLINE}}manor up ahead...{{NPAGE}}Let's split up and{{NLINE}}look for a way in
+{{TXTBX,06}}Rei{{NLINE}}"OK, there's the{{NLINE}}manor up ahead...{{NPAGE}}Let's split up and{{NLINE}}look for a way in
+{{TXTBX,06}}Rei{{NLINE}}"Be careful...
+"Why don't you just{{NLINE}}knock on the front{{NLINE}}door and say...{{NPAGE}}"We're here to give{{NLINE}}back to everyone all{{NLINE}}the money you stole!"
+"Are you afraid?{{NPAGE}}He's just a rich{{NLINE}}old man...Nothing like{{NLINE}}the Nue...
+"This is no problem{{NLINE}}for me...{{NPAGE}}But I wonder if Ryu{{NLINE}}would be able to{{NLINE}}handle it?
+"Hey, we're the ones{{NLINE}}who killed the Nue,{{NLINE}}right?{{NPAGE}}That old man McNeil{{NLINE}}will be shaking in{{NLINE}}his boots at us!
+{{TXTBX,06}}Rei{{NLINE}}"What's up?{{NLINE}}Find something?
+Rei{{NLINE}}"Hey...{{NPAGE}}isn't that the wall{{NLINE}}they were working{{NLINE}}on before...?
+Rei{{NLINE}}"Hmmm...{{NLINE}}I wonder...
+{{TXTBX,06}}Teepo{{NLINE}}"...Rei!
+Teepo{{NLINE}}"Are you OK?
+{{TXTBX,06}}Rei{{NLINE}}"Don't this just{{NLINE}}beat all...{{NPAGE}}So much for the{{NLINE}}{{COLRS,2}}perfect{{COLRE}} repair{{NLINE}}job...
+Rei{{NLINE}}"This isn't exactly{{NLINE}}how I planned it...{{NPAGE}}But I'll take any{{NLINE}}break I can get...
+Rei{{NLINE}}"OK, let's go
+This isn't the way{{NLINE}}to the manor...
+Teepo{{NLINE}}"Well, you see...{{PAUSE}}{{NPAGE}}I was thinking...{{NPAGE}}maybe...there's some-{{NLINE}}thing here that's{{NLINE}}worth taking, see...{{NPAGE}}right, Rei?
+Teepo{{NLINE}}"Well, you see...{{PAUSE}}{{NPAGE}}I was thinking...{{NPAGE}}maybe...there's some-{{NLINE}}thing here that's{{NLINE}}worth taking, see...{{NPAGE}}right, Rei?
+Rei{{NLINE}}"That's right!{{NPAGE}}We weren't just{{NLINE}}goofing off!
+Rei{{NLINE}}"OK, OK, I{{NLINE}}understand...{{NPAGE}}I'll work harder,{{NLINE}}so don't cry, Ryu
+Teepo{{NLINE}}"Ha ha ha...Sorry{{NPAGE}}We won't goof off{{NLINE}}anymore, OK?
+Garr{{NLINE}}"I think I understand{{NLINE}}now...{{DURTN,48}}
+Garr{{NLINE}}"Why Rei hates these{{NLINE}}people so much...{{DURTN,48}}
+Garr{{NLINE}}"The mayor's behind{{NLINE}}all this, right?{{DURTN,48}}
+Garr{{NLINE}}"This may not be for{{NLINE}}me to say, but...{{NPAGE}}Aren't you interested{{NLINE}}in getting revenge,{{NLINE}}Ryu?{{NPAGE}}Like Rei?
+Garr{{NLINE}}"I see...{{NPAGE}}I suppose things would{{NLINE}}get out of hand if{{NLINE}}you used your power...
+"Mr. McNeil, you have{{NLINE}}been found guilty of{{NLINE}}smuggling...
+"In the name of the{{NLINE}}King of Wyndia, I{{NLINE}}hereby arrest you
+{{TXTBX,06}}McNeil{{NLINE}}"N-n-n-o! You've got{{NLINE}}it all wrong!{{NPAGE}}It wasn't me! Really!
+"We know a thing or{{NLINE}}two about your friends{{NLINE}}Balio and Sunder{{NPAGE}}...the ones who work{{NLINE}}for the organization{{NLINE}}you told us about...{{NPAGE}}but they...
+{{TXTBX,05}}Garr{{NLINE}}"...are dead...{{PAUSE}}yes?
+Nina{{NLINE}}"Garr?{{NLINE}}And...Ryu!?
+{{TXTBX,05}}Garr{{NLINE}}"Long time no see...{{NPAGE}}This is the infamous{{NLINE}}mayor, eh?
+{{TXTBX,05}}Garr{{NLINE}}"We might be able to{{NLINE}}tell you a little{{NPAGE}}something about that{{NLINE}}organization, but{{NLINE}}first...{{NPAGE}}I think you should{{NLINE}}send him off to{{NLINE}}Wyndia without delay
+Nina{{NLINE}}"All right, Garr
+Nina{{NLINE}}"Return to the castle{{NPAGE}}and take Mr. McNeil{{NLINE}}with you
+Nina{{NLINE}}"Now...{{PAUSE}}please tell{{NLINE}}me what's going on?
+"McNeil's in league{{NLINE}}with some pretty{{NLINE}}bad fellows
+"I'm keeping my eyes{{NLINE}}open, yessir!
+"The investigation{{NLINE}}is over
+"The Wyndian guards{{NLINE}}were pretty sharp!{{NPAGE}}And McNeil sure looked{{NLINE}}pretty pathetic as{{NLINE}}they took him away!
+"Now that we've gotten{{NLINE}}rid of McNeil...{{NPAGE}}I wonder if taxes will{{NLINE}}get any lower?
+"I wonder what's going{{NLINE}}to happen next...?{{NPAGE}}If there's no more{{NLINE}}manor, they won't need{{NLINE}}any guardmen, right?
+"Now that McNeil's{{NLINE}}gone...{{NPAGE}}Who's gonna pay the{{NLINE}}rest of my salary?
+"I wonder if it wasn't{{NLINE}}Loki who blew the{{NLINE}}whistle on McNeil?{{NPAGE}}He's into some shady{{NLINE}}stuff himself, you{{NLINE}}know...{{NPAGE}}Probably got jealous{{NLINE}}of McNeil...
+"You know, I thought{{NLINE}}this was a little{{NLINE}}out-of-the-way village{{NPAGE}}But there's a lot{{NLINE}}of interesting stuff{{NLINE}}going on here!
+"They say Wyndia's{{NLINE}}going to manage the{{NLINE}}manor from now on...{{NPAGE}}Does that mean I{{NLINE}}get to be a{{NLINE}}Wyndian guard?

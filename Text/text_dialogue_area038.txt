@@ -1,0 +1,87 @@
+"meeeeooooow
+"This is Castle{{NLINE}}Wyndia
+"Why is the castle{{NLINE}}built on such a{{NLINE}}high place?{{NPAGE}}They said that it{{NLINE}}dates back to the days{{NPAGE}}when our ancestors{{NLINE}}could fly
+"You say you're{{NLINE}}looking for someone?{{NPAGE}}I haven't heard any{{NLINE}}news of travelers{{NLINE}}coming recently...
+"Goods and travelers{{NLINE}}come from all around{{NLINE}}to Wyndia...{{NPAGE}}Isn't a big city{{NLINE}}exciting?
+"Ahhh....{{NLINE}}That's a nice{{NLINE}}breeze, isn't it?
+"This here is the{{NLINE}}trendy area of{{NLINE}}Wyndia...{{NPAGE}}And the downtown{{NLINE}}area is downstairs
+"Looking out like{{NLINE}}this makes you want{{NLINE}}to travel, doesn't it?{{NPAGE}}But you need the{{NLINE}}King's permission to{{NLINE}}cross the bridge...
+"How about going to{{NLINE}}play with your friends{{NPAGE}}instead of hanging{{NLINE}}around this old man?
+"No! I wanna play{{NLINE}}with Grandpa!
+"woof?
+"coo coo
+"When you look at them{{NLINE}}real close, pigeons are{{NLINE}}kind of scary...{{NPAGE}}I mean, like the way{{NLINE}}their eyes are so{{NLINE}}vacant...
+"Fresh-baked bread for{{NLINE}}sale! It's delicious!
+"We Wyndians aren't{{NLINE}}afraid of high{{NLINE}}places...{{NPAGE}}Probably because our{{NLINE}}ancestors were able{{NLINE}}to fly, I guess
+"This is an oven{{NLINE}}for baking bread{{NPAGE}}We use the windmills{{NLINE}}for power to break{{NLINE}}the bread
+"Don't be touching{{NLINE}}everything with your{{NLINE}}dirty hands now...{{NPAGE}}We're making food{{NLINE}}here!
+"Oui...I always come{{NLINE}}'ere to get zee{{NLINE}}fresh croissants
+"What with the bad{{NLINE}}harvest and all,{{NPAGE}}we've had a hard time{{NLINE}}getting good flour for{{NLINE}}the bread...
+"We're able to make{{NLINE}}all the bread because{{NPAGE}}we have the cats to{{NLINE}}catch the mice for us
+"We use wheat from{{NLINE}}McNeil Village to{{NLINE}}make the bread here{{NPAGE}}That doesn't mean it's{{NLINE}}especially good or{{NLINE}}anything, but...
+"The head baker here{{NLINE}}is pretty famous...{{NPAGE}}They say people come{{NLINE}}from all over just{{NLINE}}for his bread
+"Fresh-baked bread,{{NLINE}}right here! Step{{NLINE}}right up!
+"I'm sorry, I don't{{NLINE}}work here...{{NPAGE}}I came up from the{{NLINE}}cafe to buy{{NLINE}}something
+"Kids are lucky...{{NLINE}}Get to run around{{NLINE}}playing all day...
+"Princess Nina!?{{NPAGE}}I'm sorry, my{{NLINE}}mistake...The princess{{NLINE}}must be inside...
+"{{EFCTS}}Ohhhh!?{{UNK0F}}GarrPrincess Nina...!?{{NLINE}}You're safe!
+"Our ancestors were{{NLINE}}able to fly, you{{NLINE}}know...{{NPAGE}}I wonder how the{{NLINE}}world looked to{{NLINE}}them...?
+"I wouldn't repeat{{NLINE}}this to just anyone,{{NPAGE}}but I hear that the{{NLINE}}latest rumor in the{{NLINE}}castle is that{{NPAGE}}Princess Nina has{{NLINE}}disappeared...
+"I heard a rumor that{{NLINE}}the princess was taken{{NLINE}}in by a con man...{{NPAGE}}Can you believe it?{{NLINE}}And this used to be{{NLINE}}such a safe town...
+"I'm sure the princess{{NLINE}}wanted to run away...{{NPAGE}}I bet living in the{{NLINE}}castle's not as great{{NLINE}}as we think it is
+"Better keep an eye{{NLINE}}on my grandkid...{{NPAGE}}And make sure she{{NLINE}}isn't kidnapped like{{NLINE}}Nina was!
+"I wanna play with you{{NLINE}}today too, Grandpa!
+"I wonder what it{{NLINE}}feels like to have{{NLINE}}wings?
+"I hope the poor{{NLINE}}princess has enough{{NLINE}}to eat...
+"Oui...It is more{{NLINE}}fashionable to call{{NLINE}}it a bakery,{{NPAGE}}not zee bread shop,{{NLINE}}non?
+"Enhanced crops, {{PAUSE}}eh?{{NLINE}}That mean there's{{NLINE}}enhanced flour too?
+"Enhanced crops...{{NLINE}}That's the stuff they{{NLINE}}use chrysm on, right?{{NPAGE}}I don't see what's{{NLINE}}wrong with the plain{{NLINE}}old stuff...
+"The head baker here{{NLINE}}is famous for his{{NLINE}}jelly pastries too
+"Why did they kidnap{{NLINE}}the princess? For{{NLINE}}ransom?{{NPAGE}}Make more money that{{NLINE}}way than working,{{NLINE}}I guess...
+Nina{{NLINE}}"I'm sorry to have{{NLINE}}worried everyone
+Wyndian guard{{NLINE}}"The King will be{{NLINE}}so glad to know{{NPAGE}}that you've returned{{NLINE}}safely, Princess Nina
+Wyndian guard{{NLINE}}"Hey! What happened{{NLINE}}to those crooks!?{{NPAGE}}The ones who used{{NLINE}}that kid to get us{{NLINE}}to drop our guard!
+Nina{{NLINE}}"Ah, um, yes, well{{NLINE}}I'll explain...{{NPAGE}}But first, shouldn't{{NLINE}}you tell Daddy...{{NPAGE}}I mean, the King{{NLINE}}that I'm back?
+Wyndian guard{{NLINE}}"Ah! {{PAUSE}}Yes, of course!{{NLINE}}Immediately!
+Nina{{NLINE}}"I have a feeling{{NLINE}}I'm going to have a{{NPAGE}}hard time explaining{{NLINE}}that Ryu's not a{{NLINE}}criminal...
+"As you can see, this{{NLINE}}is Castle Wyndia
+"When she was a kid,{{NLINE}}she used to play with{{NLINE}}me everyday...{{NPAGE}}But now all she cares{{NLINE}}about is her boyfriend
+"If only I had{{NLINE}}wings...{{NPAGE}}I could go visit{{NLINE}}my boyfriend anytime!
+"coo coo
+"Yay! Ha ha ha!
+"I want to go to{{NLINE}}the All-You-Can-Eat{{NLINE}}Bread Festival...{{NPAGE}}But I just know{{NLINE}}I'll get fat...{{NLINE}}What should I do?
+"Fresh-baked bread!{{NLINE}}Warm, soft, delicious!{{NLINE}}All you can eat!
+"I heard the mayor of{{NLINE}}McNeil Village got{{NLINE}}into some trouble...{{NPAGE}}We've got no problems{{NLINE}}like that here!
+"Deeeeeeeeeeee{{NPAGE}}li{{PAUSE}}cious!!
+"I'm not just sitting{{NLINE}}here staring at the{{NLINE}}bread for nothing...{{NPAGE}}I'm checking to make{{NLINE}}sure there's no bad{{NLINE}}loaves
+"Makes no difference{{NLINE}}if our flour supplier{{NLINE}}got himself in trouble{{NPAGE}}We just make the{{NLINE}}bread, see?
+"You know, when it's{{NLINE}}your job to bake bread{{NLINE}}all day long...{{NPAGE}}You end up hating the{{NLINE}}stuff...you know?
+"This is bread made{{NLINE}}using flour from those{{NLINE}}enhanced crops...{{NPAGE}}I don't know...It came{{NLINE}}out kind of bad...{{NPAGE}}Guess I'll mark it{{NLINE}}down or use it at{{NLINE}}the All-You-Can-Eat...
+"I tried baking bread{{NLINE}}using flour from those{{NLINE}}enhanced crops{{NPAGE}}It just doesn't turn{{NLINE}}out right...
+"Here in Wyndia, bread{{NLINE}}is one of our staple{{NLINE}}foods
+"Lately, the stuff{{NLINE}}we've been getting{{NLINE}}from the plant{{NPAGE}}hasn't been too good{{NLINE}}We've been having lots{{NLINE}}of problems with it...
+"I always wanted to{{NLINE}}visit someplace{{NLINE}}outside Wyndia...{{NPAGE}}but now I guess I'm{{NLINE}}too old...
+"Such lovely weather{{NLINE}}today! On days like{{NLINE}}this, it's so nice{{NPAGE}}to take lunch outside{{NLINE}}at the cafe
+"Hmm? Princess Nina?{{NPAGE}}No...It can't be...{{NPAGE}}I mean, how many times{{NLINE}}can the princess run{{NLINE}}away, anyway?
+"I'm aware that the{{NLINE}}Princess Nina has{{NLINE}}left the castle...{{NPAGE}}But I am of the{{NLINE}}firm belief she has{{NLINE}}a good reason for it!
+Gatekeeper{{NLINE}}"Princess Nina!{{NPAGE}}We've heard of your{{NLINE}}exploits in McNeil{{NLINE}}Village!
+Gatekeeper{{NLINE}}"Princess Nina!{{NPAGE}}We've heard of your{{NLINE}}exploits in McNeil{{NLINE}}Village!
+Gatekeeper{{NLINE}}"Princess Nina!{{NPAGE}}We've heard of your{{NLINE}}exploits in McNeil{{NLINE}}Village!
+Gatekeeper{{NLINE}}"Princess Nina!{{NPAGE}}We've heard of your{{NLINE}}exploits in McNeil{{NLINE}}Village!
+Gatekeeper{{NLINE}}"Princess Nina!{{NPAGE}}We've heard of your{{NLINE}}exploits in McNeil{{NLINE}}Village!
+Gatekeeper{{NLINE}}"Princess Nina!{{NPAGE}}We've heard of your{{NLINE}}exploits in McNeil{{NLINE}}Village!
+Gatekeeper{{NLINE}}"Princess Nina!{{NPAGE}}We've heard of your{{NLINE}}exploits in McNeil{{NLINE}}Village!
+Gatekeeper{{NLINE}}"Princess Nina!{{NPAGE}}We've heard of your{{NLINE}}exploits in McNeil{{NLINE}}Village!
+Gatekeeper{{NLINE}}"Princess Nina!{{NPAGE}}We've heard of your{{NLINE}}exploits in McNeil{{NLINE}}Village!
+Gatekeeper{{NLINE}}"Princess Nina!{{NPAGE}}We've heard of your{{NLINE}}exploits in McNeil{{NLINE}}Village!
+Gatekeeper{{NLINE}}"Princess Nina!{{NPAGE}}We've heard of your{{NLINE}}exploits in McNeil{{NLINE}}Village!
+Gatekeeper{{NLINE}}"Princess Nina!{{NPAGE}}We've heard of your{{NLINE}}exploits in McNeil{{NLINE}}Village!
+Gatekeeper{{NLINE}}"Princess Nina!{{NPAGE}}We've heard of your{{NLINE}}exploits in McNeil{{NLINE}}Village!
+Gatekeeper{{NLINE}}"Princess Nina!{{NPAGE}}We've heard of your{{NLINE}}exploits in McNeil{{NLINE}}Village!
+Gatekeeper{{NLINE}}"Princess Nina!{{NPAGE}}We've heard of your{{NLINE}}exploits in McNeil{{NLINE}}Village!
+Gatekeeper{{NLINE}}"I guess you'll be{{NLINE}}wanting to report to{{NPAGE}}the King immediately
+Nina{{NLINE}}"Not yet...Before I{{NLINE}}do that...{{NPAGE}}I was thinking of{{NLINE}}checking out the{{NLINE}}plant as well...
+Gatekeeper{{NLINE}}"I see! Well, then,{{NLINE}}good luck, princess!
+"I'd just like to say{{NLINE}}how impressed we all{{NLINE}}are with your work!
+Gatekeeper{{NLINE}}"Princess Nina!{{NLINE}}Welcome home!
+Gatekeeper{{NLINE}}"I've heard that{{NLINE}}you've been to the{{NPAGE}}plant...The King is{{NLINE}}waiting for your{{NLINE}}report...This way!

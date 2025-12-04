@@ -1,0 +1,255 @@
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Aggressively hunts{{NLINE}}in packs{{NLINE}}{{COLRS,2}}Use: Restores HP{{COLRE}}{{NLINE}}Av. Length:  30CM
+Like a blowfish,{{NLINE}}but has no poison{{NLINE}}{{COLRS,2}}Use: Combat{{COLRE}}{{NLINE}}Av. Length:  35CM
+River fish--likes{{NLINE}}worms & small fish{{NLINE}}{{COLRS,2}}Use: Restores HP{{COLRE}}{{NLINE}}Av. Length:  50CM
+River fish--lives{{NLINE}}in deep water{{NLINE}}{{COLRS,2}}Use: Restores AP{{COLRE}}{{NLINE}}Av. Length:  50CM
+Catfish with red{{NLINE}}fins--likes to eat{{NLINE}}frogs{{NLINE}}Av. Length:  60CM
+Strong fish--goes{{NLINE}}for any lure{{NLINE}}{{COLRS,2}}Use: Restores HP{{COLRE}}{{NLINE}}Av. Length:  30CM
+Lives in fresh{{NLINE}}water--likes worms{{NLINE}}{{COLRS,2}}Use: Combat{{COLRE}}{{NLINE}}Av. Length:  60CM
+Rarely-seen large-{{NLINE}}mouthed bass{{NLINE}}{{COLRS,2}}Use: Restores HP{{COLRE}}{{NLINE}}Av. Length:  65CM
+Legendary fish{{NLINE}}named for a king{{NLINE}}{{COLRS,2}}Use: Restores HP{{COLRE}}{{NLINE}}Av. Length: 150CM
+Large jellyfish{{NLINE}}Not a good catch{{NLINE}}{{COLRS,2}}Use: Restores HP{{COLRE}}{{NLINE}}Av. Length:  20CM
+Small fish that{{NLINE}}lives in shallows{{NLINE}}{{COLRS,2}}Use: Restores HP{{COLRE}}{{NLINE}}Av. Length:  15CM
+Aggressive fish--{{NLINE}}goes for any lure{{NLINE}}{{COLRS,2}}Use: Cure poison{{COLRE}}{{NLINE}}Av. Length:  15CM
+Deep-water fish--{{NLINE}}likes small fish{{NLINE}}{{COLRS,2}}Use: Restores AP{{COLRE}}{{NLINE}}Av. Length:  30CM
+Large sea fish--{{NLINE}}goes for any lure{{NLINE}}{{COLRS,2}}Use: Restores HP{{COLRE}}{{NLINE}}Av. Length:  45CM
+Deep-water fish--{{NLINE}}Difficult to catch{{NLINE}}{{COLRS,2}}Use: Restores AP{{COLRE}}{{NLINE}}Av. Length:  45CM
+Deep-water fish--{{NLINE}}tastes good fried{{NLINE}}{{COLRS,2}}Use: Combat{{COLRE}}{{NLINE}}Av. Length:  50CM
+Deep-water fish--{{NLINE}}hunts small fish{{NLINE}}{{COLRS,2}}Use: Combat{{COLRE}}{{NLINE}}Av. Length:  75CM
+Octopus with{{NLINE}}electric attack{{NLINE}}{{COLRS,2}}Use: Combat{{COLRE}}{{NLINE}}Av. Length:  90CM
+King of the seas--{{NLINE}}Powerful fish that{{NLINE}}likes small fish{{NLINE}}Av. Length: 120CM
+Large, ocean-{{NLINE}}dwelling mammal{{NLINE}}{{COLRS,2}}Use: Full HP{{COLRE}}{{NLINE}}Av. Length: 180CM
+River fish--local{{NLINE}}favorite in Wyndia{{NLINE}}Av. Length:  50CM
+Merchant who{{NLINE}}travels the{{NLINE}}world's seas{{NLINE}}Av. Length: 150CM
+Worm Lure{{NLINE}}Good for{{NLINE}}deep-water{{NLINE}}fish{{NLINE}}{{COLRS,2}}Level 1{{COLRE}}
+Worm Lure{{NLINE}}Good for{{NLINE}}deep-water{{NLINE}}fish{{NLINE}}{{COLRS,2}}Level 1{{COLRE}}
+Worm Lure{{NLINE}}Good for{{NLINE}}deep-water{{NLINE}}fish{{NLINE}}{{COLRS,2}}Level 1{{COLRE}}
+Worm Lure{{NLINE}}Good for{{NLINE}}deep-water{{NLINE}}fish{{NLINE}}{{COLRS,2}}Level 1{{COLRE}}
+Worm Lure{{NLINE}}Good for{{NLINE}}deep-water{{NLINE}}fish{{NLINE}}{{COLRS,2}}Level 1{{COLRE}}
+Worm Lure{{NLINE}}Good for{{NLINE}}deep-water{{NLINE}}fish{{NLINE}}{{COLRS,2}}Level 1{{COLRE}}
+Worm Lure{{NLINE}}Good for{{NLINE}}deep-water{{NLINE}}fish{{NLINE}}{{COLRS,2}}Level 1{{COLRE}}
+Worm Lure{{NLINE}}Good for{{NLINE}}deep-water{{NLINE}}fish{{NLINE}}{{COLRS,2}}Level 1{{COLRE}}
+Worm Lure{{NLINE}}Good for{{NLINE}}deep-water{{NLINE}}fish{{NLINE}}{{COLRS,2}}Level 1{{COLRE}}
+Worm Lure{{NLINE}}Good for{{NLINE}}deep-water{{NLINE}}fish{{NLINE}}{{COLRS,2}}Level 1{{COLRE}}
+Lure with{{NLINE}}leaden{{NLINE}}sinker{{NLINE}} {{NLINE}}{{COLRS,2}}Level 2{{COLRE}}
+Fast lead{{NLINE}}sinker{{NLINE}}with worm{{NLINE}} {{NLINE}}{{COLRS,2}}Level 3{{COLRE}}
+Large,{{NLINE}}weighted{{NLINE}}lure{{NLINE}} {{NLINE}}{{COLRS,2}}Level Top{{COLRE}}
+Lure that{{NLINE}}looks like{{NLINE}}a frog--{{NLINE}}swims{{NLINE}}{{COLRS,2}}Level 1{{COLRE}}
+Frog lure{{NLINE}}with lead{{NLINE}}sinker{{NLINE}} {{NLINE}}{{COLRS,2}}Level 2{{COLRE}}
+Frog lure{{NLINE}}with good{{NLINE}}balance{{NLINE}} {{NLINE}}{{COLRS,2}}Level 3{{COLRE}}
+Floating{{NLINE}}frog lure{{NLINE}}--sinks{{NLINE}}when moved{{NLINE}}{{COLRS,2}}Level Top{{COLRE}}
+Fish lure{{NLINE}}Tends to{{NLINE}}sink{{NLINE}} {{NLINE}}{{COLRS,2}}Level 1{{COLRE}}
+Fish lure{{NLINE}}--stays on{{NLINE}}surface--{{NLINE}}low range{{NLINE}}{{COLRS,2}}Level 2{{COLRE}}
+Fish lure{{NLINE}}--sinks{{NLINE}}when moved{{NLINE}} {{NLINE}}{{COLRS,2}}Level 3{{COLRE}}
+Fish lure{{NLINE}}--limited{{NLINE}}range{{NLINE}} {{NLINE}}{{COLRS,2}}Level Top{{COLRE}}
+Fish lure{{NLINE}}--sinks{{NLINE}}and floats{{NLINE}} {{NLINE}}{{COLRS,2}}Level 1{{COLRE}}
+Fish lure{{NLINE}}--sinks{{NLINE}}when moved{{NLINE}} {{NLINE}}{{COLRS,2}}Level 2{{COLRE}}
+Fish lure{{NLINE}}--has{{NLINE}}good{{NLINE}}balance{{NLINE}}{{COLRS,2}}Level 3{{COLRE}}
+Fish lure{{NLINE}}--good for{{NLINE}}deep-water{{NLINE}}fish{{NLINE}}{{COLRS,2}}Level Top{{COLRE}}
+Shiny coin{{NLINE}}Heavy--{{NLINE}}sinks fast{{NLINE}}manillo's{{NLINE}}favorite
+Designed{{NLINE}}to tempt{{NLINE}}all kinds{{NLINE}}of fish{{NLINE}}{{COLRS,2}}Level Top{{COLRE}}
+Rod for{{NLINE}}beginners{{NLINE}}Breaks{{NLINE}}easily--{{NLINE}}low range
+Long range{{NLINE}}but line{{NLINE}}breaks{{NLINE}}easily
+Balanced{{NLINE}}rod--long{{NLINE}}range and{{NLINE}}powerful
+Rod with{{NLINE}}best range{{NLINE}}--high{{NLINE}}pull--hard{{NLINE}}to hold
+Strongest{{NLINE}}rod--can{{NLINE}}pull up{{NLINE}}any fish
+Ultimate{{NLINE}}rod--long{{NLINE}}range with{{NLINE}}high{{NLINE}}strength
+CAUTION
+CAUTION
+CAUTION
+CAUTION
+CAUTION
+Fish
+RETRY
+EXIT
+Do you want to quit?
+Too many items!{{NLINE}}You'll have to let{{NLINE}}it go...
+Too many items!{{NLINE}}Releasing fish...
+Welcome to the{{NLINE}}Manillo Trading{{NLINE}}Shop!
+Want to buy{{NLINE}}anything?{{NLINE}}  Yes{{NLINE}}  No
+Will that be all?          Yes No
+Is {{PRMTR,0}} OK?
+TRADEITEM
+NEEDED
+OWNED
+Yes No
+No.Owned
+No.Equipped
+Hey! Don't be so greedy!
+How many do you want?
+Equip rod and lure
+Equip rod and lure
+Equip rod
+Equip lure
+Choose rod to equip
+Choose lure to equip
+Fishing data
+Fishing data
+Fishing data
+Fishing data
+Fishing data
+Fishing data
+Fishing data
+Fishing data
+Fishing data
+Fishing data
+Fishing data
+Fishing data
+Directional button:change pages
+How to Fish
+How to Fish
+How to Fish
+How to Fish
+How to Fish
+How to Fish
+How to Fish
+How to Fish
+How to Fish
+How to Fish
+How to Fish
+How to Fish
+How to Fish
+How to Fish
+Directional button:change pages
+ Fundamentals
+{{COLRS,1}}{{SYM81}}{{COLRE}}button: Sets casting power
+         Wind reel
+Directional button: Move rod
+   Casting
+Press {{COLRS,1}}{{SYM81}}{{COLRE}}button to build
+up--hit again to cast.
+Change direction with
+the Directional button.
+Moving the lure
+{{COLRS,1}}{{SYM81}}{{COLRE}}button: wind reel
+Directional button:
+Some lures rise or
+sink when tugged.
+Watch the depth meter
+and keep the lure free
+  Techniques
+Use your technique
+to attract fish
+Use the {{COLRS,1}}{{SYM81}}{{COLRE}}button & Directional
+button to make a rhythm
+2 count...
+3 count...
+5 count...
+7 count...
+  Reeling in
+Move the rod cursor      to
+track the fish cursor
+Use the Directional button
+to move the cursor
+Use the {{COLRS,1}}{{SYM81}}{{COLRE}}button to
+reel in the fish
+Line length @ 60M
+Line breaks beyond 60M
+Move rod
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM
+Type of animal{{NLINE}}that floats and is{{NLINE}}easily caught{{NLINE}}Av. Length:  20CM

@@ -1,0 +1,242 @@
+{{TXTBX,06}}Momo{{NLINE}}"Hey...Has anyone seen{{NLINE}}Honey?
+{{TXTBX,06}}Momo{{NLINE}}"Hey...Has anyone seen{{NLINE}}Honey?
+{{TXTBX,06}}Momo{{NLINE}}"Where's she gotten{{NLINE}}off to now?
+{{TXTBX,06}}Momo{{NLINE}}"Honeeeeey, wheeerre{{NLINE}}aaaaareeee yooouuu?
+{{TXTBX,03}}Nina{{NLINE}}"....Ryu?{{NLINE}}Garr?
+{{TXTBX,06}}Momo{{NLINE}}"Nina,{{PAUSE}} what is it?
+{{TXTBX,05}}Nina{{NLINE}}"Momo!{{NPAGE}}It's Honey...{{PAUSE}}{{NLINE}}She...She's...
+Momo{{NLINE}}"Hmmmm....{{NPAGE}}Looks like she ran{{NLINE}}out of chrysm...{{NPAGE}}Why don't you bring{{NLINE}}her inside the tent?
+Garr{{NLINE}}"Let Momo handle this{{NPAGE}}She knows what's best{{NLINE}}for Honey...
+Garr{{NLINE}}"Besides...{{NPAGE}}There's something I{{NLINE}}have to tell you
+Garr{{NLINE}}"When we get to the{{NLINE}}the eastern lands...{{NPAGE}}you'll learn all about{{NLINE}}the Brood...
+Garr{{NLINE}}"But...{{NPAGE}}there is a possibility{{NLINE}}that you may die soon{{NLINE}}afterwards...
+Nina{{NLINE}}"Die...{{PAUSE}}you mean{{NLINE}}Ryu might die...!?
+Nina{{NLINE}}"Why would you say{{NLINE}}such a thing!?{{NPAGE}}He's just going to{{NLINE}}learn about the{{NLINE}}dragons, isn't he?
+Garr{{NLINE}}"You have to{{NLINE}}understand...{{NPAGE}}When you're dealing{{NLINE}}with something that{{NLINE}}has enough power to{{NPAGE}}destroy the world...
+Garr{{NLINE}}"...you have to be{{NLINE}}ready for anything
+Nina{{NLINE}}"Ryu's not a big bad{{NLINE}}dragon like that...{{NPAGE}}Ryu always uses his{{NLINE}}power to protect me--{{NLINE}}he's a good dragon!
+Nina{{NLINE}}"I...{{PAUSE}}I'm going too!
+Nina{{NLINE}}"I don't want Ryu{{NLINE}}to die by himself{{NPAGE}}somewhere... somewhere{{NLINE}}without me!{{NPAGE}}Ryu's not a bad{{NLINE}}dragon!
+{{TXTBX,06}}Momo{{NLINE}}"You mean after we{{NLINE}}came all this way,{{NPAGE}}there's no boat!?
+Garr{{NLINE}}"We can't use the{{NLINE}}road, either...{{NPAGE}}I guess we're stuck{{NLINE}}here then
+{{TXTBX,06}}Momo{{NLINE}}"Maybe if we fixed{{NLINE}}the lighthouse...{{NPAGE}}the boat would be{{NLINE}}able to get here
+Garr{{NLINE}}"I don't think the{{NLINE}}guild'll let anyone{{NPAGE}}near it no matter how{{NLINE}}good they may be with{{NLINE}}machines...
+{{TXTBX,06}}Momo{{NLINE}}"Well, then, I guess{{NLINE}}we're stuck here!
+{{TXTBX,05}}Nina{{NLINE}}"Say...{{NPAGE}}Do you think Shadis{{NLINE}}likes Beyd?
+{{TXTBX,06}}Momo{{NLINE}}"Well...{{PAUSE}}maybe she{{NLINE}}does...{{NPAGE}}But what does that{{NLINE}}have to do with{{NLINE}}anything?
+{{TXTBX,05}}Nina{{NLINE}}"And Beyd's in love{{NLINE}}with Shadis, right?
+{{TXTBX,05}}Nina{{NLINE}}"But he's too shy{{NLINE}}to tell her...
+{{TXTBX,05}}Nina{{NLINE}}"I know!{{NPAGE}}I'll go talk to Beyd{{NLINE}}and tell him what he{{NLINE}}needs to tell her!{{NPAGE}}I mean, if he doesn't{{NLINE}}do anything, it's not{{NLINE}}fair to Shadis, is it?
+{{TXTBX,06}}Garr{{NLINE}}"I may look different,{{NPAGE}}But I'm one of them...{{NLINE}}I too am an Urkan
+{{TXTBX,06}}Garr{{NLINE}}"A Guardian is what{{NLINE}}people like me...{{NPAGE}}What Urkan warriors{{NLINE}}are called...{{NPAGE}}We protect our people{{NLINE}}from evil and harm
+{{TXTBX,04}}Nina{{NLINE}}"Ryu, Garr...{{NPAGE}}Are you still{{NLINE}}up?
+{{TXTBX,06}}Garr{{NLINE}}"About what I{{NLINE}}told you...{{NPAGE}}That you might{{NLINE}}die...
+{{TXTBX,06}}Garr{{NLINE}}"Oh, never mind...{{NPAGE}}You'll understand once{{NLINE}}we get there...
+{{TXTBX,05}}Garr{{NLINE}}"Can't sleep, eh?
+{{TXTBX,05}}Garr{{NLINE}}"I have to apologize{{NLINE}}to you, Ryu...
+{{TXTBX,05}}Garr{{NLINE}}"Not only for trying{{NLINE}}to kill you, but...{{NPAGE}}I don't know if it's{{NLINE}}right to take you...
+Garr{{NLINE}}"To take you like{{NLINE}}this with me...{{NPAGE}}as I search for God...
+Garr{{NLINE}}"But...Why did God{{NPAGE}}see it fit to try{{NLINE}}to destroy the{{NLINE}}Brood...{{NPAGE}}that's a question{{NLINE}}whose answer you have{{NLINE}}a right to know
+Garr{{NLINE}}"After leaving the{{NLINE}}mountain,{{NPAGE}}we'll head east to{{NLINE}}Wyndia, and then to{{NLINE}}the eastern lands{{NPAGE}}To Angel Tower...
+{{TXTBX,05}}Nina{{NLINE}}"...Momo?
+{{TXTBX,06}}Momo{{NLINE}}"Huh? What?
+{{TXTBX,05}}Nina{{NLINE}}"Thank you for your{{NLINE}}help, Momo...{{NPAGE}}Thanks to you, we{{NLINE}}were able to take{{NPAGE}}care of the problem{{NLINE}}at the plant
+{{TXTBX,06}}Momo{{NLINE}}"Oh, that?{{NPAGE}}Well, it looks like{{NLINE}}my father was involved{{NLINE}}with the plant, so{{NPAGE}}I would have had to{{NLINE}}do something about it{{NLINE}}sooner or later...
+{{TXTBX,06}}Momo{{NLINE}}"My father...{{NPAGE}}He repaired that{{NLINE}}machine...and was{{NLINE}}going to use it{{NPAGE}}to try and bring{{NLINE}}back my dead mother{{NPAGE}}But he quit and{{NLINE}}started working on{{NLINE}}developing the{{NPAGE}}enhanced crops
+{{TXTBX,05}}Nina{{NLINE}}"I wonder...{{NPAGE}}Why did your father{{NLINE}}quit his experiments?
+{{TXTBX,06}}Momo{{NLINE}}"I think it's because{{NLINE}}he realized...{{NPAGE}}there's nothing more{{NLINE}}unnatural, more wrong{{NLINE}}than trying to bring{{NPAGE}}the dead back to life
+{{TXTBX,06}}Momo{{NLINE}}"He loved machines...{{NPAGE}}And he may not have{{NLINE}}known a lot about{{NLINE}}anything else...{{NPAGE}}But he wasn't stupid!
+{{TXTBX,05}}Nina{{NLINE}}"Well...anyway,{{NLINE}}thank you{{NPAGE}}Now Ryu can receive{{NLINE}}the king's forgiveness{{NLINE}}and travel to the{{NPAGE}}eastern lands...
+{{TXTBX,06}}Momo{{NLINE}}"I've been thinking...{{NPAGE}}I'll probably go east{{NLINE}}with Ryu and the{{NLINE}}others...
+{{TXTBX,06}}Momo{{NLINE}}"There's no point in{{NLINE}}staying at the plant{{NPAGE}}And I'd still like to{{NLINE}}see what kind of ship{{NLINE}}they have in Rhapala
+Nina{{NLINE}}"And so that's what{{NLINE}}happened
+{{TXTBX,05}}Rei{{NLINE}}"Well...I guess that{{NLINE}}means we can't be{{NPAGE}}counting on any help{{NLINE}}from the King of{{NLINE}}Wyndia anytime soon...
+Nina{{NLINE}}"I'm sorry...{{NPAGE}}I don't know what I{{NLINE}}was thinking...
+{{TXTBX,06}}Garr{{NLINE}}"You shouldn't worry{{NLINE}}about it...{{NPAGE}}More importantly, we{{NLINE}}should get to the{{NLINE}}bridge before the{{NPAGE}}King's men do...
+ {{NLINE}}Choose your party{{NLINE}}members
+{{TXTBX,01}}The next day...{{NLINE}}Nina went off to{{NLINE}}see Beyd...
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+ {{NLINE}}What do you want to do?{{CHOIC,0,2,Rest,Save,Change party members,Skill Notes,Master List,Quit}}
+Let's sleep

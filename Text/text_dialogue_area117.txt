@@ -1,0 +1,48 @@
+{{TXTBX,05}}Momo{{NLINE}}"Would you look at{{NLINE}}this place!!
+{{TXTBX,05}}Momo{{NLINE}}"Hey, Ryu{{NPAGE}}What do you think{{NLINE}}this place is for?
+{{TXTBX,05}}Momo{{NLINE}}"Is it part of{{NLINE}}the plant...?{{NPAGE}}Is it the secret{{NLINE}}research lab of{{NLINE}}the director...?{{NPAGE}}But then this{{NLINE}}machine...{{NLINE}}Hmmm...
+{{TXTBX,05}}Momo{{NLINE}}"Verrry impressive...{{NPAGE}}I wonder if the{{NLINE}}director built it{{NLINE}}all himself..{{NPAGE}}Or if there was{{NLINE}}another engineer...
+{{TXTBX,05}}Momo{{NLINE}}"Engineer...!?
+{{TXTBX,05}}Momo{{NLINE}}"Wait a minute!{{NPAGE}}Mmmm...{{PAUSE}}...{{PAUSE}}...{{NLINE}}Oh, never mind...{{NPAGE}}Come on, let's{{NLINE}}look around a{{NLINE}}little...
+{{TXTBX,05}}Momo{{NLINE}}"Hey, there's a{{NLINE}}ladder here!{{NPAGE}}Let's go down and{{NLINE}}see what's down there
+It looks really{{NLINE}}complicated...{{NPAGE}}Too complicated{{NLINE}}for {{CHRTR}} to{{NLINE}}understand
+It looks really{{NLINE}}complicated...{{NPAGE}}Too complicated{{NLINE}}for {{CHRTR}} to{{NLINE}}understand
+It looks really{{NLINE}}complicated...{{NPAGE}}Too complicated{{NLINE}}for {{CHRTR}} to{{NLINE}}understand
+It looks really{{NLINE}}complicated...{{NPAGE}}Too complicated{{NLINE}}for {{CHRTR}} to{{NLINE}}understand
+"It's not turned on...{{NLINE}}It's no good like this
+"We should be able to{{NLINE}}open the doors with{{NLINE}}the same number now
+"We don't know the{{NLINE}}password yet...{{NPAGE}}We should be able to{{NLINE}}find a hint somewhere
+The door is locked{{NLINE}}electronically
+"Ah! I know what this{{NLINE}}is! This is a relic{{NLINE}}from the Techno Age!{{NPAGE}}And this number...
+"Ah! I know what this{{NLINE}}is! This is a relic{{NLINE}}from the Techno Age!{{NPAGE}}And this number...
+Momo{{NLINE}}"...is the same as{{NLINE}}was on the door,{{NPAGE}}right?!
+Momo{{NLINE}}"In other words,{{NPAGE}}this is a key...A key{{NLINE}}from the Techno Age!
+Momo{{NLINE}}"If we input the{{NLINE}}{{COLRS,2}}password{{COLRE}} here...{{NPAGE}}The doors with the{{NLINE}}same number will open!
+Momo{{NLINE}}"Does anyone want{{NPAGE}}to try and guess{{NLINE}}the password?
+Momo{{NLINE}}"Without the{{NLINE}}password...{{NPAGE}}We'll never be able{{NLINE}}to get those doors{{NLINE}}open
+Momo{{NLINE}}"But usually people{{NLINE}}use something like...{{NPAGE}}a friend's name or{{NLINE}}whatever for their{{NLINE}}password...
+Momo{{NLINE}}"Like...{{NPAGE}}{{COLRS,2}}P e l e t{{COLRE}} or something
+Momo{{NLINE}}"Maybe that's a little{{NLINE}}too obvious...?
+Momo{{NLINE}}"I don't believe it...{{NLINE}}{{PAUSE}}It opened!
+Momo{{NLINE}}"Well, now we're{{NLINE}}getting somewhere!{{NPAGE}}Come on, let's go!
+There's a bed here{{NLINE}}Do you want to rest?{{CHOIC,0,0,Yes,No}}
+Do you want to save?{{CHOIC,3,0,Yes,No}}
+Momo{{NLINE}}"Let's see...{{NPAGE}}Password...{{NLINE}}{{COLRS,2}}R e p s o l{{COLRE}}...
+Momo{{NLINE}}"Let's see...{{NPAGE}}Password...{{NLINE}}{{COLRS,2}}R e p s o l{{COLRE}}...
+Momo{{NLINE}}"Let's see...{{NPAGE}}Password...{{NLINE}}{{COLRS,2}}R e p s o l{{COLRE}}...
+Momo{{NLINE}}"Let's see...{{NPAGE}}Password...{{NLINE}}{{COLRS,2}}R e p s o l{{COLRE}}...
+Momo{{NLINE}}"It opened!{{NLINE}}I knew it...
+Momo{{NLINE}}"Repsol was...{{NPAGE}}That was my{{NLINE}}father's name...
+Momo{{NLINE}}"I guess that means{{NPAGE}}he had something to{{NLINE}}do with this place{{NPAGE}}Maybe he was working{{NLINE}}on some kind of{{NLINE}}experiment...?
+Momo{{NLINE}}"When I saw the{{NLINE}}machines here,{{NPAGE}}I knew my father must{{NLINE}}have been involved{{NLINE}}somehow...{{NPAGE}}but I never{{NLINE}}heard anything about{{NLINE}}this place...
+Momo{{NLINE}}"Could my father have{{NLINE}}done things here{{NPAGE}}he was ashamed to{{NLINE}}tell me about?
+Momo{{NLINE}}"Let's see...{{NPAGE}}Enter password{{NLINE}}{{COLRS,2}}A {{PAUSE}}A{{COLRE}}...
+Momo{{NLINE}}"There! Now there's{{NLINE}}only one left
+Momo{{NLINE}}"I wonder...{{NPAGE}}What does 'The {{COLRS,2}}AA{{COLRE}}{{NLINE}}Project' mean?{{NPAGE}}Something to do with{{NLINE}}enhancing life...?{{NPAGE}}Like the enhanced{{NLINE}}crops?
+Momo{{NLINE}}"Or does it have to{{NLINE}}do with mutants...?{{NPAGE}}What was my father{{NLINE}}trying to do?
+Momo{{NLINE}}"At any rate,{{NPAGE}}we'd better find{{NLINE}}Director Palet...{{NPAGE}}He's the only one{{NLINE}}who can answer our{{NLINE}}questions
+Please enter password:{{CHOIC,1,2,1-2-3-4-5,1-2-3-5-4,1-2-4-3-5,1-3-2-4-5,2-1-3-4-5,Other}}
+Please enter password:{{CHOIC,2,2,2-1-3-5-4,2-1-4-5-3,1-3-2-5-4,3-1-2-4-5,3-1-2-5-4,Other}}
+Momo{{NLINE}}"That's the last door
+Momo{{NLINE}}"We should be able{{NLINE}}to find Palet now...{{NPAGE}}I have a lot of{{NLINE}}questions for him{{NLINE}}to answer!
+Momo{{NLINE}}"Let's get a move{{NLINE}}on...{{NPAGE}}If we don't, the{{NLINE}}door will close{{NLINE}}again!

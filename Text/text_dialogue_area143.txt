@@ -1,0 +1,107 @@
+{{TXTBX,06}}"Hey, you...{{PAUSE}}did you{{NLINE}}just leave that{{NLINE}}building?
+{{TXTBX,06}}"Hey, you...{{PAUSE}}did you{{NLINE}}just leave that{{NLINE}}building?
+{{TXTBX,06}}"What's this...?
+{{TXTBX,06}}"Everyone! We must{{NLINE}}celebrate!
+{{TXTBX,05}}"Please, be at ease{{NPAGE}}I am Griol, the{{NLINE}}patriarch of this{{NLINE}}village
+{{TXTBX,05}}Griol{{NLINE}}"All of us here...{{NPAGE}}are the same as you.{{NLINE}}We are all Brood...{{NLINE}}Master Ryu
+{{TXTBX,05}}Griol{{NLINE}}"Do not be alarmed,{{NLINE}}Guardian...{{NPAGE}}We gave up our powers{{NLINE}}and fled here during{{NLINE}}the Great War
+Garr{{NLINE}}"So as not to be found{{NLINE}}by us Guardians?
+{{TXTBX,06}}Old woman{{NLINE}}"Hee hee hee--Exactly!{{NPAGE}}All in preparation{{NLINE}}for this moment!
+{{TXTBX,06}}Nina{{NLINE}}"This moment...?{{NLINE}}What do you mean?
+{{TXTBX,05}}Griol{{NLINE}}"You will know...{{NLINE}}soon enough
+{{TXTBX,05}}Griol{{NLINE}}"But for now, please{{NLINE}}rest and be at ease,{{NPAGE}}Oh Dragon Prince, and{{NLINE}}noble companions...
+{{TXTBX,06}}Old woman{{NLINE}}"Please, eat this...{{NPAGE}}This meat will restore{{NLINE}}the strength sapped by{{NLINE}}the desert's heat
+"We have been awaiting{{NLINE}}your coming, Ryu,{{NLINE}}Prince of Dragons...{{NPAGE}}It has been foretold{{NLINE}}for many generations
+{{TXTBX,04}}"After our defeat by{{NLINE}}our enemies, they{{NLINE}}tried to wipe us from{{NPAGE}}the face of the{{NLINE}}earth...To survive{{NLINE}}our people either had{{NPAGE}}to give up their power{{NLINE}}like we here have, or{{NPAGE}}bury themselves deep,{{NLINE}}deep underground...
+{{TXTBX,06}}"Our brethren who{{NLINE}}hid underground...{{NPAGE}}Many of them entered{{NLINE}}a deep sleep after{{NLINE}}conceiving a child{{NPAGE}}They slept, to await{{NLINE}}the time when one{{NLINE}}day, the Brood might{{NPAGE}}walk the earth again
+"And now, that day{{NLINE}}has arrived!{{NPAGE}}The Prince is soon{{NLINE}}to awaken!
+{{TXTBX,05}}"Ryu...You have come{{NLINE}}here...{{NPAGE}}To the forgotten{{NLINE}}city of the Brood,{{NLINE}}Dragnier...
+{{TXTBX,05}}"Call it destiny{{NLINE}}if you will...{{NPAGE}}We can tell you where{{NLINE}}to find what it is{{NLINE}}you are seeking...{{NPAGE}}Where to find your{{NLINE}}foe, the goddess{{NLINE}}Myria
+{{TXTBX,05}}"Ryu...{{NLINE}}You must awaken to{{NLINE}}your true power...{{NPAGE}}And then... you must{{NLINE}}face the goddess...
+"Ryu...{{NLINE}}Are you awake?
+{{TXTBX,05}}Old woman{{NLINE}}"Ryu...{{NPAGE}}You fell asleep after{{NLINE}}the banquet...{{NPAGE}}If you're looking for{{NLINE}}your companions, they{{NLINE}}are all outside...
+"Coming this far must{{NLINE}}have been a{{NLINE}}difficult journey
+{{TXTBX,05}}Rei{{NLINE}}"Look who's awake...
+{{TXTBX,05}}Rei{{NLINE}}"The Brood are{{NLINE}}pretty amazing...{{NPAGE}}Who would've thought{{NLINE}}they were still alive,{{NPAGE}}living in a forsaken{{NLINE}}place like this...
+{{TXTBX,05}}Rei{{NLINE}}"I wonder how Garr{{NLINE}}feels right about now?
+{{TXTBX,05}}Rei{{NLINE}}"I mean, being in a{{NLINE}}city, surrounded by{{NPAGE}}people who used to{{NLINE}}be his enemies...
+{{TXTBX,05}}Rei{{NLINE}}"He's over there,{{NLINE}}looking depressed...{{NPAGE}}Let's go try to{{NLINE}}cheer him up...
+"We no longer have{{NLINE}}any powers like yours,{{NLINE}}oh prince...{{NPAGE}}We gave up our power{{NLINE}}that you might one{{NLINE}}day find your way{{NPAGE}}here and fulfill{{NLINE}}your destiny
+"We have been taught{{NLINE}}that the Guardians{{NPAGE}}are our ancient{{NLINE}}enemies...But now you{{NLINE}}claim one as a friend{{NPAGE}}Are you sure he can{{NLINE}}be trusted?
+"Look, Ryu...{{NLINE}}Isn't it cute?{{NPAGE}}It's called a rakda
+"The ancient legends{{NLINE}}tell us that our{{NLINE}}saviors will come{{NPAGE}}to us walking on{{NLINE}}a path of light...{{NPAGE}}And now, you have{{NLINE}}come...
+"moof
+"moof moof
+"moooof
+"puu puu...{{NPAGE}}{{COLRS,2}}Looks like we can{{NLINE}}{{COLRS,2}}use these beds to{{NLINE}}{{COLRS,2}}rest...{{COLRE}}{{NPAGE}}{{COLRS,2}}But now's not the{{NLINE}}{{COLRS,2}}time for that{{COLRE}}
+"Prince of Dragons...{{NPAGE}}They must have been{{NLINE}}waiting for you to{{NLINE}}come and restore{{NPAGE}}the Brood to their{{NLINE}}former power...{{NPAGE}}They sure are{{NLINE}}patient, aren't they?
+"Are you in need{{NLINE}}of anything?
+We should probably{{NLINE}}check on Garr{{NLINE}}before leaving...
+Garr{{NLINE}}"...{{PAUSE}}...{{PAUSE}}...{{NPAGE}}Even if they have{{NLINE}}forgotten the War...{{NPAGE}}I am still the sworn{{NLINE}}enemy of every person{{NLINE}}in this village...
+Garr{{NLINE}}"All the people{{NLINE}}here...{{NPAGE}}They're suspicious{{NLINE}}of the fact that{{NLINE}}you, Ryu, have{{NPAGE}}brought me here{{NLINE}}with you...
+Garr{{NLINE}}"I've come with you{{NLINE}}on this trip{{NPAGE}}because I have lost{{NLINE}}my faith, and have{{NLINE}}come to doubt my{{NPAGE}}own actions of{{NLINE}}so long ago...
+Garr{{NLINE}}"But I know that{{NLINE}}is not a good enough{{NPAGE}}reason for all the{{NLINE}}men and women of this{{NLINE}}village to trust me
+Garr{{NLINE}}"The War has not ended{{NPAGE}}in the hearts and{{NLINE}}minds of these people
+{{TXTBX,06}}Rei{{NLINE}}"Well, maybe so,{{NLINE}}Garr...{{NPAGE}}But what are you{{NLINE}}getting all gloomy{{NLINE}}about?
+{{TXTBX,06}}Rei{{NLINE}}"OK, so maybe...{{NPAGE}}the people here want{{NLINE}}Ryu to take his{{NLINE}}power, and go teach{{NPAGE}}your God a thing or{{NLINE}}two...
+{{TXTBX,06}}Rei{{NLINE}}"And maybe it's not{{NLINE}}so realistic to think{{NPAGE}}we can drop in on God{{NLINE}}and ask about the{{NLINE}}truth...
+{{TXTBX,06}}Rei{{NLINE}}"But still...{{NPAGE}}You're the one who{{NLINE}}told us to tag along{{NPAGE}}if we wanted answers{{NLINE}}to our questions...
+{{TXTBX,06}}Rei{{NLINE}}"You know what?{{NPAGE}}You just plain think{{NLINE}}too much, you know?
+{{TXTBX,06}}Rei{{NLINE}}"Anyway...{{NPAGE}}it doesn't matter what{{NLINE}}the villagers here{{NLINE}}think...{{NPAGE}}What's important is{{NLINE}}what Ryu thinks!{{NPAGE}}Am I wrong?
+{{TXTBX,03}}Griol{{NLINE}}"Ryu...{{NPAGE}}The Elder wishes to{{NLINE}}meet with you...
+{{TXTBX,03}}Griol{{NLINE}}"He is the eldest{{NLINE}}of us all...{{NPAGE}}Of all the Brood,{{NLINE}}only he remembers{{NLINE}}the Great War...
+{{TXTBX,03}}Griol{{NLINE}}"Go to the well in{{NLINE}}the village center{{NPAGE}}The Elder awaits you{{NLINE}}inside, underground
+"The Elder, the living{{NLINE}}history of our race,{{NLINE}}awaits you...
+"The Elder is waiting{{NLINE}}for you below...{{NPAGE}}Enter whenever you are{{NLINE}}ready...
+"The Guardian chose{{NLINE}}the wrong god to{{NLINE}}believe in...
+{{TXTBX,06}}Griol{{NLINE}}"It looks like you{{NLINE}}have discovered the{{NPAGE}}power of Infinity...
+{{TXTBX,06}}Griol{{NLINE}}"Very well then...{{NPAGE}}I will tell you{{NLINE}}where you can find{{NLINE}}the goddess...
+{{TXTBX,06}}Griol{{NLINE}}"You must leave here{{NPAGE}}and travel far to{{NLINE}}the north...to the{{NLINE}}{{COLRS,2}}Desert of Death{{COLRE}}!
+{{TXTBX,03}}Griol{{NLINE}}"Horis there will tell{{NLINE}}you more...
+{{TXTBX,05}}Nina{{NLINE}}"So, before we leave,{{NPAGE}}we should talk to{{NLINE}}that man Horis, right?
+{{TXTBX,05}}Garr{{NLINE}}"Thank you...{{NPAGE}}So, before we leave,{{NLINE}}we should talk to{{NLINE}}Master Horis, yes?
+{{TXTBX,05}}Rei{{NLINE}}"So we gotta talk to{{NLINE}}him before leaving?{{NPAGE}}Gotcha
+{{TXTBX,05}}Momo{{NLINE}}"We have to talk to{{NLINE}}him, right?
+{{TXTBX,06}}Griol{{NLINE}}"That's right...{{NLINE}}Horis will guide you
+{{TXTBX,06}}Griol{{NLINE}}"We have all waited{{NLINE}}for this day...{{NPAGE}}For the day our savior{{NLINE}}would come and avenge{{NLINE}}us!{{NPAGE}}...{{PAUSE}}...{{PAUSE}}...Good luck,{{NLINE}}Ryu...We have placed{{NLINE}}our trust in you
+"These rakdas are{{NLINE}}really useful for{{NLINE}}travelling in the{{NPAGE}}desert...they'll{{NLINE}}carry anything you{{NLINE}}put on 'em...
+"Did the Elder tell{{NLINE}}you of our tragic{{NLINE}}history?{{CHOIC,5,0,Yes,No}}
+"You're ready to{{NLINE}}leave, then?{{NPAGE}}I'll go with you{{NLINE}}as far as the{{NLINE}}desert...{{CHOIC,6,1,Let's go,Wait}}
+"moof
+"moof moof
+"mooof!
+"The Desert of Death{{NPAGE}}is past the place{{NLINE}}called {{COLRS,2}}the Factory{{COLRE}}{{NLINE}}to the north...{{NPAGE}}Horis will tell you{{NLINE}}the rest...
+"I imagine so...{{NPAGE}}It is the destiny{{NLINE}}of the Brood warrior{{NLINE}}to battle the goddess
+"What!?{{NPAGE}}He said that you do{{NLINE}}not need to fight{{NLINE}}the goddess!?{{NPAGE}}You must be joking!
+"Really...{{NLINE}}If that's the case,{{NLINE}}then...
+"Really?{{NLINE}}Let me know when{{NLINE}}you're ready
+Horis{{NLINE}}"Take this rakda with{{NLINE}}you...
+Horis{{NLINE}}"You're ready to{{NLINE}}leave, then?{{NPAGE}}I'll go with you{{NLINE}}as far as the{{NLINE}}desert...{{CHOIC,6,1,Let's go,Wait}}
+You should be able{{NLINE}}to rest here...{{NPAGE}}Do you want to{{NLINE}}sleep?{{CHOIC,7,0,Yes,No}}
+Ladon{{NLINE}}"Hmmm...{{PAUSE}}...{{PAUSE}}?{{NPAGE}}Who awakens me from{{NLINE}}my rest?{{NPAGE}}You...{{PAUSE}}{{PAUSE}}you're Ryu!{{NPAGE}}So, the time has{{NLINE}}finally come...{{NPAGE}}I am the ancient{{NLINE}}dragon god, Ladon{{NPAGE}}I know what it is{{NLINE}}that you must do...{{NPAGE}}Do you seek my{{NLINE}}assistance?{{CHOIC,0,0,Yes,No}}
+I know what it is{{NLINE}}that you must do...{{NPAGE}}Do you seek my{{NLINE}}assistance?{{CHOIC,0,0,Yes,No}}
+...{{PAUSE}}...{{PAUSE}}Very well, then{{NPAGE}}I see that you have{{NLINE}}awoken the power that{{NLINE}}lies within you...{{NPAGE}}You are ready to{{NLINE}}receive what I can{{NLINE}}give you
+...{{PAUSE}}...{{PAUSE}}You are{{NLINE}}not yet ready...{{NPAGE}}You have not realized{{NLINE}}your true power...{{NPAGE}}You will know when{{NLINE}}you have--return here{{NLINE}}then{{NPAGE}}Farewell...for now
+Farewell...for now
+Ladon{{NLINE}}"Well met, Ryu{{NLINE}}My child...Our hope
+Is there anyone else{{NLINE}}who seeks my aid?{{CHOIC,1,0,Yes,No}}
+It appears you are{{NLINE}}all benefiting from{{NLINE}}my power...
+Do you feel you{{NLINE}}no longer need{{NLINE}}my power?{{CHOIC,2,0,Yes,No}}
+It appears none of{{NLINE}}you are benefiting{{NLINE}}from my power...
+"Then I present{{NLINE}}{{PRMTR,0}} with a portion{{NLINE}}of my power!
+Is there anyone{{NLINE}}else who seeks my{{NLINE}}power?{{CHOIC,3,0,Yes,No}}
+"Very well then...{{NLINE}}I take back my{{NLINE}}power from {{PRMTR,0}}
+Is there any other{{NLINE}}who no longer wants{{NLINE}}my power?{{CHOIC,4,0,Yes,No}}
+You have come far,{{NLINE}}{{PRMTR,0}}, and proven{{NLINE}}your ability...{{NPAGE}}Therefore, I will{{NLINE}}grant you yet{{NLINE}}another of my powers{{NPAGE}}{{PRMTR,0}} learned{{NLINE}}{{COLRS,2}}{{PRMTR,1}}{{COLRE}}!
+Who shall apprentice?
+Who wants to quit?
+Is this OK?                Yes No
+Do you want to quit?       Yes No
+Once it was revered{{NLINE}}as Ladon, the Dragon{{NLINE}}God...{{NPAGE}}But now, it is known{{NLINE}}as the god of{{NLINE}}travelers{{NPAGE}}Do you want to save?{{CHOIC,8,0,Yes,No}}
+Once it was revered{{NLINE}}as Ladon, the Dragon{{NLINE}}God...{{NPAGE}}But now, it is known{{NLINE}}as the god of{{NLINE}}travelers{{NPAGE}}Do you want to save?{{CHOIC,8,0,Yes,No}}
+Once it was revered{{NLINE}}as Ladon, the Dragon{{NLINE}}God...{{NPAGE}}But now, it is known{{NLINE}}as the god of{{NLINE}}travelers{{NPAGE}}Do you want to save?{{CHOIC,8,0,Yes,No}}
+Once it was revered{{NLINE}}as Ladon, the Dragon{{NLINE}}God...{{NPAGE}}But now, it is known{{NLINE}}as the god of{{NLINE}}travelers{{NPAGE}}Do you want to save?{{CHOIC,8,0,Yes,No}}
+Once it was revered{{NLINE}}as Ladon, the Dragon{{NLINE}}God...{{NPAGE}}But now, it is known{{NLINE}}as the god of{{NLINE}}travelers{{NPAGE}}Do you want to save?{{CHOIC,8,0,Yes,No}}
+Once it was revered{{NLINE}}as Ladon, the Dragon{{NLINE}}God...{{NPAGE}}But now, it is known{{NLINE}}as the god of{{NLINE}}travelers{{NPAGE}}Do you want to save?{{CHOIC,8,0,Yes,No}}
+Once it was revered{{NLINE}}as Ladon, the Dragon{{NLINE}}God...{{NPAGE}}But now, it is known{{NLINE}}as the god of{{NLINE}}travelers{{NPAGE}}Do you want to save?{{CHOIC,8,0,Yes,No}}
+Once it was revered{{NLINE}}as Ladon, the Dragon{{NLINE}}God...{{NPAGE}}But now, it is known{{NLINE}}as the god of{{NLINE}}travelers{{NPAGE}}Do you want to save?{{CHOIC,8,0,Yes,No}}

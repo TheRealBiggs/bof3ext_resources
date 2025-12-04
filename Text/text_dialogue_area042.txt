@@ -1,0 +1,17 @@
+{{TXTBX,81}}Nina{{NLINE}}"It's a pretty big{{NLINE}}house, isn't it...
+Nina{{NLINE}}"It's a pretty big{{NLINE}}house, isn't it...
+Nina{{NLINE}}"Maybe we can stay{{NLINE}}here?{{NPAGE}}We need to ask{{NLINE}}someone how to get{{NLINE}}back to Wyndia too,{{NPAGE}}right?
+"There be a lot of{{NLINE}}junk 'round here...{{NPAGE}}I was thinking I might{{NLINE}}be able to sell some{{NLINE}}and make some cash...{{NPAGE}}Anyhow, you be wanting{{NLINE}}anything?
+"If you're gonna go{{NLINE}}looking around the{{NLINE}}tower,{{NPAGE}}you'll be needing{{NLINE}}some supplies, eh?
+{{TXTBX,05}}Scruffy man{{NLINE}}"Hey, you there...{{NLINE}}We're in a hurry...{{NPAGE}}Did you see a{{NLINE}}couple of kids{{NLINE}}'round here?
+{{TXTBX,06}}Merchant{{NLINE}}"Hmmmm...{{NPAGE}}Y'see, I be a humble{{NLINE}}merchant, yes?{{NPAGE}}So if ye be wantin'{{NLINE}}to knows about the{{NLINE}}kids...{{NPAGE}}It'll be costing ye,{{NLINE}}see?
+"There's a strange{{NLINE}}woman living here...{{NLINE}}A bookworm, yeah?{{NPAGE}}And she's got all{{NLINE}}sorts of traps laid{{NLINE}}all over...
+When the 4 crystals{{NLINE}}connected to the{{NLINE}}large one are filled{{NPAGE}}with magical energy,{{NLINE}}you will be presented{{NLINE}}with one of three{{NPAGE}}fates...{{NLINE}}If you seek a new{{NLINE}}destiny, return here
+Danger!{{NLINE}}High-grade chrysm!{{NPAGE}}There are a lot of{{NLINE}}monsters that have{{NLINE}}come looking for it!{{NPAGE}}Enter at your own{{NLINE}}risk!{{NLINE}}         Momo
+"Hummmm...{{NLINE}}Dangerous not{{NLINE}}Name Workbot is...{{NPAGE}}How to fight I{{NLINE}}explain...{{CHOIC,0,2,Mechanical enemies,Breath attacks,Magic-using enemies,Inoculations,Escaping,No more}}
+"Machines like Workbot{{NLINE}}enemies there are...{{NPAGE}}Go crazy machines{{NLINE}}there are...{{NPAGE}}Armored 'bot hard is{{NLINE}}Destroy armor must or{{NLINE}}defeat not{{NPAGE}}More is telling...{{CHOIC,0,2,Mechanical enemies,Breath attacks,Magic-using enemies,Inoculations,Escaping,No more}}
+"User's strength{{NLINE}}change breath attack{{NLINE}}does...{{NPAGE}}No fear breath if{{NLINE}}strength low is...{{NPAGE}}More is telling...{{CHOIC,0,2,Mechanical enemies,Breath attacks,Magic-using enemies,Inoculations,Escaping,No more}}
+"Ignore enemies'{{NLINE}}Defense does magic{{NLINE}}attack...{{NPAGE}}Many spellcasters{{NLINE}}fighting, removing{{NLINE}}armor is best...{{NPAGE}}Faster speed, EX turn,{{NLINE}}more damage...{{NPAGE}}More is telling...{{CHOIC,0,2,Mechanical enemies,Breath attacks,Magic-using enemies,Inoculations,Escaping,No more}}
+Many enemies using{{NLINE}}fire, is best getting{{NLINE}}inoculation first...{{NPAGE}}Until resting is{{NLINE}}effect of inoculation{{NLINE}}lasting...{{NPAGE}}More is telling...{{CHOIC,0,2,Mechanical enemies,Breath attacks,Magic-using enemies,Inoculations,Escaping,No more}}
+If cannot win are you{{NLINE}}are thinking, best is{{NLINE}}to be escaping...{{NPAGE}}Use new skill later{{NLINE}}to again try...{{NPAGE}}Knowing you are{{NLINE}}escape command is{{NLINE}}R1 button, yes?{{NPAGE}}More is telling...{{CHOIC,0,2,Mechanical enemies,Breath attacks,Magic-using enemies,Inoculations,Escaping,No more}}
+"Many things trying{{NLINE}}is best...{{NPAGE}}Weak point everything{{NLINE}}has somewhere

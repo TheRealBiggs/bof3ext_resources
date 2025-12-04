@@ -1,0 +1,677 @@
+Momo{{NLINE}}"Hmmm...{{NPAGE}}So this is the other{{NLINE}}side of the{{NLINE}}lighthouse, then?
+Momo{{NLINE}}"Hmmm...{{NPAGE}}So this is the other{{NLINE}}side of the{{NLINE}}lighthouse, then?
+{{TXTBX,06}}Cadis{{NLINE}}"That's right, dummy!{{NPAGE}}That's why I told{{NLINE}}you not to turn it{{NLINE}}on!
+{{TXTBX,03}}Mayfly{{NLINE}}"What are we going{{NPAGE}}to do now that the{{NLINE}}light's on, El?
+{{TXTBX,04}}Elkhair{{NLINE}}"'What're we going to{{NLINE}}do'? You know what's{{NPAGE}}going to happen, May?{{NLINE}}That {{COLRS,2}}monster{{COLRE}}'s going{{NLINE}}to come after us again
+{{TXTBX,03}}Mayfly{{NLINE}}"I know that!{{NPAGE}}That's why I'm asking{{NLINE}}what are we going to{{NLINE}}do, you dummy!
+{{TXTBX,04}}Elkhair{{NLINE}}"I'm not a dummy!{{NPAGE}}Only dummies call{{NLINE}}people dummies!
+{{TXTBX,03}}Mayfly{{NLINE}}"Are you calling me{{NLINE}}a dummy, El?
+{{TXTBX,06}}Cadis{{NLINE}}"STOP IT!
+{{TXTBX,06}}Cadis{{NLINE}}"So, that's our{{NLINE}}problem.{{NPAGE}}What are you{{NLINE}}gonna do about it?
+Momo{{NLINE}}"Well...I suppose{{NPAGE}}we could kill that{{NLINE}}monster for you...?
+Cadis{{NLINE}}"Good idea!{{NPAGE}}{{COLRS,2}}It{{COLRE}} comes out of the{{NLINE}}sea at night, so you{{NPAGE}}should wait down at{{NLINE}}the beach...
+Momo{{NLINE}}"I'm not really sure{{NLINE}}what's going on...{{NPAGE}}But why don't we help{{NLINE}}them? It doesn't look{{NPAGE}}like the boat's coming{{NLINE}}anytime soon...
+"The beach is right{{NLINE}}below this house{{NPAGE}}Kill that nasty monster{{NLINE}}for us...pretty please?
+"We used to live in{{NLINE}}the forest...{{NPAGE}}But when the mine was{{NLINE}}started up, the forest{{NLINE}}was destroyed
+"Things were OK for a{{NLINE}}while after we came{{NLINE}}here...{{NPAGE}}But then {{COLRS,2}}it{{COLRE}} came out{{NLINE}}of the ocean and{{NLINE}}started bullying us!
+It looks like some{{NLINE}}kind of cocoon...
+This looks like the{{NLINE}}beach...Do you wait{{NLINE}}for nightfall?{{CHOIC,0,0,Yes,No}}
+Momo{{NLINE}}"I wonder if we'll{{NLINE}}see anything?
+Momo{{NLINE}}"Hey! What's that!?
+Momo{{NLINE}}"Here it comes...{{NPAGE}}Let's get it when it{{NLINE}}sticks its head out{{NLINE}}of the water, OK?
+{{TXTBX,06}}Nina{{NLINE}}"This...{{PAUSE}} is the{{NLINE}}monster?
+Momo{{NLINE}}"It's a dolphin...
+{{TXTBX,05}}Dolphin{{NLINE}}"Ouch....{{NLINE}}What was that for?
+Momo{{NLINE}}"Sorry...{{NPAGE}}It's just that we were{{NLINE}}told there was a{{NLINE}}monster coming, and{{NPAGE}}we thought that you{{NLINE}}were...well...
+{{TXTBX,05}}Dolphin{{NLINE}}"Everyone makes a{{NLINE}}mistake now and then--{{NPAGE}}no worries...{{NPAGE}}Why don't you tell{{NLINE}}me about this{{NLINE}}monster?
+{{TXTBX,06}}Nina{{NLINE}}"He's a nice dolphin,{{NLINE}}isn't he?{{NPAGE}}I wonder if he's what{{NLINE}}the faeries are afraid{{NLINE}}of?
+Momo{{NLINE}}"Let's go ask them
+{{TXTBX,05}}"Oi! What's got your{{NLINE}}goat, laying into me{{NLINE}}like that?
+{{TXTBX,05}}Dolphin{{NLINE}}"No worries, mate, but{{NLINE}}it's your lookout...{{NPAGE}}I was just minding the{{NLINE}}sheilas, but if you{{NPAGE}}want to take it{{NLINE}}outside...
+{{TXTBX,05}}Dolphin{{NLINE}}"What's with the{{NLINE}}lighthouse, anyway?{{NPAGE}}Bloody nuisance, can't{{NLINE}}get a wink wit' it{{NLINE}}shining away all night{{NPAGE}}Get rid o' it, apples{{NLINE}}it ain't. Else we{{NLINE}}might have a bit o'{{NPAGE}}a barney happening...
+{{TXTBX,01}}For those players who{{NLINE}}don't speak Australian{{NPAGE}}we have provided an{{NLINE}}English translation{{NLINE}}of the previous scene{{NPAGE}}Do you want to replay{{NLINE}}the scene?{{CHOIC,1,0,Yes,No}}
+{{TXTBX,05}}Dolphin{{NLINE}}"Hey!{{NPAGE}}What do you think{{NLINE}}you're doing, hitting{{NLINE}}me like that!
+{{TXTBX,05}}Dolphin{{NLINE}}"All right...{{NPAGE}}I was just being{{NLINE}}nice 'cause the{{NLINE}}chicks were here...{{NPAGE}}If it's just you,{{NLINE}}I won't hold back,{{NLINE}}see?
+{{TXTBX,05}}Dolphin{{NLINE}}"What's up with the{{NLINE}}lighthouse, anyway?{{NPAGE}}When it's on, the{{NLINE}}light gets in my eyes{{NLINE}}and I can't sleep{{NPAGE}}Turn it off already,{{NLINE}}would ya?{{NPAGE}}If you don't, I{{NLINE}}might have to get{{NLINE}}rough with ya, see?
+{{TXTBX,06}}Cadis{{NLINE}}"That's him!
+{{TXTBX,05}}Momo{{NLINE}}"This...is the monster?
+{{TXTBX,06}}Mayfly{{NLINE}}"He told us that if{{NPAGE}}we didn't turn off{{NLINE}}the lighthouse...{{NPAGE}}That he would eat{{NLINE}}us! Can you believe{{NLINE}}it!?
+{{TXTBX,05}}Dolphin{{NLINE}}"Hey, the light's too{{NLINE}}bright, you know?{{NPAGE}}I can't sleep, yeah?{{NPAGE}}So, you think you{{NLINE}}could, like, turn{{NLINE}}it off for me, huh?
+Elkhair{{NLINE}}"If you want it{{NLINE}}turned off,{{NPAGE}}do it yourself,{{NLINE}}dummy!
+{{TXTBX,06}}Mayfly{{NLINE}}"That's right, you{{NLINE}}dummy!{{NPAGE}}Why do you have{{NLINE}}to bully us about it{{NLINE}}anyway!
+Cadis{{NLINE}}"Leave us alone,{{NPAGE}}you big dumb{{NLINE}}dolphin!
+{{TXTBX,05}}Dolphin{{NLINE}}"{{EFCTS}}Shaddap!{{EFCTE,04}}{{NLINE}}Runts!{{NPAGE}}I should just fry{{NLINE}}you in oil and{{NLINE}}have you for a{{NPAGE}}midnight snack!
+{{TXTBX,05}}Dolphin{{NLINE}}"I've had it!{{NPAGE}}You're dead! You're{{NLINE}}all dead!
+"Thank you for{{NLINE}}saving us from him{{NPAGE}}Since it's so late,{{NLINE}}why don't you just{{NLINE}}rest here?
+Mayfly{{NLINE}}"Here's a kiss for{{NLINE}}you! Smooooooch!{{NPAGE}}Thank you sooooo much!
+{{TXTBX,06}}Cadis{{NLINE}}"Thank you for getting{{NPAGE}}rid of that nasty{{NLINE}}dolphin for us
+Momo{{NLINE}}"It's OK to leave{{NPAGE}}the lighthouse on{{NLINE}}now, right?
+{{TXTBX,06}}Cadis{{NLINE}}"Right!{{NPAGE}}We weren't able to{{NLINE}}make any new friends{{NLINE}}with him around...
+{{TXTBX,05}}Mayfly{{NLINE}}"But now that he's{{NLINE}}gone,{{NPAGE}}we can have all{{NLINE}}sorts of friends over!
+Cadis{{NLINE}}"We'll make this{{NLINE}}place something{{NPAGE}}really special...{{NPAGE}}Please come back and{{NLINE}}visit us every once in{{NLINE}}a while!
+"Come back again soon
+"We hatch from cocoons{{NLINE}}just as you saw...{{NPAGE}}What?{{PAUSE}} Before that?{{NPAGE}}We're just little{{NLINE}}worms--pretty icky,{{NLINE}}huh?
+"There aren't a lot{{NLINE}}of animals here like{{NLINE}}there were{{NPAGE}}in the forest...{{NLINE}}But there's a lot of{{NLINE}}fish for us to eat!
+"Hee hee hee
+Population change
+Death
+Due to food shortage
+Expedition failure
+Birth
+Procure food
+Do you accept?             Yes No
+Hunting
+Tend to crops
+Tending crops
+Build house
+Building house
+Sell products
+Move where?
+Emphasize what?
+What course do you want?
+Selling products
+Develop new jobs and culture
+What do you want to develop?
+Developing (jobs)
+Developing (culture)
+Explore and search for items
+Send expedition where?
+Exploring
+"I found a{{NLINE}}{{COLRS,2}}{{PRMTR,0}}{{COLRE}}{{NLINE}}on this expedition!{{NPAGE}}Here--you can have it!
+"Whoops! You got too{{NLINE}}many things already!{{NPAGE}}You'll have to come{{NLINE}}back and get it later
+"Where do you want{{NLINE}}me to go next?
+"I'm sorry...I wasn't{{NLINE}}able to find anything
+Runs an inn and...?
+Running the inn
+"Long time no see!{{NPAGE}}We've been finding{{NLINE}}out all sorts of{{NLINE}}interesting things{{NPAGE}}Did you know...{{NPAGE}}You've been in this{{NLINE}}world for {{PRMTR,0}} hours{{NLINE}}and {{PRMTR,1}} minutes?{{NPAGE}}And that you've run{{NLINE}}into monsters {{PRMTR,2}}{{NLINE}}times?{{NPAGE}}And that you've made{{NLINE}}{{PRMTR,3}} zenny?{{NPAGE}}What do you think?{{NLINE}}Do we know how to{{NLINE}}snoop or what?
+"Hi there!{{NPAGE}}I've been studying you{{NLINE}}a lot too{{NPAGE}}So far, you've looked{{NLINE}}in {{PRMTR,0}} people's{{NLINE}}drawers (naughty boy!),{{NPAGE}}and found {{PRMTR,1}}{{NLINE}}treasures,{{NPAGE}}and gone fishing {{PRMTR,2}}{{NLINE}}times!{{NPAGE}}And...and...{{NLINE}}That's all I'm going{{NLINE}}to tell you today!
+Play music
+Playing music
+"Thanks for coming!{{NLINE}}Want to hear me{{NLINE}}play some songs?{{CHOIC,2,0,Yes,No}}
+"Thanks! Come back{{NLINE}}sometime, OK?
+"How about this?{{NPAGE}}It's called {{COLRS,2}}{{PRMTR,0}}{{COLRE}}
+Make a copy of an item
+Copying item
+"Hi there!{{NPAGE}}If you give me one{{NLINE}}of your items, I'll{{NLINE}}make a copy of it!{{NPAGE}}Well, sometimes I make{{NLINE}}a mistake, but who{{NLINE}}doesn't, right?{{NPAGE}}So, do you want to{{NLINE}}give me an item?{{CHOIC,3,0,Yes,No}}
+"Oh, OK.{{NLINE}}See you later!
+"OK, pick an{{NLINE}}item then
+Do you want a{{NLINE}}{{PRMTR,0}}?{{CHOIC,4,0,Yes,No}}
+"I'll get to work now{{NLINE}}so come back later{{NPAGE}}If you close down the{{NLINE}}copy shop or switch{{NLINE}}who's working,{{NPAGE}}you'll loose the item,{{NLINE}}so don't do something{{NLINE}}silly like that, OK?
+"Do you want to{{NLINE}}choose something{{NLINE}}else?{{CHOIC,5,0,Yes,No}}
+"Sorry, it's not{{NLINE}}ready yet!
+"Ta-da!{{NLINE}}I did it! I did it!{{NLINE}}Here you go!{{NPAGE}}You got your item{{NLINE}}{{PRMTR,0}}{{SYM81}}2!
+"Ta-da!{{NLINE}}I did it! I did it!{{NLINE}}Here you go!{{NPAGE}}Whoops! You've got too{{NLINE}}much stuff already!{{NLINE}}Come back again later!
+"Ummm...I...um, well,{{NLINE}}I couldn't make a{{NLINE}}copy...Sorry{{PAUSE}}{{PAUSE}}{{NPAGE}}You got your item{{NLINE}}back:{{NLINE}}{{PRMTR,0}}
+"Ummm...I...um, well,{{NLINE}}I messed up...{{PAUSE}}{{PAUSE}}{{NPAGE}}Look what happened{{NLINE}}to it!{{NPAGE}}You got a {{PRMTR,0}}
+Wait
+Waiting
+Play various games
+Playing games
+"Thanks for coming!{{NPAGE}}I know some fun{{NLINE}}games we could play{{NLINE}}together...{{NPAGE}}Do you want to play{{NLINE}}with me?{{CHOIC,6,0,Yes,No}}
+"That's too bad...{{NPAGE}}See you later!
+"You already know{{NLINE}}the rules, don't{{NLINE}}you?{{CHOIC,7,0,Yes,No}}
+"OK, I'll tell you{{NLINE}}the rules then{{NPAGE}}There are 9 unique{{NLINE}}cards, each with a{{NLINE}}number from 1-9{{NPAGE}}I'll lay them out in a{{NLINE}}row on the table, and{{NPAGE}}turn the first one{{NLINE}}over...{{NPAGE}}then, you guess if the{{NLINE}}next card in the{{NLINE}}series is higher or{{NPAGE}}lower than the card{{NLINE}}before it...If you{{NLINE}}want, you can guess{{NPAGE}}up to 8 cards ahead,{{NLINE}}but if you do, it gets{{NLINE}}that much harder, see?{{NPAGE}}If you guess any{{NLINE}}single card wrong,{{NLINE}}then you lose{{NPAGE}}If you guess right{{NLINE}}then your pot goes{{NLINE}}up based on the number{{NPAGE}}of guess you made, and{{NLINE}}you can keep playing{{NLINE}}with the pot from the{{NPAGE}}previous game...Every{{NLINE}}once in a while,{{NLINE}}you'll get lucky{{NPAGE}}and something special{{NLINE}}will happen!{{NPAGE}}Whew! Now, do you{{NLINE}}understand the rules?{{CHOIC,8,0,Yes,No}}
+"How much money do{{NLINE}}you want to bet?{{NLINE}}(Choose from 1-100)
+"Awww...You don't want{{NLINE}}to play? OK, see you{{NLINE}}later then!
+"Here we go!{{NLINE}}Choose whether it's{{NLINE}}high or low!
+"That's too bad...{{NLINE}}You missed!{{NPAGE}}"Do you want to{{NLINE}}play again?{{CHOIC,20,0,Yes,No}}
+"Do you want to{{NLINE}}play again?{{CHOIC,20,0,Yes,No}}
+"Yay! You won!{{NLINE}}Do you want to{{NLINE}}keep playing?{{CHOIC,9,0,Yes,No}}
+"You want to quit?{{NLINE}}OK, here!
+"That's the spirit!{{NLINE}}OK, here we go!
+"Eh? I can't pay{{NLINE}}that much...sorry
+"Which game do you{{NLINE}}want to play?{{NPAGE}}By the way, if you{{NLINE}}want to play the{{NLINE}}{{COLRS,2}}number guessing{{COLRE}} game,{{NPAGE}}you'll need at least{{NLINE}}500 zenny!{{CHOIC,10,0,High&Low,Numbers}}
+"Really? That's too{{NLINE}}bad...See you later!
+"Whoops! You don't{{NLINE}}have enough money!{{NLINE}}Come back later!
+"Do you need me to{{NLINE}}tell you the rules?{{CHOIC,11,0,No,Yes}}
+"In this game you have{{NLINE}}to guess a three digit{{NLINE}}number{{NPAGE}}The number's digits{{NLINE}}are between 1 and 9,{{NPAGE}}and each digit appears{{NLINE}}only once in the{{NLINE}}number{{NPAGE}}You have eight guesses{{NPAGE}}If a number you pick{{NLINE}}matches both the{{NLINE}}number and the row,{{NPAGE}}I'll tell you that you{{NLINE}}got a "{{COLRS,2}}hit{{COLRE}}"...{{NPAGE}}If the number appears{{NLINE}}in the three digit{{NLINE}}number,{{NPAGE}}but is in the wrong{{NLINE}}row, I'll tell you{{NLINE}}that you got a "{{COLRS,2}}blow{{COLRE}}"{{NPAGE}}The faster you guess{{NLINE}}the number, the bigger{{NLINE}}and better of a prize{{NPAGE}}you'll get{{NPAGE}}If you can't guess it{{NLINE}}in 8 tries, you lose{{NLINE}}your 500 zenny!{{NPAGE}}Understand?{{CHOIC,12,0,Yes,No}}
+"OK, here we go!
+"Tell me a number
+Hits: {{PRMTR,0}}{{NLINE}}Blows: {{PRMTR,1}}
+"Congratulations!!{{NLINE}}You got it!{{NPAGE}}You solved it in{{NLINE}}{{PRMTR,0}} guesses, and you{{NLINE}}win a prize!{{NPAGE}}You got:{{NPAGE}}{{COLRS,2}}{{PRMTR,1}}{{COLRE}}!
+"You've got too much{{NLINE}}stuff! You'll have to{{NLINE}}get rid of something
+"Do you want to{{NLINE}}give up?{{CHOIC,13,0,Yes,No}}
+"Buzzt! That's it!{{NLINE}}Here's the answer
+"Want to play again?{{CHOIC,14,0,Yes,No}}
+"I was waiting for{{NLINE}}you to come back!{{NPAGE}}C'mon, let's play{{NLINE}}a game!{{CHOIC,15,0,OK,Not now}}
+"Aw, too bad{{NLINE}}Come back soon!
+"Do you remember the{{NLINE}}rules?{{CHOIC,16,0,Yes,No}}
+"OK, let me show you{{NLINE}}to play...{{NPAGE}}This is a number{{NLINE}}guessing game, OK?{{NPAGE}}Each time, we'll{{NLINE}}randomly pick five{{NLINE}}numbers from 1-9{{NPAGE}}and you have to{{NLINE}}guess what those{{NLINE}}numbers are...{{NPAGE}}But you don't always{{NLINE}}have to pick five!{{NPAGE}}You can pick only{{NLINE}}one if you want,{{NLINE}}but the more numbers{{NPAGE}}you guess, the more{{NLINE}}you win! So it's{{NLINE}}good to pick lots!{{NPAGE}}'Cause that way,{{NLINE}}you win lots!{{NPAGE}}Get it?{{CHOIC,17,0,Yes,No}}
+"How much money do you{{NLINE}}want to bet?{{NLINE}}(1-100 zenny)
+"You don't want to{{NLINE}}play? Oh, well, too{{NLINE}}bad...Bye-bye!
+"Here we go!
+"Pick a number
+"Yay! Congratulations!{{NLINE}}{{PRMTR,0}} is right! That{{NLINE}}gives you {{SYM81}}{{PRMTR,1}}!
+"Too bad...you guessed{{NLINE}}wrong...
+"Want to try again?{{CHOIC,18,0,Yes,No}}
+Will buy unusual items
+Second-hand shop
+Gives away items
+Gift shop
+"Hi there! Here's{{NLINE}}your present!{{NPAGE}}You got a{{NLINE}}{{PRMTR,0}}!
+"Whoops! You've got{{NLINE}}too much stuff!{{NPAGE}}Come back later when{{NLINE}}you've got some more{{NLINE}}room, OK?
+"I don't have{{NLINE}}anything right now.{{NLINE}}Come back later
+Predicts the future
+Fortune teller
+"The spirits say...{{NPAGE}}The damage caused by a{{NLINE}}breath attack changes{{NLINE}}based on remaining HP
+"I sense a great power{{NLINE}}from above us... In{{NLINE}}the sky...
+"I hear a voice...{{NPAGE}}Use healing magics{{NLINE}}to damage the{{NLINE}}undead...
+"I've got it!{{PAUSE}}{{PAUSE}}{{NLINE}}Your name in your{{NLINE}}previous life was{{NPAGE}}Bob!{{CHOIC,19,0,Yes,Um, no}}
+"I knew it! I knew{{NLINE}}it! Just as I{{NLINE}}thought
+"No, no, I knew that{{NLINE}}wasn't it! Just as{{NLINE}}I thought
+"I've got it!{{PAUSE}}{{PAUSE}}{{NLINE}}Your name in your{{NLINE}}previous life was{{NPAGE}}Guido!{{CHOIC,19,0,Yes,Um, no}}
+"There's a traitor{{NLINE}}in your midst! Be{{NLINE}}careful!
+"You'd better not{{NLINE}}leave this room...{{NLINE}}There's...{{NPAGE}}That's it!
+"I see...{{NPAGE}}That you will be{{NLINE}}fighting fire very{{NLINE}}soon...
+"I can see your future{{NLINE}}It's...it's...Oh, no!{{NLINE}}Not that! Horrible!{{NPAGE}}It's too frightening!{{NLINE}}I can't say any more!
+"I see it...{{NPAGE}}What you're looking{{NLINE}}for is to the west
+"Using the Hourglass{{NLINE}}stops time, you know
+"What if you hit{{NLINE}}someone who's asleep?
+"You should take it{{NLINE}}easy today--no dashing{{NLINE}}around, OK?
+"Y...{{PAUSE}}you...{{PAUSE}}...!
+"Using a certain item{{NLINE}}increases the amount{{NPAGE}}of zenny and EXP you{{NLINE}}get from enemies
+"Have you heard of{{NLINE}}the {{COLRS,2}}Spanner{{COLRE}}?
+"Did you know that{{NLINE}}{{COLRS,2}}whales{{COLRE}} really aren't{{NLINE}}fish?
+"Have you seen the{{NLINE}}Wildfire?
+"I've heard legends{{NLINE}}about a powerful{{NLINE}}weapon called the{{NPAGE}}{{COLRS,2}}Dragon Blade{{COLRE}}{{NLINE}}somewhere in the{{NLINE}}world...
+"Garr seems to have{{NLINE}}a natural immunity{{NLINE}}to flame
+"Momo seems a little{{NLINE}}scatterbrained,{{NLINE}}doesn't she?
+"The stronger your{{NLINE}}flame magic gets...{{NPAGE}}You'll meet monsters{{NLINE}}with more and more{{NLINE}}EXP!
+"There are 17 masters{{NLINE}}in all
+"If you don't want{{NLINE}}to run into monsters,{{NPAGE}}maybe you should try{{NLINE}}walking instead of{{NLINE}}running
+Assign a faerie:
+"I'm keeping the{{NLINE}}grounds in shape{{NLINE}}It's really hard work!
+"Boy, this dirt{{NLINE}}sure is hard!
+"I'm working!{{NLINE}}I really am!
+"Careful! Watch it!{{NLINE}}Don't walk there!
+"You've gotta keep{{NLINE}}tilling and tilling{{NLINE}}it like this
+"Whew! I'm beat!{{NLINE}}I'm going to take{{NLINE}}a break!
+"I'm not sure exactly{{NLINE}}how you make a house--{{NLINE}}I'm really excited!
+"I'm building a house!{{NLINE}}I don't really know{{NLINE}}how to, though...
+"I'll work really{{NLINE}}hard--I promise!
+"I...I'm not goofing{{NLINE}}off! I'm working, I{{NLINE}}really am!
+"Whoo...{{NLINE}}I'm all worn out
+"What should I do?
+"I've got nothing to{{NLINE}}do so I'm just{{NLINE}}hanging around here...
+"Well,{{PAUSE}} hi there{{NPAGE}}Me? I've got nothing{{NLINE}}to do...I'm so bored!
+"I'm sooooo bored{{NLINE}}Isn't there anything{{NLINE}}to do?
+"Nothing to do, so{{NLINE}}I'm taking it easy
+"If I don't do{{NLINE}}something soon, I'm{{NLINE}}gonna get fat!
+"Welcome!{{NLINE}}I've got nothing{{NLINE}}but the best!
+"I'm thinking up new{{NLINE}}jobs to do!
+"I'm trying to think{{NLINE}}of how we can grow{{NLINE}}faster!
+"Hi there!{{NLINE}}Why don't you come{{NLINE}}stay with me?
+"Hi! I'll buy any old{{NLINE}}or unusual stuff you{{NLINE}}have for better prices{{NPAGE}}than any other store{{NLINE}}anywhere!
+"I can't think of{{NLINE}}any more new jobs!
+"Hmmmm...We've run{{NLINE}}out of room to{{NLINE}}build new houses!
+"What should we do?{{NLINE}}There's no more room{{NLINE}}for houses!
+"Help us! Help us!{{NPAGE}}Tell us what we should{{NLINE}}be doing to build our{{NLINE}}village!{{NPAGE}}You already know what{{NLINE}}to do, right?{{CHOIC,26,0,Yes,No}}
+"I think there are 12{{NLINE}}different kinds of{{NLINE}}antiques out there{{NPAGE}}somewhere in the{{NLINE}}world...
+"Just once in my life,{{NLINE}}I'd like to see a{{NLINE}}{{COLRS,2}}Dragon Tear{{COLRE}}...
+"Hmmmmm{{NLINE}}What should I{{NLINE}}make?
+"The more people{{NLINE}}working, the faster{{NLINE}}we get new stuff!
+"What kind of song{{NLINE}}should I make next?
+"I could make new{{NLINE}}songs faster if I had{{NLINE}}people helping me!
+"Um...You see...I, uh,{{NLINE}}messed up{{NPAGE}}Whoops--you've got too{{NLINE}}many items...Come back{{NLINE}}later, OK?
+"Um...You see...I, uh,{{NLINE}}messed up{{NPAGE}}And look what happened!{{NPAGE}}Whoops--you've got too{{NLINE}}many items...Come back{{NLINE}}later, OK?
+...Nothing new on the{{NLINE}}message board...
+{{PRMTR,0}} got new merchandise
+{{PRMTR,0}} made a new song
+{{PRMTR,0}} finished exploring
+{{PRMTR,0}} has finished copying
+Increased village size
+Made a new room
+Discovered new work
+Culture level rose
+"Hmmm this is no good{{NLINE}}I can't do anything{{NLINE}}about it...
+"Hmmm this is no good{{NLINE}}I can't do anything{{NLINE}}about it...
+"Hmmm this is no good{{NLINE}}I can't do anything{{NLINE}}about it...
+"Hmmm this is no good{{NLINE}}I can't do anything{{NLINE}}about it...
+"Hmmm this is no good{{NLINE}}I can't do anything{{NLINE}}about it...
+"Hmmm this is no good{{NLINE}}I can't do anything{{NLINE}}about it...
+"Hmmm this is no good{{NLINE}}I can't do anything{{NLINE}}about it...
+"Hmmm this is no good{{NLINE}}I can't do anything{{NLINE}}about it...
+"Hmmm this is no good{{NLINE}}I can't do anything{{NLINE}}about it...
+"Hmmm this is no good{{NLINE}}I can't do anything{{NLINE}}about it...
+"Hmmm this is no good{{NLINE}}I can't do anything{{NLINE}}about it...
+Topics
+"I just love thinking{{NLINE}}up nicknames for{{NLINE}}people!{{NPAGE}}Do you want to help{{NLINE}}me think of new ones?{{CHOIC,21,0,Yes,No}}
+"Do you want to give{{NLINE}}us or you new{{NLINE}}nicknames?{{CHOIC,22,0,You,Us}}
+"OK, pick who'll get{{NLINE}}a new nickname!
+Who will get a new nickname:
+Is this acceptable?        Yes No
+"Is it OK if I think{{NLINE}}of a new nickname for{{NLINE}}this person?{{CHOIC,23,0,Yes,No}}
+"OK...this person is{{NLINE}}{{COLRS,2}}{{PRMTR,0}}{{COLRE}}!{{CHOIC,24,0,OK,No}}
+"Do you really{{NLINE}}like it?{{CHOIC,24,0,Yes,No}}
+"OK, so from now{{NLINE}}on, be sure to{{NLINE}}call {{COLRS,2}}{{PRMTR,0}}{{COLRE}}{{NPAGE}}{{COLRS,2}}{{PRMTR,1}}{{COLRE}}, all right?
+"Shall we keep making{{NLINE}}nicknames?{{CHOIC,25,0,Yes,No}}
+"OK, bye-bye{{NLINE}}See you later!
+What do you want{{NLINE}}to know?{{CHOIC,27,2,What do we do?,How do we help?,Determining abilities,Hints,Nothing}}
+"OK, it's up to you now!
+"Basically, we want{{NLINE}}you to tell us what{{NLINE}}work we should do...{{NPAGE}}There's all kinds of{{NLINE}}different work...For{{NLINE}}example, if no one's{{NPAGE}}hunting, then we can't{{NLINE}}get food and we'll die{{NPAGE}}Without any scholars,{{NLINE}}we can't think of new{{NLINE}}jobs...{{NPAGE}}We want you to tell{{NLINE}}us how many faeries{{NPAGE}}should be working on{{NLINE}}each job!
+"You can assign us{{NLINE}}to a job by moving{{NLINE}}us to the appropriate{{NPAGE}}square on the{{NLINE}}assignment page!{{NPAGE}}You can make one of{{NLINE}}us change jobs by{{NLINE}}moving the cursor to{{NPAGE}}that faerie and{{NLINE}}pressing the button!
+"Just like people, we{{NLINE}}faeries have things{{NLINE}}we're good at, and{{NPAGE}}things we're not so{{NLINE}}good at...{{NPAGE}}When you move the{{NLINE}}cursor on top of a{{NLINE}}faerie, you'll see{{NPAGE}}four bars of different{{NLINE}}colors, which show{{NPAGE}}what that faerie's{{NLINE}}abilities are!{{NPAGE}}{{COLRS,2}}Red{{COLRE}} is the hunting{{NLINE}}color...{{NPAGE}}The longer the bar,{{NLINE}}the better that{{NLINE}}faerie is at hunting{{NPAGE}}{{COLRS,6}}Green{{COLRE}} shows how{{NLINE}}strong that faerie is{{NPAGE}}A big bar means that{{NLINE}}faerie would make a{{NLINE}}good builder...{{NPAGE}}{{COLRS,1}}Blue{{COLRE}} is for business{{NPAGE}}The bigger the bar,{{NLINE}}the better the faerie{{NLINE}}is at selling things...{{NPAGE}}Finally, the {{COLRS,3}}sky blue{{COLRE}}{{NLINE}}bar shows how smart{{NLINE}}the faerie is...{{NPAGE}}A big bar here means{{NLINE}}that faerie would make{{NLINE}}a good scholar!
+"One house can hold{{NLINE}}at most three faeries{{NPAGE}}And the more faeries,{{NLINE}}the better...{{NPAGE}}Since faeries who are{{NLINE}}hunting, clearing, or{{NLINE}}building don't need a{{NPAGE}}house, it's good to{{NLINE}}send excess faeries to{{NLINE}}do those jobs...{{NPAGE}}To make sure we don't{{NLINE}}starve, we need about{{NLINE}}a third or so of the{{NPAGE}}whole population{{NLINE}}hunting at any time
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+      NEW TITLE
+    Country Living
+  These Little Things
+    Take It And Run
+        Healing
+    Life's A Beach
+ Even The Sun's Happy
+   Walking Straight
+          30
+ Crowing in the Night
+   Plenty of Money
+   My Favorite Trick
+       War Tiger
+      Technology
+     Fried Onions
+     Peach Engine
+    In the Morning
+     Fighting Man
+        Guild
+         Ago
+   Neverending Game
+        Thief
+   Walking the Road
+         Eden
+    That Old House
+      Windy City
+        Island
+     The Champion
+     Turning Point
+     Don't Say It
+   Steam Locomotion
+      Heavy Echo
+        Cadaver
+        Missing
+   Dangerous Feeling
+  Of Gods and Dragons
+        Flight
+   The Poor Marcher
+   Dead Dragon Stone
+    For the Dragons{{NLINE}}   -- Main Theme --
+  Castle in the Sky
+      PURE AGAIN
+      PURE AGAIN
+      PURE AGAIN{{NLINE}}     INSTRUMENTAL
+Cadis{{NLINE}}"Please please{{NLINE}}pretty please!{{NPAGE}}You've got to tell{{NLINE}}us what to do!{{NPAGE}}You don't need me to{{NLINE}}tell you what you{{NLINE}}have to do, right?{{CHOIC,26,1,Right,Wrong}}
+Cadis{{NLINE}}"Please please{{NLINE}}pretty please!{{NPAGE}}You've got to tell{{NLINE}}us what to do!{{NPAGE}}You don't need me to{{NLINE}}tell you what you{{NLINE}}have to do, right?{{CHOIC,26,1,Right,Wrong}}
+Cadis{{NLINE}}"Please please{{NLINE}}pretty please!{{NPAGE}}You've got to tell{{NLINE}}us what to do!{{NPAGE}}You don't need me to{{NLINE}}tell you what you{{NLINE}}have to do, right?{{CHOIC,26,1,Right,Wrong}}
+Cadis{{NLINE}}"Please please{{NLINE}}pretty please!{{NPAGE}}You've got to tell{{NLINE}}us what to do!{{NPAGE}}You don't need me to{{NLINE}}tell you what you{{NLINE}}have to do, right?{{CHOIC,26,1,Right,Wrong}}
+"D'you want to hear{{NLINE}}me sing?{{CHOIC,28,1,Sing Pure Again,Pure Again (karaoke),No thanks}}
+"See you later!
+Cadis{{NLINE}}"There you are!{{NPAGE}}Dummy dummy dummy!{{NLINE}}What have you been{{NLINE}}doing until now?
+Cadis{{NLINE}}"You're just a big{{NLINE}}meanie!{{NPAGE}}Don't you know if{{NLINE}}you leave us alone,{{NLINE}}we'll die!{{NPAGE}}Don't ever leave us{{NLINE}}alone that long again,{{NLINE}}dummy!
+Cadis{{NLINE}}"Hey!{{NPAGE}}You think I'm a{{NLINE}}dummy, don't you?{{NPAGE}}This isn't like the{{NLINE}}forest--we can't take{{NPAGE}}care of ourselves like{{NLINE}}we did there!

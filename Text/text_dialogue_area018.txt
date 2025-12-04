@@ -1,0 +1,43 @@
+North..McNeil Village{{NLINE}}East...To Wyndia{{NLINE}}West...To Dauna Mine
+The bridge is out{{NLINE}}You won't be able{{NLINE}}to get through...
+Autumn
+{{TXTBX,03}}"Wait, wait, WAIT!{{DURTN,32}}
+{{TXTBX,03}}"Who gave you{{NLINE}}permission to use this{{NLINE}}road!?{{DURTN,32}}
+{{TXTBX,05}}
+{{TXTBX,05}}
+{{TXTBX,05}}
+{{TXTBX,05}}
+{{TXTBX,06}}
+{{TXTBX,06}}
+{{TXTBX,06}}
+{{TXTBX,05}}Teepo{{NLINE}}"Hey Rei...{{NPAGE}}Maybe we should call{{NLINE}}it a day...?
+{{TXTBX,06}}
+{{TXTBX,05}}Teepo{{NLINE}}"C'mon Ryu...{{NLINE}}Let's go home...
+{{TXTBX,06}}Rei{{NLINE}}"Hold it! Hold it!{{NLINE}}His name's Ryu?{{NPAGE}}How did you know{{NLINE}}that, Teepo?
+{{TXTBX,05}}"I...I dunno!{{NPAGE}}I just felt like{{NLINE}}that's what his name{{NLINE}}was...
+{{TXTBX,06}}Rei{{NLINE}}"Say, is your name{{NLINE}}really Ryu?
+{{TXTBX,06}}Rei{{NLINE}}"Hmmmm...{{NPAGE}}Stranger things have{{NLINE}}happened, I guess...
+"What do you think{{NLINE}}you're doing? Robbery?{{NLINE}}Forget it! No one{{NPAGE}}with money's ever{{NLINE}}gonna come down this{{NLINE}}road!
+"What do you think{{NLINE}}you're doing? Robbery?{{NLINE}}Forget it! No one{{NPAGE}}with money's ever{{NLINE}}gonna come down this{{NLINE}}road!
+Teepo{{NLINE}}"This is where we work{{NLINE}}The Yraall Road...
+{{TXTBX,01}}Teepo{{NLINE}}"This road goes all{{NLINE}}the way to Wyndia...{{DURTN,48}}
+{{TXTBX,06}}Teepo{{NLINE}}"Someday, we're gonna{{NLINE}}blow this place{{NPAGE}}and head out to a big{{NLINE}}city like Wyndia...{{NLINE}}right, Rei?
+Rei{{NLINE}}"Well...{{PAUSE}}instead of{{NLINE}}worrying about that,{{NPAGE}}let's think about{{NLINE}}getting something to{{NLINE}}eat today, OK?
+Rei{{NLINE}}"We should go hide{{NPAGE}}and wait for someone{{NLINE}}to come by...{{NPAGE}}Behind that tree up{{NLINE}}there looks good to{{NLINE}}me...
+"I'm sorry, but you'll{{NLINE}}have to wait here...
+"We've been assigned{{NLINE}}here from Wyndia{{NLINE}}Castle...{{NPAGE}}The King has ordered{{NLINE}}us to seal off the{{NLINE}}area
+You won't be able{{NLINE}}to pass here...
+"I'm sorry, sirs...{{NPAGE}}We'll have to ask{{NLINE}}that you wait here{{NLINE}}for the time being...
+"We're investigating{{NLINE}}rumors that someone{{NLINE}}from McNeil Village{{NPAGE}}has been smuggling{{NLINE}}foodstuffs onto the{{NLINE}}black market...
+"No one will be{{NLINE}}allowed to enter or{{NLINE}}leave until our{{NPAGE}}investigation is{{NLINE}}finished...
+Garr{{NLINE}}"I guess we're stuck{{NLINE}}here for a while...{{NPAGE}}Let's go see what's{{NLINE}}happening in the{{NLINE}}village, hm?
+"We can't allow anyone{{NLINE}}through until McNeil{{NLINE}}reaches the castle
+"Your patience please...
+"We have orders from{{NLINE}}the King to continue{{NLINE}}guarding the village
+"We're keeping our{{NLINE}}eyes open, Princess!
+"Are you planning on{{NLINE}}continuing the{{NPAGE}}investigation, your{{NLINE}}Highness? Please be{{NLINE}}careful.
+"Are you going to{{NLINE}}investigate Syn City?{{NPAGE}}Good luck!
+Teepo{{NLINE}}"Where are you going?{{NPAGE}}We can't go to Wyndia{{NLINE}}yet...Let's wait until{{NLINE}}we've really made a{{NPAGE}}name for ourselves{{NLINE}}first...right?
+Teepo{{NLINE}}"Where are you going?{{NPAGE}}We can't go to Wyndia{{NLINE}}yet...Let's wait until{{NLINE}}we've really made a{{NPAGE}}name for ourselves{{NLINE}}first...right?
+Teepo{{NLINE}}"Where are you going?{{NPAGE}}We can't go to Wyndia{{NLINE}}yet...Let's wait until{{NLINE}}we've really made a{{NPAGE}}name for ourselves{{NLINE}}first...right?
+Teepo{{NLINE}}"Where are you going?{{NPAGE}}We can't go to Wyndia{{NLINE}}yet...Let's wait until{{NLINE}}we've really made a{{NPAGE}}name for ourselves{{NLINE}}first...right?

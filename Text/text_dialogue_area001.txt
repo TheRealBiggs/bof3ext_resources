@@ -1,0 +1,45 @@
+Outside the mine
+Chief{{NLINE}}"Well now, well now,{{NLINE}}Mr. Garr...{{NPAGE}}Were you able to get{{NLINE}}rid of that dragon{{NLINE}}for us...{{PAUSE}}Huh?
+Chief{{NLINE}}"Who might that young{{NLINE}}fella be?
+{{TXTBX,05}}Garr{{NLINE}}"Don't worry about{{NLINE}}that...{{NPAGE}}I took care of the{{NLINE}}dragon for you...{{NLINE}}It's gone
+Chief{{NLINE}}"Really?{{NLINE}}That's good news!
+Chief{{NLINE}}"That dragon...{{NPAGE}}He ran around spitting{{NLINE}}fire on people...killed{{NLINE}}some of my men...{{NPAGE}}Destroyed our machines{{NLINE}}and made a pretty bad{{NLINE}}mess o' things here...
+Chief{{NLINE}}"Something wrong?
+{{TXTBX,05}}Garr{{NLINE}}"He's all right...{{NLINE}}Just tired
+Chief{{NLINE}}"...?{{NPAGE}}Anyway, thanks a lot{{NPAGE}}Come on down to the{{NLINE}}office and get your{{NLINE}}payment from the boss
+Garr{{NLINE}}"This may not help...{{NPAGE}}but don't judge{{NLINE}}yourself too harshly{{NPAGE}}You're not quite in{{NLINE}}control of yourself{{NLINE}}in dragon form{{NPAGE}}Just try not to{{NLINE}}think about it...
+"Now we can get back{{NLINE}}to work again! Thank{{NLINE}}you very, very much!
+"I hear the chrysm{{NLINE}}mined here gets sent{{NLINE}}all around the world{{NPAGE}}I don't know the{{NLINE}}details...I just fix{{NLINE}}things, see?
+"You got the dragon?{{NPAGE}}That means we'll be{{NLINE}}able to start working{{NLINE}}again real soon...
+"We weren't able to{{NLINE}}get any work done{{NLINE}}'cause o' the dragon
+"It's been so long{{NLINE}}I've forgotten how to{{NLINE}}do my job!
+"Now that you mention{{NLINE}}it, I remember...{{NPAGE}}There was another{{NLINE}}dragon here a long,{{NLINE}}long time ago...{{NPAGE}}I can't remember{{NLINE}}what happened to him,{{NLINE}}though
+"Sorry we couldn't{{NLINE}}help you get rid of{{NLINE}}the dragon...{{NPAGE}}I helped get rid of{{NLINE}}the one that was here{{NLINE}}a long time ago...{{NPAGE}}But this time he was{{NLINE}}just too much for us!
+"If you're looking for{{NLINE}}the boss, I think he's{{NLINE}}in the office...
+"Got nothing better to{{NLINE}}do, so I'm digging!{{NPAGE}}Once that dragon's gone{{NLINE}}I'll go back to mining!
+"I know I'll never{{NLINE}}find anything here...{{NPAGE}}But I still keep{{NLINE}}working at it
+"Maybe if we get rid{{NLINE}}of that big dragon{{NLINE}}chrysm in the mine,{{NPAGE}}we won't have to worry{{NLINE}}about any more dragons
+"Those dragons are{{NLINE}}really tough, eh?{{NPAGE}}I mean, I thought{{NLINE}}they was supposed to{{NLINE}}be extinct, right?
+"One of my friends{{NLINE}}said he saw a dragon{{NLINE}}once in some contest{{NPAGE}}in some arena some-{{NLINE}}where...I guess maybe{{NLINE}}they're still around?
+"We haven't used it{{NLINE}}for so long, it's{{NLINE}}rusted
+"What's a dragon doing{{NLINE}}running around here,{{NLINE}}anyway?{{NPAGE}}Why doesn't he just{{NLINE}}become chrysm like{{NLINE}}all the rest?
+"We weren't able to{{NLINE}}get any work done{{NLINE}}here for a long time{{NPAGE}}all because of that{{NLINE}}little dragon...{{NPAGE}}Why'd he have to show{{NLINE}}up at this mine?
+"All the miners tell{{NLINE}}me they got no money{{NLINE}}an' can't buy nothin'{{NPAGE}}How 'bout you? You{{NLINE}}want somethin'?
+"You're the ones who{{NLINE}}came to get the{{NLINE}}dragon, right?{{NPAGE}}It must have been hard{{NLINE}}work with all the{{NLINE}}other monsters around
+"bow wow! bow wow!
+"Thanks to you, we{{NLINE}}can get back to work{{NPAGE}}If there's anything I{{NLINE}}can do for you, let me{{NLINE}}know...{{NPAGE}}If you want to rest,{{NLINE}}you can use this room{{NLINE}}anytime
+"I suppose getting{{NLINE}}killed by a dragon's{{NLINE}}a lot like any other{{NPAGE}}accident...Still, I{{NLINE}}hope I never meet{{NLINE}}another dragon!
+"Machines run on the{{NLINE}}chrysm you feed 'em...{{NPAGE}}And the men here run{{NLINE}}on the food I feeds{{NLINE}}'em!
+"...{{PAUSE}}...{{PAUSE}}...{{PAUSE}}...mmmm
+"Another dragon showed{{NLINE}}up here years ago...{{NPAGE}}That fellow there was{{NLINE}}attacked by it
+"I eat a lot...{{NLINE}}But I also works{{NLINE}}a lot
+ {{NLINE}}Do you want to save?{{CHOIC,0,0,Yes,No}}
+Garr{{NLINE}}"Wait...We should take{{NLINE}}the reward...{{NPAGE}}We've got a long{{NLINE}}journey ahead of us{{NPAGE}}It wouldn't hurt to{{NLINE}}have some money...
+{{TXTBX,05}}Foreman{{NLINE}}"Thank you so much!{{NPAGE}}What do you say,{{NLINE}}Mr. Garr? Why don't{{NLINE}}you stay here...{{NPAGE}}Just in case any{{NLINE}}more dragons show up?
+{{TXTBX,06}}Garr{{NLINE}}"No, thanks...{{NPAGE}}Besides, I don't think{{NLINE}}you'll be seeing any{{NLINE}}more dragons
+{{TXTBX,05}}Foreman{{NLINE}}"If you say so...{{NPAGE}}I'd really feel a{{NLINE}}lot better if you{{NLINE}}were around, though
+{{TXTBX,06}}Garr{{NLINE}}"We must be going...{{NPAGE}}Thank you for the{{NLINE}}reward
+{{TXTBX,05}}Foreman{{NLINE}}"Oh! Mr. Garr!{{NPAGE}}If you're really{{NLINE}}heading down the{{NLINE}}mountain,{{NPAGE}}be careful on{{NLINE}}Ogre Road!
+{{TXTBX,05}}Foreman{{NLINE}}"We've heard stories{{NPAGE}}about a really{{NLINE}}ferocious monster on{{NLINE}}the road{{NPAGE}}attacking people...{{NLINE}}If you want to know{{NLINE}}more, you should go{{NPAGE}}west to {{COLRS,2}}Syn City{{COLRE}}
+{{TXTBX,05}}Foreman{{NLINE}}"I guess he's not{{NLINE}}afraid, though...{{NPAGE}}I mean, he killed{{NLINE}}a dragon after all
+Do you want to rest?{{CHOIC,1,0,Yes,No}}

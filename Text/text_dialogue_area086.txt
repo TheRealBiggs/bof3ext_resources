@@ -1,0 +1,21 @@
+It's locked from{{NLINE}}the other side...
+It's locked from{{NLINE}}the other side...
+{{TXTBX,05}}Momo{{NLINE}}"Honey, wait!
+Momo{{NLINE}}"Honey, where do you{{NLINE}}think you're going...?
+{{TXTBX,05}}Nina{{NLINE}}"Wait a minute...{{NLINE}}Isn't this...!?
+{{TXTBX,03}}Nina{{NLINE}}"Hold it...If this is{{NLINE}}where I think it is...
+{{TXTBX,06}}Nina{{NLINE}}"Just as I thought!{{NPAGE}}The Machine Guildsmen{{NLINE}}were surprised to see{{NLINE}}me...{{NPAGE}}They wanted to know{{NLINE}}how we got in
+Rei{{NLINE}}"Doesn't this just{{NLINE}}beat all?{{NPAGE}}After all that trouble{{NLINE}}to get across the{{NLINE}}outer sea,{{NPAGE}}we end up right{{NLINE}}back where we started!
+Rei{{NLINE}}"We'll never find God{{NLINE}}at this rate!
+{{TXTBX,05}}Garr{{NLINE}}"Hmmm...{{NPAGE}}Yes, it looks like{{NLINE}}we're back to square{{NLINE}}one...{{NPAGE}}What should we{{NLINE}}do now?
+{{TXTBX,06}}Nina{{NLINE}}"Amazing!{{NPAGE}}With that portal{{NLINE}}machine, we traveled{{NLINE}}all the way back{{NPAGE}}here in the blink{{NLINE}}of an eye!{{NPAGE}}Maybe the world's not{{NLINE}}as big as we think{{NLINE}}it is?
+Momo{{NLINE}}"That's it!
+Momo{{NLINE}}"Portals are relics{{NPAGE}}from ancient times--{{NLINE}}from God's time!{{NPAGE}}Think about it--the{{NLINE}}world must be pretty{{NLINE}}small to God!
+Momo{{NLINE}}"God...{{NPAGE}}Or the people who{{NLINE}}made the machines,{{NLINE}}rather...{{NPAGE}}must have used these{{NLINE}}portals to travel{{NLINE}}around the world!
+{{TXTBX,06}}Nina{{NLINE}}"In other words...{{NPAGE}}You're saying that{{NLINE}}God and the machines{{NLINE}}are connected somehow?
+Momo{{NLINE}}"Well...{{NPAGE}}I don't know for sure{{NLINE}}but...
+{{TXTBX,05}}Garr{{NLINE}}"Hmmm...{{NPAGE}}Perhaps the machines{{NLINE}}are a gift...{{NLINE}}from God?
+Momo{{NLINE}}"Yeah, yeah, that's it{{NPAGE}}You took the words{{NLINE}}right out of my mouth!
+Momo{{NLINE}}"So maybe by using{{NLINE}}the portals...{{NPAGE}}We could travel{{NLINE}}right to wherever{{NLINE}}God is!
+Momo{{NLINE}}"First, let's check{{NLINE}}out the portal{{NPAGE}}where we just{{NLINE}}arrived! Come on!
+{{TXTBX,01}}Please choose 3{{NLINE}}party members.

@@ -1,0 +1,139 @@
+{{TXTBX,05}}Teepo{{NLINE}}"...Ryu...
+{{TXTBX,05}}Teepo{{NLINE}}"Do you feel like{{NLINE}}we're being watched?
+{{TXTBX,05}}Teepo{{NLINE}}"Doesn't look like{{NLINE}}there's any guards...
+{{TXTBX,05}}Teepo{{NLINE}}"I've got a pretty{{NLINE}}funny feeling...
+{{TXTBX,05}}Teepo{{NLINE}}"I g-{{PAUSE}}guess it's just{{NLINE}}my imagination...
+{{TXTBX,81}} No one is allowed{{NLINE}} to trespass in the{{NLINE}}  ancient home of {{NPAGE}}     the McNeils!  
+{{TXTBX,81}} No one is allowed{{NLINE}} to trespass in the{{NLINE}}  ancient home of {{NPAGE}}     the McNeils!  
+{{TXTBX,81}} No one is allowed{{NLINE}} to trespass in the{{NLINE}}  ancient home of {{NPAGE}}     the McNeils!  
+{{TXTBX,81}} No one is allowed{{NLINE}} to trespass in the{{NLINE}}  ancient home of {{NPAGE}}     the McNeils!  
+{{TXTBX,81}} No one is allowed{{NLINE}} to trespass in the{{NLINE}}  ancient home of {{NPAGE}}     the McNeils!  
+{{TXTBX,81}} No one is allowed{{NLINE}} to trespass in the{{NLINE}}  ancient home of {{NPAGE}}     the McNeils!  
+{{TXTBX,81}} No one is allowed{{NLINE}} to trespass in the{{NLINE}}  ancient home of {{NPAGE}}     the McNeils!  
+{{TXTBX,81}} No one is allowed{{NLINE}} to trespass in the{{NLINE}}  ancient home of {{NPAGE}}     the McNeils!  
+{{TXTBX,81}} No one is allowed{{NLINE}} to trespass in the{{NLINE}}  ancient home of {{NPAGE}}     the McNeils!  
+{{TXTBX,81}} No one is allowed{{NLINE}} to trespass in the{{NLINE}}  ancient home of {{NPAGE}}     the McNeils!  
+{{TXTBX,81}} No one is allowed{{NLINE}} to trespass in the{{NLINE}}  ancient home of {{NPAGE}}     the McNeils!  
+{{TXTBX,81}} No one is allowed{{NLINE}} to trespass in the{{NLINE}}  ancient home of {{NPAGE}}     the McNeils!  
+{{TXTBX,06}}Teepo{{NLINE}}"What's that!?{{NLINE}}Who's there?{{PAUSE}}{{NPAGE}}Show yourself!
+{{TXTBX,04}}"I am...Torast...{{NLINE}}The spirit of the{{NLINE}}fifth McNeil...
+{{TXTBX,06}}Teepo{{NLINE}}"Are we supposed to{{NLINE}}be afraid of you?{{NPAGE}}Ha! We killed the{{NLINE}}Nue! We're not afraid{{NLINE}}of you!
+{{TXTBX,04}}Torast{{NLINE}}"Ha! Fools!{{NPAGE}}You think we McNeils{{NLINE}}are the same as some{{NLINE}}animal like that?{{NPAGE}}You can ponder the{{NLINE}}error of your ways{{NLINE}}in the grave!
+{{TXTBX,04}}Torast{{NLINE}}"W-{{PAUSE}}who are you!?{{NPAGE}}Forgive me, my{{NLINE}}brethren...I have{{NLINE}}failed you...{{NPAGE}}gack!
+{{TXTBX,06}}Teepo{{NLINE}}"...Was that...a{{NLINE}}ghost?{{NPAGE}}I hope not...I hate{{NLINE}}ghosts...they give me{{NLINE}}the creeps...
+ {{NLINE}}"The McNeils...1"{{NPAGE}}The struggles of the{{NLINE}}first McNeil are{{NLINE}}written in the book
+ {{NLINE}}"The McNeils...2"{{NPAGE}}This book talks about{{NLINE}}the exploits of the{{NLINE}}second McNeil
+ {{NLINE}}"The McNeils...3"{{NPAGE}}This one has all the{{NLINE}}moralizing of the{{NLINE}}third McNeil
+ {{NLINE}}"The McNeils...4"{{NPAGE}}Some interesting{{NLINE}}stories about the{{NLINE}}fourth McNeil
+ {{NLINE}}"The McNeils...5"{{NPAGE}}This one tells of the{{NLINE}}adventures of the{{NLINE}}fifth McNeil
+ {{NLINE}}"The McNeils...6"{{NPAGE}}Nothing much about{{NLINE}}the sixth McNeil...{{NLINE}}It's all very boring
+ {{NLINE}}"The McNeil Family"{{NPAGE}}It's a beautiful book,{{NLINE}}but there's not much{{NLINE}}in the way of content
+A note showing the{{NLINE}}flow of money in{{NLINE}}and out of the manor{{NPAGE}}For all the taxes he{{NLINE}}collects, it seems{{NLINE}}like McNeil himself{{NPAGE}}doesn't have much{{NLINE}}money...
+Teepo{{NLINE}}"There's somebody{{NLINE}}out here...
+{{TXTBX,06}}McNeil{{NLINE}}"Welcome, my little{{NLINE}}friends...{{NPAGE}}I'm McNeil--the owner{{NLINE}}of this mansion
+{{TXTBX,05}}Teepo{{NLINE}}"Really?{{NPAGE}}Well, that makes{{NLINE}}things simple, then!{{NPAGE}}You're the villain{{NLINE}}we've been looking{{NLINE}}for!
+{{TXTBX,06}}McNeil{{NLINE}}"Ho ho ho ho!{{NLINE}}Villain? Me?{{NPAGE}}Why am I a villain?{{NPAGE}}Because I collect{{NLINE}}taxes from my{{NLINE}}people?{{NPAGE}}What's wrong with{{NLINE}}that?
+{{TXTBX,05}}Teepo{{NLINE}}"What's wrong,{{NLINE}}Ryu?
+{{TXTBX,05}}Teepo{{NLINE}}"What!{{NPAGE}}He's an impostor!?
+{{TXTBX,06}}McNeil{{NLINE}}"Ho ho ho ho!{{NLINE}}Imposter? Me?{{NPAGE}}No...I am McNeil...{{NPAGE}}Kassen McNeil, the{{NLINE}}spirit of the{{NLINE}}third McNeil!
+{{TXTBX,06}}Kassen{{NLINE}}"Did you think you'd{{NLINE}}be able to just take{{NPAGE}}that which we have{{NLINE}}handed down through{{NLINE}}the generations?
+{{TXTBX,06}}Kassen{{NLINE}}"Ohhhhh!! Impossible!{{NLINE}}You defeated me!!{{NPAGE}}But I'm not the last--{{NLINE}}You haven't seen the{{NLINE}}last of the McNeils!
+{{TXTBX,05}}Teepo{{NLINE}}"Nobody told us this{{NLINE}}place was haunted!{{NPAGE}}Hey, Ryu, how come{{NLINE}}you're such a crybaby{{NPAGE}}but you're not afraid{{NLINE}}of ghosts?
+{{TXTBX,81}}  That's as far as{{NLINE}}      you go!!
+{{TXTBX,81}}  That's as far as{{NLINE}}      you go!!
+{{TXTBX,81}}  That's as far as{{NLINE}}      you go!!
+{{TXTBX,81}}  That's as far as{{NLINE}}      you go!!
+{{TXTBX,81}}  That's as far as{{NLINE}}      you go!!
+{{TXTBX,81}}  That's as far as{{NLINE}}      you go!!
+{{TXTBX,81}}  That's as far as{{NLINE}}      you go!!
+{{TXTBX,81}}  That's as far as{{NLINE}}      you go!!
+{{TXTBX,05}}"You deserve praise{{NLINE}}for getting this{{NLINE}}far...But!
+{{TXTBX,06}}Teepo{{NLINE}}"All the ghosts here{{NLINE}}sure talk a lot, huh?
+{{TXTBX,05}}You will go no further{{NLINE}}I, Galtel, the 12th{{NPAGE}}McNeil, will see{{NLINE}}to that!{{NPAGE}}Your thieving days{{NLINE}}are over!
+{{TXTBX,06}}Teepo{{NLINE}}"You know...{{NPAGE}}I always thought{{NLINE}}ghosts were really{{NLINE}}creepy, you know?
+{{TXTBX,06}}Teepo{{NLINE}}"But if they're all{{NLINE}}like the ones here...{{NPAGE}}They're not really{{NLINE}}scary at all, are{{NLINE}}they?
+{{TXTBX,85}}Stop right there!{{NLINE}}Don't think you'll{{NLINE}}leave alive!{{NPAGE}}I, the 8th...
+{{TXTBX,85}}Stop right there!{{NLINE}}Don't think you'll{{NLINE}}leave alive!{{NPAGE}}I, the 8th...
+{{TXTBX,85}}Stop right there!{{NLINE}}Don't think you'll{{NLINE}}leave alive!{{NPAGE}}I, the 8th...
+{{TXTBX,85}}Stop right there!{{NLINE}}Don't think you'll{{NLINE}}leave alive!{{NPAGE}}I, the 8th...
+{{TXTBX,85}}Stop right there!{{NLINE}}Don't think you'll{{NLINE}}leave alive!{{NPAGE}}I, the 8th...
+{{TXTBX,85}}Stop right there!{{NLINE}}Don't think you'll{{NLINE}}leave alive!{{NPAGE}}I, the 8th...
+{{TXTBX,85}}Stop right there!{{NLINE}}Don't think you'll{{NLINE}}leave alive!{{NPAGE}}I, the 8th...
+{{TXTBX,85}}Stop right there!{{NLINE}}Don't think you'll{{NLINE}}leave alive!{{NPAGE}}I, the 8th...
+{{TXTBX,85}}Stop right there!{{NLINE}}Don't think you'll{{NLINE}}leave alive!{{NPAGE}}I, the 8th...
+{{TXTBX,85}}Stop right there!{{NLINE}}Don't think you'll{{NLINE}}leave alive!{{NPAGE}}I, the 8th...
+{{TXTBX,85}}Stop right there!{{NLINE}}Don't think you'll{{NLINE}}leave alive!{{NPAGE}}I, the 8th...
+{{TXTBX,05}}Teepo{{NLINE}}"We know, we know!{{NPAGE}}You're a McNeil,{{NLINE}}right? C'mon, let's{{NLINE}}get it over with!
+{{TXTBX,05}}Teepo{{NLINE}}"You think maybe...{{NPAGE}}I should have let{{NLINE}}him tell us his name?
+{{TXTBX,05}}Teepo{{NLINE}}"Well, let's not worry{{NLINE}}about it...{{NPAGE}}C'mon, Ryu
+"Using the Elevator"{{NLINE}}Press the switch
+{{TXTBX,05}}Teepo{{NLINE}}"{{EFCTS}}Cool!{{EFCTE,03}}{{NLINE}}It's an elevator!
+{{TXTBX,05}}Teepo{{NLINE}}"{{EFCTS}}Cool!{{EFCTE,03}}{{NLINE}}It's an elevator!
+{{TXTBX,05}}Teepo{{NLINE}}"{{EFCTS}}Cool!{{EFCTE,03}}{{NLINE}}It's an elevator!
+{{TXTBX,05}}Teepo{{NLINE}}"{{EFCTS}}Cool!{{EFCTE,03}}{{NLINE}}It's an elevator!
+{{TXTBX,05}}Teepo{{NLINE}}"{{EFCTS}}Cool!{{EFCTE,03}}{{NLINE}}It's an elevator!
+{{TXTBX,05}}Teepo{{NLINE}}"{{EFCTS}}Cool!{{EFCTE,03}}{{NLINE}}It's an elevator!
+{{TXTBX,06}}Teepo{{NLINE}}"Good thing no ghosts{{NLINE}}came out while{{NPAGE}}we were asleep, huh?
+{{TXTBX,06}}Teepo{{NLINE}}"Good thing no ghosts{{NLINE}}came out while{{NPAGE}}we were asleep, huh?
+{{TXTBX,06}}Teepo{{NLINE}}"Good thing no ghosts{{NLINE}}came out while{{NPAGE}}we were asleep, huh?
+{{TXTBX,06}}Teepo{{NLINE}}"Good thing no ghosts{{NLINE}}came out while{{NPAGE}}we were asleep, huh?
+{{TXTBX,06}}Teepo{{NLINE}}"Good thing no ghosts{{NLINE}}came out while{{NPAGE}}we were asleep, huh?
+{{TXTBX,06}}Teepo{{NLINE}}"Good thing no ghosts{{NLINE}}came out while{{NPAGE}}we were asleep, huh?
+{{TXTBX,05}}Rei{{NLINE}}"Let's get this over{{NLINE}}with and go home and{{NPAGE}}get some sleep, OK?
+What's a bed{{NLINE}}doing here?
+Do you want to rest?{{CHOIC,2,1,Yes,No}}
+{{TXTBX,85}}Galtel{{NLINE}}"You were beaten too,{{NLINE}}great-grandfather?{{DURTN,32}}
+{{TXTBX,85}}Galtel{{NLINE}}"You were beaten too,{{NLINE}}great-grandfather?{{DURTN,32}}
+{{TXTBX,85}}Galtel{{NLINE}}"You were beaten too,{{NLINE}}great-grandfather?{{DURTN,32}}
+{{TXTBX,85}}Galtel{{NLINE}}"You were beaten too,{{NLINE}}great-grandfather?{{DURTN,32}}
+{{TXTBX,85}}Galtel{{NLINE}}"You were beaten too,{{NLINE}}great-grandfather?{{DURTN,32}}
+{{TXTBX,85}}Galtel{{NLINE}}"You were beaten too,{{NLINE}}great-grandfather?{{DURTN,32}}
+{{TXTBX,85}}Galtel{{NLINE}}"You were beaten too,{{NLINE}}great-grandfather?{{DURTN,32}}
+{{TXTBX,85}}Galtel{{NLINE}}"You were beaten too,{{NLINE}}great-grandfather?{{DURTN,32}}
+{{TXTBX,85}}Galtel{{NLINE}}"You were beaten too,{{NLINE}}great-grandfather?{{DURTN,32}}
+{{TXTBX,85}}Galtel{{NLINE}}"You were beaten too,{{NLINE}}great-grandfather?{{DURTN,32}}
+{{TXTBX,85}}Galtel{{NLINE}}"You were beaten too,{{NLINE}}great-grandfather?{{DURTN,32}}
+{{TXTBX,85}}Galtel{{NLINE}}"You were beaten too,{{NLINE}}great-grandfather?{{DURTN,32}}
+{{TXTBX,85}}Galtel{{NLINE}}"You were beaten too,{{NLINE}}great-grandfather?{{DURTN,32}}
+{{TXTBX,80}}Doksen{{NLINE}}"{{COLRS,1}}Humph{{COLRE}} They got me{{NLINE}}before I said my name{{DURTN,32}}
+{{TXTBX,80}}Torast{{NLINE}}"We have to do{{NLINE}}something...soon{{DURTN,32}}
+{{TXTBX,86}}Kassen{{NLINE}}"Our only hope is the{{NLINE}}living McNeil-the 13th{{DURTN,32}}
+{{TXTBX,81}}Kanzei{{NLINE}}"Mmm...but I don't{{NLINE}}think he's up to it{{DURTN,32}}
+You don't really want{{NLINE}}to run, do you?
+You don't really want{{NLINE}}to run, do you?
+You don't really want{{NLINE}}to run, do you?
+You don't really want{{NLINE}}to run, do you?
+You don't really want{{NLINE}}to run, do you?
+You don't really want{{NLINE}}to run, do you?
+You don't really want{{NLINE}}to run, do you?
+You don't really want{{NLINE}}to run, do you?
+You don't really want{{NLINE}}to run, do you?
+You don't really want{{NLINE}}to run, do you?
+You don't really want{{NLINE}}to run, do you?
+The door is nailed{{NLINE}}shut...
+A stern face...
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+Do you want to ride{{NLINE}}the elevator?{{CHOIC,0,0,Yes,No}}
+Do you want to ride{{NLINE}}the elevator?{{CHOIC,1,0,Yes,No}}
+"I don't know...Some-{{NLINE}}thing about this house{{NLINE}}gives me the creeps...{{NPAGE}}I can never sleep...{{NLINE}}If you want to use{{NLINE}}the bed, go ahead{{CHOIC,3,1,OK,No}}
+"Not only is the{{NLINE}}mayor a tightwad...{{NLINE}}He's also a worrywart{{NPAGE}}He's so afraid of{{NLINE}}robbers he's nailed{{NLINE}}all the doors shut!
+"Even though I work{{NLINE}}here, I really hate{{NLINE}}this house...{{NPAGE}}It's too big...The{{NLINE}}layout's weird...It's{{NLINE}}just spooky
+"Sometimes at night...{{NLINE}}Even though there's{{NLINE}}no one there...{{NPAGE}}I hear voices coming{{NLINE}}from that room...
+"Look at this, would{{NLINE}}you? Even the doors{{NLINE}}to the kitchen are{{NPAGE}}all boarded up! I{{NLINE}}don't know if he's{{NLINE}}afraid of thieves or{{NPAGE}}what, but it's just{{NLINE}}not normal, I tell ya!
+"There used to be a{{NLINE}}lot of servants here{{NPAGE}}But since the mayor's{{NLINE}}too cheap they all{{NLINE}}quit..{{EFCTE,59}}ou feel refreshed{{NLINE}}after your rest{{NPAGE}}Do you want to save?{{CHOIC,4,0,Yes,No}}
+You feel refreshed{{NLINE}}after your rest{{NPAGE}}Do you want to save?{{CHOIC,4,0,Yes,No}}
+Do you want to save?{{CHOIC,4,0,Yes,No}}

@@ -1,0 +1,33 @@
+{{TXTBX,06}}
+{{TXTBX,06}}
+{{TXTBX,06}}
+{{TXTBX,05}}
+{{TXTBX,06}}
+{{TXTBX,05}}
+{{TXTBX,05}}
+{{TXTBX,06}}{{INSTS}}Mogu{{INSTE}}{{NLINE}}"A dragon...? I don't{{NLINE}}know about this...{{DURTN,80}}
+{{TXTBX,05}}{{INSTS}}Gary{{INSTE}}{{NLINE}}"C'mon...It's really{{NLINE}}high-quality stuff{{DURTN,80}}
+{{TXTBX,05}}{{INSTS}}Mogu{{INSTE}}{{NLINE}}"The dragons tried to{{NLINE}}destroy the world...{{DURTN,80}}
+{{TXTBX,05}}{{INSTS}}Mogu{{INSTE}}{{NLINE}}"The dragons tried to{{NLINE}}destroy the world...{{DURTN,80}}
+{{TXTBX,05}}{{INSTS}}Mogu{{INSTE}}{{NLINE}}"The dragons tried to{{NLINE}}destroy the world...{{DURTN,80}}
+{{TXTBX,05}}{{INSTS}}Mogu{{INSTE}}{{NLINE}}"The dragons tried to{{NLINE}}destroy the world...{{DURTN,80}}
+{{TXTBX,06}}{{INSTS}}Gary{{INSTE}}{{NLINE}}"Yep... Fought a huge{{NLINE}}war... THE war...{{DURTN,64}}
+{{TXTBX,05}}{{INSTS}}Mogu{{INSTE}}{{NLINE}}"I sure wouldn't want{{NLINE}}to meet a dragon...{{DURTN,80}}
+{{TXTBX,06}}{{INSTS}}Gary{{INSTE}}{{NLINE}}"Yeah... But they're{{NLINE}}extinct now...{{DURTN,80}}
+Dauna Mine
+ When magical beings{{NLINE}}  die, their bodies {{NLINE}}slowly transform into{{NLINE}}  the ore known as {{NLINE}}       chrysm.    
+This is B1{{NLINE}}Do you want to ride{{NLINE}}the lift?  {{CHOIC,0,1,Go to B2,Go to B3,Quit}}
+This is B1{{NLINE}}Do you want to ride{{NLINE}}the lift?  {{CHOIC,0,1,Go to B2,Go to B3,Quit}}
+This is B1{{NLINE}}Do you want to ride{{NLINE}}the lift?  {{CHOIC,0,1,Go to B2,Go to B3,Quit}}
+This is B1{{NLINE}}Do you want to ride{{NLINE}}the lift?  {{CHOIC,0,1,Go to B2,Go to B3,Quit}}
+This is B1{{NLINE}}Do you want to ride{{NLINE}}the lift?  {{CHOIC,0,1,Go to B2,Go to B3,Quit}}
+This is B1{{NLINE}}Do you want to ride{{NLINE}}the lift?  {{CHOIC,0,1,Go to B2,Go to B3,Quit}}
+This is B1{{NLINE}}Do you want to ride{{NLINE}}the lift?  {{CHOIC,0,1,Go to B2,Go to B3,Quit}}
+This is B1{{NLINE}}Do you want to ride{{NLINE}}the lift?  {{CHOIC,0,1,Go to B2,Go to B3,Quit}}
+This is B1{{NLINE}}Do you want to ride{{NLINE}}the lift?  {{CHOIC,0,1,Go to B2,Go to B3,Quit}}
+This is B1{{NLINE}}Do you want to ride{{NLINE}}the lift?  {{CHOIC,0,1,Go to B2,Go to B3,Quit}}
+This is B1{{NLINE}}Do you want to ride{{NLINE}}the lift?  {{CHOIC,0,1,Go to B2,Go to B3,Quit}}
+This is B1{{NLINE}}Do you want to ride{{NLINE}}the lift?  {{CHOIC,0,1,Go to B2,Go to B3,Quit}}
+This is B1{{NLINE}}Do you want to ride{{NLINE}}the lift?  {{CHOIC,0,1,Go to B2,Go to B3,Quit}}
+This is B1{{NLINE}}Do you want to ride{{NLINE}}the lift?  {{CHOIC,0,1,Go to B2,Go to B3,Quit}}
+This is B1{{NLINE}}Do you want to ride{{NLINE}}the lift?  {{CHOIC,0,1,Go to B2,Go to B3,Quit}}

@@ -1,0 +1,10 @@
+Nina{{NLINE}}"Honey! Wait!{{DURTN,48}}
+Nina{{NLINE}}"Honey! Wait!{{DURTN,48}}
+{{TXTBX,06}}Nina{{NLINE}}"It's me, Honey...{{NLINE}}It's Nina{{NLINE}}
+{{TXTBX,06}}Nina{{NLINE}}"Honey, you're going{{NLINE}}to fall!!{{DURTN,32}}
+Nina{{NLINE}}"{{EFCTS}}Yaaaaaaaaaaaaaa!{{EFCTE,01}}{{DURTN,16}}
+Nina{{NLINE}}"What's happening...?{{NLINE}}We... We're flying!?{{DURTN,48}}
+Nina{{NLINE}}"Did you...{{PAUSE}}did you{{NLINE}}do that, Honey?
+Nina{{NLINE}}"Honey! What's the{{NLINE}}matter? Honey!?
+Nina{{NLINE}}"...{{PAUSE}}...{{PAUSE}}...She's not{{NLINE}}moving...
+Nina{{NLINE}}"What should I do...?{{NPAGE}}I can't fix her{{NLINE}}myself--I need Momo's{{NLINE}}help...

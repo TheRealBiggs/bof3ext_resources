@@ -1,0 +1,8 @@
+Bomber
+BloodBat
+Gazer
+Ghost
+Spectre
+
+
+

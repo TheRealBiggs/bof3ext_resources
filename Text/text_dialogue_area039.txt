@@ -1,0 +1,166 @@
+{{TXTBX,81}}   Castle Wyndia{{DURTN,48}}
+{{TXTBX,81}}   Castle Wyndia{{DURTN,48}}
+{{TXTBX,03}}King{{NLINE}}"And it be in truth{{NLINE}}a dragon?{{DURTN,32}}
+{{TXTBX,06}}Balio{{NLINE}}"It certainly is...{{NLINE}}Your Highness{{DURTN,32}}
+{{TXTBX,06}}Sunder{{NLINE}}"It's for real!{{NLINE}}A real dragon!{{DURTN,32}}
+{{TXTBX,05}}King{{NLINE}}"Hmmm...If what you{{NLINE}}say is true...{{NPAGE}}It is a most serious{{NLINE}}matter...no?{{DURTN,32}}
+Balio{{NLINE}}"Indeed--they tried to{{NLINE}}destroy the world...{{DURTN,32}}
+{{TXTBX,06}}Sunder{{NLINE}}"Hey, bro--I think{{NLINE}}it's gonna work...{{DURTN,32}}
+Balio{{NLINE}}"Your Highness, I give{{NLINE}}you...{{PAUSE}}{{PAUSE}}the dragon!{{DURTN,32}}
+{{TXTBX,06}}Sunder{{NLINE}}"Uh, bro...{{DURTN,16}}
+{{TXTBX,05}}King{{NLINE}}"What's this...{{PAUSE}}?{{DURTN,32}}
+Balio{{NLINE}}"Oh no! He's gone{{NLINE}}back to being a kid!{{DURTN,16}}
+{{TXTBX,06}}Sunder{{NLINE}}"Let's try hitting{{NLINE}}him again!!{{DURTN,16}}
+Balio{{NLINE}}"Hey! Kid! C'mon! Why{{NLINE}}don't you change? Huh!{{DURTN,32}}
+{{TXTBX,05}}King{{NLINE}}"{{EFCTS}}Enough!!{{EFCTE,00}} Explain{{NLINE}}yourselves, charlatans!{{DURTN,32}}
+{{TXTBX,05}}King{{NLINE}}"Arrest these con men{{NLINE}}and their 'dragon'!!{{DURTN,32}}
+{{TXTBX,04}}King{{NLINE}}"My, that sounds like{{NLINE}}quite an adventure{{DURTN,48}}
+Nina{{NLINE}}"I don't know what I{{NLINE}}would have done if{{NPAGE}}it hadn't been for{{NLINE}}Ryu and everybody...
+{{TXTBX,06}}King{{NLINE}}"I see...{{PAUSE}}{{NPAGE}}Forgive me, Master{{NLINE}}Ryu, for doubting{{NLINE}}you and thinking you{{NPAGE}}were one of those{{NLINE}}charlatans...{{NPAGE}}On behalf of the{{NLINE}}Queen, I offer you{{NLINE}}thanks once more
+{{TXTBX,06}}Knight{{NLINE}}"But, Your Majesty...{{NPAGE}}I find it hard to{{NLINE}}believe--{{NPAGE}}Could a mere child{{NLINE}}have performed such{{NLINE}}deeds?
+Nina{{NLINE}}"But Ryu isn't just{{NLINE}}an ordinary child!{{NPAGE}}Father, Ryu is a{{NLINE}}drag...{{DURTN,16}}
+{{TXTBX,05}}Garr{{NLINE}}"Ahem! erm...cough,{{NLINE}}cough!{{NPAGE}}By the way, Your{{NLINE}}Highness...{{NPAGE}}We were thinking{{NLINE}}of traveling to{{NLINE}}the eastern lands...
+{{TXTBX,06}}King{{NLINE}}"Yes, yes! {{PAUSE}}You need{{NLINE}}a passport, yes?{{NPAGE}}Since you are in a{{NLINE}}hurry, I'll see to{{NLINE}}it that you get it{{NPAGE}}immediately!
+Nina{{NLINE}}"Wait!...{{PAUSE}}You mean...{{NPAGE}}You're leaving{{NLINE}}already?
+Momo{{NLINE}}"Nina... Princess...{{NPAGE}}We'll meet again
+{{TXTBX,06}}King{{NLINE}}"Indeed{{NPAGE}}If your travels{{NLINE}}bring you here{{NLINE}}again, we would{{NPAGE}}welcome your presence{{NLINE}}at Castle Wyndia
+Nina{{NLINE}}"...{{PAUSE}}...{{PAUSE}}...Why'd{{NLINE}}they have to leave{{NPAGE}}so soon?
+Nina{{NLINE}}"Oh, well...{{NPAGE}}If I went with them,{{NLINE}}I'd only get in the{{NLINE}}way...{{NPAGE}}They don't need a{{NLINE}}princess along causing{{NLINE}}trouble...
+Nina{{NLINE}}"What's that!?
+"I heard voices{{NLINE}}from the hall...{{NPAGE}}I wonder what's{{NLINE}}happened?
+"Princess Nina!{{NPAGE}}Please don't come{{NLINE}}to close--it's{{NLINE}}dangerous
+"I've gotta work hard{{NLINE}}to get better and get{{NLINE}}promoted!
+"Say...that reminds{{NLINE}}me...{{NPAGE}}Did that soldier who{{NLINE}}went out looking for{{NLINE}}Princess Nina ever{{NPAGE}}come back?
+"If you study under{{NLINE}}this master, your{{NLINE}}stamina improves...{{NPAGE}}But I'm the thinking{{NLINE}}type, so I'd rather{{NLINE}}have someone who can{{NPAGE}}teach me magic...
+"Have you heard about{{NLINE}}the {{COLRS,2}}masters{{COLRE}}?{{NPAGE}}If you study with them{{NLINE}}your abilities change{{NPAGE}}based on the master's{{NLINE}}specialty...
+"There are lots of{{NLINE}}{{COLRS,2}}masters{{COLRE}} like me{{NLINE}}around the world...{{NPAGE}}Teaching people all{{NLINE}}sorts of different{{NLINE}}skills and abilities
+"The kitchen is down{{NLINE}}this way
+"Looks like something{{NLINE}}startled her while she{{NLINE}}was cleaning...{{NPAGE}}and she broke a dish
+"Some...{{PAUSE}}something hit{{NLINE}}my foot and startled{{NLINE}}me...{{NPAGE}}And I dropped the{{NLINE}}plate...
+Don't touch--it's{{NLINE}}sharp
+"That girl's so{{NLINE}}clumsy...{{NPAGE}}It was probably just{{NLINE}}a rat or something{{NLINE}}anyway...
+"Oh, Princess Nina!{{NLINE}}You have no idea how{{NLINE}}worried I was!{{NPAGE}}I'm so relieved you've{{NLINE}}come back safely!
+"That boy...Ryu...{{NLINE}}He's really something,{{NLINE}}isn't he?{{NPAGE}}Protecting Princess{{NLINE}}Nina all by himself{{NLINE}}like that...
+"Princess...Where{{NLINE}}do you think you're{{NLINE}}going?{{NPAGE}}You can't just{{NLINE}}leave by yourself
+"I feel so ashamed{{NLINE}}that I wasn't able{{NLINE}}to protect the{{NPAGE}}Princess...Next time{{NLINE}}I won't fail!{{NPAGE}}Of course, there{{NLINE}}probably won't be{{NLINE}}a next time, but...
+"The King and Queen's{{NLINE}}rooms are up these{{NLINE}}stairs
+"The maids' and{{NLINE}}servants' rooms are{{NLINE}}this way
+"Nina...{{NLINE}}I'm so glad you're{{NLINE}}safe...
+"Queen Sheila will{{NLINE}}be sure to get{{NLINE}}better now that{{NPAGE}}Princess Nina has{{NLINE}}returned safely
+"The Queen was so{{NLINE}}worried about you,{{NLINE}}Princess, that she{{NPAGE}}collapsed...{{NPAGE}}Please, don't worry{{NLINE}}her like that{{NLINE}}again!
+"Ah! Princess Nina!{{NPAGE}}If you're looking{{NLINE}}for the King, he's{{NLINE}}here with the{{NPAGE}}Knight Vincent
+"Perhaps Nina just{{NLINE}}wants to play, like{{NLINE}}any other child...
+"At any rate, we{{NLINE}}must keep a closer{{NLINE}}eye on her...{{NPAGE}}We cannot have the{{NLINE}}Princess acting so{{NLINE}}rashly
+"Those bandits planned{{NLINE}}on holding the{{NLINE}}Princess for ransom,{{NPAGE}}didn't they?
+"While they might have{{NLINE}}saved the princess,{{NPAGE}}those visitors were{{NLINE}}a rude and uncouth{{NLINE}}bunch!{{NPAGE}}Especially that Garr{{NLINE}}fellow...
+"Since we kept the{{NLINE}}fact that you{{NLINE}}were gone a secret,{{NPAGE}}we can't have a big{{NLINE}}celebration now that{{NLINE}}you're back
+"Princess Nina...{{NPAGE}}Someday, you'll have{{NLINE}}to tell me how you{{NLINE}}managed to escape{{NPAGE}}from those awful{{NLINE}}bandits!
+"What!? You were{{NLINE}}missing, Princess{{NLINE}}Nina!?{{NPAGE}}I had no idea...!
+"We use this machine{{NLINE}}to observe the motion{{NLINE}}of the wind...{{NPAGE}}And try to learn about{{NLINE}}how the world works{{NLINE}}from it
+ {{NLINE}} "The Dragon War: 1"{{NPAGE}}In their attempt to{{NLINE}}take over the world,{{NPAGE}}the dragons started{{NLINE}}a tremendous war...
+ {{NLINE}}"The Book of Flight-1"{{NPAGE}}Once upon a time,{{NLINE}}we Wyndians possessed{{NLINE}}the power of flight
+ {{NLINE}} "The Dragon War: 2"{{NPAGE}}The accursed dragons{{NLINE}}were then destroyed{{NLINE}}by the combined{{NPAGE}}might of the world{{NLINE}}they had sought to{{NLINE}}dominate
+ {{NLINE}}"The Book of Flight-2"{{NPAGE}}But as the ages{{NLINE}}passed, our powers{{NLINE}}weakened,{{NPAGE}}and we eventually{{NLINE}}lost our ability{{NLINE}}to fly
+ {{NLINE}}"The Book of Flight-3"{{NPAGE}}But ours was not the{{NLINE}}only race to lose{{NLINE}}something...{{NPAGE}}Many different peoples{{NLINE}}lost their special{{NLINE}}powers over time
+"No, it wasn't a{{NLINE}}rat...{{NPAGE}}It was something...{{NLINE}}more...{{PAUSE}}Eeek!{{NLINE}}There it is again!
+Nina{{NLINE}}"Hey! That looked{{NLINE}}like Honey!
+Guard{{NLINE}}"P-p-p-{{PAUSE}}princess!!{{NLINE}}You can't leave!{{NPAGE}}The King will kill{{NLINE}}me if I let you{{NLINE}}leave...!
+Nina{{NLINE}}"Yes, {{PAUSE}}mother{{NPAGE}}I'm sorry to have{{NLINE}}made you worry
+Sheila{{NLINE}}"...You...are my{{NLINE}}treasure...{{NPAGE}}Wyndia's treasure...{{NLINE}}Remember that always,{{NPAGE}}and try not to do{{NLINE}}anything that would{{NLINE}}bring us grief...
+Nina{{NLINE}}"Yes, mother...{{NLINE}}I'm sorry...
+"Nina{{NLINE}}...Please, don't go{{NLINE}}away again...
+"Princess, what is{{NLINE}}that? Is it alive!?
+"What? {{PAUSE}}Something{{NLINE}}unusual?{{NPAGE}}No, I haven't seen{{NLINE}}anything come this{{NLINE}}way...
+"Well, I thought I{{NLINE}}saw something tiny{{NLINE}}run that way...
+"I could have sworn{{NLINE}}I just saw something{{NLINE}}go running by...
+"Something really{{NLINE}}small just went{{NLINE}}running past here!{{NPAGE}}I wonder what it{{NLINE}}was, eh, Princess?
+"What was that just{{NLINE}}now? A rat?
+"That wasn't a rat{{NPAGE}}It looked like some{{NLINE}}kind of tiny machine{{NPAGE}}I wonder what it was?
+"I just saw something{{NLINE}}go running up into{{NLINE}}your room, Princess!
+{{TXTBX,03}}King{{NLINE}}"...{{PAUSE}}...{{PAUSE}}...And{{NLINE}}what of the plant?{{DURTN,32}}
+{{TXTBX,03}}King{{NLINE}}"...{{PAUSE}}...{{PAUSE}}...And{{NLINE}}what of the plant?{{DURTN,32}}
+{{TXTBX,04}}Nina{{NLINE}}"Well...{{PAUSE}}...{{PAUSE}}...{{DURTN,32}}
+{{TXTBX,05}}King{{NLINE}}"Hmmm...{{NPAGE}}So, you believe the{{NLINE}}enhanced crops are{{NLINE}}dangerous, then...{{NPAGE}}Perhaps we'll have{{NLINE}}to shut the plant{{NLINE}}down...
+{{TXTBX,05}}King{{NLINE}}"Thank you, Nina{{NPAGE}}Excellent job!
+Nina{{NLINE}}"I didn't do it{{NLINE}}by myself...
+Nina{{NLINE}}"I was only able to{{NLINE}}complete my mission{{NPAGE}}with the help of{{NLINE}}Rei...
+{{TXTBX,05}}King{{NLINE}}"Rise, Master Rei...{{NPAGE}}Thank you for your{{NLINE}}assistance
+{{TXTBX,05}}King{{NLINE}}"If what I heard{{NLINE}}is correct,{{NPAGE}}you wish to travel{{NLINE}}to the eastern lands,{{NLINE}}yes?
+{{TXTBX,05}}King{{NLINE}}"We will have a{{NLINE}}passport prepared...{{NPAGE}}In the meantime,{{NLINE}}please enjoy our{{NLINE}}hospitality!
+Nina{{NLINE}}"Master Rei,{{NLINE}}this way please...{{NPAGE}}I'll give you a{{NLINE}}tour of the castle
+You don't have a{{NLINE}}passport yet!
+"Thank you for helping{{NLINE}}Nina....{{NPAGE}}Please enjoy the{{NLINE}}hospitality of the{{NLINE}}castle while we{{NPAGE}}prepare your passport
+"I'm pleased that{{NLINE}}you're taking on{{NLINE}}greater duties as{{NPAGE}}you mature, but...{{NLINE}}you should also{{NLINE}}remember to attend{{NPAGE}}to your mother on{{NLINE}}occasion, yes?
+"Tell us about your{{NLINE}}adventures in McNeil{{NLINE}}Village and fighting{{NPAGE}}the underground{{NLINE}}organization at Syn{{NLINE}}City
+"Your efforts are an{{NLINE}}inspiration to us all,{{NLINE}}Princess...
+"If I work hard{{NLINE}}enough...maybe one{{NLINE}}day I'll be a knight
+"We're all impressed{{NLINE}}by your work,{{NLINE}}Princess...{{NPAGE}}But be careful not{{NLINE}}to overdo things
+"We heard rumors here{{NLINE}}about a ferocious{{NLINE}}monster like a tiger{{NPAGE}}Did you two defeat{{NLINE}}that as well?
+"McNeil is in the{{NLINE}}dungeons below...
+"I had no idea the{{NLINE}}enhanced crops were{{NLINE}}dangerous like that...{{NPAGE}}I just thought they{{NLINE}}tasted bad, that's{{NLINE}}all...
+"Syn City is that{{NLINE}}place to the west,{{NLINE}}isn't it?{{NPAGE}}I heard you took{{NLINE}}care of the crime{{NLINE}}gang there as well
+"I wonder if they{{NLINE}}use enhanced crops in{{NLINE}}the food here?
+"Thank you for helping{{NLINE}}Princess Nina!{{NPAGE}}Thank you so much!
+"Oh, Princess Nina!{{NLINE}}We're so glad to{{NLINE}}have you back safe!{{NPAGE}}I'm so happy to see{{NLINE}}you again!
+"I suppose the{{NLINE}}Princess prefers life{{NPAGE}}outside the castle{{NLINE}}to life inside...
+"If you do so much{{NLINE}}work all at once{{NLINE}}like that,{{NPAGE}}you'll run out of{{NLINE}}excuses to leave{{NLINE}}the castle!
+"You're truly{{NLINE}}amazing, Princess...{{NPAGE}}Solving all those{{NLINE}}problems by yourself!
+"We better be careful{{NLINE}}or we'll be out of{{NLINE}}a job!
+"The maids' and{{NLINE}}servants' rooms are{{NLINE}}this way
+"Your room is up{{NLINE}}these stairs,{{NLINE}}Princess Nina
+"Welcome home,{{NLINE}}Princess Nina
+"This way to the{{NLINE}}kitchen
+"Have you found{{NLINE}}any of the other{{NLINE}}masters?
+"Our training hasn't{{NLINE}}gotten any easier!
+"We'll try hard to{{NLINE}}follow your example,{{NLINE}}Princess!
+"We're still working{{NLINE}}on making the{{NLINE}}passport...
+"The passport will be{{NLINE}}ready soon...
+"Maybe I should leave{{NLINE}}the castle and try{{NLINE}}finding a handsome man{{NPAGE}}like you did,{{NLINE}}Princess
+"That fellow you{{NLINE}}brought back with you{{NPAGE}}was pretty good-{{NLINE}}looking, Princess
+"You're back, eh,{{NLINE}}Princess?
+"I wonder exactly{{NLINE}}how big the world is?
+"I hear you helped{{NLINE}}Princess Nina...{{NPAGE}}Thank you for your{{NLINE}}trouble
+"I'm so glad you've{{NLINE}}returned safely...
+"Ever since that time{{NLINE}}those ruffians stole{{NLINE}}Princess Nina away{{NPAGE}}from us, I made up{{NLINE}}my mind to never{{NLINE}}trust outsiders!
+"Don't be taken in{{NLINE}}by him, Princess Nina!{{NPAGE}}Let's get him his{{NLINE}}passport and get rid{{NLINE}}of him!
+"The Queen is always{{NLINE}}thinking of you,{{NLINE}}Princess Nina...
+"You should leave{{NLINE}}the police duty{{NLINE}}to the soldiers,{{NPAGE}}and take care of{{NLINE}}your mother, Princess{{NLINE}}Nina...
+"Nina...{{NLINE}}You've come back
+Nina{{NLINE}}"Yes...{{PAUSE}}...{{PAUSE}}...{{NLINE}}I'm home
+Sheila{{NLINE}}"I've heard about how{{NLINE}}well you've done...{{NPAGE}}It pleases me greatly{{NLINE}}But...
+Sheila{{NLINE}}"You belong to{{NLINE}}Wyndia...{{NPAGE}}And you belong to{{NLINE}}me...
+Nina{{NLINE}}"Mother...
+Sheila{{NLINE}}"I'm saying this for{{NLINE}}your own good{{NPAGE}}I won't tolerate{{NLINE}}any more foolish,{{NLINE}}rash behavior...{{NPAGE}}Understand?
+{{TXTBX,06}}Nina{{NLINE}}"Just what do you{{NLINE}}think you're doing?{{NPAGE}}Going through a lady's{{NLINE}}things like that!{{NPAGE}}Especially right in{{NLINE}}front of her!
+Rei{{NLINE}}"Oh! Excuse me!{{NPAGE}}You have to remember,{{NLINE}}I spent most of my{{NLINE}}life as a thief...
+Nina{{NLINE}}"I wonder if {{NLINE}}everything's ready...?
+{{TXTBX,05}}"Here is your passport
+ {{NLINE}}You got a{{NLINE}}{{COLRS,2}}passport{{COLRE}}!
+{{TXTBX,06}}King{{NLINE}}"My apologies for the{{NLINE}}delay, Master Rei{{NPAGE}}Now that that's been{{NLINE}}taken care of,{{NPAGE}}please, relax and{{NLINE}}enjoy yourself
+{{TXTBX,03}}Nina{{NLINE}}"Father, have you{{NLINE}}forgotten?{{NPAGE}}Master Rei is on{{NLINE}}pressing business{{NLINE}}and has no time{{NPAGE}}It would be wrong{{NLINE}}of us to keep him{{NLINE}}from his business
+Nina{{NLINE}}"I will escort Rei{{NLINE}}to the gate
+Rei{{NLINE}}"Thank you, uh, Your{{NLINE}}Tall, uh, Highness...{{NPAGE}}I'll be taking off...{{NLINE}}uh, taking my leave{{NLINE}}of you now...
+King{{NLINE}}"Very well then...{{NPAGE}}Have a safe journey,{{NLINE}}Master Rei!
+{{TXTBX,05}}Rei{{NLINE}}"What's the hurry?{{NPAGE}}I never pass up{{NLINE}}a free meal!
+{{TXTBX,06}}Nina{{NLINE}}"You'd better hurry{{NPAGE}}Before everyone finds{{NLINE}}out about Ryu and{{NLINE}}the others!
+{{TXTBX,06}}Nina{{NLINE}}"I don't think I can{{NLINE}}go with you this time{{NPAGE}}But please tell Ryu{{NLINE}}that...{{PAUSE}}I know he's{{NLINE}}not a bad dragon, OK?
+{{TXTBX,04}}Sheila{{NLINE}}"Stop!
+Sheila{{NLINE}}"Rei...or whoever{{NLINE}}you are...{{NPAGE}}You're one of that{{NLINE}}villain Ryu's{{NLINE}}friends, are you not!?
+{{TXTBX,06}}King{{NLINE}}"What!? Is this{{NLINE}}true!?
+{{TXTBX,05}}Guard{{NLINE}}"There can be no{{NLINE}}doubt!{{NPAGE}}I saw him talking{{NLINE}}with the same people{{NPAGE}}who were here all{{NLINE}}those years ago!
+Nina{{NLINE}}"Father, I can{{NLINE}}explain!{{NPAGE}}I'm sorry I didn't{{NLINE}}tell you everything{{NLINE}}right away...{{NPAGE}}But Ryu isn't a{{NLINE}}bad person!
+Sheila{{NLINE}}"You are being{{NLINE}}tricked...Lied to!{{NPAGE}}By these con men!{{NLINE}}These hoodlums!
+{{TXTBX,05}}Nina{{NLINE}}"Ryu is not a{{NLINE}}hoodlum or a con man!{{NPAGE}}He's a strong, noble{{NLINE}}man with a purpose...
+Sheila{{NLINE}}"You know nothing!{{NPAGE}}I don't know or{{NLINE}}care what they are!{{NPAGE}}They are not people{{NLINE}}you should be calling{{NLINE}}friends!
+{{TXTBX,05}}Nina{{NLINE}}"It's you who doesn't{{NLINE}}understand, Mother!{{NPAGE}}About the Brood!{{NLINE}}About the criminals{{NLINE}}in Syn City!{{NPAGE}}About the remnants{{NLINE}}of the Techno Age!{{NPAGE}}Do you have any idea{{NLINE}}what's outside your{{NLINE}}castle, Mother?
+{{TXTBX,05}}Rei{{NLINE}}"Hey, take it easy...{{DURTN,32}}
+{{TXTBX,05}}Rei{{NLINE}}"All baby birds leave{{NLINE}}the nest someday...{{NPAGE}}Am I wrong?
+{{TXTBX,06}}Sheila{{NLINE}}"How...{{EFCTS}}dare you!?{{EFCTE,02}}
+{{TXTBX,05}}Rei{{NLINE}}"Look...{{NPAGE}}I'm just like you{{NLINE}}said...a crook, a{{NLINE}}thief...{{NPAGE}}But Ryu is different
+{{TXTBX,05}}Rei{{NLINE}}"Ryu is the kind{{NLINE}}of guy who can...{{NPAGE}}No, will change the{{NLINE}}world{{NPAGE}}I'm not surprised that{{NLINE}}you're worried about{{NLINE}}him...
+{{TXTBX,06}}King{{NLINE}}"What are you doing!{{NLINE}}Arrest him!
+{{TXTBX,05}}Rei{{NLINE}}"Time to leave...!
+Nina{{NLINE}}"Rei! Follow Honey!{{DURTN,48}}
+Nina{{NLINE}}"I followed Honey{{NLINE}}before...{{DURTN,48}}
+Nina{{NLINE}}"and she led me out{{NLINE}}of the castle!{{DURTN,48}}
+This is Nina's{{NLINE}}dresser...

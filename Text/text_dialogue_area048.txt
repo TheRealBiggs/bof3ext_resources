@@ -1,0 +1,132 @@
+Eldritch Floater{{NPAGE}}Channeling chrysm or{{NLINE}}magical energy into{{NPAGE}}the crystals will{{NLINE}}activate it
+Eldritch Floater{{NPAGE}}Channeling chrysm or{{NLINE}}magical energy into{{NPAGE}}the crystals will{{NLINE}}activate it
+You see a collection{{NLINE}}of 'adult' books...
+You see a bunch of{{NLINE}}dirty magazines...
+You really shouldn't{{NLINE}}be looking at this
+"Not for sale to{{NLINE}}minors"...
+"XXX: for age 21{{NLINE}}and above only!"
+{{TXTBX,06}}Momo{{NLINE}}"This room is where my{{NLINE}}father used to work...
+Nina{{NLINE}}"There's a hidden{{NLINE}}exit in here...?{{NPAGE}}Cool...
+{{TXTBX,06}}Momo{{NLINE}}"You bet!{{PAUSE}} My dad was{{NLINE}}really something!{{NPAGE}}He was the greatest{{NLINE}}engineer in the whole{{NLINE}}world!
+{{TXTBX,06}}Momo{{NLINE}}"And before he died,{{NPAGE}}he told me he'd made{{NLINE}}an escape device...{{NPAGE}}and had hidden it{{NLINE}}in the tower!
+It feels like there's a{{NLINE}}switch under the desk...{{NLINE}}Do you push it?{{CHOIC,0,0,Yes,No}}
+"What's happening?{{NLINE}}What's that noise!?
+Momo{{NLINE}}"Wow!{{NPAGE}}Only my dad could've{{NLINE}}made something like{{NLINE}}this...!
+{{TXTBX,05}}Nina{{NLINE}}"...But why did he{{NLINE}}build something to get{{NPAGE}}away like this?
+Momo{{NLINE}}"Just because, I{{NLINE}}guess...{{NPAGE}}My dad loved machines{{NPAGE}}Come on, let's take{{NLINE}}a look at it!
+Momo{{NLINE}}"Let's see, we{{NLINE}}ignite it here...{{NPAGE}}I wonder what it{{NLINE}}does...Gee, I'm so{{NLINE}}excited! Oh boy!
+Momo{{NLINE}}"OK{{PAUSE}} everyone ready?{{NLINE}}Here we go...{{NPAGE}}3...{{NPAGE}}2...{{NPAGE}}1...{{NPAGE}}Go!
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+{{TXTBX,81}} {{DURTN,0}}
+ {{NLINE}}Get on Floor 1?{{CHOIC,0,0,Yes,No}}
+ {{NLINE}}Get on Floor 2?{{CHOIC,1,0,Floater1,Floater2,Set,No}}
+ {{NLINE}}Get on Floor 3?{{CHOIC,2,0,Yes,No}}

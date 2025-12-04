@@ -1,0 +1,8 @@
+Lizard
+ProtoBot
+ArmorBot
+Orc
+HyperBot
+Ice Toad
+
+

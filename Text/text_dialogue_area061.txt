@@ -1,0 +1,19 @@
+"I am the great wizard{{NLINE}}Mygas...{{NPAGE}}As you can see,{{PAUSE}} well,{{NLINE}}{{PAUSE}}I'm on a journey...{{NPAGE}}And, well, I've used{{NLINE}}all my money and I{{NLINE}}can't find any food...{{NPAGE}}I've found myself in a{{NLINE}}bit of a spot here...{{NPAGE}}So, that's why I want{{NLINE}}to make you an offer...{{NPAGE}}In exchange for all{{NLINE}}your money,{{NPAGE}}I'll teach you my most{{NLINE}}powerful magics...{{NPAGE}}In other words, I'll be{{NLINE}}your {{COLRS,2}}Master{{COLRE}},{{NPAGE}}and you'll be my {{NLINE}}apprentice...{{NPAGE}}The more you train,{{NLINE}}the more spells you'll{{NLINE}}be able to use...{{NPAGE}}What do you say?{{CHOIC,0,1,Yes,No}}
+So, that's why I want{{NLINE}}to make you an offer...{{NPAGE}}In exchange for all{{NLINE}}your money,{{NPAGE}}I'll teach you my most{{NLINE}}powerful magics...{{NPAGE}}In other words, I'll be{{NLINE}}your {{COLRS,2}}Master{{COLRE}},{{NPAGE}}and you'll be my {{NLINE}}apprentice...{{NPAGE}}The more you train,{{NLINE}}the more spells you'll{{NLINE}}be able to use...{{NPAGE}}What do you say?{{CHOIC,0,1,Yes,No}}
+Oh! I can see you're{{NLINE}}one who's going places!{{NPAGE}}If you become my{{NLINE}}apprentice,{{NPAGE}}your {{COLRS,3}}AP{{COLRE}} and{{NLINE}}{{COLRS,3}}Intelligence{{COLRE}} will go{{NLINE}}up faster...{{NPAGE}}'Course, your {{COLRS,2}}Power{{COLRE}}{{NLINE}}and {{COLRS,2}}Defense{{COLRE}} won't{{NLINE}}go up as fast...{{NPAGE}}So, who wants to be{{NLINE}}my apprentice?
+W-w-w-w-w-w-what?{{NLINE}}You want to quit?{{NPAGE}}Well, if you change{{NLINE}}your mind, you know{{NLINE}}where to find me
+Farewell...{{NPAGE}}Come back after you've{{NLINE}}gotten stronger{{NPAGE}}If you're ready, I'll{{NLINE}}teach you some of my{{NLINE}}spells!
+Mygas{{NLINE}}"Welcome back, my{{NLINE}}students!
+Is there anyone else{{NLINE}}who wants to study{{NLINE}}under me?{{CHOIC,1,0,Yes,No}}
+Oh!{{NLINE}}You'll all my students{{NLINE}}already, aren't you?
+I can scarcely imagine{{NLINE}}it would be so, but...{{NPAGE}}Do you want to quit?{{CHOIC,2,0,Yes,No}}
+What?{{NLINE}}Not one of you is{{NLINE}}a student of mine!
+"I hereby recognize{{NLINE}}{{PRMTR,0}} as my apprentice!
+Is there anyone else{{NLINE}}who wants to study{{NLINE}}with me?{{CHOIC,3,0,Yes,No}}
+"Very well, then...{{NLINE}}I regretfully release{{NLINE}}{{PRMTR,0}} from my service
+I still can't believe{{NLINE}}it, but...{{NPAGE}}Is there anyone else{{NLINE}}who wants to quit?{{CHOIC,4,0,Yes,No}}
+{{PRMTR,0}}, you deserve a{{NLINE}}reward! Therefore I{{NLINE}}give you this!{{NPAGE}}{{PRMTR,0}} learned{{NLINE}}{{COLRS,2}}{{PRMTR,1}}{{COLRE}}!
+Who shall apprentice?
+Who wants to quit?
+Is this OK?                Yes No
+Do you want to quit?       Yes No

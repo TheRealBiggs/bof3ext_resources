@@ -1,0 +1,22 @@
+"Once upon a time...{{NLINE}}In the Contest of{{NLINE}}Champions...{{NPAGE}}I was known as the{{NLINE}}{{COLRS,2}}Mighty{{COLRE}} Emitai...{{NPAGE}}But I've been down{{NLINE}}on my luck...{{NPAGE}}Ever since I {{COLRS,2}}threw{{COLRE}}{{NLINE}}a match to some kids{{NPAGE}}whose friends were{{NLINE}}being held hostage...{{NPAGE}}Now I don't have any{{NLINE}}money to pay off the{{NLINE}}mortgage on this{{NPAGE}}wonderful house and{{NLINE}}the prime real estate{{NLINE}}it's on...{{NPAGE}}I'd like to make a{{NLINE}}deal: if you give me{{NLINE}}10000 zenny,{{NPAGE}}I'll teach you all{{NLINE}}my magic...What do{{NLINE}}you say?{{CHOIC,0,1,Pay 10000 zenny,Um, no thanks}}
+Now I don't have any{{NLINE}}money to pay off the{{NLINE}}mortgage on this{{NPAGE}}wonderful house and{{NLINE}}the prime real estate{{NLINE}}it's on...{{NPAGE}}I'd like to make a{{NLINE}}deal: if you give me{{NLINE}}10000 zenny,{{NPAGE}}I'll teach you all{{NLINE}}my magic...What do{{NLINE}}you say?{{CHOIC,0,1,Pay 10000 zenny,Um, no thanks}}
+Wow! It really is{{NLINE}}10000 zenny...!{{NPAGE}}I never thought I'd{{NLINE}}really get...ahem!{{NPAGE}}All right then: a deal{{NLINE}}is a deal--I'll teach{{NLINE}}you everything I know!
+...{{PAUSE}}...I'm sorry,{{NLINE}}but there's not{{NLINE}}enough here...{{NPAGE}}Maybe some other{{NLINE}}time, then?
+Maybe some other{{NLINE}}time, then?
+"Long time no see!
+Is there someone else{{NLINE}}who'd like to learn{{NLINE}}some magic?{{CHOIC,1,0,Yes,No}}
+Hmmm?{{NLINE}}It looks like you're{{NLINE}}all studying already!
+You mean...{{NLINE}}You want to quit your{{NLINE}}studies with me?{{CHOIC,2,0,Yes,No}}
+It doesn't look like{{NLINE}}there's anyone here{{NLINE}}studying with me...
+"All right, then, I{{NLINE}}name {{PRMTR,0}} as my{{NLINE}}pupil!
+Is there anyone else{{NLINE}}who'd like to study{{NLINE}}under me?{{CHOIC,3,0,Yes,No}}
+"Well then, I guess{{NLINE}}{{PRMTR,0}} will have to{{NLINE}}study all alone...
+Is there anyone else{{NLINE}}who wants to quit?{{CHOIC,4,0,Yes,No}}
+"It looks like {{PRMTR,0}}{{NLINE}}has gained a deeper{{NLINE}}understanding of my{{NPAGE}}magic...As a reward,{{NLINE}}I give you this:{{NPAGE}}{{COLRS,2}}{{PRMTR,1}}{{COLRE}}!
+Who shall apprentice?
+Who wants to quit?
+Is this OK?                Yes No
+Do you want to quit?       Yes No
+"Dear, can't you do{{NLINE}}something about that{{NLINE}}big golem?{{NPAGE}}Do you know how{{NLINE}}much money I spend{{NLINE}}on food every month?
+"Daddy can't make any{{NLINE}}money...Now that the{{NPAGE}}Contest of Champions{{NLINE}}is closed for good
+"Go Emitai!!{{NLINE}}G o E m i t a i ! !{{NLINE}}Em{{PAUSE}}i{{PAUSE}}t{{PAUSE}}ai, Em{{PAUSE}}i{{PAUSE}}t{{PAUSE}}ai...{{PAUSE}}...{{NPAGE}}Looks like the{{NLINE}}battery's dead...

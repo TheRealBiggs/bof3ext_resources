@@ -1,0 +1,37 @@
+"Oh! And where did you{{NLINE}}come from, my little{{NLINE}}friend?
+"Oh! And where did you{{NLINE}}come from, my little{{NLINE}}friend?
+"It's been a pretty bad{{NLINE}}year for the crops...{{NPAGE}}I don't really feel{{NLINE}}like working much so I{{NLINE}}jus' sit here all day{{NPAGE}}Hey, did you know that{{NLINE}}you can see around{{NLINE}}corners and into other{{NPAGE}}places like this by{{NLINE}}pressing the View{{NLINE}}button and hitting the{{NPAGE}}Directional button
+"Did you know the lord{{NLINE}}of this village is{{NLINE}}named McNeil?{{NPAGE}}That's why it's named{{NLINE}}McNeil Village--simple,{{NLINE}}no?
+"Welco...Huh?{{NLINE}}Oh, just a kid...{{NPAGE}}If you're not going{{NLINE}}to buy anything,{{NPAGE}}scram! Get outta{{NLINE}}here! Shoo!
+"Eeek! Oh, you gave{{NLINE}}me quite a scare!{{NPAGE}}I thought Teepo had{{NLINE}}come a-stealin'{{NLINE}}again...
+"Sometimes those brats{{NLINE}}from the Cedar Woods{{NLINE}}come around and filch{{NPAGE}}from me...Can't even{{NLINE}}take a nap...
+"{{EFCTS}}Grrrrr{{EFCTE,00}} You little{{NLINE}}punks...Come looking{{NLINE}}for trouble again?
+"Even though I'm{{NLINE}}sitting here goofing{{NLINE}}off like this...{{NPAGE}}I don't go around{{NLINE}}stealing things like{{NLINE}}you...
+"Sorry--ain't got{{NLINE}}nothing for you...{{NPAGE}}There's nothing{{NLINE}}left here!
+"It's you, is it...?{{NLINE}}Well, there's nothing{{NLINE}}here, you hear me?{{NPAGE}}Nothing for little{{NLINE}}thieves like you,{{NLINE}}so get on! Shoo!
+"What do you want?{{NLINE}}There's nothing here{{NLINE}}for you to steal...
+"What's that? You say{{NLINE}}you want to stay at{{NLINE}}the inn?
+"Hmmm...? Mt. Glaus?{{NPAGE}}Why do you want to{{NLINE}}know, hmmm? What're{{NLINE}}you up to now?
+"Getting hungry...{{NPAGE}}Maybe I should do{{NLINE}}a little work after{{NLINE}}all...
+"Mt. Glaus?{{NPAGE}}That's past the woods{{NLINE}}and to the east...{{NPAGE}}Eh?{{PAUSE}} Which way's north?{{NLINE}}I think it's up and{{NLINE}}to the left...
+"Hey!{{NPAGE}}Instead of running{{NLINE}}around all day{{NLINE}}getting into trouble{{NPAGE}}why don't you give{{NLINE}}people a hand{{NLINE}}sometime?
+"{{EFCTS}}Eeeeeeeek!{{EFCTE,03}}{{NLINE}}You came back!{{NPAGE}}Whew!{{NLINE}}Don't scare me{{NLINE}}like that!
+"So you want to stay{{NLINE}}at the inn, do ya?{{NPAGE}}Who do you think you{{NLINE}}are, you little{{NLINE}}punks...
+{{TXTBX,05}}"Out of my house,{{NLINE}}you punks!
+{{TXTBX,05}}"Out of my house,{{NLINE}}you punks!
+{{TXTBX,05}}"Out of my house,{{NLINE}}you punks!
+{{TXTBX,03}}Teepo{{NLINE}}"Ha ha ha! You'll{{NLINE}}never catch me!!{{DURTN,48}}
+{{TXTBX,05}}Teepo{{NLINE}}"It's no use, Rei.{{NPAGE}}Everyone's watching{{NLINE}}out for us...
+{{TXTBX,06}}Rei{{NLINE}}"Nobody's got much{{NLINE}}food,{{NPAGE}}what with the poor{{NLINE}}harvest and all...{{NPAGE}}Hey, Teepo, look at{{NLINE}}this...
+{{TXTBX,05}}Teepo{{NLINE}}"Hey! You finally{{NLINE}}woke up, huh?
+{{TXTBX,06}}Rei{{NLINE}}"Doesn't this beat{{NLINE}}all!{{NPAGE}}Now we've got another{{NLINE}}mouth to feed...
+{{TXTBX,05}}Teepo{{NLINE}}"What if we get him to{{NLINE}}help us, Rei?
+{{TXTBX,06}}Rei{{NLINE}}"Good idea...{{NPAGE}}But I think we need to{{NLINE}}get him out of his{{NLINE}}pajamas first
+{{TXTBX,05}}Teepo{{NLINE}}"C'mon!{{NPAGE}}We'll get you fixed up{{NLINE}}with some equipment!
+"We may not have{{NLINE}}been able to steal{{NLINE}}any food...{{NPAGE}}But I think we can{{NLINE}}scrounge up some{{NLINE}}armor and weapons
+...locked!
+{{TXTBX,01}}Teepo{{NLINE}}"Where do you think{{NLINE}}you're going?{{NPAGE}}Get on over here!
+"You just wait, Ryu{{NPAGE}}Rei'll get you set{{NLINE}}up with something in{{NLINE}}no time!
+Rei{{NLINE}}"Uh-oh! Scram!!
+Teepo{{NLINE}}"Huh??...Did I just{{NLINE}}say Ryu?{{NPAGE}}{{PAUSE}}...{{PAUSE}}...Is that{{NLINE}}your name?
+Teepo{{NLINE}}"Funny...how did I{{NLINE}}know that?{{NPAGE}}Maybe I dreamed it...?

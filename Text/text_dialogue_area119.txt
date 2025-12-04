@@ -1,0 +1,77 @@
+{{TXTBX,05}}Momo{{NLINE}}"Would you look at{{NLINE}}this stuff!!
+{{TXTBX,05}}Momo{{NLINE}}"Hey, Ryu{{NPAGE}}What do you think{{NLINE}}all this is for?
+{{TXTBX,05}}Momo{{NLINE}}"Is it part of{{NLINE}}the plant...?{{NPAGE}}Is it the secret{{NLINE}}research lab of{{NLINE}}the director...?{{NPAGE}}But then this{{NLINE}}machine...{{NLINE}}mumble mumble...
+{{TXTBX,05}}Momo{{NLINE}}"Verrry impressive...{{NPAGE}}I wonder if the{{NLINE}}director made it{{NLINE}}all himself..{{NPAGE}}Or if there was{{NLINE}}another engineer...
+{{TXTBX,05}}Momo{{NLINE}}"Engineer...!?
+{{TXTBX,05}}Momo{{NLINE}}"Wait a minute!{{NPAGE}}Mmmm...{{PAUSE}}...{{PAUSE}}...{{NLINE}}Oh, never mind...{{NPAGE}}Come on, let's{{NLINE}}look around a{{NLINE}}little...
+{{TXTBX,05}}Momo{{NLINE}}"We should be able{{NLINE}}to get down from here
+It looks really{{NLINE}}complicated...{{NPAGE}}Too complicated{{NLINE}}for {{CHRTR}} to{{NLINE}}understand
+It looks really{{NLINE}}complicated...{{NPAGE}}Too complicated{{NLINE}}for {{CHRTR}} to{{NLINE}}understand
+It looks really{{NLINE}}complicated...{{NPAGE}}Too complicated{{NLINE}}for {{CHRTR}} to{{NLINE}}understand
+It looks really{{NLINE}}complicated...{{NPAGE}}Too complicated{{NLINE}}for {{CHRTR}} to{{NLINE}}understand
+"It's not turned on...{{NLINE}}It's no good like this
+"We should be able to{{NLINE}}open the doors marked{{NLINE}}1 now...
+"We don't know the{{NLINE}}password yet...{{NPAGE}}We should be able to{{NLINE}}find a hint somewhere
+The door is locked{{NLINE}}electronically
+"It says...{{NPAGE}}Please input code{{NLINE}}from main monitor
+"Ah! I know what this{{NLINE}}is! This is a relic{{NLINE}}from the Techno Age!{{NPAGE}}And this number...
+Momo{{NLINE}}"...is the same as{{NLINE}}was on the door,{{NPAGE}}right?!
+Momo{{NLINE}}"In other words,{{NPAGE}}this is a key...A key{{NLINE}}from the Techno Age!
+Momo{{NLINE}}"If we input the{{NLINE}}{{COLRS,2}}password{{COLRE}} here...{{NPAGE}}The doors with the{{NLINE}}same number will open!
+Momo{{NLINE}}"Does anyone want{{NPAGE}}to try and guess{{NLINE}}the password?
+Momo{{NLINE}}"Without the{{NLINE}}password...{{NPAGE}}We'll never be able{{NLINE}}to get those doors{{NLINE}}open
+Momo{{NLINE}}"But usually people{{NLINE}}use something like...{{NPAGE}}a friend's name or{{NLINE}}whatever for their{{NLINE}}password...
+Momo{{NLINE}}"Like...{{NPAGE}}{{COLRS,2}}P e l e t{{COLRE}} or something
+Momo{{NLINE}}"Maybe that's a little{{NLINE}}too obvious...?
+Momo{{NLINE}}"I don't believe it...{{NLINE}}{{PAUSE}}It opened!
+Momo{{NLINE}}"Well, now we're{{NLINE}}getting somewhere!{{NPAGE}}Come on, let's go!
+ {{NLINE}}{{INSTS}}   Repair Notes{{INSTE}}{{NPAGE}}"Unit 3" out of order{{NLINE}}Adjust pressure{{NLINE}}counter by +10
+ {{NLINE}}{{INSTS}}   Repair Notes{{INSTE}}{{NPAGE}}"Unit 3" out of order{{NLINE}}Adjust pressure{{NLINE}}counter by +10
+ {{NLINE}}{{INSTS}}   Repair Notes{{INSTE}}{{NPAGE}}"Unit 3" out of order{{NLINE}}Adjust pressure{{NLINE}}counter by +10
+ {{NLINE}}{{INSTS}}   Repair Notes{{INSTE}}{{NPAGE}}"Unit 3" out of order{{NLINE}}Adjust pressure{{NLINE}}counter by +10
+ {{NLINE}}{{INSTS}}   Repair Notes{{INSTE}}{{NPAGE}}"Unit 3" out of order{{NLINE}}Adjust pressure{{NLINE}}counter by +10
+ {{NLINE}}{{INSTS}}   Repair Notes{{INSTE}}{{NPAGE}}"Unit 3" out of order{{NLINE}}Adjust pressure{{NLINE}}counter by +10
+ Main Valve: {{COLRS,2}}Off{{COLRE}}{{NLINE}} Chrysm Pressure: 0
+Chrysm Chamber{{NLINE}}Supplying Units 1-5
+     Unit 1{{NLINE}} Chrysm Pressure: 21
+     Unit 2{{NLINE}} Chrysm Pressure: 39
+     Unit 3{{NLINE}} Chrysm Pressure: 18
+     Unit 4{{NLINE}} Chrysm Pressure: 55
+     Unit 5{{NLINE}} Chrysm Pressure: 42
+It says...{{NPAGE}}"The chrysm chamber{{NLINE}}pressure counter..."{{NPAGE}}It's all too{{NLINE}}complicated to{{NLINE}}understand...{{NPAGE}}Maybe the pressure{{NLINE}}counter is this{{NLINE}}machine here?
+"It is essential to{{NLINE}}line up the counters{{NLINE}}in order from the{{NPAGE}}one with the lowest{{NLINE}}pressure up..."
+Look at the counters{{NLINE}}and arrange them in{{NPAGE}}order from lowest to{{NLINE}}highest...!?{{NPAGE}}Could this be a{{NLINE}}hint for the last{{NLINE}}password?
+Chrysm gas is leaking{{NLINE}}out of the room...{{NPAGE}}Could something be{{NLINE}}happening inside?
+There's something{{NLINE}}about that room...{{NPAGE}}Let's check it out{{NLINE}}first...
+Momo{{NLINE}}"Oh my! It's{{NLINE}}mutating!!!{{DURTN,64}}
+Nina{{NLINE}}"A...mutant!?{{DURTN,64}}
+Rei{{NLINE}}"So this... is a{{NLINE}}mutant?{{DURTN,64}}
+Nina{{NLINE}}"A mutant...?{{DURTN,64}}
+Could it be this plant{{NLINE}}is being used to make{{NPAGE}}mutants in some kind{{NLINE}}of experiment...?{{NPAGE}}Could Momo's father{{NLINE}}be involved somehow?
+Palet{{NLINE}}"Hee hee hee...{{NLINE}}Soon, mother, soon...{{NPAGE}}I'll be able to{{NLINE}}revive you soon...
+Palet{{NLINE}}"With this elixir I{{NLINE}}made using the mixture{{NPAGE}}of chrysm ore and{{NLINE}}Yggdrasil sap...I'll{{NPAGE}}be able to bring you{{NLINE}}back to life!
+Palet{{NLINE}}"I tried hundreds of{{NLINE}}experiments{{NPAGE}}to perfect this{{NLINE}}process!{{NPAGE}}After all, we can't{{NLINE}}have you come back{{NLINE}}as some nasty mutant,{{NPAGE}}now can we?
+Palet{{NLINE}}"Hee hee hee{{NPAGE}}Don't worry, mother...{{NLINE}}I'll make sure you{{NLINE}}don't look like some{{NPAGE}}ugly onion or{{NLINE}}anything like that!
+{{TXTBX,06}}Palet{{NLINE}}"What!? Who are you!?{{NPAGE}}...{{PAUSE}}Momo!?
+Momo{{NLINE}}"We finally found{{NLINE}}you, Mr. Director...{{NPAGE}}So, you want to tell{{NLINE}}us what's going on{{NLINE}}here?{{NPAGE}}What is this place?{{NLINE}}Why did you abandon{{NLINE}}the plant like that?
+{{TXTBX,05}}Palet{{NLINE}}"{{EFCTS}}Wh{{EFCTE,02}}, what do you{{NLINE}}mean, Momo?{{NPAGE}}I...{{PAUSE}}I've been working{{NLINE}}on a new strain of{{NLINE}}enhanced crops...
+Momo{{NLINE}}"Liar!{{NPAGE}}We heard you...heard{{NLINE}}you talking about{{NPAGE}}bringing your mother{{NLINE}}back from the dead!
+{{TXTBX,05}}Palet{{NLINE}}"Wh...wh..what?{{NPAGE}}I...I...I'm just...{{NLINE}}My m-m-m-mother...
+Momo{{NLINE}}"Your experiments...{{NPAGE}}where you used the{{NLINE}}chrysm...they're{{NPAGE}}responsible for the{{NLINE}}mutants, aren't they?{{NPAGE}}Your experiments to{{NPAGE}}bring your dead{{NLINE}}mother back to life!
+{{TXTBX,05}}Palet{{NLINE}}"Shut up!{{NPAGE}}What do you know!{{NLINE}}Why is it all right{{NLINE}}to use chrysm to{{NPAGE}}create new life{{NLINE}}with the enhanced{{NLINE}}crops...{{NPAGE}}but not to give{{NLINE}}new life to my{{NLINE}}mother!?
+{{TXTBX,05}}Palet{{NLINE}}"Besides...{{NPAGE}}It was your father,{{NPAGE}}Repsol, who put this{{NLINE}}machinery together in{{NLINE}}the first place!
+{{TXTBX,05}}Palet{{NLINE}}"Your father...{{NPAGE}}He was the one who{{NLINE}}went to Yggdrasil{{NLINE}}and got the sap...{{NPAGE}}and put it in the{{NLINE}}machine...{{NPAGE}}hoping to bring his{{NLINE}}dead wife back to{{NLINE}}life!
+Momo{{NLINE}}"What...!?
+{{TXTBX,05}}Palet{{NLINE}}"It was a great{{NLINE}}discovery!{{NPAGE}}We were able to use{{NLINE}}the essence of that{{NLINE}}good-for-nothing tree{{NPAGE}}Yggdrasil with the{{NLINE}}chrysm to give{{NLINE}}life!
+{{TXTBX,05}}Palet{{NLINE}}"And yet...and yet{{NLINE}}that fool Repsol...{{NPAGE}}He said it was{{NLINE}}against the laws of{{NLINE}}nature...{{NPAGE}}that it was wrong...{{NLINE}}and stopped the{{NLINE}}experiments!
+{{TXTBX,05}}Palet{{NLINE}}"Why? What's wrong{{NLINE}}with it?{{NPAGE}}Everyone who's lost{{NLINE}}a loved one wished{{NLINE}}they could come back!
+{{TXTBX,05}}Palet{{NLINE}}"I won't quit now!{{NPAGE}}I can't! Who cares{{NLINE}}what the tree says!{{NPAGE}}Unnatural!?{{NPAGE}}What's unnatural about{{NLINE}}using the resources{{NLINE}}we've been given!
+{{TXTBX,05}}Palet{{NLINE}}"Hee hee hee...{{NLINE}}You see this?{{NPAGE}}This is what we{{NLINE}}extracted from{{NLINE}}Yggdrasil...{{NPAGE}}The essence of{{NLINE}}consciousness{{NLINE}}itself!
+{{TXTBX,05}}Palet{{NLINE}}"I'll now transform...{{NPAGE}}I'll be able to{{NLINE}}protect my mother{{NPAGE}}from anyone who'd{{NLINE}}harm us...like you!{{NPAGE}}bwah-ha-ha-ha-ha-ha!
+Momo{{NLINE}}"So many times, I've{{NLINE}}asked myself...{{PAUSE}}{{NPAGE}}What would it have{{NLINE}}been like if my{{NLINE}}father had lived...?
+Momo{{NLINE}}"That's why...
+Momo{{NLINE}}"But...{{PAUSE}}I don't{{NLINE}}know...{{NPAGE}}Somehow I feel{{NLINE}}relieved just{{NLINE}}hearing that he{{NPAGE}}wasn't able to{{NLINE}}continue the{{NLINE}}experiments...
+Momo{{NLINE}}"You know...{{NPAGE}}I bet Palet's mother{{NLINE}}can't be happy,{{NPAGE}}being hooked up to{{NLINE}}machines like this...
+Momo{{NLINE}}"Right...?{{NPAGE}}Let's go...
+If this is turned{{NLINE}}off, the supply of{{NLINE}}chrysm will stop...{{NPAGE}}and Palet's mother{{NLINE}}will finally be able{{NLINE}}to rest in peace...{{CHOIC,0,1,Cut the switch,Leave it as is}}
+You feel like you've{{NLINE}}forgotten about{{NLINE}}something...

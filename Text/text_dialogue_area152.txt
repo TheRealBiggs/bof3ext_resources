@@ -1,0 +1,34 @@
+     Desert
+A small village{{NLINE}}built around{{NLINE}}a small spring
+There are lots of{{NLINE}}containers piled up...
+A empty city,{{NLINE}}inhabited only by{{NLINE}}machines...
+Myria{{NLINE}}"But the people fought{{NLINE}}and quarreled...{{NPAGE}}And the city was{{NLINE}}swallowed by the{{NLINE}}desert...
+Myria{{NLINE}}"But the people fought{{NLINE}}and quarreled...{{NPAGE}}And the city was{{NLINE}}swallowed by the{{NLINE}}desert...
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+The field of flowers{{NLINE}}is reacting to the{{NLINE}}Faerie Tiara...{{NPAGE}}Do you want to use{{NLINE}}the {{COLRS,2}}Faerie Tiara{{COLRE}}?{{CHOIC,0,0,Yes,No}}

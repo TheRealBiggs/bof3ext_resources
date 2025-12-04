@@ -1,0 +1,3 @@
+{{TXTBX,82}} {{NLINE}} {{NLINE}}Ryu and his companions{{NLINE}} {{NLINE}}board the huge machine,{{NLINE}} {{NLINE}}which is unlike anything{{NLINE}} {{NLINE}}  they have ever seen{{NLINE}} {{NLINE}}        before...      {{DURTN,80}}
+{{TXTBX,82}} {{NLINE}} {{NLINE}}Ryu and his companions{{NLINE}} {{NLINE}}board the huge machine,{{NLINE}} {{NLINE}}which is unlike anything{{NLINE}} {{NLINE}}  they have ever seen{{NLINE}} {{NLINE}}        before...      {{DURTN,80}}
+{{TXTBX,82}} {{NLINE}} {{NLINE}}The machine carries them{{NLINE}} {{NLINE}}  high into the sky...{{NLINE}} {{NLINE}} to a place that shares{{NLINE}} {{NLINE}}     the name of a  {{NLINE}} {{NLINE}}         god...  {{DURTN,64}}

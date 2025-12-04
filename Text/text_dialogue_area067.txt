@@ -1,0 +1,67 @@
+"Don't even think{{NLINE}}about trying to{{NLINE}}get past us...{{NPAGE}}Now head on back and{{NLINE}}face the music!
+Balio{{NLINE}}"...Ryu{{NPAGE}}I've got to hand{{NLINE}}it to you...{{NPAGE}}You're one heck{{NLINE}}of a kid
+{{TXTBX,06}}Sunder{{NLINE}}"I never would've{{NLINE}}thought you'd give{{NPAGE}}us so much{{NLINE}}trouble...
+{{TXTBX,04}}Balio{{NLINE}}"We've called in{{NLINE}}all our men from{{NPAGE}}around here...
+{{TXTBX,06}}Sunder{{NLINE}}"You won't get{{NLINE}}away this time!{{NPAGE}}{{PAUSE}}Get him!!
+{{TXTBX,06}}Balio{{NLINE}}"These Brood are{{NLINE}}really something,{{NPAGE}}eh, Sunder?
+{{TXTBX,06}}Sunder{{NLINE}}"But he can't keep{{NLINE}}it up forever...{{NPAGE}}We still have plenty{{NLINE}}of men behind you...
+{{TXTBX,05}}Garr{{NLINE}}"...humph!
+{{TXTBX,05}}Garr{{NLINE}}"...{{PAUSE}}...{{PAUSE}}...Them?{{NPAGE}}They were in my{{NLINE}}way...
+{{TXTBX,06}}Sunder{{NLINE}}"Wh...{{EFCTS}}WHAT!?{{EFCTE,02}}
+Balio{{NLINE}}"Hey, Garr...{{NPAGE}}What do you think{{NLINE}}you're doing?{{NPAGE}}Why would you betray{{NLINE}}us to help these{{NLINE}}kids!?
+{{TXTBX,03}}Garr{{NLINE}}"That's my{{NLINE}}business...{{PAUSE}}Anyway...{{NPAGE}}I thought I told{{NLINE}}you to leave them{{NLINE}}alone?
+{{TXTBX,03}}Garr{{NLINE}}"Looks like you{{NLINE}}betrayed me first, no?
+{{TXTBX,01}} {{NLINE}}Garr joined the party{{NPAGE}}Please choose 3{{NLINE}}party members
+{{TXTBX,06}}Balio{{NLINE}}"Garr...{{NPAGE}}The boss isn't going{{NLINE}}to let you get{{NLINE}}away with this...
+{{TXTBX,05}}Garr{{NLINE}}"So?{{NPAGE}}I don't care about{{NLINE}}your boss or what{{NLINE}}he thinks
+{{TXTBX,06}}Balio{{NLINE}}"I {{PAUSE}}{{PAUSE}}see...{{NPAGE}}All right then...{{PAUSE}}we'll{{NLINE}}settle this here and{{NLINE}}now
+{{TXTBX,06}}Balio{{NLINE}}"It looks like the{{NLINE}}time has come...{{NPAGE}}to show them our{{NLINE}}true power, my{{NLINE}}brother
+{{TXTBX,06}}Sunder{{NLINE}}"What!?{{NPAGE}}You mean we're{{NLINE}}gonna...?
+{{TXTBX,06}}Sunder{{NLINE}}"You're all dead!
+{{TXTBX,06}}Balio and Sunder{{NLINE}}"{{EFCTS}}uuuuurrrrraaaaa{{EFCTE,02}}
+{{TXTBX,06}}Stallion{{NLINE}}"Stallion{{NLINE}}Meta{{PAUSE}}morph{{PAUSE}}osis!{{NPAGE}}No one has seen us{{NLINE}}in this form and{{NPAGE}}lived to tell the{{NLINE}}tale!!
+{{TXTBX,06}}Nina{{NLINE}}"Thank you,{{NLINE}}Garr...
+{{TXTBX,06}}Nina{{NLINE}}"Thank you,{{NLINE}}Garr...
+{{TXTBX,06}}Nina{{NLINE}}"Thank you,{{NLINE}}Garr...
+{{TXTBX,05}}Garr{{NLINE}}"Think nothing of{{NLINE}}it...{{NPAGE}}I was planning{{NLINE}}on breaking off{{NLINE}}from them anyway{{NPAGE}}More importantly...
+{{TXTBX,05}}Garr{{NLINE}}"Once we've taken{{NLINE}}the princess back{{NPAGE}}to Wyndia, you must{{NLINE}}come with me to{{NLINE}}Angel Tower, Ryu...
+{{TXTBX,06}}Nina{{NLINE}}"Wait a minute!{{NPAGE}}Ryu's looking for{{NLINE}}some missing friends{{NLINE}}of his, named{{NPAGE}}Teepo and Rei...
+{{TXTBX,05}}Garr{{NLINE}}"Something tells me...{{NPAGE}}You won't find them{{NLINE}}alive...
+{{TXTBX,06}}Nina{{NLINE}}"Garr! How can you{{NLINE}}say that!
+{{TXTBX,05}}Garr{{NLINE}}"You know who you're{{NLINE}}dealing with...{{NPAGE}}don't you? They're the{{NLINE}}kind of people who'll{{NLINE}}kill anyone...{{NPAGE}}The only reason Ryu{{NLINE}}was all right was{{NLINE}}because of his power,{{NPAGE}}or am I wrong?
+{{TXTBX,05}}Garr{{NLINE}}"First, we should{{NLINE}}go to Wyndia...{{NPAGE}}We need to get{{NLINE}}permission to cross{{NLINE}}the bridge, anyway
+"Welcome! I am the{{NLINE}}painter Ecarl, you{{NLINE}}see?{{NPAGE}}Please be remembering{{NLINE}}my wife's name,{{NLINE}}Kimiko, yes?
+"Very noisy here{{NLINE}}of late, no?{{NPAGE}}I picked this place{{NLINE}}for my studio{{NPAGE}}because it is quiet{{NLINE}}here, you see?
+"I eat my wife's{{NLINE}}shisu, yes? And I{{NLINE}}am happy!{{NPAGE}}I am happy, so I{{NLINE}}am painting, yes?
+"Shisu? Shisu is{{NLINE}}one of our Maekyss{{NLINE}}specialties...{{NPAGE}}We use fish from{{NLINE}}the Maekyss river{{NLINE}}to make it
+"meow
+"prrrrrrrrrr
+"I build my studio{{NLINE}}here for two reasons,{{NLINE}}yes?{{NPAGE}}One, is because is{{NLINE}}quiet here...{{NPAGE}}Two, is because the{{NLINE}}shisu is too{{NLINE}}delicious, yes?
+"Shisu is a rare{{NLINE}}delicacy to those{{NPAGE}}outside Maekyss, but{{NLINE}}we enjoy it often...{{NPAGE}}It's prepared by{{NLINE}}kneading together{{NLINE}}the seeds of the{{NPAGE}}shaly tree with{{NLINE}}vinegar into a{{NLINE}}small ball...{{NPAGE}}Then, you add a{{NLINE}}dash of horseradish{{NLINE}}and finally, it's{{NPAGE}}topped off with a{{NLINE}}succulent, fresh{{NLINE}}slice of mackerel{{NPAGE}}What do you want to{{NLINE}}know how to make{{NLINE}}shisu for?
+"This is Ylikov{{NLINE}}He's pretty,{{NLINE}}isn't he?
+"Her name is{{NLINE}}Miyuki...Isn't{{NLINE}}she cute?
+"Sorry...{{NLINE}}M'cargo's fallen off{{NLINE}}y'see...{{NPAGE}}Won't be able to{{NLINE}}get through here 'till{{NLINE}}help comes...
+"If you're headed{{NLINE}}to Wyndia...{{NPAGE}}Well, 'tis a long{{NLINE}}way 'round, but...{{NPAGE}}you could always{{NLINE}}try goin' 'round{{NLINE}}Mt. Boumore
+You won't be able{{NLINE}}to move this by{{NLINE}}yourself...
+"You want to get some-{{NLINE}}one who hates fish to{{NLINE}}eat fish!?{{NPAGE}}Then shisu is the{{NLINE}}best choice!{{NPAGE}}It's really good!{{NLINE}}You don't even know{{NLINE}}you're eating fish!
+"OK, let me show{{NLINE}}you how to make it{{NLINE}}First of all...{{NPAGE}}You put the {{COLRS,2}}mackerel{{COLRE}}{{NLINE}}on top of {{COLRS,3}}shaly seeds{{COLRE}}{{NLINE}}that've been put in{{NPAGE}}{{COLRS,4}}vinegar{{COLRE}} and put on{{NLINE}}a little {{COLRS,6}}horseradish{{COLRE}}{{NPAGE}}and then squeeze it{{NLINE}}together...{{CHOIC,0,2,What's "mackerel"?,"Shaly seeds"?,"Vinegar"?,"Horseradish"?,{{COLRS,2}}Squeeze{{COLRE}} it together?,Thanks}}
+"Mackerel is a kind{{NLINE}}of fish that can{{NLINE}}only be caught here{{NPAGE}}in the Maekyss River--{{NLINE}}if you want to try{{NLINE}}and catch it, there's{{NPAGE}}a fishing spot just{{NLINE}}{{COLRS,2}}to the west{{COLRE}} of{{NLINE}}here...{{NPAGE}}Anything else you{{NLINE}}want to know?{{CHOIC,0,2,What's "mackerel"?,"Shaly seeds"?,"Vinegar"?,"Horseradish"?,{{COLRS,2}}Squeeze{{COLRE}} it together?,Thanks}}
+"Shaly is a type of{{NLINE}}tree that grows close{{NLINE}}to water...{{NPAGE}}Its seeds are really{{NLINE}}soft and white, and{{NLINE}}go well with all{{NPAGE}}sorts of food...{{NLINE}}There's shaly trees{{NLINE}}around here--if you{{NPAGE}}{{COLRS,2}}shake{{COLRE}} them, you{{NLINE}}should be able to{{NLINE}}get some seeds...{{NPAGE}}Anything else you{{NLINE}}want to know?{{CHOIC,0,2,What's "mackerel"?,"Shaly seeds"?,"Vinegar"?,"Horseradish"?,{{COLRS,2}}Squeeze{{COLRE}} it together?,Thanks}}
+Vinegar is a liquid{{NLINE}}that has a bit of a{{NPAGE}}sour taste to it...{{NLINE}}If you mix it in{{NLINE}}with shaly seeds,{{NPAGE}}it tastes exquisite{{NLINE}}with fish!{{NPAGE}}I always use the{{NLINE}}vinegar I get at the{{NPAGE}}{{COLRS,2}}coffee house{{COLRE}} over in{{NLINE}}the east...{{NPAGE}}Anything else you{{NLINE}}want to know?{{CHOIC,0,2,What's "mackerel"?,"Shaly seeds"?,"Vinegar"?,"Horseradish"?,{{COLRS,2}}Squeeze{{COLRE}} it together?,Thanks}}
+"Horseradish has a{{NLINE}}unique taste that{{NLINE}}helps block out that{{NPAGE}}unpleasant smell fish{{NLINE}}has...It's like a{{NLINE}}mustard...{{NPAGE}}I've heard you can{{NLINE}}get it in the forest{{NLINE}}near the {{COLRS,2}}Dauna Mine{{COLRE}},{{NPAGE}}but that's a long{{NLINE}}ways away west of{{NLINE}}here...{{NPAGE}}Anything else you{{NLINE}}want to know?{{CHOIC,0,2,What's "mackerel"?,"Shaly seeds"?,"Vinegar"?,"Horseradish"?,{{COLRS,2}}Squeeze{{COLRE}} it together?,Thanks}}
+"Well, it's more like{{NLINE}}kneading than{{NLINE}}squeezing...{{NPAGE}}I'll tell you what--{{NLINE}}why don't you come{{NLINE}}back here after you{{NPAGE}}get all the{{NLINE}}ingredients, and I'll{{NLINE}}show you how?{{NPAGE}}I don't want you to{{NLINE}}get confused if I{{NPAGE}}tell you everything{{NLINE}}at once...{{NPAGE}}Anything else you{{NLINE}}want to know?{{CHOIC,0,2,What's "mackerel"?,"Shaly seeds"?,"Vinegar"?,"Horseradish"?,{{COLRS,2}}Squeeze{{COLRE}} it together?,Thanks}}
+"You're welcome...{{NPAGE}}Come back once you've{{NLINE}}got everything...{{NPAGE}}I'll help you put{{NLINE}}it all together!
+"Want to refresh{{NLINE}}your memory about{{NLINE}}how to make shisu?{{CHOIC,0,2,What's "mackerel"?,"Shaly seeds"?,"Vinegar"?,"Horseradish"?,{{COLRS,2}}Squeeze{{COLRE}} it together?,Thanks}}
+"You've got every-{{NLINE}}thing, right?
+"All right, then, I'll{{NLINE}}tell you how to{{NLINE}}make shisu!{{CHOIC,1,2,Slicing the mackerel,How many shaly seeds,How much vinegar,How much horseradish,{{COLRS,2}}Kneading{{COLRE}} the shisu,Thanks for everything}}
+"The mackerel slices{{NLINE}}will be larger or{{NLINE}}smaller depending on{{NPAGE}}how big a fish you{{NLINE}}catch...The bigger{{NPAGE}}the fish, the larger{{NLINE}}the slices will be{{NPAGE}}Anything else you{{NLINE}}want to know?{{CHOIC,1,2,Slicing the mackerel,How many shaly seeds,How much vinegar,How much horseradish,{{COLRS,2}}Kneading{{COLRE}} the shisu,Thanks for everything}}
+"The more shaly seeds{{NLINE}}you use, the bigger{{NLINE}}the ball will be{{NPAGE}}I know that's obvious,{{NLINE}}but just because you{{NLINE}}can make something{{NPAGE}}big doesn't mean you{{NLINE}}should! The trick is{{NLINE}}to make sure the{{NPAGE}}size of the ball{{NLINE}}{{COLRS,2}}matches the size of{{COLRE}}{{NLINE}}{{COLRS,2}}the mackerel slices{{COLRE}}--{{NPAGE}}that's really{{NLINE}}important...{{NPAGE}}Anything else you{{NLINE}}want to know?{{CHOIC,1,2,Slicing the mackerel,How many shaly seeds,How much vinegar,How much horseradish,{{COLRS,2}}Kneading{{COLRE}} the shisu,Thanks for everything}}
+"As a general rule,{{NLINE}}you should keep the{{NLINE}}ratio of vinegar{{NPAGE}}to shaly seeds at{{NLINE}}about {{COLRS,2}}1/4{{COLRE}} or so{{NPAGE}}Anything else you{{NLINE}}want to know?{{CHOIC,1,2,Slicing the mackerel,How many shaly seeds,How much vinegar,How much horseradish,{{COLRS,2}}Kneading{{COLRE}} the shisu,Thanks for everything}}
+"You'll have to{{NLINE}}balance the amount of{{NLINE}}horseradish with the{{NPAGE}}amount of shaly seeds{{NLINE}}and mackerel you've{{NLINE}}used...{{NPAGE}}If you've used a{{NLINE}}lot of mackerel, then{{NLINE}}use a lot, and if{{NPAGE}}you have more shaly{{NLINE}}than mackerel, not so{{NLINE}}much...{{NPAGE}}Anything else you{{NLINE}}need to know?{{CHOIC,1,2,Slicing the mackerel,How many shaly seeds,How much vinegar,How much horseradish,{{COLRS,2}}Kneading{{COLRE}} the shisu,Thanks for everything}}
+"The most important{{NLINE}}thing you have to{{NLINE}}remember is that{{NPAGE}}as you knead it,{{NLINE}}the shaly will{{NLINE}}{{COLRS,2}}shrink{{COLRE}}...{{NPAGE}}One good knead means{{NLINE}}you'll lose about{{NLINE}}{{COLRS,2}}1 shaly seed{{COLRE}}...{{NPAGE}}My mother taught me{{NLINE}}that you shouldn't{{NPAGE}}knead it more than{{NLINE}}twice...{{NPAGE}}Anything else you{{NLINE}}want to know?{{CHOIC,1,2,Slicing the mackerel,How many shaly seeds,How much vinegar,How much horseradish,{{COLRS,2}}Kneading{{COLRE}} the shisu,Thanks for everything}}
+"Are you sure?{{NLINE}}Do you want to{{NLINE}}hear my recipe then?{{CHOIC,2,0,Yes,No}}
+"Well, the bigger{{NLINE}}the shisu, the{{NLINE}}better...{{NPAGE}}But more important{{NLINE}}than size is{{NLINE}}balance{{NPAGE}}If we say the{{NLINE}}mackerel is{{NLINE}}   {{COLRS,2}}10{{COLRE}},{{NPAGE}}then we'd want{{NLINE}}the shaly to be{{NLINE}}   {{COLRS,2}}8{{COLRE}},{{NPAGE}}the vinegar{{NLINE}}to be{{NLINE}}   {{COLRS,2}}2{{COLRE}}{{NPAGE}}and the horseradish{{NLINE}}to be{{NLINE}}   {{COLRS,2}}4{{COLRE}}{{NPAGE}}Got it?{{NPAGE}}"It might be hard{{NLINE}}to understand from{{NLINE}}this explanation,{{NPAGE}}but you'll get the{{NLINE}}hang of it once you{{NLINE}}try it!
+"It might be hard{{NLINE}}to understand from{{NLINE}}this explanation,{{NPAGE}}but you'll get the{{NLINE}}hang of it once you{{NLINE}}try it!
+"Want to hear about{{NLINE}}how to make shisu{{NLINE}}again?{{CHOIC,1,2,Slicing the mackerel,How many shaly seeds,How much vinegar,How much horseradish,{{COLRS,2}}Kneading{{COLRE}} the shisu,Thanks for everything}}
+{{TXTBX,81}}     The blood of{{NLINE}}     strangers...
+You got the {{COLRS,2}}shaly{{NLINE}}seeds{{COLRE}}

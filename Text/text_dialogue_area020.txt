@@ -1,0 +1,6 @@
+This is B3  {{NLINE}}Do you want to ride{{NLINE}}the lift?   {{CHOIC,0,1,Go to B1,Go to B2,Quit}}
+This is B3  {{NLINE}}Do you want to ride{{NLINE}}the lift?   {{CHOIC,0,1,Go to B1,Go to B2,Quit}}
+{{TXTBX,05}}Garr{{NLINE}}"So...{{NPAGE}}this must be{{NLINE}}where you were{{NLINE}}born...
+{{TXTBX,05}}Garr{{NLINE}}"The strong Brood aura{{NLINE}}must have called out{{NPAGE}}to you, eh, Ryu?
+{{TXTBX,81}}    That's right... {{DURTN,48}}
+{{TXTBX,81}}It was I that called{{NLINE}}    out to him...{{DURTN,48}}

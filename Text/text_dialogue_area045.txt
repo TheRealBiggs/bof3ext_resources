@@ -1,0 +1,34 @@
+There are too many{{NLINE}}punks blocking the{{NLINE}}road--you can't pass
+      1 point!
+ Central Wyndia
+One of these days,{{NPAGE}}we'll cross those{{NLINE}}mountains and go to{{NLINE}}Wyndia...
+Road connecting to{{NLINE}}Wyndia
+The primary road{{NLINE}}connecting east and{{NLINE}}west Wyndia
+Capitol of the{{NLINE}}Kingdom of Wyndia,{{NPAGE}}famous for its{{NLINE}}windmills
+A bridge over a{{NLINE}}large river
+A town with a large{{NLINE}}arena, famous for{{NLINE}}its annual competition
+A mountain with a{{NLINE}}quarry. Two cables{{NLINE}}stretch to the east
+Yggdrasil stands{{NLINE}}solemnly, inspiring{{NLINE}}awe in all...
+This area is directly{{NLINE}}below Nina's room...
+What's someone doing{{NLINE}}here...?
+A lonely hut just out{{NLINE}}of town...It looks a{{NLINE}}little suspicious...
+It's probably a good{{NLINE}}idea to stay away from{{NLINE}}Wyndia for a while...
+Myria{{NLINE}}"Life has been driven{{NLINE}}nearly to extinction
+Myria{{NLINE}}"Life has been driven{{NLINE}}nearly to extinction
+Myria{{NLINE}}"I have to preserve{{NLINE}}what little is left...
+Hangout of the River{{NLINE}}Gang{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}
+Hangout of the River{{NLINE}}Gang{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}
+Hangout of the River{{NLINE}}Gang{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}
+Hangout of the River{{NLINE}}Gang{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}
+Hangout of the River{{NLINE}}Gang{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}
+Something bizarre{{NLINE}}is swimming with{{NLINE}}the fish here...{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}
+The best ingredients{{NLINE}}for that Maekyss{{NPAGE}}specialty, shisu,{{NLINE}}can be found here!{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+The field of flowers{{NLINE}}is reacting to the{{NLINE}}Faerie Tiara...{{NPAGE}}Do you want to use{{NLINE}}the {{COLRS,2}}Faerie Tiara{{COLRE}}?{{CHOIC,0,0,Yes,No}}

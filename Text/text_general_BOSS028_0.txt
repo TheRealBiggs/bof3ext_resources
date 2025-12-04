@@ -1,0 +1,151 @@
+You won a great victory!
+You scattered the enemy!
+You won the battle!
+You defeated your enemy!
+You defeated a powerful enemy!
+You gain {{PRMTR,0}} EXP!
+You found {{PRMTR,0}} zenny!
+{{PRMTR,0}} became level {{PRMTR,1}}!
+Power   rose {{PRMTR,4}} points
+Defense rose {{PRMTR,5}} points
+Agility rose {{PRMTR,6}} points
+Intelligence rose {{PRMTR,7}} points
+HP rose {{PRMTR,2}} points
+AP rose {{PRMTR,3}} points
+You got an item!
+You can't escape!
+You managed to escape...
+Your party was wiped out
+{{PRMTR,0}} learned {{COLRS,2}}{{PRMTR,8}}{{COLRE}}!
+{{PRMTR,0}} learned {{COLRS,2}}{{PRMTR,9}}{{COLRE}}!
+All auxiliary magic dispelled!
+EXP to next level: 
+You have the initiative!!
+Opponent has the initiative!!
+Poison damage
+{{PRMTR,0}} recovers with willpower
+{{PRMTR,0}}: Don't count me out yet!
+{{PRMTR,0}}: Was that supposed to hurt?
+{{PRMTR,0}}: OK, now I'm angry!
+{{PRMTR,0}}: Heh, guess I slipped...
+{{PRMTR,0}}: Hey! That hurt!
+{{PRMTR,0}}: Wheeeeeeeeep!
+{{PRMTR,0}} recovers with willpower
+{{PRMTR,0}}: Don't count me out yet!
+{{PRMTR,0}}: skqueeee!
+You can't learn this ability...
+{{PRMTR,0}} learned {{PRMTR,1}}!
+{{PRMTR,0}} awoke!
+The party awakens
+The monsters awaken
+{{PRMTR,0}} regains sanity!
+The party regains sanity!
+The monsters regain sanity!
+{{PRMTR,0}}: HP and status restored
+Party's HP and status restored
+Pay the price for going berserk!
+The Manly Clothes were ripped!
+Use an equipped item
+Choose the item to equip
+Change equipped items
+Choose the item to change
+Can't carry any more!
+No items!
+Used by another player
+Not enough AP!
+Can't use any magic!
+You grabbed {{COLRS,2}}{{PRMTR,0}}{{COLRE}}!
+You couldn't steal anything!
+Not carrying anything!
+The Soul Gem shattered!
+Great luck!   Lucky color: 
+Good luck!    Lucky color: 
+Fair luck.    Lucky color: 
+Bad luck.     Lucky color: 
+Terrible luck.Lucky color: 
+ has reached MAX LVL!
+Choose from previous splicings
+Begins gene splicing
+Choose a favorite splicing
+Grants Flame property
+Grants Frost property
+Grants Electric property
+Grants Shadow property
+Grants Radiance property
+Grants a powerful form
+Grants a defensive form
+Grants a magical form
+Grants a large form
+Enhances abilities
+Enhances special characteristics
+Reverses abilities and properties
+Causes random change
+Mystery effect...???
+Mystery effect...???
+Unknown
+Combines power with allies'
+Unleashes full power of the Brood
+Accept this splicing
+You must select a gene
+{{COLRS,1}}{{SYM81}}{{COLRE}}: Accept {{COLRS,5}}{{SYM83}}{{COLRE}}: Add to favorites
+Select data to store
+Select data to store
+Select data to store
+Select data to store
+Select data to store
+Select data to store
+Select data to store
+Where do you want to store?
+OK to overwrite?        Yes No
+Select a splicing
+Kaiser
+Trygon
+Wildfire
+Whelp
+Tiamat
+Myrmidon
+Mammoth
+Pygmy
+Hybrid
+Dragon
+Warrior
+Behemoth
+Power   rose {{PRMTR,4}} point
+Power   rose {{PRMTR,4}} point
+Power   rose {{PRMTR,4}} point
+Power   rose {{PRMTR,4}} point
+Power   rose {{PRMTR,4}} point
+Power   rose {{PRMTR,4}} point
+Power   rose {{PRMTR,4}} point
+Power   rose {{PRMTR,4}} point
+Power   rose {{PRMTR,4}} point
+Defense rose {{PRMTR,5}} point
+Agility rose {{PRMTR,6}} point
+Intelligence rose {{PRMTR,7}} point
+HP rose {{PRMTR,2}} point
+AP rose {{PRMTR,3}} point
+{{PRMTR,0}} defends...
+{{PRMTR,0}} defends...
+{{PRMTR,0}} is angered!
+{{PRMTR,0}} howls with fury!
+{{PRMTR,0}} increases in ability!
+{{PRMTR,0}} is frozen!
+{{PRMTR,0}} begins to move!
+{{PRMTR,0}} loses regeneration!
+{{PRMTR,0}}: Let's finish this!
+{{PRMTR,0}} is in pain!
+{{PRMTR,0}} loses protective coating
+{{PRMTR,0}}'s armor is cracked!
+INTRUDER ALERT. ARMING WEAPONS.
+Flame barrier is destroyed!
+Frost barrier is destroyed!
+Lightning barrier is destroyed!
+Wind barrier is destroyed!
+{{PRMTR,0}}'s shield is repaired!
+{{PRMTR,0}} is flustered!
+{{PRMTR,0}} loses a chunk of flesh!
+{{PRMTR,0}} panics!
+{{PRMTR,0}} is paralyzed by the heat
+{{PRMTR,0}} wants the item back!
+{{PRMTR,0}}: Losing powe...
+{{PRMTR,0}} absorbs the flame!

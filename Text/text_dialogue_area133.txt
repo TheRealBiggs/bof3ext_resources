@@ -1,0 +1,128 @@
+{{TXTBX,05}}Zig{{NLINE}}"We did it!
+{{TXTBX,05}}Zig{{NLINE}}"We did it!
+{{TXTBX,06}}Nina{{NLINE}}"That was pretty{{NLINE}}rough...{{NPAGE}}I wonder if{{NLINE}}everyone's OK...?
+{{TXTBX,05}}Zig{{NLINE}}"Well, we rammed 'er{{NLINE}}at full speed...{{NPAGE}}Maybe you should go{{NLINE}}check on ev'ryone...
+"Heh heh...Told ya{{NLINE}}I was good for{{NLINE}}sumthin', eh?
+"That was really{{NLINE}}something, wasn't it?{{NLINE}}BOOM!
+"That was a pretty{{NLINE}}big bump, eh Ryu?{{NPAGE}} fell right off{{NLINE}}where he was sitting!
+"Looks like our plan{{NLINE}}worked, eh?
+"{{EFCTS}}kyuuuuu-kyuuuu-kyu!{{EFCTE,16}}{{NPAGE}}{{COLRS,6}} looks a little{{NLINE}}dizzy, but otherwise{{NLINE}}unhurt...{{COLRE}}
+"Mmmm{{PAUSE}}...mmm{{PAUSE}}...
+Now's not the time to{{NLINE}}be resting...
+You'll be able to{{NLINE}}board the Black Ship{{NLINE}}from here...{{NPAGE}}But first you should{{NLINE}}check on everyone{{NLINE}}else...
+"Oy vey...
+Momo{{NLINE}}"Whew! That woke me{{NLINE}}up!{{NPAGE}} fell right on{{NLINE}}top of me!
+Momo looks all right{{NLINE}}as well...
+{{TXTBX,05}}Momo{{NLINE}}"So, I think...{{NPAGE}}If we get to the{{NLINE}}bridge, we should be{{NLINE}}able to figure out{{NPAGE}}how the automated{{NLINE}}systems work
+{{TXTBX,06}}Nina{{NLINE}}"We'll have to look{{NLINE}}for the bridge...{{NPAGE}}which might take a{{NLINE}}while...But we can{{NLINE}}always come back here{{NPAGE}}to rest, right?
+{{TXTBX,01}}Please choose 3{{NLINE}}party members.
+"zzzzz kyuuuu zzzz
+"I never thought I'd{{NLINE}}end up on the other{{NLINE}}side of the ocean...!
+"Hopefully this means{{NLINE}}we're getting a little{{NLINE}}bit closer to God...{{NPAGE}}One step at a time...
+"So if this is like{{NLINE}}the Black Ship then{{NLINE}}that means...Hmmm...
+"Welcome 'home'{{NLINE}}How did it go?
+{{TXTBX,05}}Zig{{NLINE}}"Hey!{{NPAGE}}It looks like the{{NLINE}}Black Ship's starting{{NLINE}}to move!
+Nina{{NLINE}}"Time for us to go...{{NPAGE}}Thanks for everything,{{NLINE}}Zig...
+{{TXTBX,05}}Zig{{NLINE}}"Sure! Be careful, eh?{{NPAGE}}I'm gonna take this{{NLINE}}boat back to the{{NLINE}}Machine Guild
+Garr{{NLINE}}"Time for us to go...
+{{TXTBX,05}}Momo{{NLINE}}"Everybody! This way!{{NLINE}}Come up to the bridge!{{DURTN,64}}
+What do you want{{NLINE}}to do?{{CHOIC,0,2,Rest,Save,Change party members,Look at Skill Notes,Look at Master List,Nothing}}
+What do you want{{NLINE}}to do?{{CHOIC,0,2,Rest,Save,Change party members,Look at Skill Notes,Look at Master List,Nothing}}
+What do you want{{NLINE}}to do?{{CHOIC,0,2,Rest,Save,Change party members,Look at Skill Notes,Look at Master List,Nothing}}
+What do you want{{NLINE}}to do?{{CHOIC,0,2,Rest,Save,Change party members,Look at Skill Notes,Look at Master List,Nothing}}
+What do you want{{NLINE}}to do?{{CHOIC,0,2,Rest,Save,Change party members,Look at Skill Notes,Look at Master List,Nothing}}
+What do you want{{NLINE}}to do?{{CHOIC,0,2,Rest,Save,Change party members,Look at Skill Notes,Look at Master List,Nothing}}
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!
+   Boost Counter{{NLINE}}     Stop!   {{NPAGE}}Activation failed!

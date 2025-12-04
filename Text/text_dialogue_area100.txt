@@ -1,0 +1,25 @@
+Looks like some kind{{NLINE}}of machine...
+System is down{{NLINE}}Please use system disk
+Installing program...{{NLINE}}Setting area data.{{PAUSE}}.{{PAUSE}}.{{PAUSE}}.{{PAUSE}}.{{NLINE}}installation complete!
+{{SOUND,0A}}Portal Drive Activated{{NLINE}}{{SOUND,0B}}Current Location:{{NLINE}}{{SOUND,0B}}    Relay Point B{{SOUND,0C}}{{NPAGE}}{{SOUND,0B}}Enter destination:{{SOUND,0C}}{{CHOIC,0,1,Dauna Region,Yraall Region,Wyndia,Relay Point A,Quit}}
+{{SOUND,0B}} Target: Dauna Region{{NLINE}}{{SOUND,0A}}Destination locked{{SOUND,0C}}
+{{SOUND,0B}} Target: Yraall Region{{NLINE}}{{SOUND,0A}}Destination locked{{SOUND,0C}}
+{{SOUND,0B}}    Target: Wyndia{{NLINE}}{{SOUND,0A}}Destination locked{{SOUND,0C}}
+{{SOUND,0B}} Target: Relay Point A{{NLINE}}{{SOUND,0A}}Destination locked{{SOUND,0C}}
+{{SOUND,0A}}Code check{{SOUND,0C}}{{PAUSE}}.{{PAUSE}}.{{PAUSE}}.{{PAUSE}}.{{PAUSE}}. OK{{NLINE}}{{SOUND,0B}}Relay Point A input{{SOUND,0C}}
+{{SOUND,0A}}Code check{{SOUND,0C}}{{PAUSE}}.{{PAUSE}}.{{PAUSE}}.{{PAUSE}}.{{PAUSE}}.{{COLRS,2}}NG{{COLRE}}
+It's locked...
+"This has been here{{NLINE}}as long as anyone{{NLINE}}remembers...{{NPAGE}}But no one knows{{NLINE}}what it's for...
+"It looks like there's{{NLINE}}some kind of {{COLRS,2}}altar{{COLRE}}{{NLINE}}inside...{{NPAGE}}I wonder what it's{{NLINE}}for?
+{{TXTBX,06}}Soldier{{NLINE}}"Wh{{PAUSE}} whoa!{{NPAGE}}What the heck is{{NLINE}}this!?
+Nina{{NLINE}}"It...{{PAUSE}}it's not{{NLINE}}anything dangerous...{{NPAGE}}Don't be alarmed...
+Nina{{NLINE}}"Rei, hurry!{{NLINE}}Open this door!
+Honey{{NLINE}}"{{SOUND,0A}}1001{{SOUND,0B}}0101{{SOUND,0A}}01110{{NLINE}}{{SOUND,0B}}10{{SOUND,0A}}00001{{SOUND,0B}}011..{{SOUND,0C}}
+{{TXTBX,06}}{{SOUND,0A}}    Navigator Code  {{NLINE}}{{SOUND,0B}}      accepted{{SOUND,0C}}   {{NPAGE}}{{SOUND,0A}}   Activating Portal{{NLINE}}        Drive{{SOUND,0C}}     
+Rei{{NLINE}}"...{{PAUSE}}...{{PAUSE}}...She{{NLINE}}disappeared!{{NPAGE}}Are we supposed{{NLINE}}to get away with{{NLINE}}this contraption?
+{{TXTBX,06}}Rei{{NLINE}}"Nina! I think we can{{NLINE}}make it...{{NPAGE}}Uh-oh!
+Nina{{NLINE}}"Mother, I'm sorry...{{NPAGE}}But I have to...
+{{TXTBX,06}}Sheila{{NLINE}}"Don't talk to me{{NLINE}}like that, young lady!{{NPAGE}}You are the princess{{NLINE}}and heir to the throne{{NPAGE}}Do you think you can{{NLINE}}just disobey your duty{{NPAGE}}and your family like{{NLINE}}this?
+Nina{{NLINE}}"I love you, mother.{{NPAGE}}I understand how{{NLINE}}important I am and{{NLINE}}that I'm a princess...
+Nina{{NLINE}}"But I'm not just{{NLINE}}a princess!{{NPAGE}}I'm also Nina!{{NPAGE}}And I have to do{{NLINE}}what I think is{{NLINE}}right!
+{{TXTBX,04}}Soldier{{NLINE}}"Huhhhhhhhh?

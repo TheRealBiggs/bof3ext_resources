@@ -1,0 +1,38 @@
+{{TXTBX,06}}"Here they come!{{NLINE}}Get your heads down!!
+Sunder{{NLINE}}"Hoooold it...{{NLINE}}What's that?
+{{TXTBX,06}}"Um....This...is{{NPAGE}}a shipment from the{{NLINE}}plant to Wyndia...
+Sunder{{NLINE}}"Shipment, huh?{{NPAGE}}OK...I'll take it{{NLINE}}from here...now scram!
+Sunder{{NLINE}}"Don't worry!{{NPAGE}}I'll take good{{NLINE}}care of it!{{NPAGE}}Ha ha ha ha ha!!
+"I wonder what that{{NLINE}}kid's up to now...
+"I bet he's a big{{NLINE}}star by now...{{NLINE}}Hohohohohoho
+"Hohohohohohohoho
+Nina{{NLINE}}"This is the entrance{{NLINE}}to the road
+Nina{{NLINE}}"This is the entrance{{NLINE}}to the road
+Nina{{NLINE}}"This is the entrance{{NLINE}}to the road
+Nina{{NLINE}}"This is the entrance{{NLINE}}to the road
+Nina{{NLINE}}"This is the entrance{{NLINE}}to the road
+Nina{{NLINE}}"This is the entrance{{NLINE}}to the road
+Nina{{NLINE}}"This is the entrance{{NLINE}}to the road
+Nina{{NLINE}}"This is the entrance{{NLINE}}to the road
+Nina{{NLINE}}"This is the entrance{{NLINE}}to the road
+Nina{{NLINE}}"There's a small hut{{NLINE}}over there...{{NPAGE}}Let's go and see{{NLINE}}what the owner has{{NLINE}}to say...
+Nina{{NLINE}}"It wouldn't be a{{NLINE}}good idea to move...{{NPAGE}}Not without knowing{{NLINE}}which way they went...
+"Hey, granny...{{NLINE}}Another little visitor
+"Oh, my!{{NLINE}}Hohohohohoho
+{{TXTBX,05}}Nina{{NLINE}}"Ryu!!
+{{TXTBX,05}}Balio{{NLINE}}"Don't try anything,{{NPAGE}}my little lizard{{NLINE}}friend...
+{{TXTBX,05}}Balio{{NLINE}}"Good move--you see,{{NPAGE}}there's no use{{NLINE}}resisting, punk...
+{{TXTBX,05}}Balio{{NLINE}}"We don't really care{{NLINE}}about you anyway...
+{{TXTBX,05}}Balio{{NLINE}}"But things would{{NLINE}}get messy{{NPAGE}}if you ratted on{{NLINE}}us, see? We can't{{NLINE}}chance that
+{{TXTBX,05}}Balio{{NLINE}}"But it'd be even{{NLINE}}messier if we try to{{NPAGE}}kill you here{{NLINE}}and you turned into{{NLINE}}a dragon again...
+{{TXTBX,05}}Balio{{NLINE}}"Don't worry...{{NPAGE}}We've got it all{{NLINE}}figured out, see?{{NPAGE}}Enough talk! Say{{NLINE}}good night!
+Nina{{NLINE}}"You need to use the{{NLINE}}eastern bridge, right?{{DURTN,48}}
+Nina{{NLINE}}"But this time...{{NPAGE}}I don't think Daddy{{NLINE}}{{PAUSE}}...the King will{{NLINE}}let me go...{{NPAGE}}He thinks it's your{{NLINE}}fault I ran away the{{NLINE}}first time, Ryu...
+Nina{{NLINE}}"But I have an idea!
+Nina{{NLINE}}"Ryu, you broke up{{NLINE}}the black market{{NPAGE}}mafia, right? All you{{NLINE}}need is one more{{NLINE}}feather in your cap,{{NPAGE}}and even he will have{{NLINE}}to admit you are a{{NLINE}}real hero!
+Nina{{NLINE}}"Remember the plant?{{NPAGE}}Where they grow the{{NLINE}}vegetables using{{NLINE}}chrysm energy...?
+Nina{{NLINE}}"It looks like there's{{NLINE}}something funny going{{NPAGE}}on there lately...I've{{NLINE}}been thinking we need{{NLINE}}to check it out so...
+Nina{{NLINE}}"...{{PAUSE}}Why don't you{{NLINE}}help me?{{NPAGE}}I'm sure the king will{{NLINE}}forgive you...{{NPAGE}}if you help me solve{{NLINE}}this problem...{{NLINE}}right?
+Nina{{NLINE}}"Really!? Great!
+Nina{{NLINE}}"Let's go then!{{NPAGE}}The plant's down the{{NLINE}}road to the east!
+"Wyndia's a nice{{NLINE}}place, I suppose...{{NPAGE}}But just once I'd{{NLINE}}like to go to{{NLINE}}some place far away...

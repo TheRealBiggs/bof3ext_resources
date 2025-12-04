@@ -1,0 +1,7 @@
+{{TXTBX,86}}What have you done!!{{DURTN,48}}
+{{TXTBX,86}}What have you done!!{{DURTN,48}}
+{{TXTBX,86}}What do you think{{NLINE}}you're doing!{{NLINE}}You buffoon!! Idiot!!{{DURTN,48}}
+{{TXTBX,80}}But...Our God has told{{NLINE}}us that they are{{NLINE}}wicked and evil...{{DURTN,48}}
+{{TXTBX,86}}And you never thought{{NLINE}}she might be wrong,{{NLINE}}you imbicile!?{{DURTN,48}}
+{{TXTBX,86}}I'll take you to meet{{NLINE}}your fool God!{{DURTN,48}}
+{{TXTBX,85}}Deis...!{{NLINE}}Show more respect for{{NLINE}}our God--or else...{{DURTN,48}}

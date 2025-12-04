@@ -1,0 +1,51 @@
+{{TXTBX,81}} {{NLINE}}    "Yggdrasil"{{DURTN,80}}
+{{TXTBX,82}} {{NLINE}} {{NLINE}}   A legendary tree   {{NLINE}}    said to be the    {{NLINE}}     embodiment of     {{NLINE}}  an ancient sage who {{NLINE}} taught the world the {{NLINE}}    meaning of true   {{NLINE}}        wisdom        {{DURTN,80}}
+{{TXTBX,82}} {{NLINE}} {{NLINE}} {{NLINE}} {{NLINE}} Enshrouded in green, {{NLINE}}  awing all who view  {{NLINE}}    its majesty...    {{DURTN,80}}
+{{TXTBX,82}} {{NLINE}} {{NLINE}}    It has been a    {{NLINE}}   symbol of faith   {{NLINE}}    to all as the    {{NLINE}}   holy guardian of   {{NLINE}}    the forest for    {{NLINE}}    untold ages...    
+Momo{{NLINE}}"This is the place{{NPAGE}}This is where {{NLINE}}likes to hang out
+Momo{{NLINE}}"This is the place{{NPAGE}}This is where {{NLINE}}likes to hang out
+Momo{{NLINE}}"This is the place{{NPAGE}}This is where {{NLINE}}likes to hang out
+Momo{{NLINE}}"This is the place{{NPAGE}}This is where {{NLINE}}likes to hang out
+Momo{{NLINE}}"This is the place{{NPAGE}}This is where {{NLINE}}likes to hang out
+Momo{{NLINE}}"This is the place{{NPAGE}}This is where {{NLINE}}likes to hang out
+Momo{{NLINE}}"This is the place{{NPAGE}}This is where {{NLINE}}likes to hang out
+Nina{{NLINE}}"...{{PAUSE}}...{{PAUSE}}...?{{NPAGE}}That's funny...I{{NLINE}}thought I heard{{NLINE}}someone talking...
+{{TXTBX,03}}{{NLINE}}"pukyu
+{{TXTBX,03}}{{NLINE}}"pukyu
+{{TXTBX,03}}{{NLINE}}"pukyu
+{{TXTBX,03}}{{NLINE}}"pukyu
+{{TXTBX,04}}Momo{{NLINE}}"Did you just say{{NLINE}}something?
+{{TXTBX,03}}{{NLINE}}"pukyu?
+{{TXTBX,06}}Momo{{NLINE}}"I can understand{{NLINE}}him about as much{{NPAGE}}as I understand a{{NLINE}}tree or a flower...{{NPAGE}}And they don't{{NLINE}}talk!
+{{TXTBX,06}}Momo{{NLINE}}"Anyway... come on,{{NLINE}}!{{NPAGE}}We're going to go{{NLINE}}check out the plant{{NLINE}}where you were born!
+{{TXTBX,00}} {{NLINE}} joined the party!
+As you gaze at{{NLINE}}Yggdrasil, full of{{NLINE}}life and energy,{{NPAGE}}you feel a sense{{NLINE}}of awe come over{{NLINE}}you...
+You hear a voice{{NLINE}}inside your mind...{{NPAGE}}Could it be{{NLINE}}Yggdrasil?{{NPAGE}}"Can you hear me?{{NPAGE}}Do you understand{{NLINE}}me?{{NPAGE}}...{{PAUSE}}...{{PAUSE}}...Uhhhh...{{NLINE}}My head is fuzzy...{{NLINE}}I can't think straight{{NPAGE}}Do you have...anything{{NLINE}}that could...help me?{{CHOIC,0,0,Yes,No}}
+You hear a voice{{NLINE}}inside your mind...{{NPAGE}}Could it be{{NLINE}}Yggdrasil?{{NPAGE}}"Can you hear me?{{NPAGE}}Do you understand{{NLINE}}me?{{NPAGE}}...{{PAUSE}}...{{PAUSE}}...Uhhhh...{{NLINE}}My head is fuzzy...{{NLINE}}I can't think straight{{NPAGE}}Do you have...anything{{NLINE}}that could...help me?{{CHOIC,0,0,Yes,No}}
+You hear a voice{{NLINE}}inside your mind...{{NPAGE}}Could it be{{NLINE}}Yggdrasil?{{NPAGE}}"Can you hear me?{{NPAGE}}Do you understand{{NLINE}}me?{{NPAGE}}...{{PAUSE}}...{{PAUSE}}...Uhhhh...{{NLINE}}My head is fuzzy...{{NLINE}}I can't think straight{{NPAGE}}Do you have...anything{{NLINE}}that could...help me?{{CHOIC,0,0,Yes,No}}
+You hear a voice{{NLINE}}inside your mind...{{NPAGE}}Could it be{{NLINE}}Yggdrasil?{{NPAGE}}"Can you hear me?{{NPAGE}}Do you understand{{NLINE}}me?{{NPAGE}}...{{PAUSE}}...{{PAUSE}}...Uhhhh...{{NLINE}}My head is fuzzy...{{NLINE}}I can't think straight{{NPAGE}}Do you have...anything{{NLINE}}that could...help me?{{CHOIC,0,0,Yes,No}}
+You hear a voice{{NLINE}}inside your mind...{{NPAGE}}Could it be{{NLINE}}Yggdrasil?{{NPAGE}}"Can you hear me?{{NPAGE}}Do you understand{{NLINE}}me?{{NPAGE}}...{{PAUSE}}...{{PAUSE}}...Uhhhh...{{NLINE}}My head is fuzzy...{{NLINE}}I can't think straight{{NPAGE}}Do you have...anything{{NLINE}}that could...help me?{{CHOIC,0,0,Yes,No}}
+You hear a voice{{NLINE}}inside your mind...{{NPAGE}}Could it be{{NLINE}}Yggdrasil?{{NPAGE}}"Can you hear me?{{NPAGE}}Do you understand{{NLINE}}me?{{NPAGE}}...{{PAUSE}}...{{PAUSE}}...Uhhhh...{{NLINE}}My head is fuzzy...{{NLINE}}I can't think straight{{NPAGE}}Do you have...anything{{NLINE}}that could...help me?{{CHOIC,0,0,Yes,No}}
+You hear a voice{{NLINE}}inside your mind...{{NPAGE}}Could it be{{NLINE}}Yggdrasil?{{NPAGE}}"Can you hear me?{{NPAGE}}Do you understand{{NLINE}}me?{{NPAGE}}...{{PAUSE}}...{{PAUSE}}...Uhhhh...{{NLINE}}My head is fuzzy...{{NLINE}}I can't think straight{{NPAGE}}Do you have...anything{{NLINE}}that could...help me?{{CHOIC,0,0,Yes,No}}
+You hear a voice{{NLINE}}inside your mind...{{NPAGE}}Could it be{{NLINE}}Yggdrasil?{{NPAGE}}"Can you hear me?{{NPAGE}}Do you understand{{NLINE}}me?{{NPAGE}}...{{PAUSE}}...{{PAUSE}}...Uhhhh...{{NLINE}}My head is fuzzy...{{NLINE}}I can't think straight{{NPAGE}}Do you have...anything{{NLINE}}that could...help me?{{CHOIC,0,0,Yes,No}}
+You hear a voice{{NLINE}}inside your mind...{{NPAGE}}Could it be{{NLINE}}Yggdrasil?{{NPAGE}}"Can you hear me?{{NPAGE}}Do you understand{{NLINE}}me?{{NPAGE}}...{{PAUSE}}...{{PAUSE}}...Uhhhh...{{NLINE}}My head is fuzzy...{{NLINE}}I can't think straight{{NPAGE}}Do you have...anything{{NLINE}}that could...help me?{{CHOIC,0,0,Yes,No}}
+You hear a voice{{NLINE}}inside your mind...{{NPAGE}}Could it be{{NLINE}}Yggdrasil?{{NPAGE}}"Can you hear me?{{NPAGE}}Do you understand{{NLINE}}me?{{NPAGE}}...{{PAUSE}}...{{PAUSE}}...Uhhhh...{{NLINE}}My head is fuzzy...{{NLINE}}I can't think straight{{NPAGE}}Do you have...anything{{NLINE}}that could...help me?{{CHOIC,0,0,Yes,No}}
+You hear a voice{{NLINE}}inside your mind...{{NPAGE}}Could it be{{NLINE}}Yggdrasil?{{NPAGE}}"Can you hear me?{{NPAGE}}Do you understand{{NLINE}}me?{{NPAGE}}...{{PAUSE}}...{{PAUSE}}...Uhhhh...{{NLINE}}My head is fuzzy...{{NLINE}}I can't think straight{{NPAGE}}Do you have...anything{{NLINE}}that could...help me?{{CHOIC,0,0,Yes,No}}
+"Can you hear me?{{NPAGE}}Do you understand{{NLINE}}me?{{NPAGE}}...{{PAUSE}}...{{PAUSE}}...Uhhhh...{{NLINE}}My head is fuzzy...{{NLINE}}I can't think straight{{NPAGE}}Do you have...anything{{NLINE}}that could...help me?{{CHOIC,0,0,Yes,No}}
+"You have...a{{NLINE}}{{COLRS,2}}Wisdom Fruit{{COLRE}}!?{{NPAGE}}Thank you...{{PAUSE}}...{{PAUSE}}...{{NLINE}}Finally...I can see{{NLINE}}things clearly again!{{NPAGE}}Now, I can share{{NLINE}}with you part of{{NLINE}}my wisdom!
+"Uhhhh...{{PAUSE}}...{{PAUSE}}...{{NLINE}}You don't have...{{NLINE}}anything...{{NPAGE}}"Very well...then...{{NLINE}}Farewell...
+"Very well...then...{{NLINE}}Farewell...
+"You've come back...
+So, the time has{{NLINE}}come for me to share{{NLINE}}my wisdom, eh?{{CHOIC,1,0,Yes,No}}
+But I've already told{{NLINE}}all of you my wisdom!
+Are you telling me{{NLINE}}you no longer need{{NLINE}}my wisdom?{{CHOIC,2,0,Yes,No}}
+I don't think I've{{NLINE}}given any of you{{NLINE}}my wisdom!{{NPAGE}}I may be old and{{NLINE}}forgetful, but you{{NLINE}}can't fool me!
+"I hereby give{{NLINE}}{{PRMTR,0}} my wisdom!
+Is there anyone else{{NLINE}}who wants to learn{{NLINE}}from my wisdom?{{CHOIC,3,0,Yes,No}}
+"Very well, then...{{NLINE}}From now on, you{{NLINE}}must depend on{{NPAGE}}your own strength,{{NLINE}}{{PRMTR,0}}...
+Is there anyone else{{NLINE}}who feels they no{{NLINE}}longer need my wisdom?{{CHOIC,4,0,Yes,No}}
+"It looks like you're{{NLINE}}putting my wisdom to{{NLINE}}good use!{{NPAGE}}Very well! Let me{{NLINE}}teach you something{{NLINE}}else useful!{{NPAGE}}{{PRMTR,0}} learned{{NLINE}}{{COLRS,2}}{{PRMTR,1}}{{COLRE}}!
+Who shall apprentice?
+Who wants to quit?
+Is this OK?                Yes No
+Do you want to quit?       Yes No

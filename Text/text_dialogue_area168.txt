@@ -1,0 +1,21 @@
+It's locked with an{{NLINE}}electronic lock!{{NPAGE}}Even Rei wouldn't{{NLINE}}be able to pick it
+It's locked with an{{NLINE}}electronic lock!{{NPAGE}}Even Rei wouldn't{{NLINE}}be able to pick it
+Laboratory entrance{{NLINE}}lock has been{{NLINE}}released.
+Main entrance{{NLINE}}lock has been{{NLINE}}released.
+Card key is required{{NLINE}}for access.
+{{SOUND,0A}}{{COLRS,2}}Security LEVEL-A{{COLRE}}{{SOUND,0C}}{{NLINE}}{{SOUND,0B}}Please initiate card{{NLINE}}key ID check.{{SOUND,0C}}{{CHOIC,0,0,OK,Wait}}
+{{SOUND,0A}}ID check in progress{{SOUND,0C}}{{NLINE}}{{SOUND,0B}}.{{PAUSE}}.{{PAUSE}}.{{PAUSE}}{{SOUND,0B}}.{{PAUSE}}.{{PAUSE}}.{{PAUSE}}OK!{{SOUND,0C}}{{PAUSE}}{{NLINE}}{{SOUND,0B}}Door lock released{{SOUND,0C}}
+{{SOUND,0A}}ID check in progress{{SOUND,0C}}{{NLINE}}{{SOUND,0B}}.{{PAUSE}}.{{PAUSE}}.{{PAUSE}}{{SOUND,0B}}.{{PAUSE}}.{{PAUSE}}.{{PAUSE}}NG!{{SOUND,0C}}
+What do you want{{NLINE}}to do?{{CHOIC,1,2,Change party members,Look at Skill Notes,Look at Master List,Save,Nothing}}
+There's a bed!{{NLINE}}You should be able{{NLINE}}to rest here{{NPAGE}}What do you want{{NLINE}}to do?{{CHOIC,2,0,Rest,Nothing}}
+{{COLRS,2}}Security LEVEL-A{{COLRE}}{{NLINE}}Please initiate card{{NLINE}}key ID check.{{CHOIC,3,0,OK,Wait}}
+{{COLRS,2}}Security LEVEL-A{{COLRE}}{{NLINE}}Please initiate card{{NLINE}}key ID check.{{CHOIC,3,0,OK,Wait}}
+{{COLRS,2}}Security LEVEL-B{{COLRE}}{{NLINE}}Please initiate card{{NLINE}}key ID check.{{CHOIC,4,0,OK,Wait}}
+Autolock system active{{NLINE}}Release main entrance{{NLINE}}lock?{{CHOIC,5,0,Yes,No}}
+Autolock system active{{NLINE}}Release main entrance{{NLINE}}lock?{{CHOIC,5,0,Yes,No}}
+Laser lock system{{NLINE}}active--entry into{{NLINE}}laboratory prohibited{{NPAGE}}Release lock?{{CHOIC,6,0,Yes,No}}
+It looks just like{{NLINE}}Honey!
+Would you like a{{NLINE}}navigator?{{CHOIC,7,1,What's a navigator?,Please,No thanks}}
+Those are navigators{{NLINE}}lined up over there...{{NPAGE}}They're guides to the{{NLINE}}Myria orbital station{{NPAGE}}They contain numerous{{NLINE}}safety features as{{NLINE}}well as keys, called{{NPAGE}}navigator codes
+"I see you already{{NLINE}}have a navigator...
+"Understood...

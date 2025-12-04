@@ -1,0 +1,96 @@
+"Parts! Parts!
+"This here's the{{NLINE}}Machine Guild village{{NPAGE}}People call it{{NLINE}}Junk Town...
+"I wonder if there's{{NLINE}}nothing here I can{{NLINE}}use...
+"Even though we're{{NLINE}}called the Machine{{NLINE}}Guild,{{NPAGE}}we don't actually make{{NLINE}}machines, see...{{NPAGE}}We just looks for{{NLINE}}parts we can use an'{{NLINE}}repairs 'em
+"Sometimes, when{{NLINE}}you're rootin' around{{NLINE}}like this,{{NPAGE}}you finds a machine{{NLINE}}dat's alive and acts{{NLINE}}up on ya...{{NPAGE}}You know, dose chrysm{{NLINE}}machine soldiers
+"How do the machines{{NLINE}}work? Darned if I{{NLINE}}know{{NPAGE}}What difference does{{NLINE}}it make as long as{{NLINE}}they work, right?
+"There used to be{{NLINE}}nothing but a big{{NLINE}}mountain of junk here{{NPAGE}}But people realized{{NLINE}}it's a good place{{NLINE}}to get parts, so{{NPAGE}}they just settled{{NLINE}}down
+"Did you know there's{{NLINE}}also a kind of boat{{NLINE}}called a junk?
+"Y'know, I wonder{{NLINE}}sometimes...{{NPAGE}}Who made all these{{NLINE}}machines in the{{NLINE}}first place?
+It's a machine{{NLINE}}soldier...But it looks{{NLINE}}harmless...
+"That there's a{{NLINE}}machine soldier!{{NLINE}}Pretty neat, huh?
+"The weapons array on{{NLINE}}this one's broken, so{{NLINE}}he's safe...{{NPAGE}}One o' these days, I{{NLINE}}figure I'll fix 'im{{NPAGE}}up and use 'im for{{NLINE}}somethin'...
+"Restricted! Only{{NLINE}}Guild members{{NLINE}}permitted!
+"The ship's engine{{NLINE}}broke down and we{{NLINE}}can't get back home...{{NPAGE}}(sigh)...I miss the{{NLINE}}ocean!
+"We're sailors from{{NLINE}}Rhapala...Only our{{NLINE}}engine's broke down...{{NPAGE}}I bet everyone{{NLINE}}back home's worried{{NLINE}}about us...
+"You must have{{NLINE}}something really{{NLINE}}important to say{{NPAGE}}to come all the way{{NLINE}}back here just to{{NLINE}}talk to me, eh?
+"sniff sniff...
+"whinnnnne
+"We don't get many{{NLINE}}visitors 'round here{{NPAGE}}As you can see,{{NLINE}}nothin' here but{{NLINE}}junk...
+"On the other side of{{NLINE}}the village over there{{NLINE}}there's a road that{{NPAGE}}leads out to a beach{{NLINE}}facing the Outer Sea{{NPAGE}}Lots of machines{{NLINE}}wash up over there
+"Come on in--we got{{NLINE}}hard beds and clean{{NLINE}}sheets!
+"You folks must really{{NLINE}}like machines to come{{NLINE}}all the way out here
+"I came here from{{NLINE}}Rhapala,{{NPAGE}}but the ship's engine{{NLINE}}broke down...{{NPAGE}}I hear they're having{{NLINE}}the Machine Guild{{NLINE}}repair it...
+"They say our{{NLINE}}ancestors made these{{NLINE}}machines long ago...{{NPAGE}}They were a lot{{NLINE}}smarter than we are,{{NLINE}}weren't they?
+"That man over there{{NLINE}}is the head of the{{NLINE}}Machine Guild...{{NPAGE}}Everyone calls him{{NLINE}}Chief...
+"Looking for weapons?
+"Need some armor?
+"Hmmmmm...{{NPAGE}}What if the machines{{NLINE}}weren't made to use{{NLINE}}chrysm as energy...{{NPAGE}}But they're using{{NLINE}}chrysm as a substitute{{NLINE}}for something else?
+"I don't know how{{NLINE}}they works, but as{{NLINE}}long as they works...
+"This junk mountain{{NLINE}}used to be a lot{{NLINE}}bigger, you know...{{NPAGE}}But it's gotten{{NLINE}}smaller as people take{{NLINE}}bits and pieces away
+"If you're worn out{{NLINE}}from looking for{{NLINE}}junk,{{NPAGE}}we can pep you{{NLINE}}up in no time!
+"Do you have business{{NLINE}}with the Machine{{NLINE}}Guild?...No?{{NPAGE}}I guess not...Nothing{{NLINE}}here but a pile of{{NLINE}}junk, anyway...
+"Welcome to the home{{NLINE}}of the Machine Guild,{{NLINE}}Junk Town!{{NPAGE}}Not exactly a name to{{NLINE}}be proud of, is it?
+"I bet I can use{{NLINE}}this...
+"I bet you think this{{NLINE}}is nothing but junk,{{NLINE}}don't you?{{NPAGE}}Since we don't know{{NLINE}}how to build machines{{NLINE}}ourselves,{{NPAGE}}finding parts and{{NLINE}}stuff like this is{{NLINE}}the best we can do
+"Have you heard about{{NLINE}}the chrysm-powered{{NLINE}}machine soldiers?{{NPAGE}}Don't find many of{{NLINE}}'em here anymore, but{{NLINE}}I hear there's still{{NPAGE}}lots down on Steel{{NLINE}}Beach
+"We assemble the{{NLINE}}machines we find{{NLINE}}lying about,{{NPAGE}}and the Porter's Guild{{NLINE}}takes them wherever{{NLINE}}they're needed
+"Travelers?{{NPAGE}}If you're into{{NLINE}}sightseeing, not much{{NLINE}}'round here...{{NPAGE}}'cept for the big{{NLINE}}mountain of junk over{{NLINE}}there...
+"woof
+"If all the junk{{NLINE}}gets taken away...{{NPAGE}}What'll we call{{NLINE}}the town then?
+"vooooooooooooooooom
+"That machine soldier{{NLINE}}has been with me{{NLINE}}since I was a kid...{{NPAGE}}He's a good fellow
+"When we were kids,{{NLINE}}machine hunting was{{NLINE}}men's work, but now...
+"The Porter's Guild{{NLINE}}ship had some{{NLINE}}trouble...{{NPAGE}}So someone from{{NLINE}}that guild's gonna{{NLINE}}be coming here
+"It's hard enough to{{NLINE}}find and repair these{{NLINE}}machines!{{NPAGE}}I have a lot of{{NLINE}}respect for the people{{NPAGE}}who originally built{{NLINE}}them!
+"sniff sniff sniff
+"O'er to the west o'{{NLINE}}the village's the {{NLINE}}dock for the ship{{NPAGE}}an' Steel Beach...{{NLINE}}S'pose don't mean much{{NLINE}}to a non-Guild man
+"Come on in--we got{{NLINE}}hard beds and clean{{NLINE}}sheets!
+"I'm a sailor from{{NLINE}}Rhapala...{{NPAGE}}'cept our ship's{{NLINE}}engine broke down{{NPAGE}}What do mean I've{{NLINE}}already told you{{NLINE}}that!?{{NPAGE}}...{{PAUSE}}...{{PAUSE}}...Well...{{NLINE}}maybe I did...{{NLINE}}Maybe it's deja vu?
+"I'm the Traveling{{NLINE}}Gourmet...I came here{{NLINE}}to eat their specialty{{NPAGE}}Spare ribs fried in{{NLINE}}oil sauce! You should{{NLINE}}try it--it's good!
+"Another accident!?{{NPAGE}}Those blokes in the{{NLINE}}Porter's Guild have{{NLINE}}gotta learn to treat{{NPAGE}}machines with more{{NLINE}}respect!
+"It's not like that...{{NPAGE}}You see, there was{{NLINE}}this big ship, and...
+"We have the folks{{NLINE}}from Rhapala take{{NLINE}}our machines away...{{NPAGE}}But I heard they{{NLINE}}went and wrecked their{{NLINE}}ship again...
+"We got stuff you'll{{NLINE}}only find here in{{NLINE}}Junk Town!
+"We've got more for{{NLINE}}sale than just junk!
+"Chrysm energy's a{{NLINE}}lot like magical{{NLINE}}energy, see?{{NPAGE}}So I bet there was{{NLINE}}a lot of magic in{{NPAGE}}the days when they{{NLINE}}built the machines
+"Hmmmm...but there{{NLINE}}are still a lot of{{NPAGE}}people around using{{NLINE}}magic, you know?
+"It's hard work,{{NLINE}}looking for parts{{NLINE}}like this
+"Just one shot'll{{NLINE}}make you stronger!
+"Well, lately, the{{NLINE}}Guild's been working{{NLINE}}on, um, well...{{NPAGE}}You see, the Porter's{{NLINE}}Guild ship's broke{{NLINE}}down again, so...{{NPAGE}}we actually don't{{NLINE}}have a lot to do{{NLINE}}right now...
+"So that's the Rhapala{{NLINE}}Guildmaster, eh?
+"The ship from Rhapala{{NLINE}}broke down{{NPAGE}}and is tied up at{{NLINE}}the dock out west...{{NPAGE}}That's where we're{{NLINE}}gonna fix it
+"The Guildmaster{{NLINE}}from Rhapala just{{NLINE}}showed up...{{NPAGE}}Seems pretty sharp{{NLINE}}for his age, he{{NLINE}}does...
+{{TXTBX,05}}Beyd{{NLINE}}"My name is Beyd...{{NLINE}}Rhapala Guildmaster{{NPAGE}}I've come to get{{NLINE}}our boat back...
+{{TXTBX,05}}Watchman{{NLINE}}"What!? {{PAUSE}}Yes, of course{{NLINE}}Good to see you again
+{{TXTBX,05}}Watchman{{NLINE}}"The dock is to the{{NLINE}}west...Go on in
+"They told me to let{{NLINE}}anyone from the{{NLINE}}Porter's Guild in...{{NPAGE}}But I wasn't expecting{{NLINE}}the Guildmaster himself{{NLINE}}to show up!
+Chief{{NLINE}}"You want to look{{NLINE}}for parts!?{{NPAGE}}Nope, no can do...{{NLINE}}Only guildmembers have{{NLINE}}permission to do that
+Chief{{NLINE}}"But to be honest, I{{NLINE}}don't care if you do{{NPAGE}}The more hands, the{{NLINE}}faster the job'll be{{NLINE}}done, anyway
+Chief{{NLINE}}"You should go down{{NLINE}}to Steel Beach{{NPAGE}}That's the best place{{NLINE}}to look for spare{{NLINE}}parts, see?
+"I never thought the{{NLINE}}Porter's Guild people{{NPAGE}}would go looking for{{NLINE}}parts themselves!
+"Sorry to make you{{NLINE}}come all this way{{NLINE}}for nothing...{{NPAGE}}We'll get the ship{{NLINE}}repaired as soon{{NLINE}}as we can
+Wynn{{NLINE}}"Whoops!{{NPAGE}}You found me!{{NLINE}}Boy, you scared me!{{NPAGE}}I'll see you back{{NLINE}}in Wyndia!
+Wynn{{NLINE}}"Whoops!{{NPAGE}}You found me!{{NLINE}}Boy, you scared me!{{NPAGE}}I'll see you back{{NLINE}}in Wyndia!
+Wynn{{NLINE}}"Whoops!{{NPAGE}}You found me!{{NLINE}}Boy, you scared me!{{NPAGE}}I'll see you back{{NLINE}}in Wyndia!
+"Foremost among these{{NLINE}}is the control of{{NLINE}}technology...{{DURTN,48}}
+"Myria makes certain{{NLINE}}that no dangerous{{NLINE}}machines,{{NPAGE}}like weapons, are{{NLINE}}developed...
+"The Porter's Guild{{NLINE}}has ordered a new{{NLINE}}steamship...{{NPAGE}}Things're gonna get{{NLINE}}busy!
+"The Porter's Guild{{NLINE}}has ordered a new{{NLINE}}steamship...{{NPAGE}}Things're gonna get{{NLINE}}busy!
+"The Porter's Guild{{NLINE}}has ordered a new{{NLINE}}steamship...{{NPAGE}}Things're gonna get{{NLINE}}busy!
+"The Porter's Guild{{NLINE}}has ordered a new{{NLINE}}steamship...{{NPAGE}}Things're gonna get{{NLINE}}busy!
+"With all these{{NLINE}}machines washing up{{NLINE}}here...{{NPAGE}}I wonder if the{{NLINE}}other side of the{{NPAGE}}ocean's nothing but{{NLINE}}machines?
+"I think I'll take{{NLINE}}a break once I get{{NLINE}}this one outta here
+"Gotta look for parts{{NLINE}}to build the new ship
+"We're gonna be busy{{NLINE}}for a while--{{NPAGE}}the Porter's Guild's{{NLINE}}asked us to make{{NLINE}}them a new ship
+"What exactly is{{NLINE}}Steel Beach, anyway?
+"The Porter's Guild{{NLINE}}must be making a{{NLINE}}lot of money{{NPAGE}}to be able to{{NLINE}}order a new ship
+"That Guildmaster's{{NLINE}}quite the whiz kid,{{NLINE}}ain't he?
+"Ships...{{NPAGE}}I've build 'em, but{{NLINE}}never been on 'em{{NLINE}}once...
+"You've been to the{{NLINE}}freighter down on{{NLINE}}Steel Beach?{{NPAGE}}Hmmm...You guys ever{{NLINE}}think about working{{NLINE}}for the Guild?
+"Porter's Guild's{{NLINE}}asked us to make{{NLINE}}'em a new ship...{{NPAGE}}We'll give 'em a{{NLINE}}ship like they've{{NLINE}}never seen before!
+"You're using the{{NLINE}}old Porter's Guild{{NLINE}}ship?{{NPAGE}}Take care of it,{{NLINE}}eh?
+"Someday, I'd like{{NLINE}}to make my own{{NLINE}}machine, y'know?{{NPAGE}}Not just repair{{NLINE}}'em--something{{NLINE}}original!
+"But first, we must{{NLINE}}learn more about{{NLINE}}the Techno Age...
+"Gotta look for parts{{NLINE}}to use in the engine
+"The Guild has{{NLINE}}received an order from{{NLINE}}the Porter's Guild{{NPAGE}}to build them a new{{NLINE}}steamship

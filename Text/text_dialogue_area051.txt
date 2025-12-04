@@ -1,0 +1,40 @@
+{{TXTBX,81}} {{NLINE}}    Mt. Myrneg{{DURTN,64}}
+"Hahahahahahaha{{NLINE}}You're finished!{{NPAGE}}You're nothing without{{NLINE}}{{COLRS,2}}flame{{COLRE}} or {{COLRS,1}}frost{{COLRE}}{{NLINE}}to back you up!
+{{TXTBX,06}}Balio{{NLINE}}"...Hold it!{{NPAGE}}Hold on! Wait a{{NLINE}}second!{{DURTN,32}}
+{{TXTBX,06}}Balio{{NLINE}}"We don't want to{{NLINE}}fight...{{DURTN,48}}
+Balio{{NLINE}}"How can we say we're{{NLINE}}sorry,{{NPAGE}}your magnificent{{NLINE}}excellent dragoness!?
+Balio{{NLINE}}"If we'd know it was{{NLINE}}you...{{PAUSE}} We...we...
+Balio{{NLINE}}"...{{PAUSE}}...{{PAUSE}}...Since it{{NLINE}}has come to this,{{NPAGE}}the only way we can{{NLINE}}make amends is with{{NLINE}}our lives!!
+Balio{{NLINE}}"Please, your{{NLINE}}excellency!{{NPAGE}}Our lives{{NLINE}}are yours!!
+{{TXTBX,06}}Sunder{{NLINE}}"Hahahah...Dummy!
+{{TXTBX,05}}Balio{{NLINE}}"See?{{NPAGE}}Even the mighty{{NLINE}}Brood doesn't stand a{{NLINE}}chance against us!
+{{TXTBX,06}}Sunder{{NLINE}}"Hey, bro!{{PAUSE}}{{NPAGE}}We're pretty strong,{{NLINE}}ain't we?
+{{TXTBX,05}}Balio{{NLINE}}"You bet,{{PAUSE}} bro!{{NPAGE}}We're stronger than{{NLINE}}anyone or anything!
+Balio & Sunder{{NLINE}}"Bwah-ha-ha-ha-ha-ha!
+{{TXTBX,06}}Sunder{{NLINE}}"Wha...!?
+{{TXTBX,05}}Balio{{NLINE}}"In...{{PAUSE}} inconceivable!?
+{{TXTBX,06}}Sunder{{NLINE}}"Hey, bro...!{{NLINE}}Wh{{PAUSE}} wha's happening!?
+{{TXTBX,05}}Balio{{NLINE}}"...He's not human...{{NLINE}}Is he invulnerable?
+{{TXTBX,06}}Sunder{{NLINE}}"Yikes! C'mon, bro...{{PAUSE}}{{NLINE}}Let's get outta here!
+{{TXTBX,05}}Balio{{NLINE}}"Wait! Hold on, bro!{{NPAGE}}I have an idea...we{{NLINE}}may have just found{{NLINE}}our golden egg...
+"Heeheeheehee{{NLINE}}I'm not going to hurt{{NLINE}}you...My name's Tallman{{NPAGE}}If you're interested,{{NLINE}}I can tell you all{{NLINE}}about different{{NPAGE}}creatures' weak{{NLINE}}points?{{CHOIC,0,0,Yes,No}}
+"Heeheehee{{NLINE}}Well, for example,{{NLINE}}take the Eye Goo...{{NPAGE}}Their weak spots are{{NLINE}}their eyes, so if you{{NLINE}}hit them with {{COLRS,2}}Blind{{COLRE}}{{NPAGE}}maybe something will{{NLINE}}happen...Think about{{NLINE}}it...{{NPAGE}}What would happen to{{NLINE}}the Nut people if you{{NLINE}}hit them with {{COLRS,2}}fire{{COLRE}}?{{NPAGE}}I did you a favor by{{NLINE}}telling you that, so{{NLINE}}do me a favor, OK?{{NPAGE}}Don't use {{COLRS,1}}frost{{NLINE}}magic{{COLRE}} on us, please?
+"Hey, wait up, OK?{{NLINE}}It takes me a while{{NLINE}}to finish, ya know...
+"W, wait, I said...
+Sunder{{NLINE}}"Whew...{{PAUSE}}...{{PAUSE}}...{{DURTN,48}}
+Sunder{{NLINE}}"OK, bro, let's go...{{NLINE}}hm...?
+Sunder{{NLINE}}"You're not my{{NLINE}}brother!!{{NPAGE}}W{{PAUSE}}-who're you?{{NLINE}}Wait...You're supposed{{NLINE}}to be dead!
+Sunder{{NLINE}}"G-G-GH-GHOST!!{{NLINE}}Help me!{{DURTN,32}}
+{{TXTBX,05}}Balio{{NLINE}}"Ghost!? What're you{{NLINE}}talking about?{{DURTN,32}}
+{{TXTBX,06}}Sunder{{NLINE}}"Help! Help me, bro!{{NLINE}}Come quick!{{DURTN,32}}
+{{TXTBX,06}}Sunder{{NLINE}}"Lo-look! He's dead!{{NLINE}}I mean, I mean...{{DURTN,32}}
+{{TXTBX,06}}Sunder{{NLINE}}"He's alive!{{NLINE}}It's a {{EFCTS}}zombieeeee!!{{EFCTE,00}}
+{{TXTBX,05}}Balio{{NLINE}}"This is a surprise{{NLINE}}Is he really alive?
+{{TXTBX,06}}Sunder{{NLINE}}"I'm scared!{{NLINE}}He's a {{EFCTS}}vampirrrrre!!{{EFCTE,00}}{{DURTN,96}}
+{{TXTBX,05}}Balio{{NLINE}}"Maybe we didn't{{NLINE}}finish him off...?
+{{TXTBX,05}}Balio{{NLINE}}"No...No, he's dead...{{NLINE}}{{PAUSE}} you dummy!{{DURTN,32}}
+{{TXTBX,05}}Balio{{NLINE}}"Is he dead?{{DURTN,32}}
+{{TXTBX,06}}Sunder{{NLINE}}"Oh...I'm not afraid{{NLINE}}of a dead zombie!{{DURTN,32}}
+{{TXTBX,05}}Balio{{NLINE}}"Did we get him this{{NLINE}}time...?{{DURTN,32}}
+{{TXTBX,06}}Sunder{{NLINE}}"We killed him! We're{{NLINE}}the strongest!!{{DURTN,32}}
+{{TXTBX,81}} Much blood has been{{NLINE}}  shed to reach this{{NLINE}}      point...   

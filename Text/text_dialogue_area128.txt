@@ -1,0 +1,74 @@
+"This is the Machine{{NLINE}}Guild's dock...{{NPAGE}}This is where we{{NLINE}}send the machines{{NLINE}}out on ships
+"This is the Machine{{NLINE}}Guild's dock...{{NPAGE}}This is where we{{NLINE}}send the machines{{NLINE}}out on ships
+"Let's see...ship{{NLINE}}parts, ship parts...{{NPAGE}}I guess you're gonna{{NLINE}}have to go down to{{NLINE}}Steel Beach for those
+"How do they get big{{NLINE}}machines like this on{{NLINE}}the ship?{{NPAGE}}I dunno...I'm just a{{NLINE}}repairman...
+"That ship from{{NLINE}}Rhapala's always{{NLINE}}breaking down...
+"I remember you{{NLINE}}were looking for{{NPAGE}}parts to fix the{{NLINE}}ship...{{NPAGE}}Did you find any?
+"Was that the Rhapala{{NLINE}}Guildmaster who was{{NLINE}}here just now?{{NPAGE}}If we'd known such{{NLINE}}a bigshot was coming,{{NPAGE}}we would've worked{{NLINE}}faster...
+"Romeo...
+"Juliet...
+{{EFCTS}}scuttle scuttle{{EFCTE,02}}
+{{TXTBX,06}}Beyd{{NLINE}}"You mean the repairs{{NLINE}}aren't finished yet!?
+{{TXTBX,05}}Mechanic{{NLINE}}"Well, you see, sir...{{NPAGE}}We didn't know y'd be{{NLINE}}coming so soon, y'see?{{NPAGE}}We haven't found the{{NLINE}}parts we be needing{{NLINE}}yet, y'see?
+{{TXTBX,06}}Beyd{{NLINE}}"Hmmm...I see...{{NPAGE}}But what should I{{NLINE}}do now...? I told{{NPAGE}}everyone I'd be{{NLINE}}back soon...
+{{TXTBX,05}}Mechanic{{NLINE}}"S...{{PAUSE}}sorry, sir{{NPAGE}}We didn't know it'd{{NLINE}}be takin' so long{{NPAGE}}to find the parts{{NLINE}}y'see...
+{{TXTBX,06}}Sailor{{NLINE}}"Excuse me, sir...{{NLINE}}Guildmaster sir...{{NPAGE}}But you don't be{{NLINE}}planning on having{{NPAGE}}us be looking for{{NLINE}}parts now, do you?{{NPAGE}}I mean, we're{{NLINE}}sailors, right?
+Beyd{{NLINE}}"Wait a minute...!{{NPAGE}}You...you're Ryu,{{NLINE}}aren't you!?
+{{TXTBX,06}}Nina{{NLINE}}"Long time no{{NLINE}}see, Beyd...
+{{TXTBX,06}}Momo{{NLINE}}"It's been a while,{{NLINE}}hasn't it?
+{{TXTBX,06}}Garr{{NLINE}}"Hmmm...{{PAUSE}}Beyd, isn't it
+Beyd{{NLINE}}"It's so good to{{NLINE}}see all of you again!{{NPAGE}}I'll never forget{{NLINE}}what you did for me{{NLINE}}all those years ago...{{NPAGE}}But what are you{{NLINE}}doing here...?
+Beyd{{NLINE}}"You need a ship!?{{NPAGE}}Well, I'd like to{{NLINE}}say I can help you{{NLINE}}with that...{{PAUSE}}but...
+Beyd{{NLINE}}"It looks like the{{NLINE}}repairs are going to{{NPAGE}}take longer than we{{NLINE}}thought...you're going{{NLINE}}to have to wait again,{{NPAGE}}just like before...{{NLINE}}I'm sorry...
+"Now that you mention{{NLINE}}it, you've been to{{NLINE}}Rhapala before, right?
+"Aren't you the ones{{NLINE}}who helped us fix{{NLINE}}the lighthouse before?
+"You folks will have{{NLINE}}to forgive us...{{NPAGE}}We're having trouble{{NLINE}}finding parts and{{NLINE}}all...
+"Sorry, but I don't{{NLINE}}know a thing about{{NLINE}}repairs...{{NPAGE}}You'll have to ask{{NLINE}}someone who knows{{NLINE}}more about machines...
+Momo{{NLINE}}"Anything I can do{{NLINE}}to help?
+Beyd{{NLINE}}"That's right!{{NPAGE}}You're an engineer,{{NLINE}}aren't you, Momo!
+{{TXTBX,05}}Engineer{{NLINE}}"If that's the case,{{NPAGE}}think you could give{{NLINE}}us a hand?{{NPAGE}}This way, please...
+{{TXTBX,05}}Engineer{{NLINE}}"This...is the{{NLINE}}engine room{{DURTN,48}}
+{{TXTBX,06}}Momo{{NLINE}}"OK...and this is{{NLINE}}what needs fixing?
+{{TXTBX,06}}Momo{{NLINE}}"Gotcha! I can fix{{NLINE}}this, no problem!
+{{TXTBX,06}}Momo{{NLINE}}"Ryu, think you can{{NLINE}}find these parts?{{NPAGE}} {{NLINE}}{{INSTS}}You got the "Memo"!{{INSTE}}
+{{TXTBX,06}}Momo{{NLINE}}"I don't think you'll{{NLINE}}be able to find all{{NPAGE}}those parts in one{{NLINE}}place...You'll have{{NLINE}}to look around, OK?
+{{TXTBX,05}}Beyd{{NLINE}}"You were able to{{NLINE}}fix the lighthouse...{{NPAGE}}I'm sure you'll be{{NLINE}}able to fix the ship{{NPAGE}}faster than anyone{{NLINE}}else could as well!
+{{TXTBX,05}}Engineer{{NLINE}}"If you can find those{{NLINE}}parts for us,{{NPAGE}}we'll have the ship{{NLINE}}moving in no time!{{NPAGE}}"Ask the guildmen{{NLINE}}where the best places{{NLINE}}to look for parts are
+"Ask the guildmen{{NLINE}}where the best places{{NLINE}}to look for parts are
+"Thanks to you, it{{NLINE}}looks like we'll be{{NLINE}}able to get the{{NPAGE}}ship fixed sooner{{NLINE}}than we thought...{{NLINE}}Thank you!
+{{TXTBX,06}}Momo{{NLINE}}"What's the matter?{{NPAGE}}If you're having{{NLINE}}trouble finding parts,{{NPAGE}}ask the guildmen where{{NLINE}}to look
+{{TXTBX,06}}Momo{{NLINE}}"Good luck finding{{NLINE}}all the parts!
+{{TXTBX,06}}Momo{{NLINE}}"Welcome back!{{NPAGE}}Did you find{{NLINE}}everything?
+{{TXTBX,06}}Momo{{NLINE}}"Hmmm...we're still{{NLINE}}missing some...{{NPAGE}}Do you have any{{NLINE}}more parts?{{CHOIC,0,0,Yes,No}}
+{{TXTBX,06}}Momo{{NLINE}}"OK, well, keep{{NLINE}}looking then...{{NPAGE}}I'll clean up the{{NLINE}}parts you've found{{NLINE}}so far...
+{{TXTBX,06}}Momo{{NLINE}}"That's it!{{NLINE}}You got all of them!
+{{TXTBX,06}}Momo{{NLINE}}"OK, here we go!
+{{TXTBX,05}}Beyd{{NLINE}}"All right then, {{CHRTR}},{{NPAGE}}Why don't we go{{NLINE}}to the bridge?
+"What? {{PAUSE}}You're going{{NLINE}}to look for the{{NLINE}}parts for us?{{NPAGE}}First the lighthouse,{{NLINE}}now this...How can we{{NLINE}}ever thank you?
+"This is the bridge{{NLINE}}of the ship...{{NPAGE}}We'll take care of{{NLINE}}things once the ship{{NLINE}}is working again
+Watchman{{NLINE}}"What?{{NPAGE}}You're going to{{NLINE}}be looking for{{NLINE}}the parts?
+Watchman{{NLINE}}"I...{{PAUSE}}I don't know{{NLINE}}if that's OK...{{NPAGE}}I mean, that's{{NLINE}}supposed to be our{{NLINE}}job and all...{{NPAGE}}...{{PAUSE}}...{{PAUSE}}...You{{NLINE}}should probably go{{NLINE}}back to town and{{NPAGE}}talk it over with{{NLINE}}the Guildmaster...
+"If you have the{{NLINE}}master's permission,{{NPAGE}}you can look for{{NLINE}}parts down on{{NLINE}}Steel Beach
+Beyd{{NLINE}}"Just a little while{{NLINE}}longer, Ryu
+{{TXTBX,06}}{{COLRS,7}}Momo{{NLINE}}"This is the engine{{NLINE}}room...{{NPAGE}}Start the engine!{{COLRE}}
+{{TXTBX,06}}"Starting engine!
+Beyd{{NLINE}}"Ease 'er out slowly!{{NLINE}}Left full rudder!
+{{TXTBX,43}}"Aye-aye, sir!
+"They say the ship{{NLINE}}won't be coming back{{NPAGE}}Probably went out{{NLINE}}into the Outer Sea...{{NPAGE}}Waves there are real{{NLINE}}strong, see?
+"You come looking{{NLINE}}for machines too?
+"This here's Machine{{NLINE}}Guild territory...{{NPAGE}}If you've no business{{NLINE}}here, scram!
+"This is the Machine{{NLINE}}Guild's dock...
+"This is the Machine{{NLINE}}Guild's dock...
+"This is the Machine{{NLINE}}Guild's dock...
+"This is the Machine{{NLINE}}Guild's dock...
+"This is the Machine{{NLINE}}Guild's dock...
+"This is the Machine{{NLINE}}Guild's dock...
+"Hey! I bet I can{{NLINE}}use this screw!
+"If you wanna make{{NLINE}}a ship...{{NPAGE}}Well, I bet you'll{{NLINE}}be needing a lot{{NLINE}}of parts, huh?
+"You got a ship?{{NLINE}}I wish I had one...{{NPAGE}}Just once, I'd like{{NLINE}}to try fishing out{{NLINE}}on the ocean...
+"Take a ship on{{NLINE}}the Outer Sea!?{{NPAGE}}Hmmm....{{NLINE}}If you find out{{NLINE}}where the machines{{NPAGE}}come from, be sure{{NLINE}}to let us know, eh?
+"Aren't the waves{{NLINE}}on the Outer Sea{{NLINE}}really rough?{{NPAGE}}I don't think any{{NLINE}}ship we can make{{NLINE}}can handle them
+Zig{{NLINE}}"Oh, you're back!{{NPAGE}}But...but how'd you{{NLINE}}get here!?
+Zig{{NLINE}}"I can't make any{{NLINE}}sense outta it...{{NPAGE}}But so what?{{NPAGE}}We're done with{{NLINE}}repairs, so you can{{NLINE}}use the ship anytime!
+"Do you want to{{NLINE}}board the ship?{{CHOIC,1,0,Yes,No}}
+"OK, here we go!

@@ -1,0 +1,33 @@
+Dragon in the Mine{{DURTN,32}}
+{{TXTBX,06}}Mogu{{NLINE}}"OK, explosives{{NLINE}}are set!{{DURTN,32}}
+Gary{{NLINE}}"What is this? An egg{{NLINE}}or something?{{DURTN,32}}
+{{TXTBX,06}}Mogu{{NLINE}}"You see ones like{{NLINE}}this every so often...{{DURTN,32}}
+Gary{{NLINE}}"Well I'll be...{{DURTN,32}}
+{{TXTBX,06}}Mogu{{NLINE}}"C'mon, let's get to{{NLINE}}work already...{{DURTN,32}}
+{{TXTBX,06}}Gary{{NLINE}}"..{{PAUSE}}..{{PAUSE}}..What the...??{{NLINE}}I...It's still alive!!{{DURTN,32}}
+{{TXTBX,06}}Mogu{{NLINE}}"Wh...{{PAUSE}}{{PAUSE}}{{EFCTS}}W H O A !!{{EFCTE,00}}{{DURTN,1}}
+He's not moving...
+He's not moving...
+He's not moving...
+No response...
+{{TXTBX,06}}"Gulp!{{DURTN,16}}
+{{TXTBX,06}}"A d...dragon!?{{NPAGE}}A...{{PAUSE}}alive!?{{NPAGE}}Are you really a{{NLINE}}dragon?{{CHOIC,0,0,Yes,No}}
+"D-D-D-D-D-DRAGON!!!{{DURTN,32}}
+{{TXTBX,04}}"What was that?{{NLINE}}Dragon!?{{DURTN,16}}
+{{TXTBX,05}}"We'd better get out{{NLINE}}of here! Run!{{DURTN,16}}
+"Ha! I'm not afraid!{{NLINE}}Let's get it!{{DURTN,32}}
+Smells burnt...
+Looks like he's dead...
+{{TXTBX,06}}"Whoa! {{PAUSE}}What are you?{{NLINE}}Some kind of ghost?{{CHOIC,1,0,Yes,No}}
+"It's a monster!!{{DURTN,16}}
+He's not moving...
+He's dead...
+"It's here!!{{DURTN,16}}
+"D...{{PAUSE}}{{PAUSE}}{{PAUSE}} Don't hurt me...
+"We're cursed! We're{{NLINE}}doomed! I knew we{{NLINE}}shouldn't be digging{{NPAGE}}up dead bodies!{{NLINE}}We're cursed! We're{{NLINE}}doomed!...
+"D-don't eat me!{{NLINE}}D-don't breathe fire{{NLINE}}on me!
+"Oh no! It found me!!{{NLINE}}It's over! I'm done{{NLINE}}for!
+"Mommy!
+"{{EFCTS}}I-I-I-I-I-I-I think,{{EFCTE,02}}{{NLINE}}I think I wet my pants
+"You don't want to eat{{NLINE}}me! I don't taste{{NLINE}}good!
+"Sure is noisy out{{NLINE}}there... Wonder what's{{NLINE}}going on?

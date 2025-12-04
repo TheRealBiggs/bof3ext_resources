@@ -1,0 +1,214 @@
+What do you want to do?{{CHOIC,0,2,Rest,Change party members,Look at Skill Notes,Nothing}}
+What do you want to do?{{CHOIC,0,2,Rest,Change party members,Look at Skill Notes,Nothing}}
+"Ready to go?{{CHOIC,1,0,Yes,No}}
+{{TXTBX,06}}Zig{{NLINE}}"So, where do you{{NLINE}}want to go?
+{{TXTBX,06}}Zig{{NLINE}}"The Outer Sea!? Are{{NLINE}}you sure about that?{{NPAGE}}Why don't you go{{NLINE}}talk it over with{{NLINE}}everyone,{{NPAGE}}and let me know when{{NLINE}}you've come to a{{NLINE}}decision
+"I think you should{{NLINE}}talk it over with{{NLINE}}everyone first...{{NPAGE}}Let me know when{{NLINE}}you're ready to{{NLINE}}shove off!
+"So...ready?{{CHOIC,2,0,Yes,No}}
+"The wind feels good,{{NLINE}}doesn't it, Ryu{{NPAGE}}I wonder what it's{{NLINE}}like on the other{{NLINE}}side of the ocean...{{NPAGE}}We'll be the first{{NLINE}}to see it, won't we?
+"Cross the sea to{{NLINE}}meet with God...{{NPAGE}}Even the Urkan would{{NLINE}}never have dreamed{{NLINE}}such a thing possible
+"Something tells me{{NLINE}}that crossing the sea{{NLINE}}isn't going to be easy{{NPAGE}}There's a reason why{{NLINE}}no one's done it{{NLINE}}before, right?
+"I don't know how far{{NLINE}}it is to the other{{NLINE}}side...{{NPAGE}}But the engine's{{NLINE}}running fine, so don't{{NLINE}}worry about that
+"supuuuuu
+"OK, so which way{{NLINE}}are we heading?
+Zig{{NLINE}}"Across...the ocean!?{{NLINE}}Uh-huh...Figures...{{NPAGE}}I thought you might{{NLINE}}say something like{{NLINE}}that...
+Zig{{NLINE}}"I suppose I should{{NLINE}}tell you...{{NPAGE}}No one who's been{{NLINE}}out there has ever{{NLINE}}returned alive...
+Zig{{NLINE}}"Are you sure you{{NLINE}}still want to go?{{NPAGE}}...{{PAUSE}}...{{PAUSE}}...{{PAUSE}}OK!
+Zig{{NLINE}}"Well, then, you're{{NLINE}}in good hands!{{NPAGE}}Ol' Zig here's the{{NLINE}}best captain in{{NLINE}}Rhapala...{{NPAGE}}No, in the world!{{NLINE}}If anyone can get{{NLINE}}you across the sea,{{NPAGE}}I can!
+Zig{{NLINE}}"Who else would be{{NLINE}}crazy enough to try!?
+Zig{{NLINE}}"We're almost there...{{NPAGE}}You all better get{{NLINE}}back inside the{{NLINE}}boat...
+Zig{{NLINE}}"It's too much!{{NPAGE}}She'll break up!{{NLINE}}We better go back!
+{{TXTBX,05}}Zig{{NLINE}}"...{{PAUSE}}...{{PAUSE}}...I'd heard{{NLINE}}stories, but...{{NPAGE}}I never imagined it'd{{NLINE}}be that bad!
+{{TXTBX,05}}Zig{{NLINE}}"I know I told ya...{{NPAGE}}If anyone could get{{NLINE}}ya there, I could...{{NPAGE}}But I don't know if{{NLINE}}we can do it in this{{NLINE}}boat...
+{{TXTBX,06}}Nina{{NLINE}}"Hold on a minute...{{NPAGE}}Are you trying to say{{NLINE}}that we should give up{{NLINE}}trying to get across!?
+{{TXTBX,06}}Nina{{NLINE}}"If the best sailor in{{NLINE}}Rhapala can't do it...{{NPAGE}}what're we supposed to{{NLINE}}do then?
+{{TXTBX,05}}Zig{{NLINE}}"Sorry...{{NPAGE}}I guess I just don't{{NLINE}}have what it takes...{{NPAGE}}to be like the{{NLINE}}"{{COLRS,2}}Legendary Mariner{{COLRE}}"...
+{{TXTBX,06}}Nina{{NLINE}}"Legendary Mariner...?{{NPAGE}}Could he take us{{NLINE}}across the ocean?
+{{TXTBX,05}}Zig{{NLINE}}"It's not quite{{NLINE}}like that...{{NPAGE}}We sailors have a{{NLINE}}legend about a sailor{{NLINE}}living here in the{{NPAGE}}Inner Sea who came{{NLINE}}here from the other{{NLINE}}side of the ocean...{{NPAGE}}But it's just a{{NLINE}}legend! A story!
+{{TXTBX,06}}Nina{{NLINE}}"Even if it is only{{NLINE}}a legend...{{NPAGE}}There has to be some{{NLINE}}truth behind it!{{NPAGE}}Tell us about him!
+{{TXTBX,05}}Zig{{NLINE}}"Well, you see...{{NPAGE}}I don't really know{{NLINE}}much about him...{{NPAGE}}There's a little town{{NLINE}}north of Rhapala{{NLINE}}called {{COLRS,2}}Parch{{COLRE}}...{{NPAGE}}The mayor there might{{NLINE}}know something...{{NLINE}}maybe...
+{{TXTBX,06}}Nina{{NLINE}}"...{{COLRS,2}}Parch{{COLRE}} it is, then!{{NPAGE}}Let's go!
+{{TXTBX,05}}Zig{{NLINE}}"Yessir!{{NPAGE}}Let me know when{{NLINE}}you're ready to go!
+"Parch...I don't{{NLINE}}think you can get{{NLINE}}there without a boat
+"Urp!...{{PAUSE}}...{{PAUSE}}...{{NPAGE}}If the whole trip's{{NLINE}}gonna be like that,{{NPAGE}}up and down, back{{NLINE}}and forth...{{NPAGE}}You can count me{{NLINE}}out!
+"pekyuuuu
+"Everything with the{{NLINE}}engine checks out{{NLINE}}OK...But I don't{{NPAGE}}think it's got enough{{NLINE}}power to get us{{NLINE}}across the ocean...
+"Looks like we've a{{NLINE}}long hard road ahead{{NLINE}}of us, hmmm?
+{{TXTBX,04}}Rei{{NLINE}}"Tell me...what were{{NLINE}}you thinking?{{DURTN,64}}
+Momo{{NLINE}}"What? Are you saying{{NLINE}}it's my fault?{{DURTN,69}}
+{{TXTBX,06}}Nina{{NLINE}}"Whew! That was{{NLINE}}close...{{NPAGE}}I guess it attacks{{NLINE}}anything that gets{{NLINE}}close to it...
+{{TXTBX,06}}Nina{{NLINE}}"We need a new plan{{NLINE}}of some sort...{{NPAGE}}What should we do,{{NLINE}}Ryu?
+{{TXTBX,05}}Zig{{NLINE}}"Good question...{{NPAGE}}What are we going{{NLINE}}to do, Mr. Ryu?{{NPAGE}}You're the captain{{NLINE}}now...
+{{TXTBX,05}}Zig{{NLINE}}"I just does what{{NLINE}}the captain says, eh?
+{{TXTBX,05}}Zig{{NLINE}}"You should probably{{NLINE}}talk it over with{{NPAGE}}your friends before{{NLINE}}making up your mind,{{NLINE}}yeah?
+"It looks like the{{NLINE}}only way we'll be{{NLINE}}able to get across{{NPAGE}}the ocean is on that{{NLINE}}ship...{{NPAGE}}There's got to be{{NLINE}}something we can do,{{NLINE}}right Ryu?
+"If that dummy hadn't{{NLINE}}attacked it like that,{{NPAGE}}it wouldn't have{{NLINE}}gotten angry and come{{NLINE}}after us, you know...
+"Don't look at me{{NLINE}}like that...{{NPAGE}}It's not my fault,{{NLINE}}OK...?
+"I don't think we'd{{NLINE}}have any trouble if{{NPAGE}}we could just get{{NLINE}}aboard it...And that's{{NLINE}}the problem, isn't it?
+"pefuuuuuu{{NPAGE}}{{COLRS,6}}After all that, he's{{NLINE}}still sound asleep...{{NLINE}}How does he do it?{{COLRE}}
+"You're the captain,{{NLINE}}and it's your decision{{NPAGE}}But you should talk{{NLINE}}it over with your{{NLINE}}friends first...
+Momo{{NLINE}}"Oh, it's you,{{NLINE}}Ryu...{{NPAGE}}What are you going{{NLINE}}to do? Are we going{{NLINE}}to give up?
+Momo{{NLINE}}"OK then...So...{{NPAGE}}Now all we need to{{NLINE}}do is figure out a{{NLINE}}way to get on board{{NPAGE}}that ship...What if{{NLINE}}we rammed it?
+"If you're going to{{NLINE}}try ramming it...{{NPAGE}}I think hitting it{{NLINE}}from behind would{{NLINE}}be best{{NPAGE}}That way, we'd be able{{NLINE}}to avoid being{{NLINE}}attacked...
+"Made up your mind?
+Zig{{NLINE}}"What!?...{{PAUSE}}Ram it!?
+Zig{{NLINE}}"All right!{{NPAGE}}That's what I hoped{{NLINE}}you'd say!{{NPAGE}}Leave it to me!!
+Zig{{NLINE}}"There's only one man{{NLINE}}for this kind of job{{NPAGE}}An' that's ME!
+Zig{{NLINE}}"OK, captain sir,{{NLINE}}you just watch...{{NPAGE}}I'll have you on{{NLINE}}that ship in no{{NLINE}}time...{{NPAGE}}Or my name's not{{NLINE}}Zig!!
+"Ramming the ship...{{NPAGE}}It sounds scary, but{{NLINE}}it's exciting at the{{NLINE}}same time, isn't it?
+"Ram it...?{{NPAGE}}Sounds like something{{NLINE}}a certain engineer{{NLINE}}would think of...{{NPAGE}}Heh...don't this just{{NLINE}}beat all...
+"The will to keep{{NLINE}}going...No matter{{NLINE}}what the cost...{{NPAGE}}That is our greatest{{NLINE}}strength...
+"puwheee...{{NPAGE}}{{COLRS,6}}He won't fall and{{NLINE}}roll around and get{{NLINE}}hurt when we ram{{COLRE}}{{NPAGE}}{{COLRS,6}}the other ship...{{NLINE}}will he?{{COLRE}}
+"You're going to{{NLINE}}ram it, right?{{NPAGE}}Then you'll want{{NLINE}}to go from behind,{{NLINE}}as fast as you can!
+There's a diary...{{NLINE}}But now's not the{{NLINE}}time for that...
+{{TXTBX,01}} {{NLINE}}{{COLRS,2}}Ramming{{COLRE}} the Black Ship{{NPAGE}}Use the Controller{{NLINE}}to maneuver your boat{{NPAGE}}Build up speed with{{NLINE}}{{COLRS,5}}Run{{COLRE}} button and ram{{NPAGE}}the Black Ship from{{NLINE}}{{COLRS,2}}directly behind{{COLRE}}.{{NPAGE}}Be careful not to{{NLINE}}overheat your engine.
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+"Ready?{{CHOIC,3,0,Yes,No}}
+Zig{{NLINE}}"This is it! My big{{NLINE}}chance!
+Zig{{NLINE}}"Here we go!

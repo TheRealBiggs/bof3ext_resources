@@ -1,0 +1,14 @@
+"Sorry, you can't use{{NLINE}}this road...{{NPAGE}}The lava from the{{NLINE}}recent eruption's{{NLINE}}gone 'n blocked it
+"Sorry, you can't use{{NLINE}}this road...{{NPAGE}}The lava from the{{NLINE}}recent eruption's{{NLINE}}gone 'n blocked it
+"If you want to get{{NLINE}}east, you should get{{NLINE}}passage on a freighter{{NPAGE}}from the harbor...The{{NLINE}}volcano just erupted,{{NLINE}}and the lava's still{{NPAGE}}blocking the road, you{{NLINE}}see
+"We're members of the{{NLINE}}Porter's Guild of{{NLINE}}Rhapala{{NPAGE}}The guild controls all{{NLINE}}the roads and trade{{NLINE}}routes 'round here
+"This here cave's a{{NLINE}}shrine for some kind{{NLINE}}of god or somethin'{{NPAGE}}All I know is we{{NLINE}}found it here when we{{NLINE}}was makin' the road
+"Eh? Letter from the{{NLINE}}Guildmaster?{{NPAGE}}You mean you want to{{NLINE}}use the secret guild{{NLINE}}route?{{NPAGE}}Fine by me, but just{{NLINE}}watch out for the{{NLINE}}lava, eh?
+"If you're going to{{NLINE}}use the passage, be{{NLINE}}careful of the lava
+"Before the road was{{NLINE}}made, we used to have{{NLINE}}to use a tunnel that{{NPAGE}}went through the{{NLINE}}mountain...Ever since{{NLINE}}we made the road,{{NPAGE}}we haven't used it
+"The volcano's been{{NLINE}}quiet lately...The{{NLINE}}road's safe...
+"Use this road if{{NLINE}}you want to get{{NLINE}}to the Urkan region
+"Did you just see a{{NLINE}}light?
+"I guess if there are{{NLINE}}still people wanting{{NLINE}}to use the road,{{NPAGE}}the guild ship must{{NLINE}}still be under{{NLINE}}repair, huh?
+"Sometimes, even if{{NLINE}}no one's there...{{NPAGE}}you can hear voices{{NLINE}}coming out of this{{NLINE}}cave...
+"I suppose if the{{NLINE}}guild ever got a{{NLINE}}lot of ships...{{NPAGE}}This road would{{NLINE}}fall out of use...

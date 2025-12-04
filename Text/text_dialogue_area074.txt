@@ -1,0 +1,163 @@
+"Welcome travelers,{{NLINE}}to Tapa, the village{{NLINE}}of the Urkan people
+"Welcome travelers,{{NLINE}}to Tapa, the village{{NLINE}}of the Urkan people
+"Welcome home,{{NLINE}}great Guardian
+"This is the Hall{{NLINE}}of Prayer{{NPAGE}}We gather here once{{NLINE}}a day to offer our{{NLINE}}prayers to God
+"Have you met with{{NLINE}}the Patriarch yet,{{NLINE}}Guardian?
+"Rest and be at{{NLINE}}peace, travelers
+"Well, if it isn't{{NLINE}}the Guardian!{{NPAGE}}We are honored by{{NLINE}}your presence
+"Huh? {{PAUSE}}Angel Tower?{{NPAGE}}Why, it's to the{{NLINE}}east of the village{{NPAGE}}It's one of our{{NLINE}}holy sites
+"May God walk with{{NLINE}}you, Guardian...
+"That tower to the{{NLINE}}east of the village...{{NPAGE}}They say it's a ruin{{NLINE}}from when they fought{{NLINE}}some enemy years ago
+"You're one of the{{NLINE}}one who fight the{{NLINE}}enemy, aren'tcha?
+"woof woof woof
+"The Patriarch of our{{NLINE}}people, Sudama, lives{{NLINE}}above here
+"The Patriarch awaits{{NLINE}}you above, Guardian{{NLINE}}Garr
+"The Patriarch is{{NLINE}}meditating...{{NPAGE}}No one is allowed{{NLINE}}to enter
+"The Patriarch is{{NLINE}}in meditation...{{NPAGE}}But I'm sure he'd{{NLINE}}be willing to see{{NLINE}}you, Guardian
+"They say the reason{{NLINE}}this village is built{{NPAGE}}like this is to make{{NLINE}}it harder for enemies{{NLINE}}to attack
+"Please keep us{{NLINE}}safe, mighty Guardian
+"You came through{{NLINE}}the volcano?{{NPAGE}}I've heard stories{{NLINE}}about a crazy old{{NLINE}}man living there...{{NPAGE}}Did you see him?
+"You've returned...{{NLINE}}How is the outer{{NLINE}}world?
+"A long time ago,{{NPAGE}}a malevolent power{{NLINE}}tried to destroy the{{NLINE}}world...{{NPAGE}}And an angel appeared{{NLINE}}to guide the Urkan{{NPAGE}}in their struggle{{NLINE}}against that power...
+"I know! I know!{{NLINE}}That angel was a{{NLINE}}Guardian, right?
+"Teacher...what does{{NLINE}}'malevolent' mean?
+"We're learning history!
+"As I sit here{{NLINE}}meditating, I can{{NLINE}}feel my heart being{{NPAGE}}purified...It's a way{{NLINE}}of cleaning the heart{{NLINE}}and mind
+"Looking at you,{{NLINE}}Guardian, makes me{{NPAGE}}feel the power and{{NLINE}}glory of God...
+"I remember hearing{{NLINE}}those stories about{{NPAGE}}God and evil as a{{NLINE}}kid...{{NPAGE}}I always liked the{{NLINE}}parts about the{{NLINE}}fighting myself
+"Why don't you say{{NLINE}}something to the{{NLINE}}children?{{NPAGE}}I'm sure they'd love{{NLINE}}to hear something{{NLINE}}from a real angel
+"We Urkans are always{{NLINE}}prepared to take up{{NLINE}}the fight should evil{{NPAGE}}ever spread throughout{{NLINE}}the land again
+"Did you find any{{NLINE}}evil, Guardian?
+"Isn't it nice the way{{NLINE}}the floor gets clean{{NLINE}}when you sweep it?{{NPAGE}}I know it's obvious,{{NLINE}}but I still like it
+"Guardian! Is some-{{NLINE}}thing wrong? Why have{{NLINE}}you returned to Tapa?
+"On a clear day,{{NLINE}}you can see the{{NLINE}}Tower from here...
+"Oh, Guardian Garr...{{NLINE}}Are you going to the{{NLINE}}Tower?{{NPAGE}}Have you met with{{NLINE}}the Patriarch yet?
+"Don't worry...{{NPAGE}}If that happens, all{{NLINE}}the Guardians will{{NLINE}}come to help us again
+"What'll we do if{{NLINE}}evil returns?
+"Oh mighty God...{{NLINE}}Give us strength, and{{NLINE}}deliver us from evil...{{NPAGE}}I guess since the{{NLINE}}world's at peace now,{{NPAGE}}we don't need to pray{{NLINE}}that hard, right?
+"The Patriarch lives{{NLINE}}above here
+"Have you met with{{NLINE}}the Patriarch yet,{{NLINE}}Guardian?
+"It is forbidden for{{NLINE}}us to say aloud the{{NPAGE}}name of our God and{{NLINE}}our enemy...
+"We must not forget{{NLINE}}our prayers to God,{{NPAGE}}even now when the{{NLINE}}world is free of{{NLINE}}evil
+"After defeating{{NLINE}}the evil, almost{{NLINE}}all the angels{{NPAGE}}entered a deep,{{NLINE}}long sleep
+"Our weapons have{{NLINE}}been blessed by{{NLINE}}God
+"Are you in need{{NLINE}}of anything?
+"You can use the{{NLINE}}spring here to{{NLINE}}refresh yourself...{{NPAGE}}Like at an inn{{NLINE}}in the outer world
+"Welcome...We may not{{NLINE}}have the power of God,{{NLINE}}but we can give you{{NPAGE}}another kind of power--{{NLINE}}need a shot?
+"I'm not going to{{NLINE}}war or anything, so{{NLINE}}I don't need a shot
+"I've been made a{{NLINE}}guard for the Tower,{{NPAGE}}so I came to get a{{NLINE}}shot--just in case
+"I suppose if we{{NLINE}}were all as strong as{{NLINE}}Guardians...{{NPAGE}}We wouldn't need{{NLINE}}any shots, would we?
+It looks a lot{{NLINE}}like Garr...
+Garr{{NLINE}}"...{{PAUSE}}...{{PAUSE}}...
+"This place is for{{NLINE}}those who serve God{{NLINE}}to purify themselves
+It looks heavy, but{{NLINE}}Garr could probably{{NLINE}}move it...
+{{TXTBX,05}}Sudama{{NLINE}}"...{{PAUSE}}...{{PAUSE}}...Is{{NLINE}}that you, Garr?
+{{TXTBX,05}}Sudama{{NLINE}}"Welcome back...{{NPAGE}}So, have you made{{NLINE}}up your mind to{{NLINE}}join your comrades?
+Garr{{NLINE}}"Something like that,{{NLINE}}I guess...
+{{TXTBX,05}}Sudama{{NLINE}}"So it's true, then...{{NPAGE}}There is no more evil{{NLINE}}in the world
+{{TXTBX,05}}Sudama{{NLINE}}"I guess your{{NLINE}}intuition was wrong...{{NPAGE}}So this means the{{NLINE}}time has come for{{NLINE}}you to enter your{{NPAGE}}long sleep, then,{{NLINE}}Guardian Garr
+{{TXTBX,05}}Sudama{{NLINE}}"Very well...{{PAUSE}}Go to{{NLINE}}the Tower...{{NPAGE}}I'll tell the{{NLINE}}watchmen you are{{NLINE}}coming
+{{TXTBX,05}}Sudama{{NLINE}}"Farewell...Garr
+"Welcome to Urkan{{NLINE}}Tapa, the home of the{{NLINE}}Urkan people
+"Welcome to Urkan{{NLINE}}Tapa, the home of the{{NLINE}}Urkan people
+"Welcome to Urkan{{NLINE}}Tapa, the home of the{{NLINE}}Urkan people
+"Welcome to Urkan{{NLINE}}Tapa, the home of the{{NLINE}}Urkan people
+"Welcome to Urkan{{NLINE}}Tapa, the home of the{{NLINE}}Urkan people
+"This is the Hall of{{NLINE}}Prayer...and above it{{NLINE}}lives the Patriarch
+"Did you hear that{{NLINE}}the Guardian is still{{NLINE}}with us...?
+"You mean the one{{NLINE}}who fled the war?{{NPAGE}}Or Guardian Garr?
+"Angel Tower{{NLINE}}protects us from{{NLINE}}evil...
+"An evil we fought{{NLINE}}against in the past{{NPAGE}}lies trapped in{{NLINE}}Angel Tower...{{NPAGE}}What? What evil, you{{NLINE}}ask?{{NPAGE}}We are not allowed{{NLINE}}to speak of it
+"At times, our god{{NLINE}}appears to us at Angel{{NLINE}}Tower...{{NPAGE}}Although lately, no{{NLINE}}one has seen anything{{NLINE}}there...
+"There is also a{{NLINE}}Guardian who{{NLINE}}disappeared during{{NPAGE}}the Great War...
+"I know, I know!{{NPAGE}}It was Guardian{{NLINE}}Gaist, right teacher?
+"We're studying history
+"Hmmm...I see...{{NLINE}}That's interesting to{{NLINE}}know
+"I'm meditating
+"I'm in the middle{{NLINE}}of making rope...
+"I'm loafing
+"I hear there's a{{NLINE}}village on the cliff{{NLINE}}to the west of here
+"Apparently, the road{{NLINE}}can only be passed{{NPAGE}}when the tides are{{NLINE}}right
+"Thank you...{{NLINE}}God be with you
+"If evil should{{NLINE}}return...{{NPAGE}}I'll become a{{NLINE}}Guardian and protect{{NLINE}}you!
+"sweep sweep sweep!
+"It's amazing how{{NLINE}}people here never tire{{NLINE}}of their stories about{{NPAGE}}God and evil and{{NLINE}}all...{{NPAGE}}'Course, I can't{{NLINE}}really say that{{NLINE}}too loud, but...
+"woof
+"tweet tweet
+"twitter
+"This is where our{{NLINE}}Patriarch Sudama{{NLINE}}lives
+"zzz....
+"The Patriarch may{{NLINE}}look like he's{{NLINE}}sleeping...{{NPAGE}}But I'm sure he's{{NLINE}}contemplating the{{NLINE}}world around him
+"This is where those{{NLINE}}who serve God come to{{NLINE}}purify themselves
+It looks like Garr
+"This world exists{{NLINE}}because the Guardians{{NLINE}}saved it from evil{{NPAGE}}We must remember to{{NLINE}}offer them our prayers{{NLINE}}of thanks like this
+"Looking for weapons?{{NLINE}}Ours have been blessed{{NLINE}}by God!
+"Need any items?
+"We must always be{{NLINE}}vigilant that the{{NLINE}}evil trapped in{{NPAGE}}Angel Tower never{{NLINE}}revives
+"I don't care about{{NLINE}}evil, as long as{{NLINE}}I'm happy...
+"There aren't as{{NLINE}}many people praying{{NLINE}}as there used to be{{NPAGE}}I guess that's just{{NLINE}}the way things go
+"Tired? We can pep{{NLINE}}you up!
+"meow?
+"Do you wish to{{NLINE}}refresh yourselves?{{NLINE}}Please, come in?
+"Guardian!{{NLINE}}You're still with us?
+"Hello, Guardian{{NLINE}}Do you wish to see{{NLINE}}the Patriarch?
+"Ah, Guardian...{{NLINE}}We were just talking{{NLINE}}about you
+"Guardian...You are{{NLINE}}not returning to{{NLINE}}Angel Tower, then?
+"Guardian Garr!{{NPAGE}}We were just talking{{NLINE}}about the coward{{NLINE}}Guardian
+"Guardian Garr{{NLINE}}I've heard you live{{NLINE}}in the western cliffs?
+"That's what the{{NLINE}}rumors say...
+"May God be with{{NLINE}}you, Guardian
+"If evil should appear{{NLINE}}again, I'll become a{{NLINE}}Guardian too!
+"Everyone keeps{{NLINE}}talking about God{{NLINE}}and evil...{{NPAGE}}It's all just a{{NLINE}}bunch of legends!{{NPAGE}}Why doesn't the{{NLINE}}Guardian just go{{NLINE}}back to the Tower?
+"Welcome home,{{NLINE}}Guardian Garr
+Garr{{NLINE}}"...{{PAUSE}}...{{PAUSE}}...
+{{TXTBX,05}}Sudama{{NLINE}}"...Garr?
+{{TXTBX,05}}Sudama{{NLINE}}"You're still{{NLINE}}with us?{{NPAGE}}Fear not, Guardian...{{NLINE}}evil is no more{{NPAGE}}It is time for you{{NLINE}}to rest now
+{{TXTBX,05}}Sudama{{NLINE}}"What is it? Your{{NLINE}}mission is over
+{{TXTBX,06}}Garr{{NLINE}}"Venerable Patriarch{{NPAGE}}God did not appear{{NLINE}}in the Tower...
+{{TXTBX,05}}Sudama{{NLINE}}"That's because you{{NLINE}}still have doubt in{{NPAGE}}your heart! You must{{NLINE}}free yourself from{{NLINE}}your doubts!{{NPAGE}}Unless you wish to{{NLINE}}become like Gaist...
+{{TXTBX,06}}Garr{{NLINE}}"Oh Venerable One...{{NPAGE}}Do you know where{{NLINE}}Gaist is?
+{{TXTBX,06}}Garr{{NLINE}}"Please tell me,{{NLINE}}Oh Patriarch...{{NPAGE}}I must meet with{{NLINE}}Gaist before I can{{NLINE}}be free of my doubts!
+{{TXTBX,05}}Sudama{{NLINE}}"Beyond the cave by{{NLINE}}the sea to the west...{{NPAGE}}I've heard there lives{{NLINE}}a Guardian who has{{NLINE}}given up fighting...
+{{TXTBX,05}}Sudama{{NLINE}}"But Garr...{{NPAGE}}You cannot allow{{NLINE}}yourself to become{{NLINE}}like Gaist...{{NPAGE}}Keep your faith!{{NLINE}}Do not doubt the{{NLINE}}wisdom of God!
+"Go west...{{NLINE}}There you will find{{NLINE}}Gaist
+"Free yourself from{{NLINE}}your doubts, Garr
+"Our God teaches us{{NLINE}}that we must fight{{NPAGE}}evil wherever we{{NLINE}}find it...{{NPAGE}}Even now, when there{{NLINE}}is no evil to be{{NLINE}}found in the world,{{NPAGE}}we must keep ourselves{{NLINE}}prepared and strong{{NPAGE}}If you wish, traveler,{{NLINE}}you can learn from us{{NLINE}}what God teaches{{CHOIC,0,0,Yes,No}}
+"Our God teaches us{{NLINE}}that we must fight{{NPAGE}}evil wherever we{{NLINE}}find it...{{NPAGE}}Even now, when there{{NLINE}}is no evil to be{{NLINE}}found in the world,{{NPAGE}}we must keep ourselves{{NLINE}}prepared and strong{{NPAGE}}If you wish, traveler,{{NLINE}}you can learn from us{{NLINE}}what God teaches{{CHOIC,0,0,Yes,No}}
+"Our God teaches us{{NLINE}}that we must fight{{NPAGE}}evil wherever we{{NLINE}}find it...{{NPAGE}}Even now, when there{{NLINE}}is no evil to be{{NLINE}}found in the world,{{NPAGE}}we must keep ourselves{{NLINE}}prepared and strong{{NPAGE}}If you wish, traveler,{{NLINE}}you can learn from us{{NLINE}}what God teaches{{CHOIC,0,0,Yes,No}}
+"Our God teaches us{{NLINE}}that we must fight{{NPAGE}}evil wherever we{{NLINE}}find it...{{NPAGE}}Even now, when there{{NLINE}}is no evil to be{{NLINE}}found in the world,{{NPAGE}}we must keep ourselves{{NLINE}}prepared and strong{{NPAGE}}If you wish, traveler,{{NLINE}}you can learn from us{{NLINE}}what God teaches{{CHOIC,0,0,Yes,No}}
+"Our God teaches us{{NLINE}}that we must fight{{NPAGE}}evil wherever we{{NLINE}}find it...{{NPAGE}}Even now, when there{{NLINE}}is no evil to be{{NLINE}}found in the world,{{NPAGE}}we must keep ourselves{{NLINE}}prepared and strong{{NPAGE}}If you wish, traveler,{{NLINE}}you can learn from us{{NLINE}}what God teaches{{CHOIC,0,0,Yes,No}}
+"Our God teaches us{{NLINE}}that we must fight{{NPAGE}}evil wherever we{{NLINE}}find it...{{NPAGE}}Even now, when there{{NLINE}}is no evil to be{{NLINE}}found in the world,{{NPAGE}}we must keep ourselves{{NLINE}}prepared and strong{{NPAGE}}If you wish, traveler,{{NLINE}}you can learn from us{{NLINE}}what God teaches{{CHOIC,0,0,Yes,No}}
+"Our God teaches us{{NLINE}}that we must fight{{NPAGE}}evil wherever we{{NLINE}}find it...{{NPAGE}}Even now, when there{{NLINE}}is no evil to be{{NLINE}}found in the world,{{NPAGE}}we must keep ourselves{{NLINE}}prepared and strong{{NPAGE}}If you wish, traveler,{{NLINE}}you can learn from us{{NLINE}}what God teaches{{CHOIC,0,0,Yes,No}}
+"Our God teaches us{{NLINE}}that we must fight{{NPAGE}}evil wherever we{{NLINE}}find it...{{NPAGE}}Even now, when there{{NLINE}}is no evil to be{{NLINE}}found in the world,{{NPAGE}}we must keep ourselves{{NLINE}}prepared and strong{{NPAGE}}If you wish, traveler,{{NLINE}}you can learn from us{{NLINE}}what God teaches{{CHOIC,0,0,Yes,No}}
+"Our God teaches us{{NLINE}}that we must fight{{NPAGE}}evil wherever we{{NLINE}}find it...{{NPAGE}}Even now, when there{{NLINE}}is no evil to be{{NLINE}}found in the world,{{NPAGE}}we must keep ourselves{{NLINE}}prepared and strong{{NPAGE}}If you wish, traveler,{{NLINE}}you can learn from us{{NLINE}}what God teaches{{CHOIC,0,0,Yes,No}}
+"Our God teaches us{{NLINE}}that we must fight{{NPAGE}}evil wherever we{{NLINE}}find it...{{NPAGE}}Even now, when there{{NLINE}}is no evil to be{{NLINE}}found in the world,{{NPAGE}}we must keep ourselves{{NLINE}}prepared and strong{{NPAGE}}If you wish, traveler,{{NLINE}}you can learn from us{{NLINE}}what God teaches{{CHOIC,0,0,Yes,No}}
+"Our God teaches us{{NLINE}}that we must fight{{NPAGE}}evil wherever we{{NLINE}}find it...{{NPAGE}}Even now, when there{{NLINE}}is no evil to be{{NLINE}}found in the world,{{NPAGE}}we must keep ourselves{{NLINE}}prepared and strong{{NPAGE}}If you wish, traveler,{{NLINE}}you can learn from us{{NLINE}}what God teaches{{CHOIC,0,0,Yes,No}}
+"Our God teaches us{{NLINE}}that we must fight{{NPAGE}}evil wherever we{{NLINE}}find it...{{NPAGE}}Even now, when there{{NLINE}}is no evil to be{{NLINE}}found in the world,{{NPAGE}}we must keep ourselves{{NLINE}}prepared and strong{{NPAGE}}If you wish, traveler,{{NLINE}}you can learn from us{{NLINE}}what God teaches{{CHOIC,0,0,Yes,No}}
+"Our God teaches us{{NLINE}}that we must fight{{NPAGE}}evil wherever we{{NLINE}}find it...{{NPAGE}}Even now, when there{{NLINE}}is no evil to be{{NLINE}}found in the world,{{NPAGE}}we must keep ourselves{{NLINE}}prepared and strong{{NPAGE}}If you wish, traveler,{{NLINE}}you can learn from us{{NLINE}}what God teaches{{CHOIC,0,0,Yes,No}}
+"Our God teaches us{{NLINE}}that we must fight{{NPAGE}}evil wherever we{{NLINE}}find it...{{NPAGE}}Even now, when there{{NLINE}}is no evil to be{{NLINE}}found in the world,{{NPAGE}}we must keep ourselves{{NLINE}}prepared and strong{{NPAGE}}If you wish, traveler,{{NLINE}}you can learn from us{{NLINE}}what God teaches{{CHOIC,0,0,Yes,No}}
+"Our God teaches us{{NLINE}}that we must fight{{NPAGE}}evil wherever we{{NLINE}}find it...{{NPAGE}}Even now, when there{{NLINE}}is no evil to be{{NLINE}}found in the world,{{NPAGE}}we must keep ourselves{{NLINE}}prepared and strong{{NPAGE}}If you wish, traveler,{{NLINE}}you can learn from us{{NLINE}}what God teaches{{CHOIC,0,0,Yes,No}}
+"Our God teaches us{{NLINE}}that we must fight{{NPAGE}}evil wherever we{{NLINE}}find it...{{NPAGE}}Even now, when there{{NLINE}}is no evil to be{{NLINE}}found in the world,{{NPAGE}}we must keep ourselves{{NLINE}}prepared and strong{{NPAGE}}If you wish, traveler,{{NLINE}}you can learn from us{{NLINE}}what God teaches{{CHOIC,0,0,Yes,No}}
+"Our God teaches us{{NLINE}}that we must fight{{NPAGE}}evil wherever we{{NLINE}}find it...{{NPAGE}}Even now, when there{{NLINE}}is no evil to be{{NLINE}}found in the world,{{NPAGE}}we must keep ourselves{{NLINE}}prepared and strong{{NPAGE}}If you wish, traveler,{{NLINE}}you can learn from us{{NLINE}}what God teaches{{CHOIC,0,0,Yes,No}}
+"Our God teaches us{{NLINE}}that we must fight{{NPAGE}}evil wherever we{{NLINE}}find it...{{NPAGE}}Even now, when there{{NLINE}}is no evil to be{{NLINE}}found in the world,{{NPAGE}}we must keep ourselves{{NLINE}}prepared and strong{{NPAGE}}If you wish, traveler,{{NLINE}}you can learn from us{{NLINE}}what God teaches{{CHOIC,0,0,Yes,No}}
+"Our God teaches us{{NLINE}}that we must fight{{NPAGE}}evil wherever we{{NLINE}}find it...{{NPAGE}}Even now, when there{{NLINE}}is no evil to be{{NLINE}}found in the world,{{NPAGE}}we must keep ourselves{{NLINE}}prepared and strong{{NPAGE}}If you wish, traveler,{{NLINE}}you can learn from us{{NLINE}}what God teaches{{CHOIC,0,0,Yes,No}}
+"Our God teaches us{{NLINE}}that we must fight{{NPAGE}}evil wherever we{{NLINE}}find it...{{NPAGE}}Even now, when there{{NLINE}}is no evil to be{{NLINE}}found in the world,{{NPAGE}}we must keep ourselves{{NLINE}}prepared and strong{{NPAGE}}If you wish, traveler,{{NLINE}}you can learn from us{{NLINE}}what God teaches{{CHOIC,0,0,Yes,No}}
+"Our God teaches us{{NLINE}}that we must fight{{NPAGE}}evil wherever we{{NLINE}}find it...{{NPAGE}}Even now, when there{{NLINE}}is no evil to be{{NLINE}}found in the world,{{NPAGE}}we must keep ourselves{{NLINE}}prepared and strong{{NPAGE}}If you wish, traveler,{{NLINE}}you can learn from us{{NLINE}}what God teaches{{CHOIC,0,0,Yes,No}}
+If you wish, traveler,{{NLINE}}you can learn from us{{NLINE}}what God teaches{{CHOIC,0,0,Yes,No}}
+Hondara{{NLINE}}"I see you are{{NLINE}}wise and prudent...{{NPAGE}}Very well then,{{NLINE}}go forth and train{{NLINE}}that you might be{{NPAGE}}able to partake of{{NLINE}}God's wisdom!
+Hondara{{NLINE}}"This is wrong...{{NPAGE}}You are too eager{{NLINE}}for the death of{{NLINE}}your enemies...{{NPAGE}}I have heard that{{NLINE}}somewhere in the{{NLINE}}world, there is{{NPAGE}}a style of fighting{{NLINE}}that allows the{{NLINE}}warrior to fight{{NPAGE}}without killing his{{NLINE}}enemies...{{NPAGE}}Even as you fight{{NLINE}}evil in the name of{{NLINE}}God, you must remember{{NPAGE}}to respect and protect{{NLINE}}life at all times{{NPAGE}}Until we meet{{NLINE}}again...May God be{{NLINE}}with you
+Until we meet{{NLINE}}again...May God be{{NLINE}}with you
+"God is always{{NLINE}}with us{{NPAGE}}What can I help{{NLINE}}you with today?
+Is there someone{{NLINE}}who wishes to{{NLINE}}train here?{{CHOIC,1,0,Yes,No}}
+But you are all{{NLINE}}following the teaching{{NLINE}}of God!
+You say you wish to{{NLINE}}abandon the teachings{{NLINE}}of God, then?{{CHOIC,2,0,Yes,No}}
+But there is not{{NLINE}}one of you following{{NLINE}}the teachings of God
+"{{PRMTR,0}}, from here on{{NLINE}}you are, like me, a{{NLINE}}disciple of God!
+Are there any others{{NLINE}}who wish to follow{{NLINE}}God's teachings?{{CHOIC,3,0,Yes,No}}
+It is regrettable,{{NLINE}}but {{PRMTR,0}} has turned{{NLINE}}from the light...
+Are there any others{{NLINE}}who wish to abandon{{NLINE}}God's teachings?{{CHOIC,4,0,Yes,No}}
+In honor of your{{NLINE}}continuing training{{NLINE}}and faith in God,{{NPAGE}}I reward you with{{NLINE}}this gift!{{NPAGE}}{{PRMTR,0}} learned{{NLINE}}{{COLRS,2}}{{PRMTR,1}}{{COLRE}}!
+Who shall apprentice?
+Who wants to quit?
+Is this OK?                Yes No
+Do you want to quit?       Yes No

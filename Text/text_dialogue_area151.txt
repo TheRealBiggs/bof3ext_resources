@@ -1,0 +1,34 @@
+   Lost Shore
+A desert stretches{{NLINE}}as far as the eye{{NLINE}}can see...{{NPAGE}}You need to be better{{NLINE}}prepared before{{NLINE}}entering...
+A port for{{NLINE}}automated ships{{NPAGE}}It looks like this{{NLINE}}is where the machine{{NLINE}}parts are shipped from
+A port for{{NLINE}}automated ships{{NPAGE}}It looks like this{{NLINE}}is where the machine{{NLINE}}parts are shipped from
+There's a mountain{{NLINE}}of machine parts{{NLINE}}stacked up...
+It looks like this{{NLINE}}was once a village...{{NPAGE}}But now there's{{NLINE}}nothing but machine{{NLINE}}parts here...
+Village where the{{NLINE}}Brood survivors have{{NLINE}}chosen to live
+This giant steel wall{{NLINE}}separates the 'Land{{NLINE}}of the Living'{{NPAGE}}from the 'Desert of{{NLINE}}Death'...
+Yggdrasil stands{{NLINE}}solemnly, inspiring{{NLINE}}awe in all...
+What kind of fish{{NLINE}}live here in this{{NLINE}}unexplored land?{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}{{NLINE}}{{PRMTR,3}}{{NLINE}}{{PRMTR,4}}
+What kind of fish{{NLINE}}live here in this{{NLINE}}unexplored land?{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}{{NLINE}}{{PRMTR,3}}{{NLINE}}{{PRMTR,4}}
+What kind of fish{{NLINE}}live here in this{{NLINE}}unexplored land?{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}{{NLINE}}{{PRMTR,3}}{{NLINE}}{{PRMTR,4}}
+What kind of fish{{NLINE}}live here in this{{NLINE}}unexplored land?{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}{{NLINE}}{{PRMTR,3}}{{NLINE}}{{PRMTR,4}}
+What kind of fish{{NLINE}}live here in this{{NLINE}}unexplored land?{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}{{NLINE}}{{PRMTR,3}}{{NLINE}}{{PRMTR,4}}
+What kind of fish{{NLINE}}live here in this{{NLINE}}unexplored land?{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}{{NLINE}}{{PRMTR,3}}{{NLINE}}{{PRMTR,4}}
+What kind of fish{{NLINE}}live here in this{{NLINE}}unexplored land?{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}{{NLINE}}{{PRMTR,3}}{{NLINE}}{{PRMTR,4}}
+What kind of fish{{NLINE}}live here in this{{NLINE}}unexplored land?{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}{{NLINE}}{{PRMTR,3}}{{NLINE}}{{PRMTR,4}}
+What kind of fish{{NLINE}}live here in this{{NLINE}}unexplored land?{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}{{NLINE}}{{PRMTR,3}}{{NLINE}}{{PRMTR,4}}
+What kind of fish{{NLINE}}live here in this{{NLINE}}unexplored land?{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}{{NLINE}}{{PRMTR,3}}{{NLINE}}{{PRMTR,4}}
+What kind of fish{{NLINE}}live here in this{{NLINE}}unexplored land?{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}{{NLINE}}{{PRMTR,3}}{{NLINE}}{{PRMTR,4}}
+What kind of fish{{NLINE}}live here in this{{NLINE}}unexplored land?{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}{{NLINE}}{{PRMTR,3}}{{NLINE}}{{PRMTR,4}}
+What kind of fish{{NLINE}}live here in this{{NLINE}}unexplored land?{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}{{NLINE}}{{PRMTR,3}}{{NLINE}}{{PRMTR,4}}
+What kind of fish{{NLINE}}live here in this{{NLINE}}unexplored land?{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}{{NLINE}}{{PRMTR,3}}{{NLINE}}{{PRMTR,4}}
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+The field of flowers{{NLINE}}is reacting to the{{NLINE}}Faerie Tiara...{{NPAGE}}Do you want to use{{NLINE}}the {{COLRS,2}}Faerie Tiara{{COLRE}}?{{CHOIC,0,0,Yes,No}}

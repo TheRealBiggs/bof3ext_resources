@@ -1,0 +1,34 @@
+Danger! No entry!
+Sunder's watching the{{NLINE}}road...He'd be hard to{{NLINE}}sneak past...
+ Eastern Wyndia
+There's a high{{NLINE}}cliff here
+A large tower-{{NLINE}}shaped dwelling
+Take a rest on your{{NLINE}}journey--try our curry{{NLINE}}specialties!
+Crops are grown here{{NLINE}}using chrysm energy
+    Disposal Area  {{NLINE}}No unauthorized entry!
+Wyndia's eastern{{NLINE}}border--patrolled by{{NLINE}}the King's guards
+Where Momo's rocket{{NLINE}}'landed'
+There's a narrow road{{NLINE}}running along the base{{NLINE}}of the mountains
+A mysterious-looking{{NLINE}}forest
+There's a large bridge{{NLINE}}connecting east and{{NLINE}}west
+{{SYM89}} West--Central Wyndia
+The legendary{{NLINE}}Yggdrasil stands{{NLINE}}quietly...
+A famous spot where{{NLINE}}everyone catches the{{NLINE}}'big ones'.{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}{{NLINE}}{{PRMTR,3}}{{NLINE}}{{PRMTR,4}}
+A famous spot where{{NLINE}}everyone catches the{{NLINE}}'big ones'.{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}{{NLINE}}{{PRMTR,3}}{{NLINE}}{{PRMTR,4}}
+A famous spot where{{NLINE}}everyone catches the{{NLINE}}'big ones'.{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}{{NLINE}}{{PRMTR,3}}{{NLINE}}{{PRMTR,4}}
+A famous spot where{{NLINE}}everyone catches the{{NLINE}}'big ones'.{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}{{NLINE}}{{PRMTR,3}}{{NLINE}}{{PRMTR,4}}
+A famous spot where{{NLINE}}everyone catches the{{NLINE}}'big ones'.{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}{{NLINE}}{{PRMTR,3}}{{NLINE}}{{PRMTR,4}}
+A famous spot where{{NLINE}}everyone catches the{{NLINE}}'big ones'.{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}{{NLINE}}{{PRMTR,3}}{{NLINE}}{{PRMTR,4}}
+A famous spot where{{NLINE}}everyone catches the{{NLINE}}'big ones'.{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}{{NLINE}}{{PRMTR,3}}{{NLINE}}{{PRMTR,4}}
+A famous spot where{{NLINE}}everyone catches the{{NLINE}}'big ones'.{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}{{NLINE}}{{PRMTR,3}}{{NLINE}}{{PRMTR,4}}
+There are lots of{{NLINE}}different fish{{NLINE}}gathered here.{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}{{NLINE}}{{PRMTR,3}}{{NLINE}}{{PRMTR,4}}
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+The field of flowers{{NLINE}}is reacting to the{{NLINE}}Faerie Tiara...{{NPAGE}}Do you want to use{{NLINE}}the {{COLRS,2}}Faerie Tiara{{COLRE}}?{{CHOIC,0,0,Yes,No}}

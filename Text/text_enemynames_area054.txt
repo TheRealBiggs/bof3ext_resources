@@ -1,0 +1,8 @@
+Ripper
+Nut Mage
+NutArchr
+NutTroop
+Lizard
+Orc
+
+

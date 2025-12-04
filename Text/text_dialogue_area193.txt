@@ -1,0 +1,240 @@
+{{TXTBX,06}}Horis{{NLINE}}"Anyone can come{{NLINE}}this far...{{NPAGE}}Now comes the hard{{NLINE}}part: The Desert of{{NLINE}}Death...
+{{TXTBX,06}}Horis{{NLINE}}"Anyone can come{{NLINE}}this far...{{NPAGE}}Now comes the hard{{NLINE}}part: The Desert of{{NLINE}}Death...
+{{TXTBX,06}}Horis{{NLINE}}"A land of ever-{{NLINE}}changing sands...{{NPAGE}}Where nothing lives,{{NLINE}}and from which no{{NLINE}}one returns...
+Nina{{NLINE}}"That's what everyone{{NLINE}}said about crossing{{NPAGE}}the ocean...
+{{TXTBX,05}}Rei{{NLINE}}"I get the feeling{{NPAGE}}that God wants to be{{NLINE}}left alone...
+{{TXTBX,06}}Horis{{NLINE}}"I don't know{{NLINE}}anything about that...{{NPAGE}}But I do know the{{NLINE}}goddess lives beyond{{NLINE}}the desert
+{{TXTBX,06}}Horis{{NLINE}}"You must cross{{NLINE}}the desert...{{NPAGE}}I'll tell you how{{NLINE}}to survive long{{NLINE}}enough to get there
+{{TXTBX,06}}Horis{{NLINE}}"Ask me anything
+"What do you want{{NLINE}}to know about?{{CHOIC,0,2,{{COLRS,2}}Walking in the desert{{COLRE}},Water,Camping in the desert,The rakda,The goddess Myria,Nothing}}
+"This is very{{NLINE}}important...Listen{{NLINE}}carefully{{CHOIC,1,1,About time,{{COLRS,2}}About directions{{COLRE}},Leaving the desert,That's enough for now}}
+"As you walk in the{{NLINE}}desert, your body will{{NLINE}}slowly lose water,{{NPAGE}}and your throat will{{NLINE}}become dry every so{{NLINE}}often...{{NPAGE}}If you don't drink any{{NLINE}}water and keep walking{{NPAGE}}longer than {{COLRS,2}}30 minutes{{COLRE}}{{NLINE}}when this happens,{{NPAGE}}you run the risk of{{NLINE}}permanently damaging{{NLINE}}your body...{{NPAGE}}Just so you know, 30{{NLINE}}minutes is about...{{NLINE}}{{COLRS,2}}20 steps{{COLRE}} or so...{{NPAGE}}Anything else you{{NLINE}}want to know about?{{CHOIC,0,2,{{COLRS,2}}Walking in the desert{{COLRE}},Water,Camping in the desert,The rakda,The goddess Myria,Nothing}}
+"You should spend{{NLINE}}about {{COLRS,2}}12 hours{{COLRE}} or{{NLINE}}so camping...{{NPAGE}}So if you camp at{{NLINE}}daybreak, it'll be{{NPAGE}}night when you start{{NLINE}}walking again...{{NPAGE}}If you camp at dusk,{{NLINE}}when you break camp{{NLINE}}it'll be morning...{{NPAGE}}Anything else you want{{NLINE}}to know about?{{CHOIC,0,2,{{COLRS,2}}Walking in the desert{{COLRE}},Water,Camping in the desert,The rakda,The goddess Myria,Nothing}}
+"Go ahead, take this{{NLINE}}rakda with you...{{NPAGE}}If you get lost in{{NLINE}}the desert, use the{{NLINE}}rakda...{{NPAGE}}It'll bring you back{{NLINE}}here without fail...{{NPAGE}}Anything else you want{{NLINE}}to know about?{{CHOIC,0,2,{{COLRS,2}}Walking in the desert{{COLRE}},Water,Camping in the desert,The rakda,The goddess Myria,Nothing}}
+"The people of{{NLINE}}Dragnier believe that{{NPAGE}}you're going to strike{{NLINE}}down the goddess...{{NPAGE}}put an end to her{{NLINE}}madness...{{NPAGE}}Me? I don't care what{{NLINE}}happens...I've harbor{{NLINE}}no hatred for anyone{{NPAGE}}Do whatever you think{{NLINE}}is best...{{NPAGE}}Anything else you want{{NLINE}}to know about?{{CHOIC,0,2,{{COLRS,2}}Walking in the desert{{COLRE}},Water,Camping in the desert,The rakda,The goddess Myria,Nothing}}
+"All right then...{{NLINE}}I'll be waiting here{{NPAGE}}If you get in trouble,{{NLINE}}come back any time
+"Naturally, as you{{NLINE}}move through the{{NLINE}}desert, time passes{{NPAGE}}One day is 24 hours,{{NLINE}}a 12-hour day and a{{NLINE}}12-hour night...{{NPAGE}}You can keep track{{NLINE}}of time by counting{{NLINE}}your steps...{{NPAGE}}You'll walk about{{NLINE}}{{COLRS,2}}40 steps{{COLRE}} in an{{NLINE}}hour...{{NPAGE}}Since you'll only{{NLINE}}waste energy moving{{NLINE}}during the day,{{NPAGE}}you should move at{{NLINE}}night, when it's{{NLINE}}cooler...{{NPAGE}}Anything else you want{{NLINE}}to know?{{CHOIC,1,1,About time,{{COLRS,2}}About directions{{COLRE}},Leaving the desert,That's enough for now}}
+"You can find your{{NLINE}}way in the desert by{{NLINE}}looking at the stars
+"Here's how to get out{{NLINE}}of the desert...{{NPAGE}}First, follow the{{NLINE}}North Star to the{{NLINE}}{{COLRS,2}}north{{COLRE}}...{{NPAGE}}Then, when you can see{{NLINE}}the "Evening Star"{{NPAGE}}directly to the west,{{NLINE}}head {{COLRS,2}}east{{COLRE}}...{{NPAGE}}Keep going east until{{NLINE}}you can no longer see{{NLINE}}the "Evening Star"...{{NPAGE}}and then head {{COLRS,2}}north{{COLRE}}{{NLINE}}again...After walking{{NLINE}}north for three nights{{NPAGE}}or so, you should be{{NLINE}}able to see the oasis{{NPAGE}}I'll write this down{{NLINE}}for you, so you can{{NLINE}}look it up later...{{NPAGE}}Anything else you want{{NLINE}}to know?{{CHOIC,1,1,About time,{{COLRS,2}}About directions{{COLRE}},Leaving the desert,That's enough for now}}
+Horis{{NLINE}}"This is the "North{{NLINE}}Star"...{{NPAGE}}It always appears in{{NLINE}}the north and never{{NLINE}}moves...{{NPAGE}}If you follow it,{{NLINE}}you're headed due{{NLINE}}north...
+Horis{{NLINE}}"This one's the "False{{NLINE}}North Star"...{{NPAGE}}It sometimes appears{{NLINE}}at different heights{{NLINE}}depending on the day{{NPAGE}}It can fool you...{{NPAGE}}Be careful not to mix{{NLINE}}it up with the real{{NLINE}}North Star...
+Horis{{NLINE}}"And this one...{{NLINE}}is the "Evening Star"{{NPAGE}}It always appears in{{NLINE}}the west, but not{{NLINE}}always at the same{{NPAGE}}height and in the{{NLINE}}same place...{{NPAGE}}If you're in the{{NLINE}}center of the desert,{{NLINE}}it'll be due west...
+Horis{{NLINE}}"If you lose track{{NLINE}}of where you are{{NPAGE}}in the desert, you're{{NLINE}}done for...{{NPAGE}}Make sure you keep{{NLINE}}your eyes on the{{NLINE}}stars...
+Horis{{NLINE}}"One thing you need{{NLINE}}to be careful about{{NPAGE}}is after breaking{{NLINE}}camp or a battle,{{NPAGE}}make sure you check{{NLINE}}what direction you're{{NLINE}}facing...{{NPAGE}}If you forget, you{{NLINE}}could end up in a{{NLINE}}lot of trouble...{{NPAGE}}Anything else you want{{NLINE}}to know?{{CHOIC,1,1,About time,{{COLRS,2}}About directions{{COLRE}},Leaving the desert,That's enough for now}}
+"The water jug's{{NLINE}}full of water...{{NPAGE}}Make sure you take{{NLINE}}some with you--{{NLINE}}you'll need it{{CHOIC,2,1,About water,Get water,OK}}
+"Use the water jug{{NLINE}}here to fill your{{NLINE}}{{COLRS,2}}water Jug{{COLRE}}...{{NPAGE}}Your water jug can{{NLINE}}hold {{COLRS,2}}16{{COLRE}} helpings of{{NLINE}}water{{NPAGE}}One helping is enough{{NLINE}}for each member of{{NLINE}}the party to drink{{NPAGE}}Remember to drink{{NLINE}}before it's too{{NLINE}}late!{{NPAGE}}If you don't, your{{NLINE}}{{COLRS,2}}MAX HP will go{{NLINE}}down permanently!{{COLRE}}
+What do you want{{NLINE}}to do?{{CHOIC,3,2,Rest,Save,Change party members,Look at Skill Notes,Look at Master List,Nothing}}
+"The rakda is your{{NLINE}}best friend in the{{NLINE}}desert...{{NPAGE}}If you get lost, you{{NLINE}}can use him to get{{NLINE}}back here
+If you kill him now,{{NLINE}}you won't be able to{{NLINE}}go into the desert!
+{{TXTBX,01}}Horis{{NLINE}}"Are you leaving{{NLINE}}already?{{CHOIC,4,1,Go into desert,Go back,Do nothing}}
+{{TXTBX,01}}"Then you should wait{{NLINE}}for night and leave{{NLINE}}then...{{NPAGE}}Good luck
+"Still got something{{NLINE}}to take care of?{{NPAGE}}OK, I'll be waiting{{NLINE}}here until you're{{NLINE}}ready...
+{{TXTBX,01}}Using its homing{{NLINE}}instinct, the rakda{{NLINE}}returns to base camp
+{{TXTBX,01}}Using its homing{{NLINE}}instinct, the rakda{{NLINE}}returns to base camp
+{{TXTBX,06}}Horis{{NLINE}}"So, you're back,{{NLINE}}are you...
+{{TXTBX,06}}Horis{{NLINE}}"Well, there's no{{NLINE}}need to hurry...{{NPAGE}}Take your time and{{NLINE}}get used to the{{NLINE}}desert...{{NPAGE}}Don't forget to fill{{NLINE}}up your water jug{{NLINE}}before you go
+{{CHRTR}} fills up the{{NLINE}}water jug...{{NPAGE}}You now have 16{{NLINE}}servings of water
+{{TXTBX,01}}The fallen party is{{NLINE}}rescued by Horis and{{NLINE}}his rakda...
+{{TXTBX,01}}The fallen party is{{NLINE}}rescued by Horis and{{NLINE}}his rakda...
+{{TXTBX,06}}Horis{{NLINE}}"That was a close{{NLINE}}one...
+{{TXTBX,06}}Horis{{NLINE}}"Don't push yourselves{{NLINE}}too hard...{{NPAGE}}Remember to keep your{{NLINE}}eyes on the stars,{{NPAGE}}and you'll be all{{NLINE}}right
+{{TXTBX,06}}Horis{{NLINE}}"Whenever you're ready{{NPAGE}}Come get some water{{NLINE}}and a rakda...
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!
+We don't need any{{NLINE}}rest now...Let's go!

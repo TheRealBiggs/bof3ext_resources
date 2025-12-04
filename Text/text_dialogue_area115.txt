@@ -1,0 +1,34 @@
+   Dauna Hills
+This is the chrysm{{NLINE}}mine that provides{{NLINE}}Wyndia with energy
+There's a small{{NLINE}}hut here
+The outmost checkpoint{{NLINE}}at the furthermost end{{NLINE}}of the civilized world
+A city famous for its{{NLINE}}black market and{{NLINE}}illicit goods
+A road running through{{NLINE}}the dense, dark forest{{NLINE}}--maybe it's haunted?
+They say that some{{NLINE}}unusual fish live in{{NPAGE}}the colder areas{{NLINE}}upstream...{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}
+They say that some{{NLINE}}unusual fish live in{{NPAGE}}the colder areas{{NLINE}}upstream...{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}
+They say that some{{NLINE}}unusual fish live in{{NPAGE}}the colder areas{{NLINE}}upstream...{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}
+They say that some{{NLINE}}unusual fish live in{{NPAGE}}the colder areas{{NLINE}}upstream...{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}
+They say that some{{NLINE}}unusual fish live in{{NPAGE}}the colder areas{{NLINE}}upstream...{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}
+They say that some{{NLINE}}unusual fish live in{{NPAGE}}the colder areas{{NLINE}}upstream...{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}
+They say that some{{NLINE}}unusual fish live in{{NPAGE}}the colder areas{{NLINE}}upstream...{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}
+They say that some{{NLINE}}unusual fish live in{{NPAGE}}the colder areas{{NLINE}}upstream...{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}
+They say that some{{NLINE}}unusual fish live in{{NPAGE}}the colder areas{{NLINE}}upstream...{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}
+They say that some{{NLINE}}unusual fish live in{{NPAGE}}the colder areas{{NLINE}}upstream...{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}
+They say that some{{NLINE}}unusual fish live in{{NPAGE}}the colder areas{{NLINE}}upstream...{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}
+They say that some{{NLINE}}unusual fish live in{{NPAGE}}the colder areas{{NLINE}}upstream...{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}
+They say that some{{NLINE}}unusual fish live in{{NPAGE}}the colder areas{{NLINE}}upstream...{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}
+They say that some{{NLINE}}unusual fish live in{{NPAGE}}the colder areas{{NLINE}}upstream...{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}
+They say that some{{NLINE}}unusual fish live in{{NPAGE}}the colder areas{{NLINE}}upstream...{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}
+They say that some{{NLINE}}unusual fish live in{{NPAGE}}the colder areas{{NLINE}}upstream...{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}
+They say that some{{NLINE}}unusual fish live in{{NPAGE}}the colder areas{{NLINE}}upstream...{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}
+The silence is almost{{NLINE}}tangible in this{{NLINE}}hushed place{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}{{NLINE}}{{PRMTR,3}}{{NLINE}}{{PRMTR,4}}
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+The field of flowers{{NLINE}}is reacting to the{{NLINE}}Faerie Tiara...{{NPAGE}}Do you want to use{{NLINE}}the {{COLRS,2}}Faerie Tiara{{COLRE}}?{{CHOIC,0,0,Yes,No}}

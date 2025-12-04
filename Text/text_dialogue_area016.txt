@@ -1,0 +1,34 @@
+You hear an ominous{{NLINE}}voice...
+For some reason, you{{NLINE}}don't feel like{{NLINE}}climbing it...
+{{INSTS}} {{NLINE}}    Cedar Woods{{INSTE}}
+{{SYM89}}West{{NLINE}}   Dauna Mine
+  Yraall Region
+A lively and lush{{NLINE}}forest...Used for game{{NLINE}}hunting by locals
+The road up to Mt.{{NLINE}}Glaus is scenic...{{NPAGE}}But watch out for the{{NLINE}}monsters!
+A rough mountain...{{NPAGE}}Usually avoided by{{NLINE}}people... Where the{{NLINE}}Nue once lived
+The village where{{NLINE}}Mayor McNeil's tenant{{NLINE}}farmers live
+Mayor McNeil's lands,{{NLINE}}full of wheat and{{NLINE}}cattle
+A major road which{{NLINE}}runs between Wyndia{{NLINE}}and the mines{{NPAGE}}There are reports of{{NLINE}}robbers plaguing it{{NLINE}}regularly...
+A steep mountain road{{NLINE}}that connects the mine{{NLINE}}and the main road
+There's a small{{NLINE}}hut here
+A man-eating tiger{{NLINE}}is rumored to live{{NLINE}}in this forest
+Village struggling{{NLINE}}to survive after the{{NLINE}}mayor's arrest
+Area under Wyndia's{{NLINE}}protection after Mayor{{NLINE}}McNeil's arrest
+The giant Yggdrasil{{NLINE}}tree has been cut{{NLINE}}down!
+This village looks{{NLINE}}like a good place{{NLINE}}to stop...
+The woods are very{{NLINE}}dense...{{NPAGE}}It's probably not a{{NLINE}}good place to be out{{NLINE}}in only pajamas...
+The bridge is out...{{NPAGE}}McNeil's probably too{{NLINE}}stingy to bother to{{NLINE}}repair it...
+There are lots of{{NLINE}}small fish swimming in{{NLINE}}the stream.{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}
+There are lots of{{NLINE}}small fish swimming in{{NLINE}}the stream.{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}
+There are lots of{{NLINE}}small fish swimming in{{NLINE}}the stream.{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}
+You see a familiar{{NLINE}}shape amongst the{{NLINE}}fish...{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}{{NLINE}}{{PRMTR,3}}
+One of the most{{NLINE}}popular fishing spots,{{NLINE}}just full of big fish{{NPAGE}}{{COLRS,4}}Target fish:{{COLRE}}{{NLINE}}{{PRMTR,0}}{{NLINE}}{{PRMTR,1}}{{NPAGE}}{{PRMTR,2}}
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+You see a pleasant-{{NLINE}}smelling field of{{NLINE}}flowers
+The field of flowers{{NLINE}}is reacting to the{{NLINE}}Faerie Tiara...{{NPAGE}}Do you want to use{{NLINE}}the {{COLRS,2}}Faerie Tiara{{COLRE}}?{{CHOIC,0,0,Yes,No}}

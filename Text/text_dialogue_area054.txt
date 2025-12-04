@@ -1,0 +1,8 @@
+{{TXTBX,05}}Momo{{NLINE}}"Ah...{{PAUSE}}...ah...{{PAUSE}}...ouch
+{{TXTBX,05}}Momo{{NLINE}}"Ah...{{PAUSE}}...ah...{{PAUSE}}...ouch
+{{TXTBX,05}}Momo{{NLINE}}"...looks like the{{NLINE}}landings...{{NPAGE}}need a little work...{{PAUSE}}{{NLINE}}...What's this?
+{{TXTBX,05}}Momo{{NLINE}}"It's the instruction{{NLINE}}manual...Let's see...{{NPAGE}}{{PAUSE}}...{{PAUSE}}...
+{{TXTBX,05}}Momo{{NLINE}}"Whoops!{{NPAGE}}It says there's only{{NLINE}}supposed to be one{{NLINE}}passenger!
+{{TXTBX,05}}Momo{{NLINE}}"It also says...{{NPAGE}}...to make sure to{{NLINE}}open the roof hatch{{NLINE}}before take-off...
+{{TXTBX,05}}Momo{{NLINE}}"Well, aside from that{{NLINE}}it worked, didn't it?{{NPAGE}}I mean, it worked...{{NLINE}}{{PAUSE}}pretty good, right?
+{{TXTBX,05}}Momo{{NLINE}}"All right...{{PAUSE}}Come on!{{NPAGE}}If we stand around{{NLINE}}like this they'll{{NLINE}}catch up with us!

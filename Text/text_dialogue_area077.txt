@@ -1,0 +1,40 @@
+Lighthouse employees,{{NLINE}}please read the{{NLINE}}following:{{CHOIC,0,2,1. Chrysm,2. The boiler,3. The main valve,4. Switch valve,5. Miscellaneous, Stop reading}}
+Lighthouse employees,{{NLINE}}please read the{{NLINE}}following:{{CHOIC,0,2,1. Chrysm,2. The boiler,3. The main valve,4. Switch valve,5. Miscellaneous, Stop reading}}
+There's extra chrysm{{NLINE}}ore stored outside{{NLINE}}the lighthouse
+The boiler in the{{NLINE}}basement can be fired{{NPAGE}}up by placing{{NLINE}}chrysm ore in it
+Wait for the pressure{{NLINE}}to stabilize, then{{NLINE}}open the main valve{{NPAGE}}Vaporized chrysm will{{NLINE}}begin to flow through{{NLINE}}the ducts
+Which ducts the chrysm{{NLINE}}flows through can be{{NPAGE}}regulated with the{{NLINE}}switch valves
+If there's no more{{NLINE}}chrysm, get some from{{NPAGE}}the shop in Rhapala{{NLINE}}that sells chrysm ore
+{{COLRS,4}}Opening the main valve{{COLRE}}{{NPAGE}}1. Wait for the{{NLINE}}curve on the pressure{{NLINE}}graph to stabilize{{NPAGE}}2. When the pressure{{NLINE}}hits the apogee of {{NLINE}}the center of the{{NPAGE}}graph, pull the lever{{NPAGE}}3. If there's not{{NLINE}}enough pressure, or if{{NPAGE}}it's not stabilized,{{NLINE}}the boiler will stop.{{NPAGE}}Place another chunk of{{NLINE}}ore in and start over
+Hatch used for putting{{NLINE}}chrysm ore in the{{NLINE}}boiler
+Looks like where the{{NLINE}}ore's supposed to go{{NPAGE}}Do you want to put{{NLINE}}some ore in?{{CHOIC,1,0,Yes,No}}
+The boiler is active...
+{{CHRTR}} put the chrysm{{NLINE}}ore into the boiler
+It's the switch for{{NLINE}}the main valve
+The main valve is{{NLINE}}open!
+....Whoops!{{NPAGE}}The boiler stopped
+There's something{{NLINE}}here......
+Nina{{NLINE}}"W{{PAUSE}} what's that?{{NPAGE}}There's something{{NLINE}}weird up there...
+Momo{{NLINE}}"What is that?{{PAUSE}}{{NLINE}}It's so cuuuute!!
+Garr{{NLINE}}"What's that?
+What is it?{{NPAGE}}It looks alive, but{{NLINE}}it's not moving...
+Momo{{NLINE}}"Well, whatever it{{NLINE}}is...{{NPAGE}}It doesn't look{{NLINE}}{{PAUSE}}harmful, does it?
+Nina{{NLINE}}"I...{{PAUSE}}I don't like{{NLINE}}it...{{NPAGE}}Let's leave it{{NLINE}}alone and get{{NLINE}}going, OK?
+Garr{{NLINE}}"It doesn't look{{NLINE}}like a monster...
+{{TXTBX,05}}Garr{{NLINE}}"Did I just say...{{NPAGE}}it didn't look like{{NLINE}}a monster...?
+{{TXTBX,05}}Nina{{NLINE}}"This is weird...{{NLINE}}Something's wrong...
+{{TXTBX,05}}Momo{{NLINE}}"Now that I think{{NLINE}}about it...{{PAUSE}}it's not{{NPAGE}}cute at all...
+Looks like the switch{{NLINE}}for the lighthouse{{NLINE}}bulb...{{NPAGE}}But it won't work{{NLINE}}until the main valve{{NLINE}}is opened...
+With this switch,{{NLINE}}the lighthouse bulb{{NLINE}}can be turned on...
+{{TXTBX,03}}"{{EFCTS}}Noooooo!{{EFCTE,0A}}
+{{TXTBX,06}}"Turn the lighthouse{{NLINE}}off!!
+"I said, turn it{{NLINE}}off!
+"Oh, noooo! {{PAUSE}}Now what{{NLINE}}are we supposed to{{NLINE}}do!?
+"After we went to all{{NLINE}}the trouble to get{{NLINE}}Gazer to guard it...{{NPAGE}}Now we can't turn it{{NLINE}}off!! I hate you!
+"Dummies! It's all{{NLINE}}your fault!{{NPAGE}}You'd better make up{{NLINE}}for it!{{NPAGE}}Here--take this!
+{{TXTBX,05}}"If you use this in{{NLINE}}the flower rings{{NLINE}}out in the country,{{NPAGE}}you can come to{{NLINE}}our world...{{NPAGE}}You'll be in big{{NLINE}}trouble if you{{NLINE}}don't, understand?
+Nina{{NLINE}}"...{{PAUSE}}...{{PAUSE}}...Did we{{NLINE}}do something wrong?
+Momo{{NLINE}}"What was that{{NLINE}}all about...{{PAUSE}}?
+Garr{{NLINE}}"......?
+The switch is stuck{{NLINE}}There's no way to{{NLINE}}turn it off...
+ {{NLINE}}You got a Faerie Tiara

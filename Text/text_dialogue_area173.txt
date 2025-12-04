@@ -1,0 +1,13 @@
+Momo{{NLINE}}"I think we all know{{NLINE}}by now that whenever{{NPAGE}}she runs off like that{{NLINE}}it always means{{NLINE}}trouble...!
+Momo{{NLINE}}"I think we all know{{NLINE}}by now that whenever{{NPAGE}}she runs off like that{{NLINE}}it always means{{NLINE}}trouble...!
+Nina{{NLINE}}"There goes Honey{{NLINE}}again...!?
+Rei{{NLINE}}"She sure is a busy{{NPAGE}}little thing, isn't{{NLINE}}she?
+Garr{{NLINE}}"I suppose she wants{{NLINE}}us to go after her,{{NPAGE}}hmmm? Like before...
+{{TXTBX,04}}Momo{{NLINE}}"You're an amazing{{NPAGE}}machine, do you know{{NLINE}}that, Honey?
+{{TXTBX,04}}Nina{{NLINE}}"I wonder what else{{NLINE}}she can do?
+{{TXTBX,04}}Rei{{NLINE}}"How can she be so{{NPAGE}}small and open such a{{NLINE}}huge door like that?
+{{TXTBX,04}}Garr{{NLINE}}"Hmmm... I wonder{{NLINE}}how this works...?
+{{TXTBX,06}}"{{SOUND,0A}}......Attention{{SOUND,0C}}{{NPAGE}}{{SOUND,0A}}Navigator Code for{{NLINE}}{{SOUND,0B}}highest level functions{{NLINE}}{{SOUND,0A}}accepted...{{SOUND,0C}}{{NPAGE}}{{SOUND,0B}}Access to library{{NLINE}}{{SOUND,0A}}mode...granted.{{SOUND,0C}}
+"{{SOUND,0A}}Welcome...{{NLINE}}{{SOUND,0B}}We serve the almighty{{NLINE}}{{SOUND,0A}}goddess...{{SOUND,0C}}{{NPAGE}}{{SOUND,0B}}Before you meet with{{NLINE}}{{SOUND,0A}}the holy Myria,{{NLINE}}{{SOUND,0B}}please hear our words{{SOUND,0C}}
+"{{SOUND,0A}}The holy Myria awaits{{NLINE}}{{SOUND,0B}}you ahead...{{SOUND,0C}}
+{{TXTBX,81}}Deis{{NLINE}}"Don't worry...{{NPAGE}}{{PAUSE}}They can take care of{{NLINE}}themselves better than{{NLINE}}you think...

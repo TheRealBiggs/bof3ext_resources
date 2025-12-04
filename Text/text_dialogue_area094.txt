@@ -1,0 +1,215 @@
+"This here is the{{NLINE}}shipyard...{{NPAGE}}'cept right now we{{NLINE}}don't have a ship
+"This here is the{{NLINE}}shipyard...{{NPAGE}}'cept right now we{{NLINE}}don't have a ship
+"There's monsters in{{NLINE}}the lighthouse...{{NPAGE}}The boat's missing...{{NPAGE}}What's the world{{NLINE}}coming to!?
+"Shadis sure doesn't{{NLINE}}have it easy, what{{NLINE}}with the ship not{{NPAGE}}coming back and Zig{{NLINE}}chasing after her{{NLINE}}all the time...
+"Huh? {{PAUSE}}Fishing for{{NLINE}}sardines to give{{NLINE}}to cats?{{NPAGE}}Are you kidding?{{NLINE}}They're for my{{NLINE}}dinner!
+"woof
+"The one in charge{{NLINE}}here is the{{NLINE}}Guildmaster's daughter{{NPAGE}}Shadis...Oh, yeah,{{NLINE}}if you want to{{NLINE}}know about the{{NPAGE}}small details, ask{{NLINE}}Beyd, the bookkeeper
+"Did you know that{{NLINE}}the Porter's Guild{{NLINE}}carries machines{{NPAGE}}from here in{{NLINE}}Rhapala all around{{NLINE}}the world?
+"Machines left out{{NLINE}}near the ocean get{{NLINE}}rusty real quick...{{NPAGE}}So you gotta take{{NLINE}}good care of 'em!
+"They say a bunch of{{NLINE}}monsters showed up at{{NLINE}}the lighthouse and{{NPAGE}}turned off the light,{{NLINE}}and that's why the{{NLINE}}ship hasn't come back
+"Turn the light in{{NLINE}}the lighthouse back{{NLINE}}on?{{NPAGE}}I'd love to, but{{NLINE}}what about the{{NLINE}}monsters?
+"The channels 'round{{NLINE}}here are pretty{{NLINE}}complicated...{{NPAGE}}That's why we use{{NLINE}}the lighthouse and{{NLINE}}buoys to guide ships
+"I wonder what's up{{NLINE}}with the ship...When{{NLINE}}will it come back?
+"Humph!
+"Here's how it{{NLINE}}works, see?{{NPAGE}}Shadis needs someone{{NLINE}}who can get things{{NLINE}}done, like me!
+"Understand, Beyd?{{NPAGE}}When people talk{{NLINE}}about real men, they{{NLINE}}mean people like{{NPAGE}}Zig here, see!?
+"But Zig...{{NLINE}}No one's decided{{NLINE}}anything yet...
+{{EFCTS}}scuttle scuttle{{EFCTE,02}}
+"I'm a sea louse
+"The lighthouse is{{NLINE}}up this way, but{{NPAGE}}only Guild personnel{{NLINE}}can go past here{{NPAGE}}Besides, you wouldn't{{NLINE}}want to go anyway,{{NLINE}}with all the monsters
+{{TXTBX,06}}Iggy{{NLINE}}"Besides, Sinkar has{{NLINE}}already given Zig{{NPAGE}}his seal of approval!
+Beyd{{NLINE}}"That may be true...{{NPAGE}}But as the person in{{NLINE}}charge of the Guild{{NLINE}}finances....
+{{TXTBX,05}}Zig{{NLINE}}"Don't you worry,{{NLINE}}Beyd!{{NPAGE}}Between Shadis and{{NLINE}}me, the Guild'll{{NLINE}}be in good hands!
+{{TXTBX,05}}Zig{{NLINE}}"Right, Shadis?
+{{TXTBX,05}}Zig{{NLINE}}"Ha ha ha ha ha{{NLINE}}Don't be shy, Shadis!{{NPAGE}}We'll make a great{{NLINE}}team, you and me!
+{{TXTBX,05}}Zig{{NLINE}}"So, that's that{{NPAGE}}See ya, Beyd
+Beyd{{NLINE}}"I'm sorry about{{NLINE}}that...{{NPAGE}}I'm Beyd, the Guild{{NLINE}}bookkeeper...How can{{NLINE}}I help you?
+{{TXTBX,06}}Beyd{{NLINE}}"If you want to{{NLINE}}know about the ship,{{NPAGE}}you'll need to talk{{NLINE}}to Miss Shadis there
+{{TXTBX,05}}Shadis{{NLINE}}"People keep asking{{NLINE}}me about the ship...{{NPAGE}}But the ship's not{{NLINE}}coming back!{{NLINE}}Understand?{{NPAGE}}Oh, it gives me{{NLINE}}such a headache!
+{{TXTBX,06}}Beyd{{NLINE}}"Shadis...
+{{TXTBX,06}}Beyd{{NLINE}}"Just because you're{{NLINE}}not feeling good{{NPAGE}}doesn't mean you can{{NLINE}}act like that in{{NLINE}}front of customers!
+{{TXTBX,05}}Shadis{{NLINE}}"Not feeling good?{{NPAGE}}And whose fault do{{NLINE}}you think that is?{{NLINE}}You, you...doofus!
+{{TXTBX,05}}Shadis{{NLINE}}"You probably don't{{NLINE}}care if I get{{NPAGE}}married to someone{{NLINE}}like Zig anyway,{{NLINE}}do you?
+Beyd{{NLINE}}"I'm so sorry...{{NPAGE}}She seems a little{{NLINE}}upset right now...{{NPAGE}}Anyway, as she said,{{NLINE}}the ship's not back{{NLINE}}yet, so we can't{{NPAGE}}sell you a ride{{NLINE}}right now...
+"I'm sorry for the{{NLINE}}inconvenience...{{NPAGE}}Is there anything{{NLINE}}else I can do for{{NLINE}}you?{{CHOIC,0,2,No,Who's Shadis?,Who's Zig?,What about Sinkar?,Who're you?,What's the Guild?}}
+"I see...{{NPAGE}}Well then, you'll{{NLINE}}have to talk to{{NLINE}}Shadis again after{{NPAGE}}the ship has{{NLINE}}returned
+"She's the only{{NLINE}}daughter of the{{NLINE}}Guildmaster...{{NPAGE}}And she's been put{{NLINE}}in charge of the{{NLINE}}ship by him...{{NPAGE}}Anything else I{{NLINE}}can tell you?{{CHOIC,0,2,No,Who's Shadis?,Who's Zig?,What about Sinkar?,Who're you?,What's the Guild?}}
+"Zig is the best{{NLINE}}sailor around these{{NLINE}}parts...{{NPAGE}}The Guildmaster's{{NLINE}}pretty taken with{{NLINE}}him, and he's{{NPAGE}}planning on marrying{{NLINE}}Shadis...{{NPAGE}}Anything else I{{NLINE}}can tell you?{{CHOIC,0,2,No,Who's Shadis?,Who's Zig?,What about Sinkar?,Who're you?,What's the Guild?}}
+"The Guildmaster{{NLINE}}wants Shadis to{{NLINE}}follow in his{{NPAGE}}footsteps, but it's{{NLINE}}hard for her to{{NLINE}}get the men to{{NPAGE}}respect her, being{{NLINE}}a woman and all...{{NPAGE}}It looks like he{{NLINE}}wants to marry her{{NLINE}}off soon...{{NPAGE}}Anything else I{{NLINE}}can tell you?{{CHOIC,0,2,No,Who's Shadis?,Who's Zig?,What about Sinkar?,Who're you?,What's the Guild?}}
+"I've been a, uh,{{NLINE}}a friend of Shadis'{{NLINE}}since we were kids{{NPAGE}}Now I work as the{{NLINE}}Guild bookkeeper{{NPAGE}}Anything else I{{NLINE}}can tell you?{{CHOIC,0,2,No,Who's Shadis?,Who's Zig?,What about Sinkar?,Who're you?,What's the Guild?}}
+"The Guild controls{{NLINE}}all the shipping{{NLINE}}around here, as{{NPAGE}}well as the sea{{NLINE}}lanes and the roads{{NPAGE}}Mostly, we move{{NLINE}}machines around{{NPAGE}}Anything else I{{NLINE}}can tell you?{{CHOIC,0,2,No,Who's Shadis?,Who's Zig?,What about Sinkar?,Who're you?,What's the Guild?}}
+Shadis{{NLINE}}"Sorry about that{{NLINE}}back there...
+Shadis{{NLINE}}"I was just a{{NLINE}}little frustrated...{{NPAGE}}So many things{{NLINE}}happening at once...{{NPAGE}}I'm sorry, but I{{NLINE}}can't tell you{{NLINE}}anything about the{{NPAGE}}ship now...If you're{{NLINE}}in a hurry, you{{NLINE}}could go ask my{{NPAGE}}father if he'll let{{NLINE}}you use the road
+"Not much we can do{{NLINE}}without the ship...{{NPAGE}}Anything else I{{NLINE}}can do for you?{{NPAGE}}Tell us about:{{CHOIC,1,2,Nothing,Beyd,Zig,Your father,You,When's the ship coming}}
+"All right then...{{NLINE}}My father should be{{NLINE}}in the pub in the inn
+"Beyd? We've been{{NLINE}}friends since we{{NLINE}}were kids...{{NPAGE}}I don't want to{{NLINE}}talk about that{{NLINE}}bonehead now, OK?{{NPAGE}}Anything else I{{NLINE}}can do for you?{{NPAGE}}Tell us about:{{CHOIC,1,2,Nothing,Beyd,Zig,Your father,You,When's the ship coming}}
+"That bozo?{{NPAGE}}Well, my father{{NLINE}}seems to like him...{{NPAGE}}He is a pretty good{{NLINE}}sailor, but that's{{NLINE}}about it...{{NPAGE}}Anything else I{{NLINE}}can do for you?{{NPAGE}}Tell us about:{{CHOIC,1,2,Nothing,Beyd,Zig,Your father,You,When's the ship coming}}
+"My father...wants me{{NLINE}}to marry a sailor{{NPAGE}}He says the Guild{{NLINE}}work's too rough{{NLINE}}for a woman...{{NPAGE}}Anything else I{{NLINE}}can do for you?{{NPAGE}}Tell us about:{{CHOIC,1,2,Nothing,Beyd,Zig,Your father,You,When's the ship coming}}
+"Me? I like working{{NLINE}}for the Guild...{{NPAGE}}I just wish there{{NLINE}}was someone I could{{NLINE}}rely on to give me{{NPAGE}}a hand sometimes,{{NLINE}}you know?{{NPAGE}}Anything else I{{NLINE}}can do for you?{{NPAGE}}Tell us about:{{CHOIC,1,2,Nothing,Beyd,Zig,Your father,You,When's the ship coming}}
+"Who knows? I don't{{NPAGE}}This is the first{{NLINE}}time the ship's been{{NLINE}}gone this long...{{NPAGE}}If we could only{{NLINE}}fix the lighthouse{{NLINE}}maybe we could{{NPAGE}}figure out why...{{NLINE}}Anything else I{{NLINE}}can do for you?{{NPAGE}}Tell us about:{{CHOIC,1,2,Nothing,Beyd,Zig,Your father,You,When's the ship coming}}
+"You just wait and{{NLINE}}see, Iggy!{{NPAGE}}Before long, I'll{{NLINE}}have it all--the{{NLINE}}Guild, Shadis...{{NPAGE}}How can they resist{{NLINE}}a first-rate guy like{{NLINE}}me? Ha ha ha!
+"You said it, Zig!{{NLINE}}You're as first-rate{{NLINE}}as they come!{{NPAGE}}If I were a woman,{{NLINE}}I know I wouldn't be{{NLINE}}able to resist you!
+Nina{{NLINE}}"Say, Beyd...{{NPAGE}}You're in love with{{NLINE}}Shadis, aren't you?
+Beyd{{NLINE}}"Wh{{PAUSE}}-wh-wh-what, what{{NPAGE}}What are you talking{{NLINE}}{{EFCTS}}about{{EFCTE,19}}!?
+Nina{{NLINE}}"Don't be so{{NLINE}}embarrassed--{{NPAGE}}I'm sure Shadis likes{{NLINE}}you too!
+Beyd{{NLINE}}"Wait...{{PAUSE}}wait just a{{NLINE}}minute...{{NPAGE}}Why don't we talk{{NLINE}}about this somewhere{{NLINE}}else...
+Beyd{{NLINE}}"What're you talking{{NLINE}}about?{{NPAGE}}Of course I like{{NLINE}}Shadis...she's my{{NLINE}}friend, but...
+{{TXTBX,06}}Beyd{{NLINE}}"What!?{{NLINE}}P-p-p-p-p{{PAUSE}}-propose!?
+{{TXTBX,06}}Beyd{{NLINE}}"I c-c{{PAUSE}}-can't do that!{{NPAGE}}I mean, I'm nothing!{{NLINE}}She needs someone{{NLINE}}strong and, and...{{NPAGE}}reliable to help her{{NLINE}}run the Guild!
+{{TXTBX,05}}Nina{{NLINE}}"So then all you need{{NLINE}}to do is get strong!
+{{TXTBX,06}}Beyd{{NLINE}}"I don't know...{{NPAGE}}I think that's{{NLINE}}easier said than{{NLINE}}done--look at me...
+{{TXTBX,05}}Nina{{NLINE}}"No problem!{{NPAGE}}We'll help train you!
+{{TXTBX,06}}Beyd{{NLINE}}"T-train!?
+{{TXTBX,05}}Nina{{NLINE}}"That's right{{NPAGE}}It looks like we won't{{NLINE}}be going anywhere{{NLINE}}until the boat comes,{{NPAGE}}so we'll help you{{NLINE}}get stronger!
+{{TXTBX,06}}Beyd{{NLINE}}"No...{{PAUSE}}I don't think{{NLINE}}it'll work...
+{{TXTBX,05}}Nina{{NLINE}}"You won't know{{NLINE}}unless you try!
+{{TXTBX,06}}Beyd{{NLINE}}"I'm going...{{PAUSE}}{{PAUSE}}{{NLINE}}back to work
+{{TXTBX,06}}Nina{{NLINE}}"Did I say something{{NLINE}}wrong, maybe?
+{{TXTBX,05}}Momo{{NLINE}}"No...{{NPAGE}}It may take him some{{NLINE}}time to face the{{NLINE}}truth...
+{{TXTBX,04}}Zig{{NLINE}}"Bwah ha ha ha ha!
+{{TXTBX,06}}Nina{{NLINE}}"What's all that{{NLINE}}noise about?
+"All right, all{{NLINE}}right! Now leave me{{NLINE}}alone!
+"Ha ha ha! Hey Shadis!{{NLINE}}{{NPAGE}}You can start getting{{NLINE}}your wedding dress{{NLINE}}fitted now!{{NPAGE}}I'll go get that{{NLINE}}lighthouse fixed up{{NPAGE}}faster than you can{{NLINE}}say, "I do"!
+"Zig has said he'll{{NLINE}}fix the lighthouse...{{NPAGE}}If he does it, Sinkar{{NLINE}}will name him his{{NLINE}}successor for sure...{{NPAGE}}Before I even have{{NLINE}}a chance to try what{{NLINE}}Nina said...
+"If you fix that{{NLINE}}lighthouse up, you'll{{NLINE}}be a hero, Zig!{{NPAGE}}You'll be head of{{NLINE}}the Guild in no{{NLINE}}time!
+Nina{{NLINE}}"Beyd...What's the{{NLINE}}matter?
+Beyd{{NLINE}}"Zig's going to go{{NPAGE}}fix the lighthouse
+Beyd{{NLINE}}"If Zig manages to{{NLINE}}defeat the monsters{{NPAGE}}and repair the{{NLINE}}lighthouse, there'll{{NLINE}}be no denying he's{{NPAGE}}the strongest man{{NLINE}}around and the best{{NLINE}}choice for Guildmaster
+Nina{{NLINE}}"And that means...{{NPAGE}}Zig will marry{{NLINE}}Shadis, right?
+{{TXTBX,05}}Beyd{{NLINE}}"Please...{{NPAGE}}I want you to{{NLINE}}train me
+Beyd{{NLINE}}"I can't just{{NLINE}}give up...{{NPAGE}}Not without trying!
+Beyd{{NLINE}}"Please train me...{{NPAGE}}Make me strong so{{NLINE}}I can go fix the{{NLINE}}lighthouse before Zig!
+Beyd{{NLINE}}"I've never used{{NLINE}}a sword before...{{NPAGE}}You'll have to get{{NLINE}}me some equipment{{NPAGE}}I'll give you 1000{{NLINE}}zenny, so please get{{NLINE}}me some armor and a{{NPAGE}}sword...And please{{NLINE}}get some that aren't{{NLINE}}too heavy
+You got 1000 zenny!
+"Please get me{{NLINE}}some equipment{{NPAGE}}I can use anything{{NLINE}}Ryu can...{{CHOIC,2,2,Not ready yet,Got it!}}
+"All right then...{{NPAGE}}Remember, I'm not{{NLINE}}strong at all so{{NLINE}}please get the{{NPAGE}}lightest stuff{{NLINE}}you can find
+"All right then...{{NPAGE}}Are you ready to{{NLINE}}start training?{{CHOIC,3,1,Not yet,Ready!}}
+"I work during the{{NLINE}}day, so I'd like to{{NLINE}}train at night{{NPAGE}}When you're ready,{{NLINE}}let me know
+"OK!{{NPAGE}}I'll come when I've{{NLINE}}finished work, so{{NPAGE}}please wait for me{{NLINE}}in the town square!
+"Zig's gonna go fix{{NLINE}}the lighthouse!{{NPAGE}}If he pulls that{{NLINE}}off, Shadis won't{{NPAGE}}be able to say{{NLINE}}no anymore!
+"So once he marries{{NLINE}}Shadis, Zig'll be{{NLINE}}Guildmaster, huh?{{NPAGE}}He's strong for sure,{{NLINE}}but he's not too{{NLINE}}bright, you know...{{NPAGE}}Oh, well, I guess{{NLINE}}as long as Beyd's{{NLINE}}around...
+"Zig's going to{{NLINE}}the lighthouse?{{NPAGE}}Hmmmm...{{PAUSE}}Now maybe{{NLINE}}the ship'll come{{NLINE}}back
+"I hear there's some{{NLINE}}pretty bad  monsters{{NLINE}}in the lighthouse...{{NPAGE}}I wonder if even{{NLINE}}someone as strong as{{NLINE}}Zig'll be OK...
+"All right,{{NLINE}}everyone...{{NLINE}}Let's start!{{CHOIC,4,1,Wait,Start training,To the lighthouse!}}
+Beyd{{NLINE}}"The lighthouse!?{{NPAGE}}I don't think I'm{{NLINE}}ready for that yet...
+{{TXTBX,05}}Zig{{NLINE}}"What!?{{NPAGE}}What do you mean{{NLINE}}you're going to the{{NLINE}}lighthouse, Beyd?
+Iggy{{NLINE}}"It's Zig here who's{{NLINE}}going, see?{{NPAGE}}So just butt out,{{NLINE}}Beyd!
+{{TXTBX,05}}Zig{{NLINE}}"That's right!{{NPAGE}}I'm the strongest, so{{NLINE}}it's me who's going{{NLINE}}to the lighthouse!{{NPAGE}}You got a problem{{NLINE}}with that, you'll{{NLINE}}have to fight me!
+Iggy{{NLINE}}"If you want to go,{{NPAGE}}you'll have to beat{{NLINE}}Zig, see?
+Iggy{{NLINE}}"You really mean{{NLINE}}to go, huh?{{NPAGE}}Fine! But you'll never{{NLINE}}beat Zig...
+"It'll be nice if{{NLINE}}the ship comes back{{NPAGE}}once the monsters're{{NLINE}}gone and the{{NLINE}}lighthouse's fixed
+"Shadis liked Beyd{{NLINE}}better in the{{NLINE}}first place, so{{NPAGE}}all's well that{{NLINE}}ends well, eh?
+"Lighthouse?{{NLINE}}Who cares about{{NLINE}}that?{{NPAGE}}My sardines are{{NLINE}}more important!
+"So Beyd'll be the{{NLINE}}new Guildmaster now...{{NPAGE}}I never really thought{{NLINE}}he was that strong...{{NPAGE}}But if he can beat{{NLINE}}Zig, he's OK in my{{NLINE}}book!
+"So now it's Beyd{{NLINE}}who's going to the{{NLINE}}lighthouse?{{NPAGE}}I don't care who{{NLINE}}goes as long as{{NLINE}}it gets fixed!
+"Zig, Beyd...{{NPAGE}}Whoever's going, I{{NLINE}}just hope they're{{NLINE}}careful!
+"I'm happy for{{NLINE}}Shadis...{{NPAGE}}Now all we need is{{NLINE}}for the ship to{{NLINE}}come back...
+"Thank you...{{NPAGE}}I have a feeling{{NLINE}}Beyd and I will get{{NLINE}}along great together
+"How could I lose{{NLINE}}with a body like{{NLINE}}this!?{{NPAGE}}Oh well...I'm a{{NLINE}}man--I can take it!
+"Zig! You're so tough{{NLINE}}You tell 'em!
+"Oh, hello!{{NLINE}}Thank you so much{{NLINE}}for everything...
+Beyd{{NLINE}}"These injuries?{{NPAGE}}Well, I'm not used{{NLINE}}to fighting, see,{{NLINE}}so...{{NPAGE}}ouch!
+Beyd{{NLINE}}"So, I won't be{{NLINE}}going to the{{NPAGE}}lighthouse for a{{NLINE}}while, I suppose
+Beyd{{NLINE}}"But if you're{{NLINE}}really in a hurry...{{NPAGE}}I really shouldn't{{NLINE}}do this--you're not{{NLINE}}Guild members, but...
+Beyd{{NLINE}}"I was wondering...{{NPAGE}}would you help us fix{{NLINE}}the lighthouse?{{NPAGE}}Here, take this...
+You got a {{COLRS,2}}Guild badge{{COLRE}}!
+Beyd{{NLINE}}"With that, you can{{NLINE}}get to the lighthouse
+Beyd{{NLINE}}"I don't know for{{NLINE}}sure if the ship{{NPAGE}}will come back once{{NLINE}}the lighthouse has{{NLINE}}been fixed, but...{{NPAGE}}It can't hurt to{{NLINE}}try, right?
+"Oh, the equipment{{NLINE}}I used is over{{NLINE}}there...{{NPAGE}}It's not much, but{{NLINE}}I put a little{{NLINE}}something extra in
+"Please, go ahead
+Guardman{{NLINE}}"Wait a minute please!{{NPAGE}}Only Guild members are{{NLINE}}allowed past this{{NLINE}}point...{{PAUSE}}?
+Guardman{{NLINE}}"You have a badge?{{NPAGE}}Oh, you're associates{{NLINE}}of the Guild!?{{NPAGE}}All right, but the{{NLINE}}lighthouse is full{{NLINE}}of monsters
+Guardman{{NLINE}}"Be careful...
+"I guess we can't{{NLINE}}expect the ship to{{NLINE}}come back so soon,{{NPAGE}}even though the{{NLINE}}lighthouse's been{{NLINE}}fixed, eh?
+"Thank you for{{NLINE}}fixing the lighthouse
+"Everyone's happy{{NLINE}}now that the light-{{NLINE}}house's been fixed,{{NPAGE}}but I won't be{{NLINE}}celebrating until the{{NLINE}}ship comes back
+"So it was you who{{NLINE}}went to the lighthouse{{NLINE}}in the end?{{NPAGE}}Well, as long as{{NLINE}}it's been fixed...
+"Good thing the{{NLINE}}monsters didn't{{NLINE}}get you...{{NPAGE}}Now all we have to{{NLINE}}do is wait for the{{NLINE}}ship to come back
+"The ship should be{{NLINE}}able to get back{{NLINE}}now
+"Thank you everybody!{{NPAGE}}We should only have{{NLINE}}to wait a little{{NLINE}}longer for the ship
+"You turned the{{NLINE}}lighthouse back on,{{NLINE}}eh?{{NPAGE}}We're lucky to have{{NLINE}}folks like you{{NLINE}}around...
+"I heard there was{{NLINE}}this big eye there!{{NPAGE}}It's good you didn't{{NLINE}}go, huh, Zig?
+"Wow! You actually{{NLINE}}killed all the{{NLINE}}monsters?
+"Thank you!{{NPAGE}}Once the ship's{{NLINE}}back, we'll take{{NPAGE}}you anywhere you{{NLINE}}want to go!
+"The boat's still not{{NLINE}}coming back...{{NPAGE}}And there's no fish{{NLINE}}biting...
+"Yep, the ship's{{NLINE}}not back yet...{{NPAGE}}Bet Beyd's job's{{NLINE}}not gettin' any{{NLINE}}easier...
+"How are we supposed{{NLINE}}to ship things around{{NLINE}}without a ship?
+"I bet the ship's{{NLINE}}had an accident{{NLINE}}somewhere...
+"So if it's still{{NLINE}}not back, that means{{NLINE}}it had nothing to{{NPAGE}}do with the light-{{NLINE}}house...{{NPAGE}}I wonder if{{NLINE}}something has{{NLINE}}happened to them?
+"They should be{{NLINE}}able to find their{{NLINE}}way with the{{NPAGE}}lighthouse fixed...{{NLINE}}Maybe something{{NLINE}}happened?
+"If they're having{{NLINE}}some kind of{{NLINE}}trouble...{{NPAGE}}They might not be{{NLINE}}back for a while
+Beyd{{NLINE}}"I'm sorry...{{NPAGE}}It looks like the{{NLINE}}ship won't be back{{NLINE}}for a while longer
+Beyd{{NLINE}}"And after you went{{NLINE}}to all the trouble{{NPAGE}}to fix the{{NLINE}}lighthouse...I don't{{NLINE}}know what to say...
+Beyd{{NLINE}}"We'll figure out{{NLINE}}a way for you to{{NPAGE}}go east...{{NLINE}}Go talk to the{{NLINE}}Guildmaster, Sinkar{{NPAGE}}I'm sure he'll let{{NLINE}}you use the road
+"We don't know when{{NLINE}}the ship will be{{NLINE}}back, so go to{{NPAGE}}the pub and talk{{NLINE}}to Sinkar, and{{NPAGE}}get him to let{{NLINE}}you use the road
+"There's no use for{{NLINE}}a sailor like me{{NPAGE}}if there's no{{NLINE}}ship around!
+"Don't worry, Zig{{NPAGE}}Even if there's{{NLINE}}no ship for you{{NLINE}}to be on, you're{{NPAGE}}still the best{{NLINE}}sailor in the{{NLINE}}world!
+"I'm sorry we{{NLINE}}can't help you...
+You got a{{NLINE}}{{PRMTR,0}}!
+You got a{{NLINE}}{{PRMTR,1}}!
+Beyd{{NLINE}}"We've arrived in{{NLINE}}Rhapala...
+{{TXTBX,05}}Beyd{{NLINE}}"It took us a while,{{NPAGE}}but we can finally{{NLINE}}let you use the{{NLINE}}ship now...
+{{TXTBX,05}}Beyd{{NLINE}}"These two sailors{{NLINE}}will take you anywhere{{NPAGE}}you ask them to
+{{TXTBX,06}}Nina{{NLINE}}"Thank you, Beyd{{NPAGE}}We're planning on{{NLINE}}going over the
+{{TXTBX,43}}"Waaaaaiiiiit!
+{{TXTBX,05}}Zig{{NLINE}}"Let me handle this!{{NPAGE}}Let me pilot the{{NLINE}}ship for them,{{NPAGE}}Beyd--I mean,{{NLINE}}Guildmaster!
+Beyd{{NLINE}}"Um...Sure, OK,{{NLINE}}Zig...
+{{TXTBX,05}}Zig{{NLINE}}"Beyd may have beaten{{NLINE}}me out for the{{NPAGE}}lighthouse...and{{NLINE}}Shadis...
+{{TXTBX,05}}Zig{{NLINE}}"But I'll show you{{NLINE}}that no one handles{{NPAGE}}a boat better than{{NLINE}}me!
+{{TXTBX,06}}Zig{{NLINE}}"OK then, I'll{{NLINE}}be on the bridge{{NPAGE}}Let me know when{{NLINE}}you're ready to{{NLINE}}shove off!
+{{TXTBX,05}}Beyd{{NLINE}}"Zig's like that...{{NPAGE}}But he's right about{{NLINE}}one thing: he's our{{NLINE}}best sailor!{{NPAGE}}You're in good hands
+{{TXTBX,05}}Beyd{{NLINE}}"All right then, be{{NLINE}}careful and good luck!{{NPAGE}}You can bring the{{NLINE}}boat back anytime!
+"This is the{{NLINE}}Rhapala shipyard...{{NPAGE}}Only sometimes our{{NLINE}}ship doesn't come{{NLINE}}back...
+"Looking for Master{{NLINE}}Beyd?{{NPAGE}}He's gone to visit{{NLINE}}the Machine Guild{{NLINE}}in the east...
+"Figures the ship{{NLINE}}would break down...
+"Heard the ship broke{{NLINE}}down again and is{{NPAGE}}being repaired by{{NLINE}}the Machine Guild...
+"We had the same{{NLINE}}problem years ago:{{NLINE}}boat didn't come back{{NPAGE}}Then, we thought it{{NLINE}}was 'cause of the{{NLINE}}lighthouse...{{NPAGE}}But I heard it was{{NLINE}}'cause the ship{{NLINE}}broke down
+"Machines may look{{NLINE}}like they're tough,{{NLINE}}but they break pretty{{NPAGE}}easily...We don't know{{NLINE}}how to make new ones,{{NLINE}}either...
+"We don't make{{NLINE}}machines...{{NPAGE}}We just find the{{NLINE}}parts and put them{{NLINE}}together
+"When's my merchandise{{NLINE}}gonna get here!
+"The Guildmaster's{{NLINE}}taking care of that{{NLINE}}right now...
+"This is the{{NLINE}}lighthouse{{NPAGE}}Ships use is to{{NLINE}}guide their way{{NLINE}}through the channels{{NPAGE}}But it's not much{{NLINE}}use if the ship's{{NLINE}}broke down...
+"Just have to wait{{NLINE}}some more, I guess
+"Hey!{{NLINE}}She's walking!
+"It'd be good if{{NLINE}}Shadis' kids turned{{NLINE}}out big and strong{{NPAGE}}like me...But they'll{{NLINE}}probably take after{{NLINE}}Beyd
+"This way, this way!
+"kya ha ha ha
+{{EFCTS}}scratch scratch{{EFCTE,02}}
+{{EFCTS}}skittle skittle{{EFCTE,02}}
+Shadis{{NLINE}}"It's {{CHRTR}}, isn't{{NLINE}}it!?
+Shadis{{NLINE}}"How are you?{{NPAGE}}We haven't seen{{NLINE}}you for a long{{NLINE}}time!
+Shadis{{NLINE}}"Beyd?{{NPAGE}}He went to Junk Town{{NLINE}}to get back our{{NLINE}}ship...
+Shadis{{NLINE}}"I'm sure he'll be{{NLINE}}coming back soon,{{NPAGE}}so if you don't{{NLINE}}mind waiting...
+Shadis{{NLINE}}"I'm sorry...{{NPAGE}}I don't have much to{{NLINE}}do with Guild business{{NLINE}}anymore...{{NPAGE}}You'll have to wait{{NLINE}}until he comes back
+"If you need something{{NLINE}}you'll have to talk to{{NLINE}}Beyd...{{NPAGE}}This baby?{{NLINE}}She's my daughter,{{NLINE}}Shayd
+Shadis{{NLINE}}"I'm sorry...{{NPAGE}}I haven't done any{{NLINE}}Guild work since I{{NLINE}}had the baby...
+Shadis{{NLINE}}"If it's Guild{{NLINE}}business,{{NPAGE}}you'll have to{{NLINE}}talk to Beyd
+"This baby?{{NLINE}}She's my daughter,{{NLINE}}Shayd
+"Beyd?{{NPAGE}}He went to Junk Town{{NLINE}}to get back our{{NLINE}}ship...
+"Guildmaster's got{{NLINE}}it tough, don't 'e?{{NPAGE}}Ship's gone missing{{NLINE}}again!
+"The ship's getting{{NLINE}}so old anyway...{{NPAGE}}It probably needs{{NLINE}}a serious overhaul
+"The boat's missing{{NLINE}}again...{{NPAGE}}Maybe this time it{{NLINE}}sank for real?
+"It better not have{{NLINE}}sunk with all my{{NLINE}}merchandise on it!
+"I'm sorry...{{NLINE}}We're looking into{{NLINE}}it right now...
+"This way to the{{NLINE}}lighthouse...{{NPAGE}}But you already{{NLINE}}knew that, don't you?
+"When you're ready{{NLINE}}to go, board the{{NLINE}}ship, and talk{{NPAGE}}to Zig on the{{NLINE}}bridge
+"Helping you out{{NLINE}}is probably Zig's{{NLINE}}way of saying thanks{{NPAGE}}for all you've done{{NLINE}}for us
+"Zig may act funny{{NLINE}}sometimes, but he's{{NLINE}}the best sailor in{{NPAGE}}Rhapala...You can{{NLINE}}trust him!
+"Be careful!{{NPAGE}}We'll be getting new{{NLINE}}boats, so use this{{NPAGE}}one as much as you{{NLINE}}want!
+"This is the{{NLINE}}Rhapala shipyard{{NPAGE}}We'll have lots of{{NLINE}}ships here before{{NLINE}}you know it!
+"The Guildmaster must{{NLINE}}have a busy life!
+"Guess we should{{NLINE}}get more ships
+"The ship's finally{{NLINE}}come back...I guess{{NLINE}}they fixed it?
+"I heard that the{{NLINE}}reason the Guildmaster{{NLINE}}went to Junk Town{{NPAGE}}was to order new ships{{NLINE}}for the Guild
+"What? They gave away{{NLINE}}the ship we just{{NLINE}}fixed?
+"Yep...but it's to{{NLINE}}those folks that{{NPAGE}}have helped the{{NLINE}}Guild out so much
+"The Guildmaster{{NLINE}}finally got the{{NLINE}}ship back...{{NPAGE}}So now I don't have{{NLINE}}to get yelled at{{NLINE}}by customers anymore
+"The ship's back...{{NLINE}}I guess that means{{NLINE}}more work...
+"I heard Zig's gonna{{NLINE}}pilot the boat for{{NLINE}}you...{{NPAGE}}I'll stay here and{{NLINE}}help Shayd learn to{{NLINE}}walk!
+"Ships are important{{NLINE}}to our business as{{NLINE}}a Guild...{{NPAGE}}But you helped us{{NLINE}}so much before, Beyd{{NLINE}}couldn't refuse...
+"kya ha!
+"Ready?{{CHOIC,5,0,Ready,Not yet}}
+Zig{{NLINE}}"Now it's my turn{{NLINE}}to help you out!
+Zig{{NLINE}}"Here we go!
+{{TXTBX,05}}Nina{{NLINE}}"I'm going to go{{NLINE}}talk to Beyd and{{NPAGE}}tell him what he{{NLINE}}needs to do...

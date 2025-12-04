@@ -1,0 +1,61 @@
+{{TXTBX,81}}   Momo's Tower{{NLINE}}    1st Floor!{{DURTN,32}}
+Nina{{NLINE}}"What...{{PAUSE}}what was{{NLINE}}that!?
+Nina{{NLINE}}"I wonder...{{NPAGE}}I think we should{{NLINE}}take a look at that{{NLINE}}room, don't you?
+Nina{{NLINE}}"Don't you wonder{{NLINE}}what's in there?
+{{TXTBX,05}}"Hmmm...{{NPAGE}}I guess the key lies{{NLINE}}in somehow stabilizing{{NLINE}}the pure chrysm...
+{{TXTBX,05}}"That's it! If the{{NLINE}}gassification pressure{{NLINE}}is kept down...{{NPAGE}}{{PAUSE}}Huh?
+{{TXTBX,05}}"{{EFCTS}}What!?{{EFCTE,09}}
+{{TXTBX,05}}"{{EFCTS}}You!? You're{{EFCTE,09}}{{NPAGE}}{{EFCTS}}friends{{EFCTE,09}}{{NPAGE}}{{EFCTS}}of Honey?{{EFCTE,09}}{{NPAGE}}{{EFCTS}}Nice{{EFCTE,09}}{{NPAGE}}{{EFCTS}}to meet{{EFCTE,09}}{{NPAGE}}{{EFCTS}}you!{{EFCTE,09}}{{NPAGE}}{{EFCTS}}I'm Momo{{EFCTE,09}}
+{{TXTBX,06}}Nina{{NLINE}}"Ah, um...{{PAUSE}}yes,{{NPAGE}}it's nice to meet{{NLINE}}you too...{{NPAGE}}Um, but you see...
+{{TXTBX,05}}Momo{{NLINE}}"{{EFCTS}}What?{{EFCTE,0A}}
+{{TXTBX,06}}Nina{{NLINE}}"I was trying to{{NLINE}}say...that we're{{NPAGE}}not really friends,{{NLINE}}we're trying to find{{NLINE}}the road to Wyndia...
+{{TXTBX,05}}Momo{{NLINE}}"{{EFCTS}}What?{{EFCTE,09}}{{NPAGE}}{{EFCTS}}I'm sorry{{EFCTE,09}}{{NPAGE}}{{EFCTS}}My ears{{EFCTE,09}}{{NPAGE}}{{EFCTS}}are ringing{{EFCTE,09}}{{NPAGE}}{{EFCTS}}after that{{EFCTE,09}}{{NPAGE}}{{EFCTS}}explosion...{{EFCTE,09}}
+{{TXTBX,06}}Nina{{NLINE}}"{{EFCTS}}Hello!{{EFCTE,09}}{{NPAGE}}{{EFCTS}}Can you please{{EFCTE,09}}{{NPAGE}}{{EFCTS}}show us{{EFCTE,09}}{{NPAGE}}{{EFCTS}}the road{{EFCTE,09}}{{NPAGE}}{{EFCTS}}to Wyndia?{{EFCTE,09}}
+{{TXTBX,05}}Momo{{NLINE}}"{{EFCTS}}What?{{EFCTE,09}}{{DURTN,48}}
+{{TXTBX,05}}Momo{{NLINE}}"I'm sorry...{{NLINE}}My ears are better now{{NPAGE}}So, you want to go to{{NLINE}}Wyndia?
+{{TXTBX,05}}Momo{{NLINE}}"No problem!{{NPAGE}}I'll take you to{{NLINE}}Wyndia myself!
+{{TXTBX,06}}Nina{{NLINE}}"Thank you{{NPAGE}}I'll be sure to make{{NLINE}}it up to you when we{{NLINE}}get to the castle...
+{{TXTBX,05}}Momo{{NLINE}}"...{{PAUSE}}...{{PAUSE}}...Castle?
+{{TXTBX,05}}Momo{{NLINE}}"Wait a minute!{{NLINE}}When you say Nina...{{NPAGE}}Do you mean...{{NLINE}}Princess Nina!?
+{{TXTBX,05}}Momo{{NLINE}}"Y-y-y-your highness!{{NPAGE}}Please forgive me!{{NLINE}}I had no idea...
+Nina{{NLINE}}"I...it's all right...{{NPAGE}}You're helping us,{{NLINE}}after all...Please{{NLINE}}call me Nina
+{{TXTBX,05}}Momo{{NLINE}}"Oh, really?{{NPAGE}}OK, Nina, shall{{NLINE}}we get going?
+Momo{{NLINE}}"I have to get some{{NLINE}}things ready, so{{NPAGE}}why don't you rest{{NLINE}}here while I get{{NLINE}}them?
+Momo{{NLINE}}"C'mon, Honey...{{NLINE}}We're going now
+Momo{{NLINE}}"Thanks for waiting...{{NLINE}}{{PAUSE}}{{PAUSE}}Say...{{NPAGE}}You two aren't being{{NLINE}}followed by some{{NPAGE}}scruffy-looking guys,{{NLINE}}are you?
+Momo{{NLINE}}"That's funny...{{NPAGE}}When I went outside{{NLINE}}to buy something from{{NLINE}}the merchant...{{NPAGE}}I saw these real{{NLINE}}rough-looking{{NLINE}}characters there...
+Momo{{NLINE}}"Hey...{{PAUSE}}there's no{{NLINE}}need to be afraid...{{NPAGE}}I mean, inside this{{NLINE}}tower...
+Momo{{NLINE}}"I've been doing{{NLINE}}experiments...{{NPAGE}}on chrysm...
+Momo{{NLINE}}"So there's lots{{NLINE}}of monsters here...{{DURTN,48}}
+Momo{{NLINE}}"Not to mention chrysm{{NLINE}}machine soldiers...{{DURTN,48}}
+Momo{{NLINE}}"Traps to protect{{NLINE}}me from them...{{DURTN,48}}
+Momo{{NLINE}}"And all sorts of{{NLINE}}other things!{{NPAGE}}Don't worry--they{{NLINE}}won't get up here{{NLINE}}so easily!
+Nina{{NLINE}}"...{{PAUSE}}...{{PAUSE}}...But...{{NLINE}}Momo...{{NPAGE}}We were able to get{{NLINE}}this far...
+Momo{{NLINE}}"Oh!{{PAUSE}}{{PAUSE}} I guess you're{{NLINE}}right!{{NPAGE}}How did you get{{NLINE}}up here, anyway?
+Nina{{NLINE}}"Let's not worry{{NLINE}}about that now!{{NPAGE}}We have to get{{NLINE}}out of here!
+Momo{{NLINE}}"R...{{PAUSE}}right...{{NPAGE}}...{{PAUSE}}...{{PAUSE}}...Since we{{NLINE}}can't get out by{{NLINE}}going down...{{NPAGE}}Let's go up!
+Momo{{NLINE}}"Don't worry!{{NLINE}}There's a way out!{{NPAGE}}C'mon let's go!
+{{TXTBX,01}} {{NLINE}}Momo has joined{{NLINE}}the party!{{NPAGE}}Do you want to{{NLINE}}save now?{{CHOIC,0,0,Yes,No}}
+Momo{{NLINE}}"If we go this{{NLINE}}way...{{NPAGE}}We'll run into{{NLINE}}those guys!
+You should be able to{{NLINE}}rest on the bed...{{NPAGE}}Do you want to rest?{{CHOIC,6,0,Yes,No}}
+There's a diary...{{NLINE}}Do you want to save?{{CHOIC,7,0,Yes,No}}
+Notes: Honey (3){{NLINE}}    ...Momo{{NPAGE}}She seemed to develop{{NLINE}}an attraction to me{{NLINE}}when I gave her chrysm{{NPAGE}}She's so cute!
+Notes: Honey (3){{NLINE}}    ...Momo{{NPAGE}}She seemed to develop{{NLINE}}an attraction to me{{NLINE}}when I gave her chrysm{{NPAGE}}She's so cute!
+Notes: Honey (4){{NLINE}}    ...Momo{{NPAGE}}I can't figure out{{NLINE}}how she works...She's{{NLINE}}too complicated
+{{INSTS}} {{NLINE}}Panel Key{{INSTE}}{{NPAGE}}Stepping on the floor{{NLINE}}panels triggers a{{NLINE}}switch{{NPAGE}}Stepping off the{{NLINE}}panels resets the{{NLINE}}puzzle{{NPAGE}}The door will open{{NLINE}}when all panels have{{NLINE}}been set to grey{{NPAGE}}Do you want to try?{{CHOIC,5,0,Yes,No}}
+Notes: Honey (1){{NLINE}}    ...Momo{{NPAGE}}A little machine{{NLINE}}soldier has come lured{{NLINE}}by the chrysm here...{{NPAGE}}I think I'll call{{NLINE}}it Honey
+Notes: Honey (2){{NLINE}}    ...Momo{{NPAGE}}Unlike the other{{NLINE}}machine soldiers,{{NLINE}}Honey seems to have{{NPAGE}}no offensive{{NLINE}}capabilities...
+"On Chrysm{{NLINE}}and Monsters"{{NPAGE}}Certain kinds of{{NLINE}}monsters seem to react{{NLINE}}strongly to chrysm...{{NPAGE}}They synchronize them-{{NLINE}}selves with the energy{{NLINE}}pattern of the chrysm
+ {{NLINE}}  "Magical Ore"{{NPAGE}}The source of chrysm's{{NLINE}}power comes from the{{NLINE}}magical energy that{{NPAGE}}certain creatures have{{NLINE}}before they die...{{NPAGE}}At this time, the{{NLINE}}fossilization process{{NLINE}}that produces chrysm{{NPAGE}}remains a mystery...
+ {{NLINE}}  "Chrysm Machines"{{NPAGE}}Almost all the chrysm{{NLINE}}machines that have{{NLINE}}been found are of{{NPAGE}}incredibly high{{NLINE}}sophistication--too{{NLINE}}high to be reproduced
+"Machines and{{NLINE}}Their Uses"{{NPAGE}}Machines have many{{NLINE}}practical applications{{NPAGE}}However, since their{{NLINE}}internal workings are{{NLINE}}unknown, it is very{{NPAGE}}difficult to repair{{NLINE}}them
+ {{NLINE}}"Finding Machines"{{NPAGE}}Most machines are{{NLINE}}inoperative when{{NLINE}}found.{{NPAGE}}They can be made{{NLINE}}operative by repairing{{NLINE}}them and infusing{{NPAGE}}them with a fresh{{NLINE}}supply of chrysm
+ {{NLINE}}"Machine Soldiers"{{NPAGE}}On occasion, self-{{NLINE}}activating machines{{NLINE}}have been found.{{NPAGE}}As they respond to{{NLINE}}movement with{{NLINE}}aggressive action,{{NPAGE}}they are called{{NLINE}}machine soldiers.
+It looks like a{{NLINE}}switch...Do you{{NLINE}}want to press it?{{CHOIC,1,0,Yes,No}}
+It looks like a{{NLINE}}switch...Do you{{NLINE}}want to press it?{{CHOIC,2,0,Yes,No}}
+It looks like a{{NLINE}}switch...Do you{{NLINE}}want to press it?{{CHOIC,3,0,Yes,No}}
+It looks like a{{NLINE}}switch...Do you{{NLINE}}want to press it?{{CHOIC,4,0,Yes,No}}
+The switch has already{{NLINE}}been pushed...
+You can't ride{{NLINE}}this panel...
+4 rotating cubes...{{NLINE}}If you can find the{{NLINE}}matching pair...
+It looks like Garr{{NLINE}}is too big to solve{{NLINE}}this puzzle...

@@ -1,0 +1,8 @@
+It reads:{{NLINE}}Aligning the Portal{{NLINE}}Antenna{{NPAGE}}Do you want to{{NLINE}}keep reading?{{CHOIC,0,0,Yes,No}}
+It reads:{{NLINE}}Aligning the Portal{{NLINE}}Antenna{{NPAGE}}Do you want to{{NLINE}}keep reading?{{CHOIC,0,0,Yes,No}}
+Change the facing of{{NLINE}}the antenna with the{{NLINE}}Directional button{{NPAGE}}Look for the angle{{NLINE}}with the least amount{{NLINE}}of noise{{NPAGE}}When you find it,{{NLINE}}press the {{COLRS,1}}{{SYM81}}{{COLRE}} button{{NLINE}}to end alignment{{NPAGE}}Do you want to align{{NLINE}}the antenna?{{CHOIC,1,0,Yes,No}}
+Do you want to align{{NLINE}}the antenna?{{CHOIC,1,0,Yes,No}}
+...{{PAUSE}}...{{PAUSE}}...Nothing{{NLINE}}happened...{{NPAGE}}That doesn't appear{{NLINE}}to be the right{{NLINE}}angle...
+Antenna alignment{{NLINE}}complete...{{NPAGE}}Portal Driver Inter-{{NLINE}}active Mode engaged
+The antenna's working{{NLINE}}properly...{{NPAGE}}The portal should be{{NLINE}}operational now...
+The door switch is{{NLINE}}on the terminal in{{NLINE}}the center of the room{{NPAGE}}Use the 3 moving{{NLINE}}platforms to access it

@@ -1,0 +1,72 @@
+{{TXTBX,05}}Rei{{NLINE}}"I wonder...{{NPAGE}}What were you doing{{NLINE}}out there by{{NLINE}}yourself, hm?
+{{TXTBX,05}}Rei{{NLINE}}"I wonder...{{NPAGE}}What were you doing{{NLINE}}out there by{{NLINE}}yourself, hm?
+Rei{{NLINE}}"And without a strip{{NLINE}}of clothing?
+"...{{PAUSE}}...{{PAUSE}}...Where's Rei?{{DURTN,48}}
+"I'm hungry...{{DURTN,48}}
+"He's home!{{DURTN,32}}
+{{TXTBX,02}}"Hi, Rei! Welcome{{NLINE}}home!{{NLINE}}Is that dinner?{{DURTN,48}}
+Rei{{NLINE}}"Boy, you'll eat{{NLINE}}anything,{{NPAGE}}won't you, Teepo?
+{{TXTBX,02}}Teepo{{NLINE}}"Who is that, anyway?
+Rei{{NLINE}}"Don't ask me...{{NPAGE}}Let's get him into{{NLINE}}your bed, OK?
+{{TXTBX,06}}Teepo{{NLINE}}"So who is he?
+{{TXTBX,05}}Rei{{NLINE}}"I told you--{{NPAGE}}I don't know--I{{NLINE}}found him in the{{NLINE}}woods
+{{TXTBX,06}}Teepo{{NLINE}}"Really...?{{NPAGE}}Sounds like what{{NLINE}}happened with me...
+{{TXTBX,05}}Rei{{NLINE}}"An orphan...{{NPAGE}}Not surprising--It's{{NLINE}}been a lean year...
+Rei{{NLINE}}"Well, why don't we{{NLINE}}let him sleep{{NPAGE}}while we go to the{{NLINE}}village...{{NPAGE}}If we don't get some{{NLINE}}food soon...
+{{TXTBX,06}}Teepo{{NLINE}}"Somebody abandoned{{NLINE}}him{{NPAGE}}...just like me...
+{{TXTBX,06}}"Don't you see, Ryu?{{DURTN,48}}
+{{TXTBX,06}}"You're the same as{{NLINE}}me--You must{{NPAGE}}understand...{{DURTN,48}}
+{{TXTBX,06}}"They're weak!{{NLINE}}Pitiful and pathetic...{{DURTN,48}}
+{{TXTBX,06}}"Ryu...{{PAUSE}}...{{PAUSE}}...{{DURTN,48}}
+"My... {{PAUSE}}{{PAUSE}}Ryu{{DURTN,48}}
+{{TXTBX,81}}{{INSTS}} {{NLINE}}         Ryu{{INSTE}}{{DURTN,64}}
+"Mmm...{{PAUSE}}{{PAUSE}}{{PAUSE}}Mmmmmm...{{DURTN,32}}
+Inside the hut
+This looks like a{{NLINE}}{{COLRS,2}}storage room{{COLRE}}
+"Hey kid! You better{{NLINE}}be careful around{{NLINE}}here...{{NPAGE}}Couple of bullies,{{NLINE}}named Rei and Teepo{{NLINE}}live round these parts
+"Hey you punks...{{NLINE}}Who's that, a new{{NLINE}}recruit?
+Do you want to rest?{{CHOIC,0,0, Yes, No}}
+{{TXTBX,05}}Rei{{NLINE}}"...{{PAUSE}}...{{PAUSE}}...Hmmmm{{NPAGE}}So you don't remember{{NLINE}}how you got where I{{NLINE}}found you then?
+{{TXTBX,05}}Rei{{NLINE}}"Doesn't that beat{{NLINE}}all...{{NPAGE}}Just what I needed--{{NLINE}}more trouble
+{{TXTBX,06}}Teepo{{NLINE}}"What? Were you{{NLINE}}talking about me?
+{{TXTBX,03}}Rei{{NLINE}}"Um, no, nothing at{{NLINE}}all...
+{{TXTBX,05}}Teepo{{NLINE}}"Hmph...{{PAUSE}}...{{PAUSE}}...{{NLINE}}Oh, well...
+{{TXTBX,05}}Teepo{{NLINE}}"Anyway, Rei{{NPAGE}}did you know that{{NLINE}}there's absolutely{{NLINE}}no{{PAUSE}}thing left to eat?
+{{TXTBX,03}}Rei{{NLINE}}"You're kidding!...{{PAUSE}}...{{PAUSE}}{{NPAGE}}Haven't had much luck{{NLINE}}robbing people on the{{NLINE}}road lately...{{NPAGE}}What should we do?
+{{TXTBX,05}}Teepo{{NLINE}}"Our bellies aren't{{NLINE}}gonna get any fuller{{NPAGE}}sitting around here...{{NLINE}}Let's go look for{{NLINE}}some food, Rei
+{{TXTBX,03}}Rei{{NLINE}}"You're right...{{NPAGE}}Hey, why don't we go{{NLINE}}check out old man{{NLINE}}Bunyan's?
+{{TXTBX,03}}Rei{{NLINE}}"OK, Teepo{{NPAGE}}You help Ryu there{{NLINE}}get equipped
+{{TXTBX,04}}Teepo{{NLINE}}"You won't get far{{NLINE}}walking in your{{NPAGE}}pajamas! Here, I'll{{NLINE}}give you some of my{{NLINE}}old stuff!
+Rei{{NLINE}}"Hey! Perfect fit!
+{{TXTBX,05}}Rei{{NLINE}}"OK, let's hit the{{NLINE}}road for Bunyan's
+{{TXTBX,06}}Teepo{{NLINE}}"Bunyan lives in the{{NLINE}}middle of the woods{{NPAGE}}He's a really good{{NLINE}}hunter, so he's{{NLINE}}probably got some{{NPAGE}}food lying around...
+{{TXTBX,05}}Rei{{NLINE}}"I mean...{{PAUSE}}I know{{NLINE}}stealing's not right,{{NPAGE}}but we need food too,{{NLINE}}right?
+{{TXTBX,06}}Teepo{{NLINE}}"Right!{{NLINE}}OK, Ryu, let's go!
+{{TXTBX,03}}Teepo{{NLINE}}"But... I guess I'm{{NLINE}}still worried
+{{TXTBX,03}}Teepo{{NLINE}}"But... I guess I'm{{NLINE}}still worried
+Teepo{{NLINE}}"I wonder if Rei is{{NLINE}}OK my himself...{{DURTN,32}}
+Teepo{{NLINE}}"Hmmmm...{{DURTN,32}}
+Teepo{{NLINE}}"I mean, Rei's{{NLINE}}strong, but...{{DURTN,32}}
+"I'm worried, Ryu
+{{TXTBX,04}}Teepo{{NLINE}}"Right, Ryu!
+{{TXTBX,04}}Teepo{{NLINE}}"I can't let him go{{NLINE}}all by himself...{{NPAGE}}C'mon! Let's go after{{NLINE}}him!
+{{TXTBX,06}}Teepo{{NLINE}}"Ha ha!{{NPAGE}}That's what I thought{{NLINE}}you were thinking!
+{{TXTBX,06}}Teepo{{NLINE}}"I can't let him do{{NLINE}}it all by himself...{{NPAGE}}Ryu! Let's go after{{NLINE}}him!
+"Hm? Mt. Glaus?{{NPAGE}}...It's be great if{{NLINE}}someone got rid of the{{NLINE}}monster, but I don't{{NPAGE}}know how safe that{{NLINE}}would be...
+"Hm? Mt. Glaus?{{NPAGE}}...It's be great if{{NLINE}}someone got rid of the{{NLINE}}monster, but I don't{{NPAGE}}know how safe that{{NLINE}}would be...
+You don't need to{{NLINE}}rest now...
+"Oh! {{PAUSE}}Don't be afraid!{{NLINE}}I won't hurt you!{{NPAGE}}I'm an 'Eye Goo'{{NLINE}}I'll tell you all{{NLINE}}about how to fight...{{NPAGE}}Come back when you've{{NLINE}}got some equipment...
+"Oh!{{PAUSE}} Don't be afraid!{{NLINE}}I won't hurt you!{{NLINE}}I'm an 'Eye Goo'{{NPAGE}}I know this is out of{{NLINE}}the blue, but let me{{NLINE}}show you something...{{NPAGE}}Tell me about:{{CHOIC,2,1,'Examine','Skills','EX Turn',Thanks for now}}
+When you fight monsters,{{NLINE}}they use all kinds of{{NLINE}}abilities against you.{{NPAGE}}You can learn those{{NLINE}}abilities yourself with{{NLINE}}the 'Examine' command.{{NPAGE}}If you don't get it{{NLINE}}the first time, keep{{NLINE}}trying.{{NPAGE}}Tell me about:{{CHOIC,2,1,'Examine','Skills','EX Turn',Thanks for now}}
+"One thing to remember:{{NLINE}}many monsters have an{{NLINE}}ability they won't use{{NPAGE}}except in certain{{NLINE}}situations...Like when{{NLINE}}they're wounded...{{NPAGE}}Tell me about:{{CHOIC,2,1,'Examine','Skills','EX Turn',Thanks for now}}
+"Sometimes when you're{{NLINE}}fighting a monster, if{{NLINE}}a lot faster than{{NPAGE}}they are, you can get{{NLINE}}an extra attack in{{NPAGE}}Keeping your equipment{{NPAGE}}light so your Agility{{NLINE}}stays high is one{{NLINE}}strategy you can try{{NPAGE}}Tell me about:{{CHOIC,2,1,'Examine','Skill','EX Turn',Thanks for now}}
+"All right then...{{NLINE}}Be careful!
+You feel refreshed{{NLINE}}after your rest
+You feel refreshed{{NLINE}}after your rest
+You see a diary...{{NPAGE}}Do you want to make{{NLINE}}a record of your{{NLINE}}journey so far?{{CHOIC,1,0,Yes,No}}
+"Even though I look{{NLINE}}like this, I know{{NPAGE}}a thing or two about{{NLINE}}camping...{{NPAGE}}Come back later with{{NLINE}}your friends{{NPAGE}}and I'll tell you{{NLINE}}everything I know, OK?
+"Don't be afraid! I{{NLINE}}just want to tell you{{NLINE}}about camping...{{NPAGE}}Tell me about:{{CHOIC,3,1,Healing,Skill Notes,The Master List,No thanks}}
+"You know that if you{{NLINE}}become unconscious and{{NLINE}}leave a battle,{{NPAGE}}your {{COLRS,2}}Maximum HP{{NLINE}}drop{{COLRE}}, right? Well,{{NPAGE}}maybe you didn't know{{NLINE}}that you can't heal{{NLINE}}those HP back in camp.{{NPAGE}}So, when you want to{{NLINE}}heal, the best thing{{NLINE}}to do is use an inn.{{NPAGE}}Anything else?{{NPAGE}}Tell me about:{{CHOIC,3,1,Healing,Skill Notes,The Master List,No thanks}}
+"This is your record{{NLINE}}of abilities learned{{NLINE}}using 'Examine'...{{NPAGE}}You can use it to{{NLINE}}teach someone else{{NLINE}}the ability.{{NPAGE}}But to do so, you{{NLINE}}need 'Skill Ink'.{{NPAGE}}Tell me about:{{CHOIC,3,1,Healing,Skill Notes,The Master List,No thanks}}
+"Here and there around{{NLINE}}the world are people{{NLINE}}called {{COLRS,2}}Masters{{COLRE}}...{{NPAGE}}You can look up info{{NLINE}}on masters you've met{{NLINE}}in camp...{{NPAGE}}If you apprentice{{NLINE}}yourself to a master,{{NLINE}}your abilities and{{NPAGE}}statistics will change{{NLINE}}according to who your{{NLINE}}master is when you{{NPAGE}}gain a level...So be{{NLINE}}sure you check before{{NLINE}}going up a level!{{NPAGE}}Anything else?{{NPAGE}}Tell me about:{{CHOIC,3,1,Healing,Skill Notes,The Master List,No thanks}}
+"All right then...{{NLINE}}be careful out there!

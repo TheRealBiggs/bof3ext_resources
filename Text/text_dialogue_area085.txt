@@ -1,0 +1,21 @@
+Garr{{NLINE}}"I'm sorry...{{NPAGE}}Please allow Ryu and{{NLINE}}I to go on ahead{{NLINE}}alone
+Garr{{NLINE}}"I'm sorry...{{NPAGE}}Please allow Ryu and{{NLINE}}I to go on ahead{{NLINE}}alone
+Garr{{NLINE}}"We still have some{{NLINE}}important business{{NPAGE}}to take care of...
+ {{NLINE}}     Guardian Gaist{{NLINE}}        234
+ {{NLINE}}     Guardian Gaw{{NLINE}}        198
+ {{NLINE}}     Guardian Gatz{{NLINE}}        201
+ {{NLINE}}     Guardian Garr{{NLINE}}        299
+Garr{{NLINE}}"Recorded on these{{NLINE}}stone tablets{{NPAGE}}are the names of us{{NLINE}}Guardians...{{NPAGE}}otherwise known as{{NLINE}}Dragon-Slayers!
+{{TXTBX,05}}Garr{{NLINE}}"The number below{{NLINE}}my name is the number{{NPAGE}}of dragons I killed{{NLINE}}in the war...
+{{TXTBX,05}}Garr{{NLINE}}"...Ryu{{NPAGE}}Let me tell you what{{NLINE}}happened to your people{{NPAGE}}What happened to the{{NLINE}}Brood...
+{{TXTBX,05}}Garr{{NLINE}}"Nearly 400 years ago,{{NPAGE}}The savage and{{NLINE}}malevolent Brood{{NPAGE}}attempted to conquer{{NLINE}}the world, igniting{{NLINE}}a fierce war...
+{{TXTBX,05}}Garr{{NLINE}}"The Brood were strong{{NLINE}}and awesome...{{NPAGE}}We, the people of{{NLINE}}Urkan, beseeched our{{NLINE}}God for protection{{NPAGE}}from their great evil
+{{TXTBX,05}}Garr{{NLINE}}"Our God bestowed{{NLINE}}upon us Guardians{{NPAGE}}Her holy might in{{NLINE}}order to fight the{{NLINE}}Brood...{{NPAGE}}After a mighty{{NLINE}}struggle, the last of{{NPAGE}}the Brood were{{NLINE}}defeated and their{{NLINE}}bones laid here...
+{{TXTBX,05}}Garr{{NLINE}}"Ryu...{{NPAGE}}You are the last of{{NLINE}}the Brood
+{{TXTBX,05}}Garr{{NLINE}}"Once you are dealt{{NLINE}}with...{{NPAGE}}my purpose shall be{{NLINE}}complete...{{NPAGE}}Prepare yourself,{{NLINE}}Ryu!
+{{TXTBX,05}}Garr{{NLINE}}"Ugh...{{PAUSE}}...{{PAUSE}}...{{NPAGE}}Just as I suspected...{{NPAGE}}We were no match for{{NLINE}}the true power of the{{NLINE}}Brood...But{{PAUSE}} why{{PAUSE}}...?
+{{TXTBX,05}}Garr{{NLINE}}"What...?{{NPAGE}}Why don't you{{PAUSE}} finish{{NLINE}}me off...?
+{{TXTBX,81}}{{INSTS}} {{NLINE}}         N O  {{INSTE}}{{DURTN,48}}
+{{TXTBX,81}}{{INSTS}} {{NLINE}} He is not your enemy{{INSTE}}{{DURTN,64}}
+{{TXTBX,05}}Garr{{NLINE}}"Kaiser...{{PAUSE}} Dragon...?
+{{TXTBX,81}} {{NLINE}}  Your own blood...

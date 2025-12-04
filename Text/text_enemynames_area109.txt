@@ -1,0 +1,8 @@
+Zombie
+Ghoul
+ZombieDr
+GntRoach
+FireSlug
+
+
+

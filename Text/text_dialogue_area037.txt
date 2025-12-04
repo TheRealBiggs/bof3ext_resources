@@ -1,0 +1,216 @@
+"A lot of people come{{NLINE}}and visit Wyndia{{NPAGE}}which means we get{{NLINE}}to make a lot of{{NLINE}}money
+"A lot of people come{{NLINE}}and visit Wyndia{{NPAGE}}which means we get{{NLINE}}to make a lot of{{NLINE}}money
+"We'll both save a lot{{NLINE}}of money if we share{{NLINE}}a room, right?
+"Uh-huh...And next,{{NLINE}}you'll be saying we{{NLINE}}should share the bed,{{NPAGE}}right?
+"Huh? Looking for{{NLINE}}someone?{{NPAGE}}Uh-huh--I bet you're{{NLINE}}here just to steal my{{NLINE}}stuff, ain'tcha?{{NPAGE}}Kids today, I tell{{NLINE}}ya--ya just can't{{NLINE}}trust 'em!
+"It's one thing to{{NLINE}}come all the way{{NLINE}}to Wyndia...{{NPAGE}}But it's another{{NLINE}}thing to bring your{{NLINE}}accent with you
+"Looking for someone?{{NPAGE}}Hmmm...A lot of people{{NLINE}}come to the cafe, you{{NLINE}}know, so...
+"We don't usually{{NLINE}}get that many kids{{NLINE}}in the cafe...{{NPAGE}}There's a lot of{{NLINE}}kids playing{{NLINE}}downstairs though
+"Boy, am I tired!{{NPAGE}}We don't get any days{{NLINE}}off here--except when{{NLINE}}it rains
+"I tell you, there's{{NLINE}}just too many people{{NLINE}}coming up here from{{NPAGE}}the country--it's{{NLINE}}getting to be a big{{NLINE}}problem!
+"There are so many{{NLINE}}problems here these{{NLINE}}days...{{NPAGE}}Wyndia just doesn't{{NLINE}}feel safe any more
+"Nobody's coming{{NLINE}}to take my order!{{NPAGE}}Guess they figure{{NLINE}}they don't have to{{NPAGE}}wait on a country{{NLINE}}bumpkin like me!{{NLINE}}Humph!
+"Hey, I'm not goofing{{NLINE}}off, OK?{{NPAGE}}I'm patrolling this{{NLINE}}here sandwich, see?
+"Looking for someone?{{NLINE}}Teepo? Rei?{{NPAGE}}Never heard of 'em
+"I thought maybe I{{NLINE}}could find work or{{NLINE}}something in a big{{NPAGE}}city like this, but...
+"Our job is to keep{{NLINE}}suspicious-looking{{NLINE}}characters out
+"But I suppose we'd{{NLINE}}let you in if you're{{NLINE}}a little suspicious{{NPAGE}}It's too much trouble{{NLINE}}keeping everyone out,{{NLINE}}y'know?
+"bow-wow
+"This here uses chrysm{{NLINE}}to shine like that--{{NLINE}}pretty nifty, huh?
+"Ha-ha-ha-ha!{{NLINE}}I'll get you!
+"Ha ha ha ha ha
+"Nothin' to do...
+"Ouch, ouch, ouch!{{NPAGE}}Got beat up by a{{NLINE}}robber the other{{NLINE}}day, I did...{{NPAGE}}But I taught him a{{NLINE}}thing or two before{{NLINE}}he got away!
+"That robber sounded{{NLINE}}like some little good-{{NLINE}}for-nothing kid from{{NPAGE}}the country
+"Yes, yes, come in
+"So, what're you{{NLINE}}looking for?
+"Lots of people{{NLINE}}come here...{{NPAGE}}It's real easy{{NLINE}}to get supplies,{{NLINE}}eh?
+"Welcome to{{NLINE}}Toshihiro's General{{NLINE}}Store...{{NPAGE}}The only shop in the{{NLINE}}world that sells the{{NLINE}}"Midas Stone"!
+"Hi there!{{NLINE}}Want a shot?
+"Looking for someone?{{NLINE}}Hmmmmm I know what{{NLINE}}that is!
+"You're playing{{NLINE}}Hide{{PAUSE}}-and{{PAUSE}}-Seek{{PAUSE}}, right?
+"OK, you're it!!{{NPAGE}}You have to try{{NLINE}}and find us!
+{{TXTBX,81}}       Ready!{{DURTN,32}}
+Nina{{NLINE}}"...Let's go look{{NLINE}}for them
+Nina{{NLINE}}"You're looking for{{NLINE}}Teepo, right, Ryu?{{NPAGE}}And he's a kid too,{{NLINE}}right?{{NPAGE}}So maybe these kids{{NLINE}}will know something{{NLINE}}about him, right?
+"Ulp! {{PAUSE}}How'd you{{NLINE}}find me?
+"I didn't wanna be{{NLINE}}found...Now I have{{NLINE}}to be it! Wahhhh...
+"Whoops! Ha ha ha!{{NLINE}}You got me!
+"I never thought{{NLINE}}anyone could find{{NLINE}}me here...
+"You found everyone?{{NLINE}}Wow, you're pretty{{NLINE}}good at this game
+Nina{{NLINE}}"Thanks...Now maybe{{NLINE}}you can help us...{{NPAGE}}We're looking for some{{NLINE}}friends of ours...{{NLINE}}Have you seen them?
+"Hmmm... Well, a{{NLINE}}little while ago,{{NPAGE}}a robber broke into{{NLINE}}that house over there
+"And that robber{{NLINE}}was a kid about{{NLINE}}your size...
+Nina{{NLINE}}"And... what happened{{NLINE}}to that kid?
+"What happened?{{NPAGE}}He got beat up by{{NLINE}}the owner of the house{{NLINE}}and took off...{{NPAGE}}I think maybe he{{NLINE}}went down the road
+Nina{{NLINE}}"What do you think,{{NLINE}}Ryu?{{NPAGE}}Could it be Teepo?
+Nina{{NLINE}}"...Thanks--we'll try{{NLINE}}looking there...{{NPAGE}}Come on, Ryu!
+"The road's out{{NLINE}}down south of the{{NLINE}}city
+"Wahhhhh!
+"Ha ha ha ha ha
+"Come back and play{{NLINE}}with us again...
+Nina{{NLINE}}"I still haven't{{NLINE}}found any clues
+"Excuses, excuses...
+"Give me a break...{{NPAGE}}It's impossible to{{NLINE}}sleep when someone's{{NLINE}}snoring like that!
+"It hurts...
+"You should have{{NLINE}}been completely{{NLINE}}healed by now!{{NPAGE}}Stop being such a{{NLINE}}big baby!
+"This is Wyndia
+"That fellow over{{NLINE}}there...{{NPAGE}}He keeps asking me{{NLINE}}when my shift's over{{NPAGE}}and if I'll go out{{NLINE}}with him tonight!
+"Maybe I'll try{{NLINE}}hitting on that one{{NLINE}}over there next...
+"I wonder who's going{{NLINE}}to win the Contest of{{NLINE}}Champions this year?
+"Old Mt. Zublo went{{NLINE}}and erupted again{{NPAGE}}They say the lava's{{NLINE}}gone and blocked off{{NLINE}}the road...
+"Welcome!
+"Hear about the{{NLINE}}smuggling in McNeil{{NLINE}}Village?{{NPAGE}}You have!?{{PAUSE}} Well,{{NLINE}}have you heard that{{NLINE}}officials from Wyndia{{NPAGE}}are going to take{{NLINE}}over the management{{NLINE}}of the village?
+"Welcome
+"Enjoy
+"This is Wyndia
+"It's our job to{{NLINE}}keep suspicious{{NLINE}}folks out
+"Those enhanced crops{{NLINE}}just don't taste the{{NLINE}}same lately...{{NPAGE}}'Course, they never{{NLINE}}tasted that good{{NLINE}}anyway
+"They're having a{{NLINE}}big "Clean Town"{{NLINE}}movement now...{{NPAGE}}Which means they{{NLINE}}only let me sleep in{{NLINE}}out-of-sight places...{{NPAGE}}What a cruel world{{NLINE}}we live in!
+"I always thought it{{NLINE}}was pretty creepy{{NLINE}}anyway...{{NPAGE}}Using chrysm on the{{NLINE}}crops like that...
+"I remember how we{{NLINE}}used to play here{{NLINE}}when we were kids...
+"I remember how we{{NLINE}}used to play Hide-{{NLINE}}and-Seek all the time
+"Looking for a{{NLINE}}place to stay?
+"zzz zzz...
+"That dog out front{{NLINE}}is the son of the{{NLINE}}one we used to have{{NPAGE}}Takes after his{{NLINE}}father, sleeping all{{NLINE}}day long like that!
+"I've been traveling{{NLINE}}all over the world...{{NPAGE}}I don't know, but{{NLINE}}somehow it seems so{{NLINE}}small...{{NPAGE}}Maybe I should get a{{NLINE}}boat and try going out{{NLINE}}into the Outer Sea...
+"We've got everything{{NLINE}}you're needing!
+"You know that town{{NLINE}}Genmel, down south{{NLINE}}of here?{{NPAGE}}They stopped holding{{NLINE}}that Contest of{{NLINE}}Champions there...
+"Have you heard about{{NLINE}}what Princess Nina{{NLINE}}has been doing?{{NPAGE}}I heard she's the{{NLINE}}one who arrested that{{NLINE}}McNeil fellow...
+"This is my secret{{NLINE}}base--you can't come{{NLINE}}in without permission!
+"If you keep talking{{NLINE}}like that,{{NPAGE}}I'm going to throw you{{NLINE}}in the river, so you{{NLINE}}better behave!
+"I wanna juice!{{NLINE}}I wanna piece of{{NLINE}}cake!
+"I came here to see{{NLINE}}for myself why this{{NLINE}}cafe's so popular...{{NPAGE}}And steal their{{NLINE}}techniques for my{{NLINE}}own shop!
+"Another girl, fallen{{NLINE}}victim to my charms!
+"Didn't they say they{{NLINE}}found a dragon at{{NLINE}}Dauna Mine a few{{NPAGE}}years back? I thought{{NLINE}}dragons were extinct,{{NLINE}}anyway
+"I saw that guy{{NLINE}}McNeil...{{NPAGE}}He didn't look so{{NLINE}}big and important{{NLINE}}to me
+"Yummm...Yep, shisu's{{NLINE}}the best!{{NPAGE}}What? You've never{{NLINE}}heard of shisu? It's{{NLINE}}a Maekyss specialty!
+"Hi there! Come on{{NLINE}}in!
+"Take your time,{{NLINE}}look around
+"There's a lot of{{NLINE}}people in Wyndia...{{NPAGE}}But there's also a{{NLINE}}lot of shops,{{NPAGE}}which means lots of{{NLINE}}competition for me!
+"We sell so many Midas{{NLINE}}Stones, we can't keep{{NLINE}}them in stock!
+Bais{{NLINE}}"I never guessed you'd{{NLINE}}find everybody!{{NPAGE}}From now on, you're{{NLINE}}all part of the gang!{{NPAGE}}If you listen to what{{NLINE}}I tell you, your {{COLRS,3}}Power{{COLRE}}{{NLINE}}will go up!{{NPAGE}}I bet you want me to{{NLINE}}show you all my{{NLINE}}tricks, right?{{CHOIC,0,0,Yes,No}}
+Bais{{NLINE}}"I never guessed you'd{{NLINE}}find everybody!{{NPAGE}}From now on, you're{{NLINE}}all part of the gang!{{NPAGE}}If you listen to what{{NLINE}}I tell you, your {{COLRS,3}}Power{{COLRE}}{{NLINE}}will go up!{{NPAGE}}I bet you want me to{{NLINE}}show you all my{{NLINE}}tricks, right?{{CHOIC,0,0,Yes,No}}
+If you listen to what{{NLINE}}I tell you, your {{COLRS,3}}Power{{COLRE}}{{NLINE}}will go up!{{NPAGE}}I bet you want me to{{NLINE}}show you all my{{NLINE}}tricks, right?{{CHOIC,0,0,Yes,No}}
+I thought so...{{NLINE}}There's hope for you{{NLINE}}Follow me!
+Well, if you change{{NLINE}}your mind, you know{{NLINE}}where to find me
+Well, if you change{{NLINE}}your mind, you know{{NLINE}}where to find me
+Bais{{NLINE}}"You want to play{{NLINE}}Hide-and-Seek again?{{NPAGE}}Huh? You don't?
+I get it...{{NPAGE}}One of you wants to{{NLINE}}copy my tricks, right?{{CHOIC,1,0,Yes,No}}
+Hey! You're all{{NLINE}}already my apprentices{{NLINE}}you know!
+You're kidding...{{NLINE}}You saying you don't{{NLINE}}need me anymore!?{{CHOIC,2,0,Yes,No}}
+Hold it...There's{{NLINE}}nobody whose my{{NLINE}}apprentice here
+"OK, {{PRMTR,0}}, you're{{NLINE}}one of the gang{{NLINE}}now
+Anyone else who wants{{NLINE}}to be my apprentice?{{CHOIC,3,0,Yes,No}}
+"OK, {{PRMTR,0}}, you're{{NLINE}}not part of the{{NLINE}}gang anymore
+Anyone else who wants{{NLINE}}to quit being my{{NLINE}}apprentice?{{CHOIC,4,0,Yes,No}}
+"You've really been{{NLINE}}practicing, haven't{{NLINE}}you?{{NPAGE}}OK, {{PRMTR,0}}, it's time{{NLINE}}to show you the secret{{NLINE}}form of our gang!{{NPAGE}}{{PRMTR,0}} learned{{NLINE}}{{COLRS,2}}Chain Form{{COLRE}}!
+Who shall apprentice?
+Who wants to quit?
+Is this OK?                Yes No
+Do you want to quit?       Yes No
+Lang{{NLINE}}"You found me...I{{NLINE}}give up...{{NPAGE}}I know when I'm{{NLINE}}beat...{{NPAGE}}You might not know{{NLINE}}it from looking at{{NLINE}}me, but I'm pretty{{NPAGE}}strong...I might be{{NLINE}}able to help you{{NLINE}}out if you want{{NPAGE}}me to try--{{NLINE}}what do you say?{{CHOIC,5,0,Yes,No}}
+Lang{{NLINE}}"You found me...I{{NLINE}}give up...{{NPAGE}}I know when I'm{{NLINE}}beat...{{NPAGE}}You might not know{{NLINE}}it from looking at{{NLINE}}me, but I'm pretty{{NPAGE}}strong...I might be{{NLINE}}able to help you{{NLINE}}out if you want{{NPAGE}}me to try--{{NLINE}}what do you say?{{CHOIC,5,0,Yes,No}}
+You might not know{{NLINE}}it from looking at{{NLINE}}me, but I'm pretty{{NPAGE}}strong...I might be{{NLINE}}able to help you{{NLINE}}out if you want{{NPAGE}}me to try--{{NLINE}}what do you say?{{CHOIC,5,0,Yes,No}}
+Are you sure?{{NLINE}}You won't regret{{NLINE}}it later?{{NPAGE}}OK, if you really{{NLINE}}mean it, I'll try{{NLINE}}my best
+OK, let me know{{NLINE}}if you ever change{{NLINE}}your mind
+OK, let me know{{NLINE}}if you ever change{{NLINE}}your mind
+Lang{{NLINE}}"Hey!{{NPAGE}}Thanks for coming{{NLINE}}all the way to{{NLINE}}see me!
+Is there anyone{{NLINE}}who wants to become{{NLINE}}my apprentice?{{CHOIC,6,0,Yes,No}}
+Huh? You're all{{NLINE}}already my apprentice
+I know...{{NPAGE}}You don't want to be{{NLINE}}my apprentice any{{NLINE}}more, right?{{CHOIC,7,0,Right,Wrong}}
+That's funny...{{NLINE}}Not one of you is{{NLINE}}my apprentice...
+"All right then...{{NLINE}}{{PRMTR,0}}, you're now{{NLINE}}my apprentice, OK?
+Anyone else want{{NLINE}}to be my apprentice?{{CHOIC,8,0,Yes,No}}
+"Well, if {{PRMTR,0}}{{NLINE}}wants to quit, there's{{NLINE}}nothing I can do...
+Anyone else want to{{NLINE}}quit being my{{NLINE}}apprentice?{{CHOIC,9,0,Yes,No}}
+"I see you've{{NLINE}}learned my secret,{{NLINE}}{{PRMTR,0}}...{{NPAGE}}Just take life easy,{{NLINE}}one day at a time...{{NPAGE}}Here, I got something{{NLINE}}for you...{{NPAGE}}{{PRMTR,0}} got a{{NLINE}}{{COLRS,2}}Cupid's Lyre{{COLRE}}!
+Who shall apprentice?
+Who wants to quit?
+Is this OK?                Yes No
+Do you want to quit?       Yes No
+Lee{{NLINE}}"I love playing{{NLINE}}Hide-and-Seek...{{NPAGE}}It's like a drama,{{NLINE}}you know...First you{{NLINE}}part ways...{{NPAGE}}Only to meet each{{NLINE}}other again...How{{NLINE}}wonderful it is!{{NPAGE}}"Thanks for playing{{NLINE}}with me...{{NPAGE}}I can teach you a{{NLINE}}few things in return{{NPAGE}}Want to become my{{NLINE}}apprentice?{{CHOIC,10,0,Yes,No}}
+Lee{{NLINE}}"I love playing{{NLINE}}Hide-and-Seek...{{NPAGE}}It's like a drama,{{NLINE}}you know...First you{{NLINE}}part ways...{{NPAGE}}Only to meet each{{NLINE}}other again...How{{NLINE}}wonderful it is!{{NPAGE}}"Thanks for playing{{NLINE}}with me...{{NPAGE}}I can teach you a{{NLINE}}few things in return{{NPAGE}}Want to become my{{NLINE}}apprentice?{{CHOIC,10,0,Yes,No}}
+"Thanks for playing{{NLINE}}with me...{{NPAGE}}I can teach you a{{NLINE}}few things in return{{NPAGE}}Want to become my{{NLINE}}apprentice?{{CHOIC,10,0,Yes,No}}
+"I'm glad I can{{NLINE}}help you...{{NLINE}}Good luck
+"OK...{{NLINE}}See you later then
+"OK...{{NLINE}}See you later then
+Lee{{NLINE}}"Oh, hi there...{{NPAGE}}I just can't tear{{NLINE}}myself away from{{NLINE}}Hide-and-Seek...
+"So, do any of you{{NLINE}}want to become my{{NLINE}}apprentice?{{CHOIC,11,0,Yes,No}}
+But...you're all{{NLINE}}already my apprentice
+Oh...You want to quit{{NLINE}}being my apprentice?{{CHOIC,12,0,Yes,No}}
+I'm sorry...did one{{NLINE}}of you become my{{NLINE}}apprentice?
+"All right then...{{NLINE}}{{PRMTR,0}}, I make you{{NLINE}}my apprentice
+Does anyone else{{NLINE}}want to become{{NLINE}}my apprentice?{{CHOIC,13,0,Yes,No}}
+"That's too bad...{{NLINE}}You're no longer my{{NLINE}}apprentice, {{PRMTR,0}}
+I wonder if anyone{{NLINE}}else wants to quit{{NLINE}}being my apprentice?{{CHOIC,14,0,Yes,No}}
+"Thank you for{{NLINE}}trusting in me all{{NLINE}}this time{{NPAGE}}I have a present{{NLINE}}for you...{{NPAGE}}{{PRMTR,0}} learned the{{NLINE}}{{COLRS,2}}Magic Form{{COLRE}}!
+Who shall apprentice?
+Who wants to quit?
+Is this OK?                Yes No
+Do you want to quit?       Yes No
+Wynn{{NLINE}}"Whoa! You frightened{{NLINE}}me!{{NPAGE}}Reminded me of that{{NLINE}}time you found me{{NLINE}}when we were kids{{NPAGE}}"As a way of saying{{NLINE}}thanks for playing{{NLINE}}with me then,{{NPAGE}}I'd like to help you{{NLINE}}out! Why don't you{{NLINE}}become my apprentice?{{CHOIC,15,0,Yes,No}}
+Wynn{{NLINE}}"Whoa! You frightened{{NLINE}}me!{{NPAGE}}Reminded me of that{{NLINE}}time you found me{{NLINE}}when we were kids{{NPAGE}}"As a way of saying{{NLINE}}thanks for playing{{NLINE}}with me then,{{NPAGE}}I'd like to help you{{NLINE}}out! Why don't you{{NLINE}}become my apprentice?{{CHOIC,15,0,Yes,No}}
+"As a way of saying{{NLINE}}thanks for playing{{NLINE}}with me then,{{NPAGE}}I'd like to help you{{NLINE}}out! Why don't you{{NLINE}}become my apprentice?{{CHOIC,15,0,Yes,No}}
+"All right then,{{NLINE}}good luck!
+"OK, then...{{NLINE}}See you around
+"OK, then...{{NLINE}}See you around
+Wynn{{NLINE}}"How are you?{{NPAGE}}You know, there's a{{NLINE}}lot of people who{{NLINE}}make fun of{{NPAGE}}Hide-and-Seek, but{{NLINE}}we had a good time,{{NLINE}}didn't we?
+"Say, there wouldn't{{NLINE}}be one of you who{{NPAGE}}wants to be my{{NLINE}}apprentice, would{{NLINE}}there?{{CHOIC,16,0,Yes,No}}
+Huh?{{NLINE}}You're all already{{NLINE}}my apprentice
+OK, you want to{{NLINE}}quit being my{{NLINE}}apprentice, right?{{CHOIC,17,0,Yes,No}}
+Hey! Not one of{{NLINE}}you is my apprentice!
+"OK, {{PRMTR,0}}, from{{NLINE}}today, you're my{{NLINE}}apprentice!
+"Is there anyone{{NLINE}}else who wants to{{NLINE}}be my apprentice?{{CHOIC,18,0,Yes,No}}
+"OK, {{PRMTR,0}}, you want{{NLINE}}to quit being my{{NLINE}}apprentice, right?{{NPAGE}}See you later
+"Anyone else want to{{NLINE}}quit being my{{NLINE}}apprentice?{{CHOIC,19,0,Yes,No}}
+"I just love hard-{{NLINE}}working people like{{NLINE}}you!{{NPAGE}}As a reward for all{{NLINE}}your hard work, I'll{{NLINE}}show you this!{{NPAGE}}{{PRMTR,0}} learned the{{NLINE}}{{COLRS,2}}Refuge Form{{COLRE}}!
+Who shall apprentice?
+Who wants to quit?
+Is this OK?                Yes No
+Do you want to quit?       Yes No
+Bais{{NLINE}}"Wait a minute...{{NPAGE}}You want to challenge{{NLINE}}us to a game of{{NLINE}}{{COLRS,2}}Hide-and-Seek{{COLRE}},{{NPAGE}}don't you?{{CHOIC,20,1,Yes,No}}
+Bais{{NLINE}}"Wait a minute...{{NPAGE}}You want to challenge{{NLINE}}us to a game of{{NLINE}}{{COLRS,2}}Hide-and-Seek{{COLRE}},{{NPAGE}}don't you?{{CHOIC,20,1,Yes,No}}
+"Huh? No? That's{{NLINE}}funny...
+"That's what I{{NLINE}}thought...{{NPAGE}}OK, but we're not{{NLINE}}just kids anymore...{{NPAGE}}We won't just hide{{NLINE}}here in Wyndia...{{NPAGE}}But all over the{{NLINE}}world!{{NLINE}}For example...{{NPAGE}}I'll hide somewhere in{{NLINE}}the northwest where{{NPAGE}}there's lots of strong{{NLINE}}men...
+I'll hide somewhere in{{NLINE}}the northwest where{{NPAGE}}there's lots of strong{{NLINE}}men...
+Lang{{NLINE}}"And I'll hide{{NLINE}}someplace close...
+Wynn{{NLINE}}"Hmmm...{{NPAGE}}I'll go to that{{NLINE}}place that smells{{NLINE}}like oil!
+Lee{{NLINE}}"I wonder where I{{NLINE}}should go...{{NPAGE}}I know--I'll hide{{NLINE}}at the place that{{NLINE}}connects this world{{NPAGE}}with that world...{{NLINE}}Come and find me!
+Bais{{NLINE}}"So...what do you{{NLINE}}think?{{NPAGE}}Don't worry--we'll make{{NLINE}}it worth the trouble{{NLINE}}to find us!{{NPAGE}}You don't need any{{NLINE}}more hints, do you?{{CHOIC,21,1,Nope,Just one more,Quit the game}}
+"OK...Listen closely
+{{TXTBX,81}}  ...{{PAUSE}}...{{PAUSE}}...{{PAUSE}}{{PAUSE}}{{PAUSE}}Ready!
+Lee{{NLINE}}"I've played lots{{NLINE}}of games...{{NPAGE}}But Hide-and-Seek's{{NLINE}}the best!
+Wynn{{NLINE}}"Ha ha--come and find{{NLINE}}me if you can!
+Lang{{NLINE}}"Want to play a{{NLINE}}game, big boy?
+"Oh...OK...{{NLINE}}Come back if you{{NLINE}}want to play again
+"Oh...OK...{{NLINE}}Come back if you{{NLINE}}want to play again
+"Oh...OK...{{NLINE}}Come back if you{{NLINE}}want to play again
+"Oh...OK...{{NLINE}}Come back if you{{NLINE}}want to play again
+"Oh...OK...{{NLINE}}Come back if you{{NLINE}}want to play again
+Bais{{NLINE}}"You won't find{{NLINE}}everyone so easily!{{NPAGE}}But I'll give you{{NLINE}}some hints, OK?{{NPAGE}}Lang has never been{{NLINE}}outside Wyndia in his{{NLINE}}life
+Bais{{NLINE}}"You won't find{{NLINE}}everyone so easily!{{NPAGE}}But I'll give you{{NLINE}}some hints, OK?{{NPAGE}}Lang has never been{{NLINE}}outside Wyndia in his{{NLINE}}life
+Bais{{NLINE}}"You won't find{{NLINE}}everyone so easily!{{NPAGE}}But I'll give you{{NLINE}}some hints, OK?{{NPAGE}}Lee's in a place{{NLINE}}where there's a{{NPAGE}}tree that grows{{NLINE}}nowhere else
+Bais{{NLINE}}"You won't find{{NLINE}}everyone so easily!{{NPAGE}}But I'll give you{{NLINE}}some hints, OK?{{NPAGE}}Wynn likes to play{{NLINE}}with machines
+Lang{{NLINE}}"It's boring just{{NLINE}}waiting to be found{{NPAGE}}If you're looking{{NLINE}}for Lee, she should{{NLINE}}be somewhere in{{NPAGE}}eastern Wyndia
+Lang{{NLINE}}"It's boring just{{NLINE}}waiting to be found{{NPAGE}}If you're looking{{NLINE}}for Wynn, she went{{NLINE}}somewhere really{{NPAGE}}far away...
+Lang{{NLINE}}"It's boring just{{NLINE}}waiting to be found{{NPAGE}}If you're looking{{NLINE}}for Bais, he's off{{NPAGE}}inside the mountains{{NLINE}}somewhere...
+"Lang? Let's just{{NLINE}}say...{{NPAGE}}it's hard to find{{NLINE}}something that's right{{NLINE}}in front of you...
+"OK, OK, I'll tell{{NLINE}}you, 'cause I like{{NLINE}}you so much{{NPAGE}}Lee is on the other{{NLINE}}side of the wall{{NLINE}}from the guard!
+"Bais is in a place{{NLINE}}where they've been{{NLINE}}having a lot of{{NPAGE}}trouble lately with{{NLINE}}some accident or{{NLINE}}something...{{NPAGE}}That's a hint, by{{NLINE}}the way...
+"Lang was always a{{NLINE}}strange kid...{{NPAGE}}He liked to hang{{NLINE}}out in graveyards--{{NLINE}}weird, huh?
+"Wynn likes places{{NLINE}}with lots of garbage{{NLINE}}piled up...{{NPAGE}}funny, huh?
+"Bais likes to ride on{{NLINE}}something that takes{{NLINE}}him up and down...{{NPAGE}}know what I mean?
+Nina{{NLINE}}"Well now...{{NLINE}}We made it to Wyndia...
+Nina{{NLINE}}"Well now...{{NLINE}}We made it to Wyndia...
+Nina{{NLINE}}"Well now...{{NLINE}}We made it to Wyndia...
+Nina{{NLINE}}"Well now...{{NLINE}}We made it to Wyndia...
+Nina{{NLINE}}"Well now...{{NLINE}}We made it to Wyndia...
+Nina{{NLINE}}"Well now...{{NLINE}}We made it to Wyndia...
+Nina{{NLINE}}"Rei, you come with{{NLINE}}me to the castle
+{{TXTBX,05}}Rei{{NLINE}}"Huh!? What do you{{NLINE}}mean, princess!?
+Nina{{NLINE}}"I think I told{{NLINE}}you before...{{NPAGE}}Everyone thinks Ryu{{NLINE}}kidnapped me from{{NLINE}}the castle before...
+Nina{{NLINE}}"So...{{NPAGE}}It's probably better{{NLINE}}if you come along{{NLINE}}with me, Rei{{NLINE}},{{NPAGE}}because no one knows{{NLINE}}your face, right?
+Nina{{NLINE}}"We'll get the king's{{NLINE}}permission...{{NPAGE}}Just wait for us{{NLINE}}out here, OK, Ryu?
+{{TXTBX,05}}Rei{{NLINE}}"All right then,{{NLINE}}princess...{{NPAGE}}Shall we go?
+Nina{{NLINE}}"We should go to{{NLINE}}the castle first...
