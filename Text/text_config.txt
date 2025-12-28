@@ -1,0 +1,27 @@
+Message Speed
+Window Color
+Background
+Sound
+Auto-Run
+Controller
+Fast
+Normal
+Slow
+1
+2
+3
+4
+1
+2
+3
+4
+Stereo
+Mono
+Off
+On
+Speak
+Move
+Action
+Menu
+View
+Change
